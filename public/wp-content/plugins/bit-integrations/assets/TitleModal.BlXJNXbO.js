@@ -1,0 +1,1 @@
+import{j as s}from"./main.2.9.1.js";import{E as r}from"./EditIcn.CN71EKz4.js";function i({action:t,children:n}){return s.jsxs("div",{className:"action-btn-wrapper",children:[s.jsx("div",{className:"action-btn",tabIndex:"0",role:"button",onClick:t,onKeyPress:t,children:s.jsx(r,{})}),n]})}export{i as T};

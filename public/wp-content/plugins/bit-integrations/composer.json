@@ -1,0 +1,33 @@
+{
+  "name": "bitapps/bit-integrations",
+  "description": "An Integration plugin for wordpress",
+  "license": "GPL-2.0-or-later",
+  "autoload": {
+    "psr-4": {
+      "BitApps\\Integrations\\": "backend/"
+    }
+  },
+  "require-dev": {
+    "phpcompatibility/phpcompatibility-wp": "*",
+    "dealerdirect/phpcodesniffer-composer-installer": "^0.7",
+    "friendsofphp/php-cs-fixer": "^3.54"
+  },
+  "scripts": {
+    "version-checker": "phpcs -p --standard=PHPCompatibilityWP --runtime-set testVersion 7.4- backend",
+    "bump-version": "php ./bin/bump-version.php"
+  },
+  "config": {
+    "allow-plugins": {
+      "dealerdirect/phpcodesniffer-composer-installer": true,
+      "typisttech/imposter-plugin": true
+    }
+  },
+  "require": {
+    "typisttech/imposter-plugin": "^0.6.2"
+  },
+  "extra": {
+    "imposter": {
+      "namespace": "BitApps\\Integrations\\Deps\\"
+    }
+  }
+}

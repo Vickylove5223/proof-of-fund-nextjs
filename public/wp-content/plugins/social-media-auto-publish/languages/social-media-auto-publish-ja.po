@@ -1,0 +1,2048 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: multilang\n"
+"POT-Creation-Date: 2025-12-05 10:40+0530\n"
+"PO-Revision-Date: 2025-12-05 10:45+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/about.php:9
+#, php-format
+msgid ""
+"%s automatically publishes posts from your blog to your Facebook, Twitter, "
+"Tumblr, Telegram, Threads, Instagram and LinkedIn pages. It allows you to "
+"filter posts based on post-types and categories. %s is developed and "
+"maintained by"
+msgstr ""
+"%s は、ブログの投稿を Facebook、Twitter、Tumblr、Telegram、Threads、"
+"Instagram、LinkedIn ページに自動的に公開します。投稿の種類やカテゴリに基づい"
+"て投稿をフィルタリングできます。%s は"
+
+#: admin/about.php:17
+#, php-format
+msgid ""
+"If you would like to have more features , please try <a href=\"%s\" "
+"target=\"_blank\">%s</a> which is a premium version of this plugin. We have "
+"included a quick comparison of the free and premium plugins for your "
+"reference."
+msgstr ""
+"より多くの機能が必要な場合は、このプラグインのプレミアムバージョンである<a "
+"href=\"%s\" target=\"_blank\">%s</a>をお試しください。参考までに、無料プラグ"
+"インとプレミアムプラグインの簡単な比較を含めました。"
+
+#: admin/about.php:23
+msgid "Feature group"
+msgstr "機能グループ"
+
+#: admin/about.php:24
+msgid "Feature"
+msgstr "特徴"
+
+#: admin/about.php:26
+#, php-format
+msgid "%s Free"
+msgstr "%s無料"
+
+#: admin/about.php:29 admin/about.php:31
+#, php-format
+msgid "%s premium"
+msgstr "%sプレミアム"
+
+#: admin/about.php:36
+msgid "Supported Media"
+msgstr "サポートされているメディア"
+
+#: admin/about.php:37 admin/admin-notices.php:55 admin/metabox.php:668
+#: admin/settings.php:892
+msgid "Facebook"
+msgstr "フェイスブック"
+
+#: admin/about.php:47 admin/admin-notices.php:56 admin/metabox.php:857
+msgid "Twitter"
+msgstr "ツイッター"
+
+#: admin/about.php:56 admin/admin-notices.php:57 admin/metabox.php:1030
+#: admin/settings.php:894
+msgid "LinkedIn"
+msgstr "リンクトイン"
+
+#: admin/about.php:65 admin/metabox.php:772
+msgid "Instagram"
+msgstr "インスタグラム"
+
+#: admin/about.php:74 admin/metabox.php:943 admin/settings.php:896
+msgid "Tumblr"
+msgstr "タンブラー"
+
+#: admin/about.php:83
+msgid "Pinterest"
+msgstr "ピンタレスト"
+
+#: admin/about.php:92 admin/metabox.php:1137 admin/settings.php:897
+msgid "Telegram"
+msgstr "電報"
+
+#: admin/about.php:101 admin/metabox.php:1231 admin/settings.php:898
+msgid "Threads"
+msgstr "スレッド"
+
+#: admin/about.php:112
+msgid "Posting Options"
+msgstr "投稿オプション"
+
+#: admin/about.php:113
+msgid "Publish to facebook pages"
+msgstr "フェイスブックページに公開する"
+
+#: admin/about.php:124
+msgid "Publish to twitter profile"
+msgstr "ツイッタープロフィールに公開"
+
+#: admin/about.php:134
+msgid "Publish to linkedin profile"
+msgstr "リンクトインプロフィールに公開"
+
+#: admin/about.php:143
+msgid "Publish to instagram Business accounts"
+msgstr "Instagramのビジネスアカウントに公開する"
+
+#: admin/about.php:152
+msgid "Publish to linkedin company pages"
+msgstr "LinkedInの会社のページに公開する"
+
+#: admin/about.php:162
+msgid "Publish to tumblr profile"
+msgstr "Tumblrプロフィールに公開"
+
+#: admin/about.php:172
+msgid "Publish to pinterest boards"
+msgstr "ピンタレストボードに公開"
+
+#: admin/about.php:181
+msgid "Publish to telegram channels and groups"
+msgstr "電報チャネルおよびグループに公開する"
+
+#: admin/about.php:191
+msgid "Publish to threads profile"
+msgstr "スレッドプロフィールに公開"
+
+#: admin/about.php:201
+msgid "Option to add twitter image description for visually impaired people"
+msgstr "視覚障害者向けのTwitter画像の説明を追加するオプション"
+
+#: admin/about.php:211
+msgid "Option to republish existing posts"
+msgstr "既存の投稿を再公開するオプション"
+
+#: admin/about.php:221
+msgid "Publish to multiple social media accounts"
+msgstr "複数のソーシャルメディアアカウントに公開する"
+
+#: admin/about.php:231
+msgid ""
+"Seperate message formats for publishing to multiple social media accounts"
+msgstr "複数のソーシャルメディアアカウントに公開するための個別のメッセージ形式"
+
+#: admin/about.php:241
+msgid "Save auto publish settings of individual posts"
+msgstr "個々の投稿の自動公開設定を保存します"
+
+#: admin/about.php:251
+msgid ""
+"Hash Tags support for Facebook, Twitter, Linkedin, Instagram, Tumblr, "
+"Threads, Pinterest and Telegram"
+msgstr ""
+"Facebook、Twitter、Linkedin、Instagram、Tumblr、Threads、Pinterest、Telegram"
+"のハッシュタグサポート"
+
+#: admin/about.php:260
+msgid "Option to use post categories as hash tags"
+msgstr "投稿タグをハッシュタグとして使用するオプション"
+
+#: admin/about.php:269
+msgid "Option to use post tags as hash tags"
+msgstr "投稿タグをハッシュタグとして使用するオプション"
+
+#: admin/about.php:279
+msgid "Enable/Disable SSL peer verification"
+msgstr "SSLピア検証を有効/無効にします"
+
+#: admin/about.php:288
+msgid "Carousel post support for Instagram and Telegram"
+msgstr "Instagram と Telegram のカルーセル投稿のサポート"
+
+#: admin/about.php:300
+msgid "Image Options"
+msgstr "画像オプション"
+
+#: admin/about.php:301
+msgid "Publish images along with post content"
+msgstr "投稿コンテンツと一緒に画像を公開する"
+
+#: admin/about.php:311
+msgid ""
+"Separate default image url for publishing to multiple social media accounts"
+msgstr ""
+"複数のソーシャルメディアアカウントに公開するための個別のデフォルト画像URL"
+
+#: admin/about.php:321
+msgid ""
+"Option to specify preference from featured image, post content, post meta "
+"and open graph tags"
+msgstr ""
+"注目の画像、投稿コンテンツ、投稿メタ、オープングラフタグから設定を指定するオ"
+"プション"
+
+#: admin/about.php:331
+msgid ""
+"Publish multiple images to facebook, tumblr, linkedin, twitter, threads and "
+"telegram along with post content"
+msgstr ""
+"投稿内容とともに複数の画像をFacebook、Tumblr、LinkedIn、Twitter、スレッド、"
+"Telegramに公開します"
+
+#: admin/about.php:341
+msgid "Option to specify multiphoto preference from post content and post meta"
+msgstr ""
+"投稿コンテンツと投稿メタからマルチフォトプリファレンスを指定するオプション"
+
+#: admin/about.php:353
+msgid "Video/Audio Options"
+msgstr "ビデオ/オーディオオプション"
+
+#: admin/about.php:354
+msgid ""
+"Publish video to facebook, tumblr,Linkedin, Instagram, twitter, threads and "
+"telegram along with post content"
+msgstr ""
+"投稿内容とともに、Facebook、Tumblr、Linkedin、Instagram、Twitter、Threads、"
+"Telegramにビデオを公開します"
+
+#: admin/about.php:364
+msgid ""
+"Option to specify preference from post content, post meta and open graph tags"
+msgstr ""
+"投稿コンテンツ、投稿メタ、オープングラフタグから設定を指定するオプション"
+
+#: admin/about.php:373
+msgid "Publish audio to tumblr and telegram along with post content"
+msgstr "投稿コンテンツとともに音声を Tumblr や電報に公開します"
+
+#: admin/about.php:382
+msgid ""
+"Option to specify audio preference from  post content, post meta and open "
+"graph tags"
+msgstr ""
+"投稿コンテンツ、投稿メタ、オープングラフタグからオーディオ設定を指定するオプ"
+"ション"
+
+#: admin/about.php:393
+msgid "Filter Options"
+msgstr "フィルタオプション"
+
+#: admin/about.php:394
+msgid "Filter posts to publish based on categories"
+msgstr "カテゴリに基づいて公開する投稿をフィルタリングする"
+
+#: admin/about.php:404
+msgid "Filter posts to publish based on custom post types"
+msgstr "カスタム投稿タイプに基づいて公開する投稿をフィルタリングする"
+
+#: admin/about.php:413
+msgid "Filter posts to publish based on sticky posts"
+msgstr "スティッキー投稿に基づいて公開する投稿をフィルタリングする"
+
+#: admin/about.php:422
+msgid "Configuration to enable/disable page publishing"
+msgstr "ページ公開を有効/無効にする構成"
+
+#: admin/about.php:432
+msgid "Category filter for individual accounts"
+msgstr "個人アカウントのカテゴリフィルター"
+
+#: admin/about.php:442
+msgid "Custom post type filter for individual accounts"
+msgstr "個人アカウント用のカスタム投稿タイプフィルター"
+
+#: admin/about.php:452
+msgid "Enable/Disable page publishing for individual accounts"
+msgstr "個々のアカウントのページ公開を有効/無効にする"
+
+#: admin/about.php:461
+msgid "Override auto publish scheduling for individual accounts"
+msgstr "個々のアカウントの自動公開スケジュールを上書きする"
+
+#: admin/about.php:470
+msgid "Override auto publish based on sticky posts for individual accounts"
+msgstr "個々のアカウントのスティッキー投稿に基づいて自動公開を上書きする"
+
+#: admin/about.php:481
+msgid "Scheduling"
+msgstr "スケジューリング"
+
+#: admin/about.php:482
+msgid "Instantaneous post publishing"
+msgstr "瞬時の投稿公開"
+
+#: admin/about.php:492
+msgid "Scheduled post publishing using cron"
+msgstr "Cronを使用したスケジュールされたポストパブリッシング"
+
+#: admin/about.php:502
+msgid "Status summary of auto publish tasks by mail"
+msgstr "メールによる自動公開タスクのステータスの概要"
+
+#: admin/about.php:512
+msgid "Configurable auto publishing time interval"
+msgstr "構成可能な自動公開時間間隔"
+
+#: admin/about.php:526
+msgid "Publishing History"
+msgstr "出版履歴"
+
+#: admin/about.php:527
+msgid "View auto publish history"
+msgstr "自動公開履歴を表示する"
+
+#: admin/about.php:536
+msgid "View auto publish error logs"
+msgstr "自動公開エラーログを表示する"
+
+#: admin/about.php:546
+msgid "Option to republish post"
+msgstr "投稿を再公開するオプション"
+
+#: admin/about.php:556
+msgid "Option to reschedule publishing"
+msgstr "公開を再スケジュールするオプション"
+
+#: admin/about.php:567
+msgid "Installation and Support"
+msgstr "インストールとサポート"
+
+#: admin/about.php:568
+msgid "Free Installation"
+msgstr "無料インストール"
+
+#: admin/about.php:577
+msgid "Privilege customer support"
+msgstr "特権カスタマーサポート"
+
+#: admin/about.php:587
+msgid "Addon Features"
+msgstr "アドオン機能"
+
+#: admin/about.php:588
+msgid "Advanced Autopublish Scheduler"
+msgstr "高度な自動公開スケジューラ"
+
+#: admin/about.php:597
+msgid "URL-Shortener"
+msgstr "URL-短縮サービス"
+
+#: admin/about.php:606
+msgid "Privilege Management"
+msgstr "特権管理"
+
+#: admin/about.php:615
+msgid "Other"
+msgstr "他の"
+
+#: admin/about.php:617
+#, php-format
+msgid ""
+"%s API package for 1 year, worth 30 USD(1 fb account @ 10 api calls per "
+"hour, 1 linkedin account @ 25 api per day,1 instagram account @ 25 api per "
+"day)"
+msgstr ""
+"%s API 1年間の パッケージ、40米ドル相当（1時間あたり1fbアカウント@10 api呼び"
+"出し、1日あたり25apiで1LinkedInアカウント、1時間あたり10api呼び出しで1twitter"
+"アカウント、1日あたり1instagramアカウント@25 api"
+
+#: admin/about.php:619
+msgid "1 month free subscription"
+msgstr "1か月の無料サブスクリプション"
+
+#: admin/about.php:620
+msgid "1 year free subscription"
+msgstr "1年間の無料サブスクリプション"
+
+#: admin/about.php:623
+msgid "Price"
+msgstr "価格"
+
+#: admin/about.php:624
+msgid "FREE"
+msgstr "ただで"
+
+#: admin/about.php:625
+msgid "Starts from 29 USD"
+msgstr "29米ドルから"
+
+#: admin/about.php:626
+msgid "Starts from 59 USD"
+msgstr "59米ドルから"
+
+#: admin/about.php:629
+msgid "Purchase"
+msgstr "購入"
+
+#: admin/about.php:631 admin/footer.php:21
+msgid "Buy Now"
+msgstr "今買う"
+
+#: admin/about.php:638
+msgid "Pinterest is added on experimental basis."
+msgstr "ピンタレストは実験的に追加されています。"
+
+#: admin/admin-notices.php:41
+#, php-format
+msgid ""
+"Thank you for using <a href=\"%s\" target=\"_blank\"> %s </a> plugin from <a "
+"href=\"%s\" target=\"_blank\"> %s </a>. Would you consider supporting us "
+"with the continued development of the plugin using any of the below methods?"
+msgstr ""
+"<a href=\"%s\" target=\"_blank\">%s</a>の<ahref=\"%s\" target=\"_blank\">%s</"
+"a>プラグインをご利用いただきありがとうございます。以下の方法のいずれかを使用"
+"してプラグインの継続的な開発で私たちをサポートすることを検討しますか？"
+
+#: admin/admin-notices.php:44
+msgid "Rate it 5★'s on wordpress"
+msgstr "ワードプレスで5★を評価してください"
+
+#: admin/admin-notices.php:46
+msgid "Enable Backlink"
+msgstr "バックリンクを有効にする"
+
+#: admin/admin-notices.php:48
+msgid "Share on"
+msgstr "共有する"
+
+#: admin/admin-notices.php:49 admin/header.php:96
+msgid "Donate"
+msgstr "寄付する"
+
+#: admin/admin-notices.php:51
+msgid "Don't Show This Again"
+msgstr "これを二度と見せないでください"
+
+#: admin/admin-notices.php:104
+msgid "SMAP Solutions package expires in 30 days."
+msgstr "SMAP ソリューション パッケージは 30 日で有効期限が切れます。"
+
+#: admin/admin-notices.php:107
+msgid "SMAP Solutions package expires in 1 week!"
+msgstr "SMAPソリューションパッケージは1週間で期限切れになります!"
+
+#: admin/admin-notices.php:110
+msgid "SMAP Solutions package has expired!"
+msgstr "SMAPソリューションパッケージの有効期限が切れました!"
+
+#: admin/admin-notices.php:119
+#, php-format
+msgid "SMAP Solutions %s package expires in 30 days."
+msgstr "SMAP Solutions %s パッケージは 30 日後に有効期限が切れます。"
+
+#: admin/admin-notices.php:125
+#, php-format
+msgid "SMAP Solutions %s package expires in 1 week!"
+msgstr "SMAP Solutions %s パッケージは 1 週間で有効期限が切れます"
+
+#: admin/admin-notices.php:131
+#, php-format
+msgid "SMAP Solutions %s package has expired!"
+msgstr "SMAP Solutions %s パッケージの有効期限が切れました。"
+
+#: admin/footer.php:9
+#, php-format
+msgid ""
+"%sUpgrade to the Fully Featured XYZ WP Social Media Auto Publish Premium "
+"Plugin for %sJust 29 USD%s"
+msgstr ""
+"%sフル機能の XYZ WP ソーシャル メディア自動公開プレミアム プラグインに %sわず"
+"か 29 ドルでアップグレードできます%s"
+
+#: admin/footer.php:15
+msgid ""
+"Unlock advanced scheduling, multi-account publishing, hashtag automation, "
+"and seamless social media integration!"
+msgstr ""
+"高度なスケジュール設定、複数アカウントの公開、ハッシュタグの自動化、シームレ"
+"スなソーシャル メディア統合を実現します。!"
+
+#: admin/footer.php:26
+msgid "Compare Features"
+msgstr "機能の比較"
+
+#: admin/footer.php:39
+msgid "We are available for custom development"
+msgstr "カスタム開発も承ります"
+
+#: admin/footer.php:41
+msgid "Get a quote"
+msgstr "見積もりを取得する"
+
+#: admin/footer.php:48
+msgid "Follow Us"
+msgstr "フォローする"
+
+#: admin/footer.php:56
+msgid "Support"
+msgstr "支える"
+
+#: admin/footer.php:58
+msgid "Contact Us"
+msgstr "お問い合わせ"
+
+#: admin/footer.php:59
+msgid "Please Rate Us"
+msgstr "評価してください"
+
+#: admin/footer.php:63
+msgid "Create a ticket at Wordpress forum"
+msgstr "Wordpressフォーラムでチケットを作成する"
+
+#: admin/footer.php:66
+msgid "Stay tuned for our updates"
+msgstr "最新情報にご期待ください"
+
+#: admin/footer.php:130
+msgid "Name"
+msgstr "名前"
+
+#: admin/footer.php:146
+msgid "Email"
+msgstr "Eメール"
+
+#: admin/footer.php:148
+msgid "Subscribe"
+msgstr "登録し"
+
+#: admin/footer.php:160
+msgid "Our Plugins"
+msgstr "私たちのプラグイン"
+
+#: admin/footer.php:181
+msgid "Powered by"
+msgstr "搭載"
+
+#: admin/header.php:19 admin/settings.php:766
+msgid "Settings updated successfully."
+msgstr "設定が正常に更新されました。"
+
+#: admin/header.php:19 admin/header.php:33 admin/header.php:49
+#: admin/manage-auth.php:9 admin/manage-auth.php:232 admin/manage-auth.php:297
+#: admin/manage-auth.php:364 admin/manage-auth.php:441
+#: admin/manage-auth.php:487 admin/manage-auth.php:535 admin/settings.php:37
+#: admin/settings.php:54 admin/settings.php:71 admin/settings.php:88
+#: admin/settings.php:767 admin/settings.php:775 admin/settings.php:784
+#: admin/settings.php:795 admin/settings.php:804 admin/settings.php:815
+#: admin/settings.php:824 admin/settings.php:863 admin/settings.php:3482
+#: admin/settings.php:3507 admin/settings.php:3535 admin/settings.php:3560
+#: admin/suggest_feature.php:11 admin/suggest_feature.php:19
+#: admin/suggest_feature.php:27
+msgid "Dismiss"
+msgstr "下げる"
+
+#: admin/header.php:32
+msgid "Thank you for enabling backlink."
+msgstr "バックリンクを有効にしていただきありがとうございます。"
+
+#: admin/header.php:48
+msgid "Please do a favour by enabling backlink to our site."
+msgstr "当サイトへのバックリンクを有効にしてください。"
+
+#: admin/header.php:48
+msgid "Okay, Enable"
+msgstr "はい、有効にします"
+
+#: admin/header.php:99
+msgid "FAQ"
+msgstr "よくある質問"
+
+#: admin/header.php:102
+msgid "Readme"
+msgstr "リードミー"
+
+#: admin/header.php:105 admin/menu.php:41
+msgid "About"
+msgstr "約"
+
+#: admin/logs.php:9
+msgid "Auto Publish Logs"
+msgstr "ログの自動公開"
+
+#: admin/logs.php:11
+msgid "Last ten logs of each social media account"
+msgstr "各ソーシャルメディアアカウントの最後の10ログ"
+
+#: admin/logs.php:17
+msgid "Post Id"
+msgstr "投稿ID"
+
+#: admin/logs.php:18
+msgid "Post Title"
+msgstr "記事のタイトル"
+
+#: admin/logs.php:19
+msgid "Account Type"
+msgstr "アカウントの種類"
+
+#: admin/logs.php:20
+msgid "Published On"
+msgstr "公開日"
+
+#: admin/logs.php:21
+msgid "Status"
+msgstr "地位"
+
+#: admin/logs.php:76
+msgid ""
+"For publishing a simple text message, it will take 1 API call, Upload image "
+"option will take 2-3 API calls in Facebook and 4 API calls in LinkedIn, and "
+"attach link option takes 1 API call (2 API calls for Facebook if enabled "
+"option for clearing cache)."
+msgstr ""
+"単純なテキスト メッセージを公開するには 1 回の API 呼び出しが必要です。画像の"
+"アップロード オプションには Facebook で 2 ～ 3 回の API 呼び出し、LinkedIn "
+"で 4 回の API 呼び出しが必要です。リンク添付オプションには 1 回の API 呼び出"
+"しが必要です (キャッシュをクリアするオプションが有効になっている場合は "
+"Facebook で 2 回の API 呼び出しが必要です)。"
+
+#: admin/manage-auth.php:7
+#, php-format
+msgid "%s Package updated successfully."
+msgstr "%sパッケージが正常に更新されました。"
+
+#: admin/manage-auth.php:25
+#, php-format
+msgid ""
+"Please authorize %s app under Facebook/LinkedIn settings to access this page."
+msgstr ""
+"このページにアクセスするには、Facebook / LinkedIn設定で%sアプリを承認してくだ"
+"さい。"
+
+#: admin/manage-auth.php:587
+msgid "Manage Authorizations"
+msgstr "承認の管理"
+
+#: admin/manage-auth.php:589
+msgid "Facebook Authorizations"
+msgstr "フェイスブックの承認"
+
+#: admin/manage-auth.php:591
+msgid "LinkedIn Authorizations"
+msgstr "リンクトインの承認"
+
+#: admin/manage-auth.php:593
+msgid "Instagram Authorizations"
+msgstr "インスタグラムの承認"
+
+#: admin/manage-auth.php:623 admin/manage-auth.php:777
+#: admin/manage-auth.php:918
+msgid "Current Plan"
+msgstr "現在の計画"
+
+#: admin/manage-auth.php:624
+msgid "Allowed Facebook users"
+msgstr "許可されたFacebookユーザー"
+
+#: admin/manage-auth.php:625 admin/manage-auth.php:779
+#: admin/manage-auth.php:920
+msgid "API limit per account"
+msgstr "アカウントあたりのAPI制限"
+
+#: admin/manage-auth.php:625 admin/manage-auth.php:920
+msgid "per hour"
+msgstr "1時間当たり"
+
+#: admin/manage-auth.php:626 admin/manage-auth.php:780
+#: admin/manage-auth.php:921
+msgid "Package Expiry"
+msgstr "パッケージの有効期限"
+
+#: admin/manage-auth.php:627 admin/manage-auth.php:781
+#: admin/manage-auth.php:922
+msgid "Package Status"
+msgstr "パッケージステータス"
+
+#: admin/manage-auth.php:637 admin/manage-auth.php:791
+#: admin/manage-auth.php:932
+msgid "Upgrade/Renew"
+msgstr "アップグレード/更新"
+
+#: admin/manage-auth.php:645 admin/manage-auth.php:800
+#: admin/manage-auth.php:941
+msgid "Show all entries"
+msgstr "すべてのエントリを表示"
+
+#: admin/manage-auth.php:646 admin/manage-auth.php:801
+#: admin/manage-auth.php:942
+msgid "Show entries from current wp installation"
+msgstr "現在のwpインストールからのエントリを表示する"
+
+#: admin/manage-auth.php:647 admin/manage-auth.php:802
+#: admin/manage-auth.php:943
+msgid "Show entries from other wp installations"
+msgstr "他のwpインストールからのエントリを表示する"
+
+#: admin/manage-auth.php:653
+msgid "Facebook username"
+msgstr "Facebookのユーザー名"
+
+#: admin/manage-auth.php:654 admin/manage-auth.php:808
+#: admin/manage-auth.php:949
+msgid "Selected pages"
+msgstr "選択したページ"
+
+#: admin/manage-auth.php:655
+msgid "Selected groups"
+msgstr "選択したグループ"
+
+#: admin/manage-auth.php:657
+#, php-format
+msgid "%s url"
+msgstr "%s url"
+
+#: admin/manage-auth.php:659 admin/manage-auth.php:811
+#: admin/manage-auth.php:952
+msgid "Plugin"
+msgstr "プラグイン"
+
+#: admin/manage-auth.php:661
+#, php-format
+msgid "Account ID %s"
+msgstr "アカウントID%s"
+
+#: admin/manage-auth.php:663 admin/manage-auth.php:813
+#: admin/manage-auth.php:954
+msgid "Action"
+msgstr "アクション"
+
+#: admin/manage-auth.php:703 admin/manage-auth.php:843
+#: admin/manage-auth.php:985
+msgid "Not Applicable"
+msgstr "適用できない"
+
+#: admin/manage-auth.php:709 admin/manage-auth.php:732
+#: admin/manage-auth.php:850 admin/manage-auth.php:872
+#: admin/manage-auth.php:992 admin/manage-auth.php:1013
+msgid "Delete"
+msgstr "デリート"
+
+#: admin/manage-auth.php:722 admin/manage-auth.php:863
+#: admin/manage-auth.php:1004
+msgid "(Inactive)"
+msgstr "（非活性）"
+
+#: admin/manage-auth.php:743 admin/manage-auth.php:882
+#: admin/manage-auth.php:1023
+msgid "No Authorizations"
+msgstr "承認なし"
+
+#: admin/manage-auth.php:751 admin/manage-auth.php:890
+msgid "Unable to connect. Please check your curl and firewall settings"
+msgstr "つなげられない。カールとファイアウォールの設定を確認してください"
+
+#: admin/manage-auth.php:778
+msgid "Allowed LinkedIn users"
+msgstr "許可されたLinkedInユーザー"
+
+#: admin/manage-auth.php:779
+msgid "per day"
+msgstr "1日あたり"
+
+#: admin/manage-auth.php:807
+msgid "LinkedIn user name"
+msgstr "LinkedInのユーザー名"
+
+#: admin/manage-auth.php:919
+msgid "Allowed Instagram users"
+msgstr "許可されたInstagramユーザー"
+
+#: admin/manage-auth.php:948
+msgid "Instagram user name"
+msgstr "Instagramのユーザー名"
+
+#: admin/menu.php:13
+msgid "Please check whether the email is correct."
+msgstr "メールが正しいか確認してください。"
+
+#: admin/menu.php:14
+msgid "Select atleast one list."
+msgstr "少なくとも1つのリストを選択してください。"
+
+#: admin/menu.php:15
+msgid "You do not have sufficient permissions"
+msgstr "十分な権限がありません"
+
+#: admin/menu.php:16
+#, php-format
+msgid "Account details successfully deleted from %s"
+msgstr "アカウントの詳細が%sから正常に削除されました"
+
+#: admin/menu.php:17
+msgid "Thank you for enabling backlink !"
+msgstr "バックリンクを有効にしていただきありがとうございます！"
+
+#: admin/menu.php:18
+#, php-format
+msgid "Please connect your %s member account"
+msgstr "%sメンバーアカウントに接続してください"
+
+#: admin/menu.php:19
+#, php-format
+msgid "In-active Facebook account successfully deleted from %s"
+msgstr "非アクティブなFacebookアカウントが%sから正常に削除されました"
+
+#: admin/menu.php:20
+#, php-format
+msgid "In-active LinkedIn account successfully deleted from %s"
+msgstr "非アクティブなLinkedInアカウントが%sから正常に削除されました"
+
+#: admin/menu.php:21
+#, php-format
+msgid "In-active Twitter account successfully deleted from %s"
+msgstr "非アクティブなTwitterアカウントが%sから正常に削除されました"
+
+#: admin/menu.php:22
+#, php-format
+msgid "In-active Instagram account successfully deleted from %s"
+msgstr "非アクティブなInstagramアカウントが%sから正常に削除されました"
+
+#: admin/menu.php:37
+msgid "Settings"
+msgstr "設定"
+
+#: admin/menu.php:39
+msgid "SmapSolutions Authorizations"
+msgstr "SmapSolutions の認可"
+
+#: admin/menu.php:40
+msgid "Logs"
+msgstr "ログ"
+
+#: admin/menu.php:42
+msgid "Suggest a Feature"
+msgstr "機能を提案する"
+
+#: admin/metabox.php:675 admin/settings.php:1010
+msgid "Enable auto publish post to my facebook account"
+msgstr "Facebookアカウントへの投稿の自動公開を有効にする"
+
+#: admin/metabox.php:678 admin/metabox.php:782 admin/metabox.php:867
+#: admin/metabox.php:880 admin/metabox.php:951 admin/metabox.php:1040
+#: admin/metabox.php:1147 admin/metabox.php:1241 admin/settings.php:1013
+#: admin/settings.php:1146 admin/settings.php:1377 admin/settings.php:1730
+#: admin/settings.php:1879 admin/settings.php:2014 admin/settings.php:2130
+#: admin/settings.php:2135 admin/settings.php:2148 admin/settings.php:2310
+#: admin/settings.php:2558 admin/settings.php:2702 admin/settings.php:2853
+#: admin/settings.php:2861 admin/settings.php:2910 admin/settings.php:2920
+#: admin/settings.php:3000 admin/settings.php:3051 admin/settings.php:3061
+msgid "Yes"
+msgstr "はい"
+
+#: admin/metabox.php:679 admin/metabox.php:783 admin/metabox.php:868
+#: admin/metabox.php:878 admin/metabox.php:952 admin/metabox.php:959
+#: admin/metabox.php:1041 admin/metabox.php:1148 admin/metabox.php:1242
+#: admin/settings.php:1014 admin/settings.php:1147 admin/settings.php:1378
+#: admin/settings.php:1731 admin/settings.php:1880 admin/settings.php:2015
+#: admin/settings.php:2131 admin/settings.php:2136 admin/settings.php:2149
+#: admin/settings.php:2311 admin/settings.php:2559 admin/settings.php:2624
+#: admin/settings.php:2703 admin/settings.php:2854 admin/settings.php:2862
+#: admin/settings.php:2911 admin/settings.php:2921 admin/settings.php:3001
+#: admin/settings.php:3052 admin/settings.php:3062
+msgid "No"
+msgstr "ノー"
+
+#: admin/metabox.php:683 admin/metabox.php:787 admin/metabox.php:1089
+#: admin/metabox.php:1153 admin/metabox.php:1247 admin/settings.php:1085
+#: admin/settings.php:1449 admin/settings.php:2110 admin/settings.php:2371
+#: admin/settings.php:2789
+msgid "Posting method"
+msgstr "投稿方法"
+
+#: admin/metabox.php:687 admin/metabox.php:1093 admin/metabox.php:1157
+#: admin/metabox.php:1250 admin/settings.php:1091 admin/settings.php:2115
+#: admin/settings.php:2376 admin/settings.php:2794
+msgid "Simple text message"
+msgstr "シンプルなテキストメッセージ"
+
+#: admin/metabox.php:689 admin/metabox.php:790 admin/metabox.php:1097
+#: admin/metabox.php:1159 admin/metabox.php:1252 admin/settings.php:2119
+#: admin/settings.php:2380
+msgid "Text message with image"
+msgstr "画像付きのテキストメッセージ"
+
+#: admin/metabox.php:691 admin/settings.php:1095
+msgid "Upload image to app album"
+msgstr "アプリアルバムに画像をアップロードする"
+
+#: admin/metabox.php:693 admin/settings.php:1097
+msgid "Upload image to timeline album"
+msgstr "タイムラインアルバムに画像をアップロードする"
+
+#: admin/metabox.php:696 admin/settings.php:1093 admin/settings.php:1100
+msgid "Text message with attached link"
+msgstr "リンクが添付されたテキストメッセージ"
+
+#: admin/metabox.php:698 admin/metabox.php:1095 admin/metabox.php:1251
+#: admin/settings.php:1102 admin/settings.php:2117 admin/settings.php:2378
+msgid "Attach your blog post"
+msgstr "ブログ投稿を添付してください"
+
+#: admin/metabox.php:701 admin/settings.php:1105
+msgid "Share a link to your blog post"
+msgstr "ブログ投稿へのリンクを共有する"
+
+#: admin/metabox.php:707 admin/metabox.php:795 admin/metabox.php:886
+#: admin/metabox.php:966 admin/metabox.php:1056 admin/metabox.php:1166
+#: admin/metabox.php:1258 admin/settings.php:1111 admin/settings.php:1455
+#: admin/settings.php:1845 admin/settings.php:2079 admin/settings.php:2340
+#: admin/settings.php:2631 admin/settings.php:2803
+msgid "Message format for posting"
+msgstr "投稿用のメッセージ形式"
+
+#: admin/metabox.php:710 admin/metabox.php:798 admin/metabox.php:889
+#: admin/metabox.php:970 admin/metabox.php:1060 admin/metabox.php:1169
+#: admin/metabox.php:1261 admin/settings.php:1114 admin/settings.php:1458
+#: admin/settings.php:1849 admin/settings.php:2083 admin/settings.php:2344
+#: admin/settings.php:2635 admin/settings.php:2806
+msgid "Insert the title of your post."
+msgstr "投稿のタイトルを挿入します。"
+
+#: admin/metabox.php:711 admin/metabox.php:799 admin/metabox.php:890
+#: admin/metabox.php:971 admin/metabox.php:1061 admin/metabox.php:1170
+#: admin/metabox.php:1262 admin/settings.php:1115 admin/settings.php:1459
+#: admin/settings.php:1850 admin/settings.php:2084 admin/settings.php:2345
+#: admin/settings.php:2636 admin/settings.php:2807
+msgid "Insert the URL where your post is displayed."
+msgstr "投稿が表示されているURLを挿入します。"
+
+#: admin/metabox.php:712 admin/metabox.php:800 admin/metabox.php:891
+#: admin/metabox.php:972 admin/metabox.php:1062 admin/metabox.php:1171
+#: admin/metabox.php:1263 admin/settings.php:1116 admin/settings.php:1460
+#: admin/settings.php:1851 admin/settings.php:2085 admin/settings.php:2346
+#: admin/settings.php:2637 admin/settings.php:2808
+msgid "Insert the excerpt of your post."
+msgstr "投稿の抜粋を挿入します。"
+
+#: admin/metabox.php:713 admin/metabox.php:801 admin/metabox.php:892
+#: admin/metabox.php:973 admin/metabox.php:1063 admin/metabox.php:1172
+#: admin/metabox.php:1264 admin/settings.php:1117 admin/settings.php:1461
+#: admin/settings.php:1852 admin/settings.php:2086 admin/settings.php:2347
+#: admin/settings.php:2638 admin/settings.php:2809
+msgid "Insert the description of your post."
+msgstr "投稿の説明を挿入します。"
+
+#: admin/metabox.php:714 admin/metabox.php:802 admin/metabox.php:893
+#: admin/metabox.php:974 admin/metabox.php:1064 admin/metabox.php:1173
+#: admin/metabox.php:1265 admin/settings.php:1118 admin/settings.php:1462
+#: admin/settings.php:1853 admin/settings.php:2087 admin/settings.php:2348
+#: admin/settings.php:2639 admin/settings.php:2810
+msgid "Insert the name of your blog."
+msgstr "ブログの名前を挿入します。"
+
+#: admin/metabox.php:715 admin/metabox.php:803 admin/metabox.php:894
+#: admin/metabox.php:975 admin/metabox.php:1065 admin/metabox.php:1174
+#: admin/metabox.php:1266 admin/settings.php:1119 admin/settings.php:1463
+#: admin/settings.php:1854 admin/settings.php:2088 admin/settings.php:2349
+#: admin/settings.php:2640 admin/settings.php:2811
+msgid "Insert the nicename of the author."
+msgstr "著者のnicenameを挿入します。"
+
+#: admin/metabox.php:716 admin/metabox.php:804 admin/metabox.php:895
+#: admin/metabox.php:976 admin/metabox.php:1066 admin/metabox.php:1175
+#: admin/metabox.php:1267 admin/settings.php:1120 admin/settings.php:1464
+#: admin/settings.php:1855 admin/settings.php:2089 admin/settings.php:2350
+#: admin/settings.php:2641 admin/settings.php:2812
+msgid "Insert the ID of your post."
+msgstr "投稿のIDを挿入します。"
+
+#: admin/metabox.php:717 admin/metabox.php:805 admin/metabox.php:896
+#: admin/metabox.php:977 admin/metabox.php:1067 admin/metabox.php:1176
+#: admin/metabox.php:1268 admin/settings.php:1121 admin/settings.php:1465
+#: admin/settings.php:1856 admin/settings.php:2090 admin/settings.php:2351
+#: admin/settings.php:2642 admin/settings.php:2813
+msgid "Insert the publish date of your post."
+msgstr "投稿の公開日を挿入します。"
+
+#: admin/metabox.php:718 admin/metabox.php:806 admin/metabox.php:897
+#: admin/metabox.php:978 admin/metabox.php:1068 admin/metabox.php:1177
+#: admin/metabox.php:1269 admin/settings.php:1122 admin/settings.php:1466
+#: admin/settings.php:1857 admin/settings.php:2091 admin/settings.php:2352
+#: admin/settings.php:2643 admin/settings.php:2814
+msgid "Insert the display name of the author."
+msgstr "著者の表示名を挿入します。"
+
+#: admin/metabox.php:723 admin/metabox.php:811 admin/metabox.php:902
+#: admin/metabox.php:982 admin/metabox.php:1073 admin/metabox.php:1182
+#: admin/metabox.php:1276 admin/settings.php:1126 admin/settings.php:1470
+#: admin/settings.php:1861 admin/settings.php:2095 admin/settings.php:2356
+#: admin/settings.php:2648 admin/settings.php:2818
+msgid "Select"
+msgstr "選択する"
+
+#: admin/metabox.php:779 admin/settings.php:1374
+msgid "Enable auto publish post to my instagram account"
+msgstr "Instagramアカウントへの投稿の自動公開を有効にする"
+
+#: admin/metabox.php:864 admin/settings.php:1728
+msgid "Enable auto publish posts to my twitter account"
+msgstr "Twitterアカウントへの投稿の自動公開を有効にする"
+
+#: admin/metabox.php:873 admin/settings.php:1876
+msgid "Attach image to twitter post"
+msgstr "Twitterの投稿に画像を添付"
+
+#: admin/metabox.php:948 admin/settings.php:2555
+msgid "Enable auto publish posts to my tumblr account"
+msgstr "Tumblrアカウントへの投稿の自動公開を有効にする"
+
+#: admin/metabox.php:956 admin/settings.php:2620
+msgid "Attachment to be posted to Tumblr"
+msgstr "Tumblrに投稿する添付ファイル"
+
+#: admin/metabox.php:960 admin/settings.php:2625
+msgid "Image"
+msgstr "画像"
+
+#: admin/metabox.php:961 admin/settings.php:2626
+msgid "Link"
+msgstr "リンク"
+
+#: admin/metabox.php:1037 admin/settings.php:2012
+msgid "Enable auto publish posts to my linkedin account"
+msgstr "LinkedInアカウントへの投稿の自動公開を有効にする"
+
+#: admin/metabox.php:1047 admin/settings.php:2156
+msgid "Share post content with"
+msgstr "投稿コンテンツを"
+
+#: admin/metabox.php:1051 admin/settings.php:2159
+msgid "Public"
+msgstr "公衆"
+
+#: admin/metabox.php:1051
+msgid "Connections only"
+msgstr "接続のみ"
+
+#: admin/metabox.php:1144
+msgid "Enable auto publish posts to my telegram account"
+msgstr "Telegram アカウントへの投稿の自動公開を有効にする"
+
+#: admin/metabox.php:1161
+msgid "Share a Link"
+msgstr "リンクを共有する"
+
+#: admin/metabox.php:1238
+msgid "Enable auto publish posts to my threads account"
+msgstr "スレッドアカウントへの投稿の自動公開を有効にする"
+
+#: admin/settings.php:7
+#, php-format
+msgid "Connect your %s account"
+msgstr "%sアカウントを接続します"
+
+#: admin/settings.php:35
+msgid ""
+"Thanks again for using the plugin. We will never show the message again."
+msgstr ""
+"プラグインをご利用いただきありがとうございます。メッセージは二度と表示されま"
+"せん。"
+
+#: admin/settings.php:135
+msgid "Please fill facebook application name."
+msgstr "フェイスブックのアプリケーション名を入力してください。"
+
+#: admin/settings.php:140
+msgid "Please fill facebook application id."
+msgstr "フェイスブックのアプリケーションIDを記入してください。"
+
+#: admin/settings.php:145
+msgid "Please fill facebook application secret."
+msgstr "フェイスブックのアプリケーションの秘密を記入してください。"
+
+#: admin/settings.php:166 admin/settings.php:256
+msgid "Please select atleast one page"
+msgstr "少なくとも1ページを選択してください"
+
+#: admin/settings.php:226
+msgid "Please fill instagram application name."
+msgstr "フェイスブックのアプリケーション名を入力してください。"
+
+#: admin/settings.php:231
+msgid "Please fill instagram application id."
+msgstr "InstagramのアプリケーションIDを入力してください。"
+
+#: admin/settings.php:236
+msgid "Please fill instagram application secret."
+msgstr "Instagramのアプリケーションシークレットを記入してください。"
+
+#: admin/settings.php:316
+msgid "Please fill Client ID."
+msgstr "クライアントIDを入力してください。"
+
+#: admin/settings.php:321
+msgid "Please fill Client Secret."
+msgstr "クライアントシークレットを入力してください。"
+
+#: admin/settings.php:329 admin/settings.php:514
+msgid "Please fill api key."
+msgstr "APIキーを入力してください。"
+
+#: admin/settings.php:334 admin/settings.php:518
+msgid "Please fill api secret."
+msgstr "APIシークレットを入力してください。"
+
+#: admin/settings.php:339
+msgid "Please fill twitter access token."
+msgstr "Twitterアクセス​​トークンを入力してください。"
+
+#: admin/settings.php:344
+msgid "Please fill twitter access token secret."
+msgstr "Twitterアクセス​​トークンの秘密を記入してください。"
+
+#: admin/settings.php:350
+msgid "Please fill twitter username."
+msgstr "Twitterのユーザー名を入力してください。"
+
+#: admin/settings.php:355 admin/settings.php:456 admin/settings.php:538
+#: admin/settings.php:733
+msgid "Please fill message format for posting."
+msgstr "投稿用のメッセージ形式を入力してください。"
+
+#: admin/settings.php:441
+msgid "Please fill linkedin api key"
+msgstr "LinkedInのAPIキーを入力してください"
+
+#: admin/settings.php:446
+msgid "Please fill linkedin api secret"
+msgstr "LinkedInのAPIシークレットを入力してください"
+
+#: admin/settings.php:451
+msgid "Please select share post to profile or company page"
+msgstr "プロフィールまたは会社のページに投稿を共有するを選択してください"
+
+#: admin/settings.php:523
+msgid "Please fill tumblr username."
+msgstr "Tumblrのユーザー名を入力してください。"
+
+#: admin/settings.php:528
+msgid "Please fill tumblr access token."
+msgstr "Tumblrアクセス​​トークンを入力してください。"
+
+#: admin/settings.php:533
+msgid "Please fill tumblr access token secret."
+msgstr "Tumblrアクセス​​トークンシークレットを入力してください。"
+
+#: admin/settings.php:585
+msgid "Please fill telegram application name."
+msgstr "電報アプリ名をご記入ください。"
+
+#: admin/settings.php:590
+msgid "Please fill Telegram Bot token."
+msgstr "Telegram Bot トークンを入力してください。"
+
+#: admin/settings.php:610
+msgid "Please fill Channel ID or Group ID"
+msgstr "チャンネルIDまたはグループIDを入力してください"
+
+#: admin/settings.php:659
+msgid "There must be atleast one valid channel ID or Group ID."
+msgstr "少なくとも 1 つの有効なチャネル ID またはグループ ID が必要です。"
+
+#: admin/settings.php:719
+msgid "Please fill application ID."
+msgstr "アプリケーションIDを入力してください。"
+
+#: admin/settings.php:723
+msgid "Please fill application secret."
+msgstr "アプリケーションシークレットを入力してください。"
+
+#: admin/settings.php:728
+msgid "Please authorize your account."
+msgstr "アカウントを承認してください。"
+
+#: admin/settings.php:774
+msgid "Unable to authorize the linkedin application. Please check the details."
+msgstr "LinkedInアプリケーションを承認できません。詳細をご確認ください。"
+
+#: admin/settings.php:783
+msgid "The state does not match. You may be a victim of CSRF."
+msgstr "状態が一致しません。あなたはCSRFの犠牲者かもしれません。"
+
+#: admin/settings.php:794
+msgid ""
+"Unable to authorize the facebook application. Please check your curl/fopen "
+"and firewall settings."
+msgstr ""
+"Facebookアプリケーションを承認できません。 curl/fopenとファイアウォールの設定"
+"を確認してください。"
+
+#: admin/settings.php:803
+msgid "Account has been authenticated successfully."
+msgstr "アカウントは正常に認証されました。"
+
+#: admin/settings.php:813
+#, php-format
+msgid "Successfully connected to %s member area"
+msgstr "%sメンバーエリアに正常に接続されました"
+
+#: admin/settings.php:823
+msgid "Selected pages saved successfully."
+msgstr "選択したページが正常に保存されました。"
+
+#: admin/settings.php:893
+msgid "Twitter / X"
+msgstr "ツイッター / ×"
+
+#: admin/settings.php:895
+msgid "instagram"
+msgstr "インスタグラム"
+
+#: admin/settings.php:899
+msgid "General Settings"
+msgstr "一般設定"
+
+#: admin/settings.php:914 admin/settings.php:948 admin/settings.php:1289
+#: admin/settings.php:1321 admin/settings.php:1619 admin/settings.php:1704
+#: admin/settings.php:1929 admin/settings.php:1962 admin/settings.php:2264
+#: admin/settings.php:2531
+msgid "Application needs authorisation"
+msgstr "アプリケーションには承認が必要です"
+
+#: admin/settings.php:919 admin/settings.php:953 admin/settings.php:1293
+#: admin/settings.php:1326 admin/settings.php:1624 admin/settings.php:1709
+#: admin/settings.php:1932 admin/settings.php:1967 admin/settings.php:2267
+#: admin/settings.php:2536
+msgid "Authorize"
+msgstr "承認する"
+
+#: admin/settings.php:929 admin/settings.php:964 admin/settings.php:1302
+#: admin/settings.php:1337 admin/settings.php:1635 admin/settings.php:1718
+#: admin/settings.php:1942 admin/settings.php:1978 admin/settings.php:2275
+#: admin/settings.php:2545
+msgid "Reauthorize"
+msgstr "再承認"
+
+#: admin/settings.php:974 admin/settings.php:1344
+msgid "Application is authorized, go posting."
+msgstr "アプリケーションが承認されました。投稿してください。"
+
+#: admin/settings.php:987 admin/settings.php:1353 admin/settings.php:1988
+#: admin/settings.php:2285 admin/settings.php:2509
+msgid "Note"
+msgstr "注意"
+
+#: admin/settings.php:987
+msgid ""
+"You have to create a Facebook application before filling the following "
+"details."
+msgstr ""
+"次の詳細を入力する前に、Facebookアプリケーションを作成する必要があります。"
+
+#: admin/settings.php:988 admin/settings.php:2286
+msgid "Click here </a></b>to create new Facebook application."
+msgstr ""
+"ここをクリック</a></b>して、新しいFacebookアプリケーションを作成します。"
+
+#: admin/settings.php:989
+#, php-format
+msgid "In the application page in facebook, navigate to <b>%s</b>."
+msgstr "Facebookのアプリケーションページで、<b>%s</b>に移動します。"
+
+#: admin/settings.php:989
+msgid "Set the site url as"
+msgstr "サイトのURLを次のように設定します"
+
+#: admin/settings.php:991 admin/settings.php:1357
+#, php-format
+msgid "And then navigate to <b>%s</b>. Set the Valid OAuth redirect URIs as"
+msgstr ""
+"次に、<b>%s</b>に移動します。有効なOAuthリダイレクトURIを次のように設定します"
+
+#: admin/settings.php:994 admin/settings.php:1360 admin/settings.php:1995
+#: admin/settings.php:2291 admin/settings.php:2516 admin/settings.php:2685
+#, php-format
+msgid "For detailed step-by-step instructions, %sClick here%s"
+msgstr "詳細な手順については、%sここをクリックしてください%s"
+
+#: admin/settings.php:1007 admin/settings.php:1371 admin/settings.php:1725
+#: admin/settings.php:2008 admin/settings.php:2304 admin/settings.php:2552
+#: admin/settings.php:2696
+msgid "All fields given below are mandatory"
+msgstr "以下に示すすべてのフィールドは必須です"
+
+#: admin/settings.php:1018 admin/settings.php:1382 admin/settings.php:2707
+msgid "Application name"
+msgstr "アプリケーション名"
+
+#: admin/settings.php:1019 admin/settings.php:1383 admin/settings.php:2708
+msgid "This is for tracking purpose"
+msgstr "これは追跡目的です"
+
+#: admin/settings.php:1027 admin/settings.php:1391 admin/settings.php:1735
+#: admin/settings.php:2563
+msgid "Application Selection"
+msgstr "アプリケーションの選択"
+
+#: admin/settings.php:1031 admin/settings.php:1395
+msgid "Own App"
+msgstr "自分のアプリ"
+
+#: admin/settings.php:1031
+msgid "requires app submission and Facebook review"
+msgstr "アプリの提出とFacebookのレビューが必要です"
+
+#: admin/settings.php:1031 admin/settings.php:1395
+msgid "Help"
+msgstr "ヘルプ"
+
+#: admin/settings.php:1033 admin/settings.php:1397 admin/settings.php:1744
+msgid "App approval service available for 50 USD"
+msgstr "50米ドルで利用可能なアプリ承認サービス"
+
+#: admin/settings.php:1036 admin/settings.php:1400 admin/settings.php:1747
+msgid "Expected time frame"
+msgstr "予想される時間枠"
+
+#: admin/settings.php:1036 admin/settings.php:1400 admin/settings.php:1747
+msgid "30 days"
+msgstr "30日"
+
+#: admin/settings.php:1037 admin/settings.php:1401 admin/settings.php:1748
+msgid "Required details"
+msgstr "必要な詳細"
+
+#: admin/settings.php:1037
+msgid "1.WordPress login"
+msgstr "1.WordPressログイン"
+
+#: admin/settings.php:1038
+msgid ""
+"2. Admin access to Facebook developer app for review submission (temporary)."
+msgstr "2.レビュー送信用のFacebook開発者アプリへの管理者アクセス（一時的）。"
+
+#: admin/settings.php:1039 admin/settings.php:1403 admin/settings.php:1750
+msgid "For more details contact"
+msgstr "詳細についてはお問い合わせください"
+
+#: admin/settings.php:1039 admin/settings.php:1403 admin/settings.php:1750
+msgid "Support Desk"
+msgstr "サポートデスク"
+
+#: admin/settings.php:1043
+#, php-format
+msgid "%s App ( ready to publish )"
+msgstr "%sアプリ（公開する準備ができました）"
+
+#: admin/settings.php:1043 admin/settings.php:1407 admin/settings.php:1755
+#: admin/settings.php:2027
+msgid "Starts from 10 USD per year"
+msgstr "年間10米ドルから"
+
+#: admin/settings.php:1046 admin/settings.php:1410 admin/settings.php:1760
+#: admin/settings.php:2031
+msgid "30 DAYS FREE TRIAL AVAILABLE"
+msgstr "30日間の無料トライアルをご利用いただけます"
+
+#: admin/settings.php:1049
+#, php-format
+msgid "How to use %s application"
+msgstr "%sアプリケーションの使用方法"
+
+#: admin/settings.php:1067 admin/settings.php:1431
+msgid "Application id"
+msgstr "アプリケーションID"
+
+#: admin/settings.php:1076 admin/settings.php:1440
+msgid "Application secret"
+msgstr "アプリケーションシークレット"
+
+#: admin/settings.php:1086
+msgid ""
+"Create app album(with <b> Application name </b>) in the Facebook pages,<br/> "
+"if you are using the posting method <b> Upload image to app album"
+msgstr ""
+"Facebookページでアプリアルバム（<b>アプリケーション名</ b>）を作成します。"
+"<br/>投稿方法を使用している場合は、<b>アプリアルバムに画像をアップロードしま"
+"す"
+
+#: admin/settings.php:1143
+msgid "Clear facebook cache before publishing to facebook"
+msgstr "Facebookに公開する前にFacebookのキャッシュをクリアする"
+
+#: admin/settings.php:1206
+msgid "Select facebook pages for auto publish"
+msgstr "自動公開するFacebookページを選択します"
+
+#: admin/settings.php:1215 admin/settings.php:1524
+msgid "Select All"
+msgstr "すべて選択"
+
+#: admin/settings.php:1240
+msgid "Selected facebook pages for auto publish"
+msgstr "自動公開用に選択されたFacebookページ"
+
+#: admin/settings.php:1264 admin/settings.php:1588 admin/settings.php:1899
+#: admin/settings.php:2236 admin/settings.php:2390 admin/settings.php:2836
+msgid "Save"
+msgstr "保存"
+
+#: admin/settings.php:1268 admin/settings.php:1592 admin/settings.php:1903
+#: admin/settings.php:2240
+msgid "Free trial is available only for first time users"
+msgstr "無料トライアルは初めてのユーザーのみが利用できます"
+
+#: admin/settings.php:1271 admin/settings.php:1595 admin/settings.php:1906
+#: admin/settings.php:2243
+msgid "Use reauthorize button to change selected values"
+msgstr "再承認ボタンを使用して、選択した値を変更します"
+
+#: admin/settings.php:1353
+msgid ""
+"You have to create a Instagram application before filling the following "
+"details."
+msgstr ""
+"以下の詳細を入力する前に、Instagramアプリケーションを作成する必要があります。"
+
+#: admin/settings.php:1354
+msgid "Click here </a></b>to create new Instagram application."
+msgstr ""
+"ここをクリック</a></b>して、新しいInstagramアプリケーションを作成します。"
+
+#: admin/settings.php:1355
+#, php-format
+msgid ""
+"In the application page in instagram, navigate to <b>%s</b>. Set the site "
+"url as"
+msgstr ""
+"Instagramのアプリケーションページで、<b>%s</b>に移動します。サイトのURLを次の"
+"ように設定します"
+
+#: admin/settings.php:1395
+msgid "requires app submission and Instagram review"
+msgstr "アプリの提出とInstagramのレビューが必要です"
+
+#: admin/settings.php:1401 admin/settings.php:1748
+msgid "1. WordPress login"
+msgstr "1.WordPressログイン"
+
+#: admin/settings.php:1402
+msgid ""
+"2. Admin access to Instagram developer app for review submission (temporary)."
+msgstr "2.レビュー送信用のInstagram開発者アプリへの管理者アクセス（一時的）。"
+
+#: admin/settings.php:1451
+msgid "Text message with Image"
+msgstr "画像付きのテキストメッセージ"
+
+#: admin/settings.php:1467
+msgid "Optional in the case of <b>Text message with image </b>posting methods"
+msgstr "<b>画像付きのテキストメッセージ</b>の投稿方法の場合はオプション"
+
+#: admin/settings.php:1519
+msgid "Select instagram pages for auto publish"
+msgstr "自動公開するInstagramページを選択します"
+
+#: admin/settings.php:1564
+msgid "Selected instagram pages for auto publish"
+msgstr "自動公開用に選択されたInstagramページ"
+
+#: admin/settings.php:1645 admin/settings.php:1668 admin/settings.php:2682
+msgid "Note:"
+msgstr "注意:"
+
+#: admin/settings.php:1645 admin/settings.php:1668
+msgid ""
+"You have to create a Twitter application before filling in following fields."
+msgstr ""
+"次のフィールドに入力する前に、Twitterアプリケーションを作成する必要がありま"
+"す。"
+
+#: admin/settings.php:1647 admin/settings.php:1671
+#, php-format
+msgid "%sClick here%s to create a new application."
+msgstr "新しいアプリケーションを作成するには、%sここをクリック%sしてください。"
+
+#: admin/settings.php:1652 admin/settings.php:1676
+#, php-format
+msgid "In the twitter application, navigate to <b>%s</b>."
+msgstr "Twitterアプリケーションで、<b>%s</b> に移動してください。"
+
+#: admin/settings.php:1655
+#, php-format
+msgid "Set <b>App permissions</b> to <b>%s</b>."
+msgstr "<b>アプリの権限</b>を <b>%s</b> に設定します。"
+
+#: admin/settings.php:1658 admin/settings.php:1685
+#, php-format
+msgid "Specify <b>Website URL</b> as %s"
+msgstr "<b>WebサイトのURL</b>を%sとして指定してください"
+
+#: admin/settings.php:1663
+#, php-format
+msgid "After updation , navigate to <b>%s</b> where you will get <b>%s</b>."
+msgstr "更新後、<b>%s</b> に移動すると、<b>%s</b> が表示されます。"
+
+#: admin/settings.php:1664 admin/settings.php:1691
+#, php-format
+msgid ""
+"For detailed step by step instructions <b><a href=\"%s\" target=\"_blank\"> "
+"Click here"
+msgstr ""
+"詳細な手順については、<b> <a href=\"%s\"target=\"_blank\">ここをクリックして"
+"ください"
+
+#: admin/settings.php:1680
+#, php-format
+msgid ""
+"Set <b>App permissions</b> to <b>%s</b>, and <b>Type of App</b> to <b>%s</"
+"b> .<br>Under <b>App info</b> section set <b>Redirect URI</b> to: %s"
+msgstr ""
+"<b>アプリの権限</b> を <b>%s</b> に設定し、<b>アプリの種類</b> を <b>%s</b> "
+"に設定してください。<br>  \n"
+"<b>アプリ情報</b> セクション内で <b>リダイレクトURI</b> を次のように設定して"
+"ください: %s"
+
+#: admin/settings.php:1690
+#, php-format
+msgid ""
+"After updation , navigate to <b>%s</b> where you will get <b>%s</b><br>under "
+"<b>%s</b>."
+msgstr ""
+"更新後、<b>%s</b> に移動すると、<b>%s</b> が <b>%s</b> の下に表示されます。"
+
+#: admin/settings.php:1739
+msgid "Own App - Traditional (Deprecating soon. Use OAuth 2.0)"
+msgstr "独自のアプリ - 従来型（まもなく廃止。OAuth 2.0 を使用してください）"
+
+#: admin/settings.php:1742 admin/settings.php:2570
+msgid "Own App (OAuth2.0 :Recommended)"
+msgstr "独自のアプリ（OAuth2.0：推奨）"
+
+#: admin/settings.php:1749
+msgid ""
+"2. Admin access to Twitter developer app for review submission (temporary)"
+msgstr "2.レビュー送信のためのTwitter開発者アプリへの管理者アクセス（一時的）"
+
+#: admin/settings.php:1782 admin/settings.php:2575
+msgid "API key"
+msgstr "APIキー"
+
+#: admin/settings.php:1791 admin/settings.php:2584
+msgid "API secret"
+msgstr "APIシークレット"
+
+#: admin/settings.php:1801 admin/settings.php:2063
+msgid "Client ID"
+msgstr "クライアントID"
+
+#: admin/settings.php:1809
+msgid "Client Secret "
+msgstr "クライアントシークレット "
+
+#: admin/settings.php:1818
+msgid "Twitter username"
+msgstr "Twitterのユーザー名"
+
+#: admin/settings.php:1827 admin/settings.php:2601
+msgid "Access token"
+msgstr "アクセストークン"
+
+#: admin/settings.php:1836 admin/settings.php:2610
+msgid "Access token secret"
+msgstr "アクセストークンシークレット"
+
+#: admin/settings.php:1884
+msgid "Twitter character limit"
+msgstr "ツイッターの文字数制限"
+
+#: admin/settings.php:1887
+msgid "The character limit of tweets  is 280."
+msgstr "ツイートの文字数制限は280文字です。"
+
+#: admin/settings.php:1888
+msgid ""
+"Use 140 for languages like Chinese, Japanese and Korean <br/> which won't "
+"get the 280 character length limit."
+msgstr ""
+"<br/>中国語、日本語、韓国語など、280文字の長さの制限がない言語には140を使用し"
+"ます。"
+
+#: admin/settings.php:1988
+msgid ""
+"You have to create a Linkedin application before filling the following "
+"details."
+msgstr ""
+"次の詳細を入力する前に、Linkedinアプリケーションを作成する必要があります。"
+
+#: admin/settings.php:1989
+msgid "Click here </a></b> to create new Linkedin application."
+msgstr ""
+"ここをクリック</a></b>して、新しいLinkedinアプリケーションを作成します。"
+
+#: admin/settings.php:1990
+msgid "Specify the website url for the application as"
+msgstr "アプリケーションのWebサイトのURLを次のように指定します"
+
+#: admin/settings.php:1992
+msgid "Specify the authorized redirect url as"
+msgstr "許可されたリダイレクトURLを次のように指定します"
+
+#: admin/settings.php:2018
+#, php-format
+msgid "%s usage"
+msgstr "%s使用量"
+
+#: admin/settings.php:2022
+msgid "Own app - Basic profile fields only"
+msgstr "独自のアプリ - 基本的なプロフィールフィールドのみ"
+
+#: admin/settings.php:2024
+msgid "Own app - Basic profile fields + company pages"
+msgstr "独自のアプリ - 基本的なプロフィールフィールド + 会社ページ"
+
+#: admin/settings.php:2024
+msgid "requires app submission and LinkedIn review"
+msgstr "アプリの提出とLinkedInのレビューが必要"
+
+#: admin/settings.php:2025 admin/settings.php:2068
+msgid "How can I create a Linkedin Application"
+msgstr "Linkedinアプリケーションを作成するにはどうすればよいですか"
+
+#: admin/settings.php:2050
+msgid "LinkedIn Sign-In Method"
+msgstr "LinkedIn サインイン方法"
+
+#: admin/settings.php:2052
+msgid ""
+"Starting from August 1, 2023, \"<b>Sign In with LinkedIn</b>\" (SIWL) has "
+"been deprecated. For all new apps, we strongly recommend using \"<b>Sign In "
+"with LinkedIn using OpenID Connect</b>\" as the preferred Sign-In method.\n"
+"\t<br/>Existing apps that are currently utilizing \"Sign In with LinkedIn,\" "
+"can continue to do so. If you decide transition to \"Sign In with LinkedIn "
+"using OpenID Connect,\" please ensure that you add this option under your "
+"LinkedIn Developer App\"s product section."
+msgstr ""
+"2023 年 8 月 1 日以降、「<b>LinkedIn でサインイン</b>」 (SIWL) は非推奨になり"
+"ました。すべての新しいアプリでは、優先サインイン方法として「<b>OpenID "
+"Connect を使用した LinkedIn でのサインイン</b>」を使用することを強くお勧めし"
+"ます。\n"
+"\n"
+"<br/>現在「LinkedIn でサインイン」を利用している既存のアプリは、引き続き利用"
+"できます。 「OpenID Connect を使用して LinkedIn でサインイン」に移行する場合"
+"は、LinkedIn 開発者アプリの製品セクションにこのオプションを必ず追加してくださ"
+"い。"
+
+#: admin/settings.php:2057
+msgid "Sign In with LinkedIn"
+msgstr "LinkedIn でサインインする"
+
+#: admin/settings.php:2059
+msgid "Sign In with LinkedIn using OpenID Connect"
+msgstr "OpenID Connect を使用して LinkedIn にサインインする"
+
+#: admin/settings.php:2072
+msgid "Client Secret"
+msgstr "クライアントシークレット"
+
+#: admin/settings.php:2092 admin/settings.php:2353
+msgid "Optional"
+msgstr "オプショナル"
+
+#: admin/settings.php:2127 admin/settings.php:2146
+msgid "Share post to profile"
+msgstr "プロフィールに投稿を共有する"
+
+#: admin/settings.php:2158
+msgid "Connections"
+msgstr "接続"
+
+#: admin/settings.php:2163
+msgid "Select pages for auto publish"
+msgstr "自動公開するページを選択します"
+
+#: admin/settings.php:2181
+msgid "Failed to fetch company details."
+msgstr "会社の詳細を取得できませんでした。"
+
+#: admin/settings.php:2198 admin/settings.php:2202
+msgid "No companies found."
+msgstr "会社が見つかりません。"
+
+#: admin/settings.php:2211
+msgid "Share post to company page"
+msgstr "会社のページに投稿を共有する"
+
+#: admin/settings.php:2285
+msgid ""
+"You have to create a Facebook application with Access the Threads API as Use "
+"case before filling the following details."
+msgstr ""
+"以下の詳細を入力する前に、**「Use case」として「Access the Threads API」** を"
+"設定したFacebookアプリケーションを作成する必要があります。"
+
+#: admin/settings.php:2288
+msgid ""
+"In the application page in facebook, navigate to Use cases > Access the "
+"Threads API > Customize > Settings. Set Redirect Callback URLs as "
+msgstr ""
+"Facebook のアプリケーション ページで、[ユース ケース] > [スレッド API へのア"
+"クセス] > [カスタマイズ] > [設定] に移動します。リダイレクト コールバック "
+"URL を次のように設定します "
+
+#: admin/settings.php:2308
+msgid "Enable auto publish posts to my Threads account"
+msgstr "Threads アカウントへの投稿の自動公開を有効にする"
+
+#: admin/settings.php:2317
+msgid "Threads app ID"
+msgstr "スレッドアプリID"
+
+#: admin/settings.php:2325
+msgid "Threads app secret"
+msgstr "スレッドアプリID"
+
+#: admin/settings.php:2334
+msgid "Threads username"
+msgstr "スレッドのユーザー名"
+
+#: admin/settings.php:2509
+msgid ""
+"You have to create a Tumblr application before filling in following fields."
+msgstr ""
+"次のフィールドに入力する前に、Tumblrアプリケーションを作成する必要がありま"
+"す。"
+
+#: admin/settings.php:2510
+msgid ""
+"Click here </a></b> to create new application.<br> Specify the application "
+"website for the application as"
+msgstr ""
+"ここをクリック</a></b>して、新しいアプリケーションを作成します。<br>アプリ"
+"ケーションのアプリケーションWebサイトを次のように指定します"
+
+#: admin/settings.php:2512
+msgid "Specify the default callback URL as"
+msgstr "デフォルトのコールバックURLを次のように指定します"
+
+#: admin/settings.php:2567
+msgid "Own App - Traditional"
+msgstr "独自のアプリ - 従来型"
+
+#: admin/settings.php:2580
+msgid "How can I create a Tumblr Application"
+msgstr "Tumblrアプリケーションを作成するにはどうすればよいですか"
+
+#: admin/settings.php:2592
+msgid "Tumblr username"
+msgstr "Tumblrのユーザー名"
+
+#: admin/settings.php:2644
+msgid "Note : </b>Message can not be posted to tumblr while attaching image."
+msgstr "注：</ b>画像を添付している間は、メッセージをtumblrに投稿できません。"
+
+#: admin/settings.php:2667
+msgid "save"
+msgstr "保存する"
+
+#: admin/settings.php:2683
+msgid ""
+"You have to generate Telegram Bot token, group id, channel id before filling "
+"the following details."
+msgstr ""
+"次の詳細を入力する前に、Telegram Bot トークン、グループ ID、チャネル ID を生"
+"成する必要があります。"
+
+#: admin/settings.php:2699
+msgid "Enable auto publish post to my telegram account"
+msgstr "自分の電報アカウントへの投稿の自動公開を有効にする"
+
+#: admin/settings.php:2716
+msgid "Bot token"
+msgstr "ボットトークン"
+
+#: admin/settings.php:2726
+msgid "Bot Username"
+msgstr "ボットのユーザー名"
+
+#: admin/settings.php:2728
+msgid ""
+"[Auto-filled after you submit the form with a valid Bot Token. No need to "
+"enter it.]"
+msgstr ""
+"[有効なボット トークンを使用してフォームを送信すると、自動入力されます。入力"
+"する必要はありません。】"
+
+#: admin/settings.php:2758
+msgid "Channel IDs(Chat ID) for auto publish"
+msgstr "自動公開するページを選択します"
+
+#: admin/settings.php:2760 admin/settings.php:2774
+msgid ""
+"[Prefix each ID with a \"-\" symbol and separate them with commas e.g., "
+"-123456789, -987654321]"
+msgstr ""
+"[各 ID の前に「-」記号を付け、カンマで区切ります。例: -123456789、-987654321]"
+
+#: admin/settings.php:2772
+msgid "Group IDs(Chat ID) for auto publish"
+msgstr "自動公開用のグループID(チャットID)"
+
+#: admin/settings.php:2796
+msgid "Text message with Image "
+msgstr "画像付きのテキストメッセージ "
+
+#: admin/settings.php:2798
+msgid "Share a Link "
+msgstr "リンクを共有する "
+
+#: admin/settings.php:2847
+msgid "Basic Settings"
+msgstr "基本設定"
+
+#: admin/settings.php:2850
+msgid "Publish wordpress `posts` to social media"
+msgstr "ワードプレスの「投稿」をソーシャルメディアに公開する"
+
+#: admin/settings.php:2859
+msgid "Publish wordpress `pages` to social media"
+msgstr "ワードプレスの「ページ」をソーシャルメディアに公開する"
+
+#: admin/settings.php:2883
+msgid "Select wordpress custom post types for auto publish"
+msgstr "自動公開用のWordPressカスタム投稿タイプを選択"
+
+#: admin/settings.php:2900
+msgid "Advanced Settings"
+msgstr "高度な設定"
+
+#: admin/settings.php:2902
+msgid "Enforce og tags for Facebook, LinkedIn and Telegram"
+msgstr "Facebook、LinkedIn、Telegram に og タグを適用する"
+
+#: admin/settings.php:2904
+msgid ""
+"If you enable, Open Graph tags will be generated while posting to Facebook "
+"and LinkedIn. <br/>\n"
+"\t\t\t\t\t\t When sharing links to Facebook and LinkedIn, <b> Facebook/"
+"LinkedIn Crawler </b> uses internal heuristics to set the preview image for "
+"your content when using the posting method <b> Share a link to your blog "
+"post </b> or <b> Attach your blog post </b> in Facebook and also when "
+"sharing to LinkedIn."
+msgstr ""
+"有効にすると、FacebookおよびLinkedInへの投稿中にOpenGraphタグが生成されま"
+"す。 <br/>\n"
+"FacebookやLinkedInへのリンクを共有する場合、<b> Facebook / LinkedIn Crawler "
+"</ b>は、投稿方法を使用するときに、内部ヒューリスティックを使用してコンテンツ"
+"のプレビュー画像を設定します。<b>ブログ投稿へのリンクを共有する</b>または"
+"<b>Facebookにブログ投稿を添付</b>し、LinkedInに共有する場合も同様です。"
+
+#: admin/settings.php:2906
+msgid ""
+"If Open Graph tags are present, most major content sharing platform's "
+"crawler will not have to rely on it's own analysis to determine what content "
+"will be shared, which improves the likelihood that the information that is "
+"shared is exactly what you intended."
+msgstr ""
+"Open Graphタグが存在する場合、ほとんどの主要なコンテンツ共有プラットフォーム"
+"のクローラーは、共有されるコンテンツを決定するために独自の分析に依存する必要"
+"がないため、共有される情報が意図したとおりである可能性が高くなります。"
+
+#: admin/settings.php:2915
+msgid "Add twitter cards while posting to twitter"
+msgstr "Twitterに投稿しながらTwitterカードを追加する"
+
+#: admin/settings.php:2917
+msgid ""
+"By crawling twitter card specific meta tags, twitter can generate a "
+"summarised preview of the tweeted link.<br/> * To generete tweet preview of "
+"post,set <b>Attach media to twitter post</b> as <b>No</b>."
+msgstr ""
+"Twitterカード固有のメタタグをクロールすることで、Twitterはツイートされたリン"
+"クの要約プレビューを生成できます。<br/> *投稿のツイートプレビューを生成するに"
+"は、<b>Twitter投稿にメディアを添付</b>を<b>いいえ<に設定します。 /b>。"
+
+#: admin/settings.php:2927
+msgid "Select post categories for auto publish"
+msgstr "自動公開する投稿カテゴリを選択します"
+
+#: admin/settings.php:2933
+msgid "All"
+msgstr "全て"
+
+#: admin/settings.php:2935
+msgid "Specific"
+msgstr "明確"
+
+#: admin/settings.php:2971
+msgid "NIL"
+msgstr "ニル"
+
+#: admin/settings.php:2978
+msgid "Auto publish on creating posts/pages/custom post types"
+msgstr "投稿/ページ/カスタム投稿タイプの作成時に自動公開"
+
+#: admin/settings.php:2981 admin/settings.php:2991
+msgid "Enabled"
+msgstr "有効"
+
+#: admin/settings.php:2982 admin/settings.php:2992
+msgid "Disabled"
+msgstr "使用禁止"
+
+#: admin/settings.php:2983 admin/settings.php:2993
+msgid "Use metabox settings"
+msgstr "メタボックス設定を使用する"
+
+#: admin/settings.php:2988
+msgid "Auto publish on editing posts/pages/custom post types"
+msgstr "投稿/ページ/カスタム投稿タイプの編集時に自動公開"
+
+#: admin/settings.php:2998
+msgid "Enable SSL peer verification in remote requests"
+msgstr "リモートリクエストでSSLピア検証を有効にする"
+
+#: admin/settings.php:3006
+msgid "Apply filters during publishing"
+msgstr "公開中にフィルターを適用する"
+
+#: admin/settings.php:3045
+msgid "Other Settings"
+msgstr "その他の設定"
+
+#: admin/settings.php:3048
+msgid "Enable credit link to author"
+msgstr "著者へのクレジットリンクを有効にする"
+
+#: admin/settings.php:3058
+msgid "Enable premium version ads"
+msgstr "プレミアムバージョンの広告を有効にする"
+
+#: admin/settings.php:3069
+msgid "Update Settings"
+msgstr "設定を更新"
+
+#: admin/suggest_feature.php:10
+msgid "Thank you for the suggestion."
+msgstr "提案ありがとうございます。"
+
+#: admin/suggest_feature.php:18
+#, php-format
+msgid "%s not able to process the request."
+msgstr "%sはリクエストを処理できません。"
+
+#: admin/suggest_feature.php:26
+msgid "Please suggest a feature."
+msgstr "機能を提案してください."
+
+#: admin/suggest_feature.php:67
+msgid "Contribute And Get Rewarded"
+msgstr "貢献して報酬を得る"
+
+#: admin/suggest_feature.php:68
+msgid ""
+"Suggest a feature for this plugin and stand a chance to get a free copy of "
+"premium version of this plugin."
+msgstr ""
+"このプラグインの機能を提案し、このプラグインのプレミアムバージョンの無料コ"
+"ピーを入手するチャンスを手に入れましょう。"
+
+#: admin/suggest_feature.php:74
+msgid "Send Mail To Us"
+msgstr "私たちにメールを送る"
+
+#: social-media-auto-publish.php:32
+msgid "Hi there!  Im just a plugin, not much I can do when called directly."
+msgstr ""
+"やあ！私は単なるプラグインであり、直接呼び出されたときにできることはあまりあ"
+"りません。"
+
+#: xyz-functions.php:411
+msgid "Every 2 Hours"
+msgstr "2時間ごと"
+
+#~ msgid ""
+#~ "Own App (Traditional: This is for supporting old users, We advise "
+#~ "switching to OAuth 2.0)"
+#~ msgstr ""
+#~ "独自のアプリ (従来: これは古いユーザーをサポートするためのもので、OAuth "
+#~ "2.0 への切り替えをお勧めします)"
+
+#~ msgid "requires app submission and Twitter review"
+#~ msgstr "アプリの提出とTwitterのレビューが必要です"
+
+#~ msgid "Twitter Authorizations"
+#~ msgstr "ツイッターの承認"
+
+#~ msgid "Allowed Twitter users"
+#~ msgstr "許可されたTwitterユーザー"
+
+#~ msgid "Twitter user name"
+#~ msgstr "Twitterユーザー名"
+
+#~ msgid ""
+#~ "Click here </a></b>to create new application. Specify the website for the "
+#~ "application as"
+#~ msgstr ""
+#~ "新しいアプリケーションを作成するには、ここをクリックしてください</a></b>。"
+#~ "アプリケーションのWebサイトを次のように指定します"
+
+#, php-format
+#~ msgid ""
+#~ "After updating access, navigate to <b>%s</b> in the application and click "
+#~ "<b>Create my access token </b> button."
+#~ msgstr ""
+#~ "アクセスを更新したら、アプリケーションで<b>%s </ b>に移動し、[<b>アクセス"
+#~ "トークンの作成</b>]ボタンをクリックします。"
+
+#~ msgid "Application ID"
+#~ msgstr "アプリケーションID"
+
+#~ msgid "Application Secret"
+#~ msgstr "アプリケーションシークレット"
+
+#, php-format
+#~ msgid "Fully Featured %s Plugin"
+#~ msgstr "フル機能の%sプラグイン"
+
+#~ msgid "Just 29 USD"
+#~ msgstr "わずか29米ドル"
+
+#~ msgid "No logs Found"
+#~ msgstr "ログが見つかりません"
+
+#~ msgid "Facebook Settings"
+#~ msgstr "Facebookの設定"
+
+#~ msgid "Twitter Settings"
+#~ msgstr "Twitterの設定"
+
+#~ msgid "LinkedIn Settings"
+#~ msgstr "LinkedInの設定"
+
+#~ msgid "instagram Settings"
+#~ msgstr "instagramの設定"
+
+#~ msgid "Tumblr Settings"
+#~ msgstr "Настройки Tumblr"
+
+#~ msgid "Telegram Settings"
+#~ msgstr "電報設定"
+
+#~ msgid "Click here"
+#~ msgstr "ここをクリック"
+
+#~ msgid "for step by step instructions."
+#~ msgstr "詳細なステップバイステップの説明について,"
