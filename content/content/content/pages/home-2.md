@@ -8,7 +8,6 @@ description: |-
   ======================================= | Call/WhatsApp: 08103669924
 seo_title: Home
 ---
-
 Trusted Proof of Funds Agent in Nigeria
 =======================================
 
@@ -78,12 +77,11 @@ We'll connect you with the best finance house offering the best rate for your PO
 
 Our partner finance house handle the process and ensure you receive a valid, verifiable POF.
 
-“I recommend POF NG to every JAPA citizen in Nigeria because they're the best Affordable and Straight forward Agent in Nigeria.” Ademoyla G. IT Experts
+” Ademoyla G. IT Experts
 
 #### Why People Keep Choosing Us
 
-We make it easy for everyone to meet their Financial needs effortlessly.
-------------------------------------------------------------------------
+We make it easy for everyone to meet their Financial needs effortlessly. ------------------------------------------------------------------------
 
 ### Best Market Rates
 
@@ -120,26 +118,25 @@ We typically process POF requests within **24-48 hours**, depending on the amoun
 
 #### Which banks do you fund?
 
-We partner with reputable Nigerian and international banks to issue proof of fund documents.  
-Some of the banks we work with include:
+We partner with reputable Nigerian and international banks to issue proof of fund documents. Some of the banks we work with include:
 
 *   Zenith Bank
-    
+
 *   Access Bank
-    
+
 *   GTBank
-    
+
 *   First Bank of Nigeria
-    
+
 *   UBA
-    
+
 *   Standard Chartered
-    
+
 *   Fidelity Bank
-    
+
 *   And more Other banks
 
-Dollars POF is the best for the USA, Canada, and UK 
+Dollars POF is the best for the USA, Canada, and UK
 
 *   Disbursement is done within 1 day 
 *   Available ONLY for its first bank 
@@ -165,7 +162,7 @@ Yes, we offer flexible payment options, allowing you to split payments in batche
 
 #### What do I need for account opening?
 
-To open an account, you’ll need a **valid means of identification (National ID, Passport, or Driver’s License), proof of address, passport photograph, and basic KYC information.** Additional requirements may depend on the bank.
+** Additional requirements may depend on the bank.
 
 #### What is the minimum and maximum amount you provide for proof of funds?
 
