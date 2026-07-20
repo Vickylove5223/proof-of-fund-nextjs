@@ -75,7 +75,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
                 {relatedPosts.map((rp) => (
                   <div key={rp.slug} className="bg-[#F3F0FF] rounded-3xl p-6 overflow-hidden border-[3px] border-[#120E00] shadow-[-10px_10px_0px_#120E00] flex flex-col h-full text-left">
                     <h4 className="font-bold font-serif text-[1.25rem] text-[#120E00] mb-3 leading-tight tracking-wide">
-                      <Link href={`/proof-of-fund-guides/${rp.slug}`} className="hover:text-[#2E1499] transition-colors">
+                      <Link href={`/guides/${rp.slug}`} className="hover:text-[#2E1499] transition-colors">
                         {rp.meta.title}
                       </Link>
                     </h4>
@@ -83,7 +83,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
                       {rp.meta.excerpt || "Comprehensive guide and updates regarding proof of funds processing, requirements, and insights for Nigerian students..."}
                     </p>
                     <div className="mt-auto">
-                      <Link href={`/proof-of-fund-guides/${rp.slug}`} className="text-sm font-black text-[#2E1499] uppercase tracking-widest hover:text-blue-700 transition-colors flex items-center gap-1 w-max">
+                      <Link href={`/guides/${rp.slug}`} className="text-sm font-black text-[#2E1499] uppercase tracking-widest hover:text-blue-700 transition-colors flex items-center gap-1 w-max">
                         READ MORE <ChevronRight size={14} />
                       </Link>
                     </div>
