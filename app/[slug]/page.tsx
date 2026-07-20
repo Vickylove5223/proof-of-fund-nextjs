@@ -13,8 +13,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   try {
     const page = getPostBySlug(slug, 'pages');
     return {
-      title: `${page.meta.title} | Proof of Funds Nigeria`,
-      description: `Information about ${page.meta.title}`,
+      title: page.meta.seo_title ? `${page.meta.seo_title} | Proof of Funds Nigeria` : `${page.meta.title} | Proof of Funds Nigeria`,
+      description: page.meta.description || `Information about ${page.meta.title}`,
     };
   } catch (e) {
     return { title: 'Page Not Found' };

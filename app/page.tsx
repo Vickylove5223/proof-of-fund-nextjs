@@ -205,7 +205,7 @@ export default function Home() {
               <div className="p-6 flex flex-col flex-grow">
                 <h3 className="font-bold text-[#120E00] mb-4 tracking-wide">HOW TO GET PROOF OF FUNDS IN NIGERIA</h3>
                 <div className="mt-auto">
-                  <Link href="/blog/how-to-get-proof-of-funds" className="text-sm font-black text-[#2E1499] hover:text-blue-700 transition-colors tracking-widest uppercase">READ MORE</Link>
+                  <Link href="/proof-of-fund-guides/how-to-get-proof-of-funds" className="text-sm font-black text-[#2E1499] hover:text-blue-700 transition-colors tracking-widest uppercase">READ MORE</Link>
                 </div>
               </div>
             </div>
@@ -215,7 +215,7 @@ export default function Home() {
               <div className="p-6 flex flex-col flex-grow">
                 <h3 className="font-bold text-[#120E00] mb-4 tracking-wide">STUDENT VISA REQUIREMENTS FROM NIGERIA</h3>
                 <div className="mt-auto">
-                  <Link href="/blog/student-visa-requirements" className="text-sm font-black text-[#2E1499] hover:text-blue-700 transition-colors tracking-widest uppercase">READ MORE</Link>
+                  <Link href="/proof-of-fund-guides/student-visa-requirements" className="text-sm font-black text-[#2E1499] hover:text-blue-700 transition-colors tracking-widest uppercase">READ MORE</Link>
                 </div>
               </div>
             </div>
@@ -225,14 +225,14 @@ export default function Home() {
               <div className="p-6 flex flex-col flex-grow">
                 <h3 className="font-bold text-[#120E00] mb-4 tracking-wide">TOP LIST OF BANKS THAT PROVIDE LOANS IN NIGERIA</h3>
                 <div className="mt-auto">
-                  <Link href="/blog/top-list-of-banks" className="text-sm font-black text-[#2E1499] hover:text-blue-700 transition-colors tracking-widest uppercase">READ MORE</Link>
+                  <Link href="/proof-of-fund-guides/top-list-of-banks" className="text-sm font-black text-[#2E1499] hover:text-blue-700 transition-colors tracking-widest uppercase">READ MORE</Link>
                 </div>
               </div>
             </div>
           </div>
           
           <div className="mt-16 text-center">
-            <Link href="/blog" className="inline-block bg-white text-[#120E00] border-[3px] border-[#120E00] shadow-[-6px_6px_0px_#120E00] hover:shadow-none hover:translate-x-[-6px] hover:translate-y-[6px] transition-all font-bold uppercase tracking-widest py-4 px-10 rounded-full">
+            <Link href="/proof-of-fund-guides" className="inline-block bg-white text-[#120E00] border-[3px] border-[#120E00] shadow-[-6px_6px_0px_#120E00] hover:shadow-none hover:translate-x-[-6px] hover:translate-y-[6px] transition-all font-bold uppercase tracking-widest py-4 px-10 rounded-full">
               VIEW MORE POSTS
             </Link>
           </div>
