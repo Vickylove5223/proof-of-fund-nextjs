@@ -23,18 +23,20 @@ export default function BlogListClient({ posts }: { posts: any[] }) {
     <div className="max-w-7xl mx-auto px-6 pt-16">
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-12 gap-y-16 min-h-[400px]">
         {currentPosts.map((post) => (
-          <div key={post.slug} className="flex flex-col">
-            <h2 className="text-xl font-bold text-[#120E00] leading-snug mb-3">
+          <div key={post.slug} className="bg-[#F3F0FF] rounded-3xl p-6 overflow-hidden border-[3px] border-[#120E00] shadow-[-10px_10px_0px_#120E00] flex flex-col h-full text-left">
+            <h2 className="font-bold font-serif text-[1.25rem] text-[#120E00] mb-3 leading-tight uppercase tracking-wide">
               <Link href={`/blog/${post.slug}`} className="hover:text-[#2E1499] transition-colors">
                 {post.meta.title}
               </Link>
             </h2>
-            <p className="text-sm text-slate-700 leading-relaxed mb-4 flex-grow">
+            <p className="text-[15px] text-[#120E00] leading-relaxed mb-6 flex-grow">
               {post.meta.excerpt || "Comprehensive guide and updates regarding proof of funds processing, requirements, and insights for Nigerian students..."}
             </p>
-            <Link href={`/blog/${post.slug}`} className="text-xs font-bold text-[#2E1499] uppercase tracking-wider hover:underline flex items-center gap-1 w-max">
-              Read More <ChevronRight size={14} />
-            </Link>
+            <div className="mt-auto">
+              <Link href={`/blog/${post.slug}`} className="text-sm font-black text-[#2E1499] uppercase tracking-widest hover:text-blue-700 transition-colors flex items-center gap-1 w-max">
+                READ MORE <ChevronRight size={14} />
+              </Link>
+            </div>
           </div>
         ))}
       </div>
