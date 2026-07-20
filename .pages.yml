@@ -18,10 +18,6 @@ content:
         label: Slug
         type: string
         hidden: true
-      - name: date
-        label: Date
-        type: string
-        hidden: true
       - name: type
         label: Type
         type: string
