@@ -1,10 +1,10 @@
-media: public
+media: public/wp-content/uploads
 content:
   - name: posts
     label: Posts
     type: collection
     path: content/posts
-    format: frontmatter-md
+    format: frontmatter
     fields:
       - name: title
         label: Title
@@ -16,7 +16,7 @@ content:
         required: true
       - name: date
         label: Date
-        type: date
+        type: datetime
       - name: type
         label: Type
         type: string
