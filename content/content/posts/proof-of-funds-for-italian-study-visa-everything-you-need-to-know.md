@@ -22,8 +22,6 @@ Unlike other destinations, Italy has specific requirements and a high level of s
 
 At **POF NG**, we understand the nuances of the Italian embassy's requirements. If you don't have the assets or personal money to deposit for your application, we provide [Proof of Funds services](/guides/services) at an affordable rate to help you secure your Italian study visa.
 
-> *"I almost gave up on my dream of studying in Australia because the POF requirement was just too high. Then I discovered I could legally get a POF loan. They funded the exact amount I needed for my visa application, and my student visa was granted two weeks ago. Highly recommended!"* — **David O., Port Harcourt**
-
 ### **Key Requirements for Italian Study Visa POF**
 
 The Italian embassy isn't just looking for money in an account; they are looking for **proof of the source of that money**. Here is a breakdown of what you need to know:

@@ -22,8 +22,6 @@ The truth is, visa officers don't just look at the final balance; they scrutiniz
 
 At **POF NG**, we see these mistakes every day. me/2348103669924) at an affordable rate to ensure your application is airtight.
 
-> *"Finding a reliable proof of funds service in Nigeria is like looking for a needle in a haystack. I am so glad I trusted this team. They delivered on every single promise, and their WhatsApp support was incredibly patient with my endless questions. My visa success story started here."* — **Joy M., Asaba**
-
 ### **Top Bank Statement Mistakes to Avoid**
 
 #### **1\. Presenting Fake Bank Documents**

@@ -21,8 +21,6 @@ The “Japa” wave isn't just about moving to Europe or North America. Many Nig
 
 If you're wondering how to Japa to Brazil from Nigeria, you've come to the right place. This guide will walk you through the essential steps for a successful move.
 
-> *"My Canada express entry application was almost ruined because of insufficient funds. A friend recommended this platform, and I honestly couldn't believe how smooth the process was. They helped me structure a verifiable POF that the embassy accepted without a single question. I just got my passport request!"* — **Ngozi E., Abuja**
-
 At POF NG, we understand that relocating can be complex, especially when it comes to financial requirements. We're here to simplify at least one major part of your journey.
 
 Let's get started!

@@ -22,8 +22,6 @@ But before you pack your bags, you must meet one critical requirement: **Proof o
 
 This guide covers everything Nigerian applicants need to know about proof of funds for a Portugal student visa (D4 Visa) in 2026 — how much is required, accepted documents, naira equivalents, and how POF NG can help you get funded fast.
 
-> *"Finding a reliable proof of funds service in Nigeria is like looking for a needle in a haystack. I am so glad I trusted this team. They delivered on every single promise, and their WhatsApp support was incredibly patient with my endless questions. My visa success story started here."* — **Joy M., Asaba**
-
 What Is the Portugal Student Visa (D4 Visa)? --------------------------------------------
 
 The **Portugal D4 Student Visa** is a long-stay national visa issued to non-EU nationals who have been admitted to a recognised Portuguese higher education institution. It allows you to reside and study in Portugal for the duration of your academic programme.

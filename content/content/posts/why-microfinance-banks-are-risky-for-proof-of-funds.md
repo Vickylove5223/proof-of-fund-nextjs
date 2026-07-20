@@ -22,8 +22,6 @@ But there’s one small detail that could bring it all crashing down: your choic
 
 Many applicants, in a bid to save on costs or for convenience, turn to microfinance banks. Unfortunately, this can be a critical mistake that puts your entire study abroad journey at risk.
 
-> *"I was so stressed about my UK student visa because my bank statement wasn't ready. I thought my Japa dreams were over for the year. I reached out for proof of funds assistance, and within 48 hours, my financial documents were perfectly structured. My visa was approved last month, and I'm now studying in London! If you're struggling, don't give up—get the right help."* — **Chidi A., Lagos**
-
 The wrong bank statement can raise immediate red flags for a visa officer, leading to tough questions and, ultimately, a rejection that could have been avoided.
 
 Using microfinance banks for your Proof of Funds is highly risky because embassies and visa officers often view them as less stable, difficult to verify internationally, and their financial statements may not meet the strict, standardized requirements for visa applications. This skepticism can lead to doubts about the authenticity and accessibility of your funds, resulting in a visa denial.

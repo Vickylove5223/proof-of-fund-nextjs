@@ -23,8 +23,6 @@ But many applicants get **visa refusals** not because they don’t have money, b
 
 ### How Much Proof of Funds Do You Need for a Schengen Visa?
 
-> *"Applying for my family's Schengen visa was a nightmare because I didn't have the required bulk cash sitting in my account. I was advised to use this POF service, and they completely sorted out my financial requirements legally and transparently. We are currently enjoying our summer vacation in France!"* — **Amina Y., Kano**
-
 For a Schengen visa application, Nigerians generally need to show between **₦15 million to ₦20 million** as proof of funds. However, the **exact naira amount depends on the exchange rate**.
 
 The higher the dollar or euro goes, the more money you need in naira. For example:

@@ -27,8 +27,6 @@ But what happens when you don't have the millions of Naira required sitting idle
 
 Recently, a popular breakdown highlighted how some traditional Nigerian banks handle Proof of Funds requests for international travelers. In this post, we will review the top three Nigerian banks for processing your POF, their charges, and processing times.
 
-> *"I was so stressed about my UK student visa because my bank statement wasn't ready. I thought my Japa dreams were over for the year. I reached out for proof of funds assistance, and within 48 hours, my financial documents were perfectly structured. My visa was approved last month, and I'm now studying in London! If you're struggling, don't give up—get the right help."* — **Chidi A., Lagos**
-
 More importantly, we will reveal how you can secure a verifiable Proof of Funds at an affordable rate—even if you currently lack the personal cash or assets to do so.
 
 The Top 3 Nigerian Banks for Proof of Funds

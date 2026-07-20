@@ -22,8 +22,6 @@ Many applicants in Nigeria find this stage challenging. Fortunately, some banks 
 
 But how do you get the required funds into your account? That's where we come in.
 
-> *"I almost gave up on my dream of studying in Australia because the POF requirement was just too high. Then I discovered I could legally get a POF loan. They funded the exact amount I needed for my visa application, and my student visa was granted two weeks ago. Highly recommended!"* — **David O., Port Harcourt**
-
 This guide will show you how to get a Parallex Proof of Funds in Nigeria using a simple, fast, and reliable method.
 
 What is Parallex Bank and Why is it a Good Choice for POF? ----------------------------------------------------------

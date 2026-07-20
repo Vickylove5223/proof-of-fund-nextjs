@@ -22,8 +22,6 @@ Among the top destinations, Australia stands out with its vibrant economy, stunn
 
 We are here to guide you.
 
-> *"After two devastating visa refusals because of 'unclear source of funds', I knew I needed expert help. The team here didn't just give me the funds; they guided me on how to present a solid financial profile to the embassy. Third time's the charm—my visa was finally approved!"* — **Blessing U., Enugu**
-
 Navigating the process of how to JAPA to Australia from Nigeria can seem complex, but with the right information and preparation, it is entirely achievable. This guide will break down the essential steps, focusing on the most popular pathways and highlighting critical requirements like Proof of Funds (POF).
 
 Why Choose Australia? ---------------------

@@ -22,8 +22,6 @@ If you are planning to come and study in Canada, one of the most important thing
 
 Before we even go into proof of funds, you need to understand that when coming to study, most schools require a **minimum acceptance deposit of 2,500 Canadian dollars**. Once you pay this deposit, you can get the **provincial attestation letter** that you need to proceed with your visa application.
 
-> *"I was so stressed about my UK student visa because my bank statement wasn't ready. I thought my Japa dreams were over for the year. I reached out for proof of funds assistance, and within 48 hours, my financial documents were perfectly structured. My visa was approved last month, and I'm now studying in London! If you're struggling, don't give up—get the right help."* — **Chidi A., Lagos**
-
 ### Pay Your First Semester Fees
 
 Before rushing to apply for your visa, ensure you have paid your **first semester fees in full**. Why?

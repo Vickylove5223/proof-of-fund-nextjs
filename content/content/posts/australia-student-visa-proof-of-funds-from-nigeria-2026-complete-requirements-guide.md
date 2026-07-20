@@ -27,8 +27,6 @@ This guide covers the latest 2026 financial requirements, acceptable documents, 
 
 ### Current Australia Student Visa Financial Requirements 2026
 
-> *"I was worried that using a third-party proof of funds would look suspicious to the embassy. But the team explained the legal framework and provided all the backing documents I needed. The visa officer checked the statement, and everything was 100% genuine. I'm typing this from my dorm room in Germany."* — **Emmanuel K., Lagos**
-
 For the primary applicant (single student), you must show:
 
 *   **Living expenses**: AUD $29,710 for 12 months

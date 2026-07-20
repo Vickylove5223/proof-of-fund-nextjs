@@ -22,8 +22,6 @@ That’s not true. As a beneficiary of a scholarship myself, let me clarify the 
 
 ### Understanding Proof of Funds for Italy
 
-> *"I was so stressed about my UK student visa because my bank statement wasn't ready. I thought my Japa dreams were over for the year. I reached out for proof of funds assistance, and within 48 hours, my financial documents were perfectly structured. My visa was approved last month, and I'm now studying in London! If you're struggling, don't give up—get the right help."* — **Chidi A., Lagos**
-
 Proof of funds (POF) is a requirement by Italian immigration authorities to make sure that international students can cover:
 
 *   **Tuition fees**

@@ -22,8 +22,6 @@ The Canadian government needs to see that you have enough money to support yours
 
 Don't worry, we've got you covered. This guide will break down the entire process into simple, easy-to-follow steps.
 
-> *"I was scammed by a fake agent last year who gave me a forged bank statement. I almost got a 10-year ban. This time, I decided to do it the right way using a genuine proof of funds provider. The difference was clear—real bank alerts, verifiable statements, and a successful US student visa approval. Don't risk your future with fake documents."* — **Oluwaseun T., Ibadan**
-
 We’ll show you exactly how to calculate your Canada Proof of Funds in Naira, complete with examples, so you can prepare for your visa application with confidence.
 
 ![A photorealistic close-up shot of a calculator with Nigerian Naira notes and a Canadian dollar coin next to it. The background is slightly blurred, showing a map of Canada. This image visually represents the concept of converting currency for proof of funds.](/wp-content/uploads/2025/10/ai-generated-5uvtlmi0lfj.jpg)

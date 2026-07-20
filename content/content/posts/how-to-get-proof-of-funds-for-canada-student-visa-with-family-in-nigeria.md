@@ -26,8 +26,6 @@ However, one of the most critical steps in making this happen is proving you hav
 
 Many talented Nigerian students face challenges at this stage, not because they aren’t capable, but because the financial proof can be complex. But don’t worry, we are here to guide you through every step.
 
-> *"Finding a reliable proof of funds service in Nigeria is like looking for a needle in a haystack. I am so glad I trusted this team. They delivered on every single promise, and their WhatsApp support was incredibly patient with my endless questions. My visa success story started here."* — **Joy M., Asaba**
-
 To get Proof of Funds for a Canada student visa with your family from Nigeria, you must show you have enough money to cover your first year’s tuition, your own living expenses (CAD $10,000), plus additional funds for each family member: CAD $4,000 for your spouse and CAD $3,000 for each dependent child. You can present this through bank statements, investment portfolios, or by using a trusted service like POF NG to secure a verifiable statement that meets embassy requirements.
 
 ![Family planning their move to Canada](image1.jpg)
