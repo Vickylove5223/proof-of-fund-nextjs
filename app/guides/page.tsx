@@ -11,6 +11,17 @@ export const metadata = {
 export default function BlogList() {
   const posts = getAllPosts('posts');
 
+  // Strip heavy content — only send lightweight metadata to the client
+  const lightPosts = posts.map(({ slug, meta }) => ({
+    slug,
+    meta: {
+      title: meta.title || '',
+      excerpt: meta.description || meta.excerpt || '',
+      image: meta.image || '',
+      date: meta.date || '',
+    },
+  }));
+
   return (
     <div className="min-h-screen bg-[#F3F0FF] pb-24">
       {/* Header Section */}
@@ -29,7 +40,7 @@ export default function BlogList() {
       </div>
 
       {/* Blog Grid Section */}
-      <BlogListClient posts={posts} />
+      <BlogListClient posts={lightPosts} />
 
 
     </div>
