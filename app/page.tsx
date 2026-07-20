@@ -221,7 +221,7 @@ export default function Home() {
             </div>
             {/* Blog 3 */}
             <div className="bg-white rounded-3xl overflow-hidden border-[3px] border-[#120E00] shadow-[-10px_10px_0px_#120E00] flex flex-col h-full">
-              <img src="/wp-content/uploads/2025/03/4a8cdc82-ac5b-4cb4-a13f-4b4b2afd82dd.jpg" alt="List of Banks" className="w-full h-48 object-cover border-b-[3px] border-[#120E00]" />
+              <img src="/wp-content/uploads/2025/02/two-business-woman-cafe_1157-14528.jpg" alt="List of Banks" className="w-full h-48 object-cover border-b-[3px] border-[#120E00]" />
               <div className="p-6 flex flex-col flex-grow">
                 <h3 className="font-bold text-[#120E00] mb-4 uppercase tracking-wide">TOP LIST OF BANKS THAT PROVIDE LOANS IN NIGERIA</h3>
                 <div className="mt-auto">
@@ -229,6 +229,12 @@ export default function Home() {
                 </div>
               </div>
             </div>
+          </div>
+          
+          <div className="mt-16 text-center">
+            <Link href="/blog" className="inline-block bg-white text-[#120E00] border-[3px] border-[#120E00] shadow-[-6px_6px_0px_#120E00] hover:shadow-none hover:translate-x-[-6px] hover:translate-y-[6px] transition-all font-bold uppercase tracking-widest py-4 px-10 rounded-full">
+              VIEW MORE POSTS
+            </Link>
           </div>
         </div>
       </section>
