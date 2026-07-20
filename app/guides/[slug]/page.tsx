@@ -65,6 +65,20 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
           />
           
           <PostOutroCTA />
+
+          {/* Author Bio */}
+          <div className="mt-16 bg-white rounded-3xl p-8 border-[3px] border-[#120E00] shadow-[-8px_8px_0px_#120E00] flex flex-col md:flex-row items-center md:items-start gap-6">
+            <img src="/victoria-avatar.jpg" alt="Victoria Ajetomobi" className="w-24 h-24 rounded-full object-cover border-[3px] border-[#120E00] shadow-sm" />
+            <div className="text-center md:text-left">
+              <h3 className="text-xl font-bold text-[#120E00] mb-2 font-serif">Victoria Ajetomobi</h3>
+              <p className="text-slate-600 text-[15px] leading-relaxed mb-4">
+                Victoria is an expert study abroad and visa consultant with years of experience helping Nigerian students and professionals navigate complex proof of funds requirements. She specializes in legally structured financial solutions for Canada, UK, US, and Schengen visas.
+              </p>
+              <a href="https://wa.me/2348103669924" target="_blank" rel="noopener noreferrer" className="inline-block bg-[#2E1499] text-white px-6 py-2 rounded-full font-bold text-sm border-[2px] border-[#120E00] hover:shadow-[-4px_4px_0px_#120E00] transition-all">
+                Chat with Victoria
+              </a>
+            </div>
+          </div>
         </article>
 
         {relatedPosts.length > 0 && (
