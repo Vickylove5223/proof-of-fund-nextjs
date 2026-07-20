@@ -9,7 +9,6 @@ content:
     path: content/posts
     list:
       - title
-      - image
     fields:
       - name: title
         label: Title
