@@ -20,7 +20,7 @@ content:
         hidden: true
       - name: date
         label: Date
-        type: datetime
+        type: string
         hidden: true
       - name: type
         label: Type
