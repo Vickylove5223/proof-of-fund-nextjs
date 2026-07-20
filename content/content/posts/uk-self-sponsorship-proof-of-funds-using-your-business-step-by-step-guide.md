@@ -8,11 +8,13 @@ description: >-
   proof of funds for self-sponsorship? Does my busi... | Call/WhatsApp:
   08103669924
 seo_title: 'UK Self-Sponsorship Proof of Funds: Using Your Business Step-by-Step Guide'
+image: /images/finance-2.png
 ---
-
 ### The Truth About Self-Sponsorship Proof of Funds Requirements
 
-One of the most common questions I receive is: "Henry, what do you think about proof of funds for self-sponsorship? Does my business need to be earning £80,000, £100,000, or £150,000 to be eligible for self-sponsorship?" Here's the truth: **There is no specific amount you need to show as proof of funds for self-sponsorship**. However, this doesn't mean you don't need to show any proof of funds at all.
+One of the most common questions I receive is: "Henry, what do you think about proof of funds for self-sponsorship? Does my business need to be earning £80,000, £100,000, or £150,000 to be eligible for self-sponsorship?"
+
+Here's the truth: **There is no specific amount you need to show as proof of funds for self-sponsorship**. However, this doesn't mean you don't need to show any proof of funds at all.
 
 ### The Key Principle: Business Alignment
 
@@ -133,7 +135,9 @@ Even if you've completed 2-3 years on your current visa, if your status feels un
 
 #### Transition Considerations
 
-Some people ask: "Do I need to start all over again from scratch?" You may not necessarily need to start completely over, but this depends on individual circumstances. **Immigration solicitors can guide you through the specific requirements** when the time comes.
+Some people ask: "Do I need to start all over again from scratch?" You may not necessarily need to start completely over, but this depends on individual circumstances.
+
+**Immigration solicitors can guide you through the specific requirements** when the time comes.
 
 ### Frequently Asked Questions About UK Business Visa and Self-Sponsorship
 
@@ -251,4 +255,6 @@ The specific requirements may vary based on your nationality, role, and circumst
 
 ### Getting Started
 
-Whether you're planning self-sponsorship, need proof of funds, or have questions about business registration while on various visa types, the key is proper planning and understanding current requirements. Each situation is unique, so consider getting personalized advice from qualified immigration professionals. _This FAQ covers common questions about UK business visa and self-sponsorship routes. Requirements may change, so always verify current rules with official sources or qualified immigration advisers._
+Whether you're planning self-sponsorship, need proof of funds, or have questions about business registration while on various visa types, the key is proper planning and understanding current requirements. Each situation is unique, so consider getting personalized advice from qualified immigration professionals.
+
+_This FAQ covers common questions about UK business visa and self-sponsorship routes. Requirements may change, so always verify current rules with official sources or qualified immigration advisers._

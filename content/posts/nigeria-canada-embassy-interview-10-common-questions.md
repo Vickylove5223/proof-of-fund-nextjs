@@ -1,8 +1,15 @@
 ---
-title: "Nigeria Canada Embassy Interview: 10 Common Questions"
-slug: "nigeria-canada-embassy-interview-10-common-questions"
-date: "2025-11-01T09:29:32.000Z"
-type: "post"
+title: 'Nigeria Canada Embassy Interview: 10 Common Questions'
+slug: nigeria-canada-embassy-interview-10-common-questions
+date: '2025-11-01T09:29:32.000Z'
+type: post
+description: >-
+  Facing a Canada embassy interview in Nigeria can feel like the final, most
+  nerve-wracking step in your journey. After all the pa... | Call/WhatsApp:
+  08103669924
+seo_title: 'Nigeria Canada Embassy Interview: 10 Common Questions'
+image: >-
+  https://images.pexels.com/photos/5563472/pexels-photo-5563472.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
 ---
 
 Facing a Canada embassy interview in Nigeria can feel like the final, most nerve-wracking step in your journey. After all the paperwork and waiting, it all comes down to a short conversation. But don’t worry. With the right preparation, you can walk into that interview room with confidence. At POF NG, we’ve helped countless applicants secure their financial documents, and we understand the importance of being ready for every stage.
@@ -35,7 +42,7 @@ The officer is testing if you’ve done your research. Generic answers won’t w
 
 ### 3\. Who is sponsoring your trip, and how will you fund your stay?
 
-This is a critical question about your financial capacity. Your answer must align perfectly with the financial documents you submitted, including your Proof of Funds (POF). State clearly who is paying (e.g., “My parents are sponsoring my education,” or “I will be using my personal savings.”) and be prepared to show the documents to prove it. A common reason for rejection is inconsistent financial proof. We explain [why visa applications get rejected because of POF](http://afrikamombraids.local/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it/) and how to prevent it.
+This is a critical question about your financial capacity. Your answer must align perfectly with the financial documents you submitted, including your Proof of Funds (POF). State clearly who is paying (e.g., “My parents are sponsoring my education,” or “I will be using my personal savings.”) and be prepared to show the documents to prove it. A common reason for rejection is inconsistent financial proof. We explain [why visa applications get rejected because of POF](/guides/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it) and how to prevent it.
 
 ### 4\. Do you have family or friends in Canada?
 

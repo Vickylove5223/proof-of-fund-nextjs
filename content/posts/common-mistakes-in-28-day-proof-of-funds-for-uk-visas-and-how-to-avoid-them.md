@@ -1,8 +1,15 @@
 ---
-title: "Common Mistakes in 28-Day Proof of Funds for UK Visas (and How to Avoid Them)"
-slug: "common-mistakes-in-28-day-proof-of-funds-for-uk-visas-and-how-to-avoid-them"
-date: "2025-09-25T15:39:57.000Z"
-type: "post"
+title: Common Mistakes in 28-Day Proof of Funds for UK Visas (and How to Avoid Them)
+slug: common-mistakes-in-28-day-proof-of-funds-for-uk-visas-and-how-to-avoid-them
+date: '2025-09-25T15:39:57.000Z'
+type: post
+description: >-
+  When applying for a UK visa, one of the biggest hurdles is meeting the Proof
+  of Funds  requirement. Many applicants—even those w... | Call/WhatsApp:
+  08103669924
+seo_title: Common Mistakes in 28-Day Proof of Funds for UK Visas (and How to Avoid Them)
+image: >-
+  https://img.freepik.com/free-photo/visa-application-form-smartphone_23-2149117778.jpg?uid=R45719163&ga=GA1.1.1313607400.1731226079&semt=ais_hybrid&w=740&q=80
 ---
 
 When applying for a **UK visa**, one of the biggest hurdles is meeting the **Proof of Funds (POF) requirement**. Many applicants—even those who qualify financially—get rejected because of mistakes in preparing their **28-day bank statement**. In this post, we’ll break down the **most common errors people make with 28-day Proof of Funds**, how they lead to **visa refusals**, and the correct way to prepare your documents.

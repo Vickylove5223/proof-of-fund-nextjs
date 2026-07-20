@@ -1,8 +1,14 @@
 ---
-title: "How to Calculate Proof of Funds for Canada Student Visa"
-slug: "how-to-calculate-proof-of-funds-for-canada-student-visa"
-date: "2025-09-25T15:29:10.000Z"
-type: "post"
+title: How to Calculate Proof of Funds for Canada Student Visa
+slug: how-to-calculate-proof-of-funds-for-canada-student-visa
+date: '2025-09-25T15:29:10.000Z'
+type: post
+description: >-
+  If you are planning to study in Canada, one of the most important requirements
+  for your study permit application is Proof of Fun... | Call/WhatsApp:
+  08103669924
+seo_title: How to Calculate Proof of Funds for Canada Student Visa
+image: /images/finance-1.png
 ---
 
 If you are planning to study in Canada, one of the most important requirements for your study permit application is **Proof of Funds (POF)**. Many students get confused about how to calculate the exact amount they need to show in their bank statement. This guide explains step by step how to calculate your **Canada student visa proof of funds** based on tuition fees, living expenses, and exchange rates. We’ll also look at how to adjust the calculation if you’ve already paid part of your tuition.

@@ -1,8 +1,13 @@
 ---
-title: "Proof of Funds for Canada Student Visa in Nigeria: A Comprehensive Guide"
-slug: "how-to-get-proof-of-funds-for-canada-student-visa-in-nigeria"
-date: "2025-12-02T10:27:32.000Z"
-type: "post"
+title: 'Proof of Funds for Canada Student Visa in Nigeria: A Comprehensive Guide'
+slug: how-to-get-proof-of-funds-for-canada-student-visa-in-nigeria
+date: '2025-12-02T10:27:32.000Z'
+type: post
+description: >-
+  Proof of Funds for Canada Student Visa in Nigeria: A Comprehensive Guide |
+  Call/WhatsApp: 08103669924
+seo_title: 'Proof of Funds for Canada Student Visa in Nigeria: A Comprehensive Guide'
+image: image1.jpg
 ---
 
   
@@ -45,14 +50,14 @@ Now, let’s convert this to Nigerian Naira (NGN). Assuming an exchange rate of 
 
 **CAD $38,635 x 1,100 NGN/CAD = ₦42,498,500**
 
-This means you would need to show approximately ₦42.5 million in your account. You can use our guide to [calculate the exact amount you need](http://afrikamombraids.local/how-to-calculate-proof-of-funds-for-canada-student-visa/) for your specific situation.
+This means you would need to show approximately ₦42.5 million in your account. You can use our guide to [calculate the exact amount you need](/guides/how-to-calculate-proof-of-funds-for-canada-student-visa) for your specific situation.
 
 ![CAD to NGN Conversion](image2.jpg)
 
 What Documents Are Accepted as Proof of Funds?
 ----------------------------------------------
 
-The Canadian embassy is very specific about the documents they accept. Simply having the money isn’t enough; you need the right paperwork to prove it. Here are the most common forms of [acceptable proof of funds](http://afrikamombraids.local/what-is-acceptable-proof-of-funds/):
+The Canadian embassy is very specific about the documents they accept. Simply having the money isn’t enough; you need the right paperwork to prove it. Here are the most common forms of [acceptable proof of funds](/guides/what-is-acceptable-proof-of-funds):
 
 *   **Bank Statements:** Your personal bank account statements for the past four to six months.
 *   **Guaranteed Investment Certificate (GIC):** A GIC from a participating Canadian financial institution is a highly recommended method.

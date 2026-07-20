@@ -1,8 +1,15 @@
 ---
-title: "Study in Cyprus Without Proof of Funds: Everything You Need to Know"
-slug: "study-in-cyprus-without-proof-of-funds"
-date: "2025-09-25T16:27:27.000Z"
-type: "post"
+title: 'Study in Cyprus Without Proof of Funds: Everything You Need to Know'
+slug: study-in-cyprus-without-proof-of-funds
+date: '2025-09-25T16:27:27.000Z'
+type: post
+description: >-
+  Many Nigerians believe that to “japa” , they must have a huge proof of funds 
+  sitting in their bank account. While that’s true f... | Call/WhatsApp:
+  08103669924
+seo_title: 'Study in Cyprus Without Proof of Funds: Everything You Need to Know'
+image: >-
+  https://img.freepik.com/free-photo/man-saving-money-energy-crisis_23-2150061852.jpg?uid=R45719163&ga=GA1.1.1313607400.1731226079&semt=ais_hybrid&w=740&q=80
 ---
 
 Many Nigerians believe that to **“japa”** (relocate abroad), they must have a huge **proof of funds (POF)** sitting in their bank account. While that’s true for countries like **Canada, the UK, or Schengen states**, there are still destinations where you can study without showing proof of funds. One of the most popular options is the **Turkish Republic of Northern Cyprus (TRNC)**, commonly called **Northern Cyprus**. In this guide, you’ll learn:
@@ -42,7 +49,7 @@ Yes, you can technically apply on your own. But as many students have discovered
 
 They handle **BSc, MSc, and PhD admissions**, giving you flexible options depending on your academic journey. If you want to get started, you can:
 
-*   Message them directly on [**WhatsApp**](https://wa.link/a8pskc)
+*   Message them directly on [**WhatsApp**](https://wa.me/2348103669924)
 
 ### Why Northern Cyprus Could Be Your Best Option
 

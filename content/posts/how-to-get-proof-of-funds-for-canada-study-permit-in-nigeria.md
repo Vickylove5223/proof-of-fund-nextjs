@@ -1,8 +1,14 @@
 ---
-title: "Proof of Funds for Canada Study Permit from Nigeria: Updated Guide for 2024"
-slug: "how-to-get-proof-of-funds-for-canada-study-permit-in-nigeria"
-date: "2025-12-02T10:26:07.000Z"
-type: "post"
+title: 'Proof of Funds for Canada Study Permit from Nigeria: Updated Guide for 2024'
+slug: how-to-get-proof-of-funds-for-canada-study-permit-in-nigeria
+date: '2025-12-02T10:26:07.000Z'
+type: post
+description: >-
+  Dreaming of studying in Canada is an exciting first step. The world-class
+  education, diverse culture, and post-graduation opport... | Call/WhatsApp:
+  08103669924
+seo_title: 'Proof of Funds for Canada Study Permit from Nigeria: Updated Guide for 2024'
+image: image_placeholder_1.jpg
 ---
 
 Dreaming of studying in Canada is an exciting first step. The world-class education, diverse culture, and post-graduation opportunities are major attractions for Nigerian students. However, before you can pack your bags, you must cross a critical hurdle: providing Proof of Funds (POF) for your study permit application.
@@ -66,7 +72,7 @@ Assuming an exchange rate of **1 CAD = 1,100 NGN**:
 *   **Tuition Fee:** CAD $18,000 (approx. 19,800,000 NGN)
 *   **Total Required POF:** CAD $42,635 (approx. **46,898,500 NGN**)
 
-Need help with your specific calculation? You can use our handy [guide on how to calculate proof of funds for a Canada student visa](http://afrikamombraids.local/how-to-calculate-proof-of-funds-for-canada-student-visa/).
+Need help with your specific calculation? You can use our handy [guide on how to calculate proof of funds for a Canada student visa](/guides/how-to-calculate-proof-of-funds-for-canada-student-visa).
 
 Common Rejection Reasons and How to Avoid Them
 ----------------------------------------------

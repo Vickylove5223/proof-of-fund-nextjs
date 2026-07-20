@@ -1,8 +1,14 @@
 ---
-title: "Proof of Funds for Canada Work Permit: A Nigerian Applicant's Guide"
-slug: "how-to-get-proof-of-funds-required-for-canada-work-permit-in-nigeria"
-date: "2025-12-02T10:36:12.000Z"
-type: "post"
+title: 'Proof of Funds for Canada Work Permit: A Nigerian Applicant''s Guide'
+slug: how-to-get-proof-of-funds-required-for-canada-work-permit-in-nigeria
+date: '2025-12-02T10:36:12.000Z'
+type: post
+description: >-
+  Dreaming of working in Canada? It’s an exciting goal for many Nigerians.
+  You've perfected your CV, explored job opportunities, a... | Call/WhatsApp:
+  08103669924
+seo_title: 'Proof of Funds for Canada Work Permit: A Nigerian Applicant''s Guide'
+image: image-of-canadian-currency-and-nigerian-passport.jpg
 ---
 
 Dreaming of working in Canada? It’s an exciting goal for many Nigerians. You've perfected your CV, explored job opportunities, and are eager to take the next step. But the Proof of Funds (POF) requirement for a Canadian work permit often brings confusion.
@@ -55,7 +61,7 @@ Gathering several million Naira and maintaining it in your account for months ca
 
 This is where POF NG comes in. We understand this challenge. As Nigeria's No. 1 trusted POF agent, we connect you with reliable finance companies that provide verified and authentic Proof of Funds documents. We simplify the process, ensuring you meet embassy requirements without liquidating assets.
 
-Our service is fast (often within 24-72 hours), 100% verifiable, and accepted by the Canadian High Commission. Learn [how to get Canada Proof of Funds in Naira](http://afrikamombraids.local/how-to-get-canada-proof-of-funds-in-naira-step-by-step-guide/) with our step-by-step guide.
+Our service is fast (often within 24-72 hours), 100% verifiable, and accepted by the Canadian High Commission. Learn [how to get Canada Proof of Funds in Naira](/guides/how-to-get-canada-proof-of-funds-in-naira-step-by-step-guide) with our step-by-step guide.
 
 Tips for a Smooth Verification Process
 --------------------------------------

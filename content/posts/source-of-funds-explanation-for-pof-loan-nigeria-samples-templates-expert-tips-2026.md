@@ -1,8 +1,19 @@
 ---
-title: "Source of Funds Explanation for POF Loan Nigeria: Samples, Templates & Expert Tips 2026"
-slug: "source-of-funds-explanation-for-pof-loan-nigeria-samples-templates-expert-tips-2026"
-date: "2026-06-19T15:13:25.000Z"
-type: "post"
+title: >-
+  Source of Funds Explanation for POF Loan Nigeria: Samples, Templates & Expert
+  Tips 2026
+slug: >-
+  source-of-funds-explanation-for-pof-loan-nigeria-samples-templates-expert-tips-2026
+date: '2026-06-19T15:13:25.000Z'
+type: post
+description: >-
+  When using temporary Proof of Funds  or a funded bank account for visa
+  applications to Canada, UK, or other countries, embassies... | Call/WhatsApp:
+  08103669924
+seo_title: >-
+  Source of Funds Explanation for POF Loan Nigeria: Samples, Templates & Expert
+  Tips 2026
+image: /images/finance-3.png
 ---
 
 When using temporary Proof of Funds (POF) or a funded bank account for visa applications to Canada, UK, or other countries, embassies often request a clear \*\*Source of Funds (SoF) explanation\*\*. Providing a weak or missing SoF letter is one of the fastest ways to get a visa refusal. This guide explains what Source of Funds means, why it matters for POF loans in Nigeria, and gives ready-to-use sample explanations and practical tips to make your application stronger.

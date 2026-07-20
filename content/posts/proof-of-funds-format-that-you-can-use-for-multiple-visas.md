@@ -1,15 +1,21 @@
 ---
-title: "Proof of Funds Format that you can use for multiple Visas"
-slug: "proof-of-funds-format-that-you-can-use-for-multiple-visas"
-date: "2026-02-26T09:12:16.000Z"
-type: "post"
+title: Proof of Funds Format that you can use for multiple Visas
+slug: proof-of-funds-format-that-you-can-use-for-multiple-visas
+date: '2026-02-26T09:12:16.000Z'
+type: post
+description: >-
+  Have you spent months building your Proof of Funds  only to use it for a
+  single visa application? Many applicants make the mista... | Call/WhatsApp:
+  08103669924
+seo_title: Proof of Funds Format that you can use for multiple Visas
+image: /images/finance-2.png
 ---
 
 Have you spent months building your Proof of Funds (POF) only to use it for a single visa application? Many applicants make the mistake of building a 6-month bank statement for one country, and if they get denied or decide to travel elsewhere, they start the entire process all over again.
 
 At **POF NG**, we believe in efficiency.
 
-Why build multiple statements when you can use one strong POF to secure multiple visas at the same time? If you don't have the personal funds to maintain this kind of statement, we can provide the [Proof of Funds you need](https://www.google.com/search?q=http://afrikamombraids.local/services/) at an affordable rate.
+Why build multiple statements when you can use one strong POF to secure multiple visas at the same time? If you don't have the personal funds to maintain this kind of statement, we can provide the [Proof of Funds you need](/guides/services) at an affordable rate.
 
 ### **The Strategy: One POF, Multiple Destinations**
 
@@ -46,7 +52,7 @@ We provide the funds and the guidance to ensure your bank statement looks profes
 
 #### **Take the Next Step:**
 
-**[Chat with our Live Support on WhatsApp](https://wa.link/a8pskc)** to discuss your travel goals and get a custom POF solution.
+**[Chat with our Live Support on WhatsApp](https://wa.me/2348103669924)** to discuss your travel goals and get a custom POF solution.
 
 ### **External Links**
 

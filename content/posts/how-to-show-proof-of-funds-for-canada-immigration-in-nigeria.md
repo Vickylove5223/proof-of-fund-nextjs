@@ -1,8 +1,14 @@
 ---
-title: "Proof of Funds for Canadian Immigration from Nigeria: A Comprehensive Guide"
-slug: "how-to-show-proof-of-funds-for-canada-immigration-in-nigeria"
-date: "2025-12-02T10:32:41.000Z"
-type: "post"
+title: 'Proof of Funds for Canadian Immigration from Nigeria: A Comprehensive Guide'
+slug: how-to-show-proof-of-funds-for-canada-immigration-in-nigeria
+date: '2025-12-02T10:32:41.000Z'
+type: post
+description: >-
+  Moving to Canada is a dream for many Nigerians. You have filled out the forms,
+  gathered your documents, and are ready for a new... | Call/WhatsApp:
+  08103669924
+seo_title: 'Proof of Funds for Canadian Immigration from Nigeria: A Comprehensive Guide'
+image: image1.jpg
 ---
 
   
@@ -95,7 +101,7 @@ Our process is clear:
 *   **We connect you with partners:** We link you to licensed financial companies that provide authentic proof of funds.
 *   **You get verifiable documents:** You receive official bank letters and statements that meet all of Canada’s rules.
 
-With our help, you can be sure your financial documents are 100% verifiable and accepted by the embassy. To learn more, check out our [complete guide on getting proof of funds](http://afrikamombraids.local/how-to-get-proof-of-funds-in-nigeria-a-complete-guide/).
+With our help, you can be sure your financial documents are 100% verifiable and accepted by the embassy. To learn more, check out our [complete guide on getting proof of funds](/guides/how-to-get-proof-of-funds-in-nigeria-a-complete-guide).
 
 Many Nigerians successfully move abroad every year, a trend noted by global institutions like the [World Bank](https://www.worldbank.org/en/country/nigeria). With the right preparation, you can be one of them. Your documents, including your passport from the [Nigerian Immigration Service](https://immigration.gov.ng/), and your proof of funds are your keys to success.
 

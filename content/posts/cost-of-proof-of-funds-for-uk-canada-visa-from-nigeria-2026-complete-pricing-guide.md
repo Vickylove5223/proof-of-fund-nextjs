@@ -1,8 +1,19 @@
 ---
-title: "Cost of Proof of Funds for UK & Canada Visa from Nigeria 2026: Complete Pricing Guide"
-slug: "cost-of-proof-of-funds-for-uk-canada-visa-from-nigeria-2026-complete-pricing-guide"
-date: "2026-06-19T15:09:35.000Z"
-type: "post"
+title: >-
+  Cost of Proof of Funds for UK & Canada Visa from Nigeria 2026: Complete
+  Pricing Guide
+slug: >-
+  cost-of-proof-of-funds-for-uk-canada-visa-from-nigeria-2026-complete-pricing-guide
+date: '2026-06-19T15:09:35.000Z'
+type: post
+description: >-
+  One of the most frequently asked questions by Nigerian applicants is: \\How
+  much does temporary Proof of Funds  cost for UK and... | Call/WhatsApp:
+  08103669924
+seo_title: >-
+  Cost of Proof of Funds for UK & Canada Visa from Nigeria 2026: Complete
+  Pricing Guide
+image: /images/finance-2.png
 ---
 
 One of the most frequently asked questions by Nigerian applicants is: \*\*How much does temporary Proof of Funds (POF) cost for UK and Canada visas?\*\* Getting legitimate temporary funding for your bank statements can be the difference between visa approval and refusal, but understanding the pricing is crucial. In this guide, we break down current 2026 costs, factors that affect pricing, examples for popular amounts, and why choosing a transparent provider like proofoffund.com.ng gives you the best value.

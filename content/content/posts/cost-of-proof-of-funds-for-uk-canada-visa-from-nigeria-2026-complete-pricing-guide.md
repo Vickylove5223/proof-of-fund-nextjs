@@ -13,23 +13,27 @@ description: >-
 seo_title: >-
   Cost of Proof of Funds for UK & Canada Visa from Nigeria 2026: Complete
   Pricing Guide
+image: /images/finance-2.png
 ---
-
-One of the most frequently asked questions by Nigerian applicants is: \*\*How much does temporary Proof of Funds (POF) cost for UK and Canada visas?\*\* Getting legitimate temporary funding for your bank statements can be the difference between visa approval and refusal, but understanding the pricing is crucial. In this guide, we break down current 2026 costs, factors that affect pricing, examples for popular amounts, and why choosing a transparent provider like proofoffund.com.ng gives you the best value.
+\*\* Getting legitimate temporary funding for your bank statements can be the difference between visa approval and refusal, but understanding the pricing is crucial. ng gives you the best value.
 
 ### What is Temporary Proof of Funds?
 
-Temporary POF involves partnering with CBN-licensed finance houses to fund your existing or new account in a Tier-1 bank (Access, GTB, Zenith, UBA, etc.) with real money. The funded portion is placed under a lien/mandate so it cannot be withdrawn during the visa processing period, while you receive full statements and supporting letters. This service is widely used for UK Student/Visitor visas (28-day rule) and Canada Study Permit/Express Entry applications.
+) with real money. The funded portion is placed under a lien/mandate so it cannot be withdrawn during the visa processing period, while you receive full statements and supporting letters.
+
+This service is widely used for UK Student/Visitor visas (28-day rule) and Canada Study Permit/Express Entry applications.
 
 ### Current Cost of Temporary POF in Nigeria (2026)
 
-Service fees are typically charged as a \*\*percentage of the funded amount per month\*\*. Rates vary based on the provider, bank, amount, and duration. **Typical Market Rates:**
+Service fees are typically charged as a \*\*percentage of the funded amount per month\*\*. Rates vary based on the provider, bank, amount, and duration.
+
+**Typical Market Rates:**
 
 *   Low-end: 2.4% – 3% per month (for large amounts or longer durations with premium partners)
 *   Average: 3% – 3.5% per month
 *   Higher end: 4% – 5% per month (smaller amounts or certain banks)
 
-At proofoffund.com.ng, we offer some of the \*\*most competitive rates\*\* in the market through our strong partnerships. Our pricing is transparent and tailored to your specific needs.
+ng, we offer some of the \*\*most competitive rates\*\* in the market through our strong partnerships. Our pricing is transparent and tailored to your specific needs.
 
 ### Cost Examples for UK & Canada Visas
 
@@ -66,15 +70,21 @@ We focus on transparency, speed, and high success rates rather than the cheapest
 
 ### Is Temporary POF Worth the Cost?
 
-Yes — when done legitimately. The service fee is a small investment compared to the cost of visa refusal, re-application fees, and lost time. Many of our clients successfully secure UK and Canada visas after using our service.
+Yes — when done legitimately. The service fee is a small investment compared to the cost of visa refusal, re-application fees, and lost time.
+
+Many of our clients successfully secure UK and Canada visas after using our service.
 
 ### Ready to Get Affordable Temporary Proof of Funds?
 
-At proofoffund.com.ng, we provide reliable, CBN-compliant temporary POF tailored for UK, Canada, and other destinations at the best possible rates. **Contact us today** via WhatsApp or our website for a free consultation and instant pricing quote. Simply tell us:
+ng, we provide reliable, CBN-compliant temporary POF tailored for UK, Canada, and other destinations at the best possible rates. **Contact us today** via WhatsApp or our website for a free consultation and instant pricing quote.
+
+Simply tell us:
 
 *   Your destination (UK/Canada)
 *   Required amount
 *   Preferred bank
 *   Timeline
 
-We’ll give you clear pricing and the best options for your visa application. Don’t overpay or risk your visa with unprofessional providers. Get transparent, effective, and affordable Proof of Funds with us.
+We’ll give you clear pricing and the best options for your visa application. Don’t overpay or risk your visa with unprofessional providers.
+
+Get transparent, effective, and affordable Proof of Funds with us.

@@ -1,8 +1,18 @@
 ---
-title: "Securing Your Canadian Dream: Proof of Funds for Student Visa with Family (From Nigeria)"
-slug: "how-to-get-proof-of-funds-for-canada-student-visa-with-family-in-nigeria"
-date: "2025-12-02T10:34:50.000Z"
-type: "post"
+title: >-
+  Securing Your Canadian Dream: Proof of Funds for Student Visa with Family
+  (From Nigeria)
+slug: how-to-get-proof-of-funds-for-canada-student-visa-with-family-in-nigeria
+date: '2025-12-02T10:34:50.000Z'
+type: post
+description: >-
+  Dreaming of studying in Canada is exciting. Planning to bring your family
+  along makes that dream even bigger and more meaningful... | Call/WhatsApp:
+  08103669924
+seo_title: >-
+  Securing Your Canadian Dream: Proof of Funds for Student Visa with Family
+  (From Nigeria)
+image: image1.jpg
 ---
 
   
@@ -50,7 +60,7 @@ Let’s imagine you are a student heading to a Canadian college with your spouse
 
 **Total Required Proof of Funds:** CAD $38,000
 
-You would need to show a verifiable balance of at least CAD $38,000 in your bank account or investment portfolio. You can use an online tool like the [POF NG Calculator](http://afrikamombraids.local/proof-of-fund-calculator/) to estimate the amount in Naira.
+You would need to show a verifiable balance of at least CAD $38,000 in your bank account or investment portfolio. You can use an online tool like the [POF NG Calculator](/guides/proof-of-fund-calculator) to estimate the amount in Naira.
 
 ![Family looking at financial documents](image3.jpg)
 
@@ -82,7 +92,7 @@ Many applications from Nigeria are rejected due to simple, avoidable mistakes in
 3.  **Unexplained Fund Sources:** The embassy wants to see where your money came from. It’s crucial to provide a clear narration for all major credits into your account.
 4.  **Missing Dependent Documents:** Forgetting to include a marriage or birth certificate can cause immediate delays or rejection.
 
-These mistakes can be costly and heartbreaking. We have seen firsthand [why visa applications get rejected because of POF](http://afrikamombraids.local/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it/), and our service is designed to help you avoid them entirely.
+These mistakes can be costly and heartbreaking. We have seen firsthand [why visa applications get rejected because of POF](/guides/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it), and our service is designed to help you avoid them entirely.
 
 ![POF NG helps you secure your funds](image5.jpg)
 

@@ -1,8 +1,14 @@
 ---
-title: "How to Get Proof of Funds Loan in Nigeria"
-slug: "how-to-get-proof-of-funds-loan-in-nigeria"
-date: "2025-11-27T10:55:15.000Z"
-type: "post"
+title: How to Get Proof of Funds Loan in Nigeria
+slug: how-to-get-proof-of-funds-loan-in-nigeria
+date: '2025-11-27T10:55:15.000Z'
+type: post
+description: |-
+  How to Get Proof of Funds Loan in Nigeria
+  ========================================= | Call/WhatsApp: 08103669924
+seo_title: How to Get Proof of Funds Loan in Nigeria
+image: >-
+  https://img.b2bpic.net/premium-photo/financial-advisors-review-portfolio-together-modern-office-setting_908344-218255.jpg
 ---
 
 How to Get Proof of Funds Loan in Nigeria
@@ -37,7 +43,7 @@ We've streamlined our process to be as stress-free as possible. Here’s how you
 
 ### Step 1: Contact Us with Your Requirements
 
-The first step is to reach out to our team. You’ll need to tell us the amount of money required, the currency, and the duration it needs to stay in the account. We will review your specific [embassy or school financial requirements](http://afrikamombraids.local/learn-about-proof-of-funds-requirements-in-nigeria/) to ensure everything is perfect.
+The first step is to reach out to our team. You’ll need to tell us the amount of money required, the currency, and the duration it needs to stay in the account. We will review your specific [embassy or school financial requirements](/guides/learn-about-proof-of-funds-requirements-in-nigeria) to ensure everything is perfect.
 
 ### Step 2: Submit Basic Documentation
 
@@ -67,7 +73,7 @@ The cost typically depends on two main factors:
 *   **The Amount Required:** The higher the amount, the higher the fee, though the percentage may decrease for very large sums.
 *   **The Duration:** How long the funds need to remain in your account (e.g., 28 days, 60 days).
 
-For example, if you need to show ₦15 million for 30 days, a finance company might charge a service fee between 2.5% and 3.5%. This means you would pay a one-time fee of ₦375,000 to ₦525,000. This is far more achievable than sourcing the full ₦15 million. You can use our [POF calculator](http://afrikamombraids.local/proof-of-fund-calculator/) to get a quick estimate.
+For example, if you need to show ₦15 million for 30 days, a finance company might charge a service fee between 2.5% and 3.5%. This means you would pay a one-time fee of ₦375,000 to ₦525,000. This is far more achievable than sourcing the full ₦15 million. You can use our [POF calculator](/guides/proof-of-fund-calculator) to get a quick estimate.
 
 This service is a testament to the innovative financial solutions available to support the growing number of Nigerians seeking opportunities abroad, a trend noted by sources like [Premium Times](https://www.premiumtimesng.com/features-and-interviews/538763-analysis-why-more-nigerians-are-seeking-foreign-education.html).
 

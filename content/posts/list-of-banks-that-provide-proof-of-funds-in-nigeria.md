@@ -1,11 +1,18 @@
 ---
-title: "20 List of banks that provide proof of funds in Nigeria"
-slug: "list-of-banks-that-provide-proof-of-funds-in-nigeria"
-date: "2025-02-16T17:30:48.000Z"
-type: "post"
+title: 20 List of banks that provide proof of funds in Nigeria
+slug: list-of-banks-that-provide-proof-of-funds-in-nigeria
+date: '2025-02-16T17:30:48.000Z'
+type: post
+description: >-
+  Are you looking for a list of banks in Nigeria that provide proof of funds for
+  JAPA, study, family relocation, or other purposes... | Call/WhatsApp:
+  08103669924
+seo_title: 20 List of banks that provide proof of funds in Nigeria
+image: >-
+  /wp-content/uploads/2025/09/application-form-information-employment-concept_53876-128011-300x200.jpg
 ---
 
-**Are you looking for a list of banks in Nigeria that provide proof of funds for JAPA, study, family relocation, or other purposes?** Great! You’ve come to the right place. Proof of Funds (POF) is a crucial document for visa applications, school admissions, or even business opportunities. But not all banks in Nigeria make it easy to get one. Don’t worry—we’ve got you covered! In this post, we’ll share a list of banks that you can use for your proof of funds in Nigeria, along with tips to make the process smoother. Plus, if you need help getting your proof of funds quickly and affordably, **POF NG** is here to assist. Let’s dive in! ![](http://afrikamombraids.local/wp-content/uploads/2025/09/application-form-information-employment-concept_53876-128011-300x200.jpg)
+**Are you looking for a list of banks in Nigeria that provide proof of funds for JAPA, study, family relocation, or other purposes?** Great! You’ve come to the right place. Proof of Funds (POF) is a crucial document for visa applications, school admissions, or even business opportunities. But not all banks in Nigeria make it easy to get one. Don’t worry—we’ve got you covered! In this post, we’ll share a list of banks that you can use for your proof of funds in Nigeria, along with tips to make the process smoother. Plus, if you need help getting your proof of funds quickly and affordably, **POF NG** is here to assist. Let’s dive in! ![](/wp-content/uploads/2025/09/application-form-information-employment-concept_53876-128011-300x200.jpg)
 
 ### **What is Proof of Funds (POF)?**
 
@@ -13,7 +20,7 @@ Proof of Funds is a document that shows you have enough money to cover your expe
 
 ### **Here is the List of Banks That You can Use for Proof of Funds in Nigeria**
 
-Keep in mind that the interest rates may vary slightly depending on the bank and you can't directly get funds from any of the banks as they don't provide Proof of Fund themselves, but you can indirectly fund  the banks account through a finance or micro finance, or enterprise businesses, [learn more here](http://afrikamombraids.local/how-to-get-proof-of-funds-in-nigeria/)
+Keep in mind that the interest rates may vary slightly depending on the bank and you can't directly get funds from any of the banks as they don't provide Proof of Fund themselves, but you can indirectly fund  the banks account through a finance or micro finance, or enterprise businesses, [learn more here](/guides/how-to-get-proof-of-funds-in-nigeria)
 
 Bank Name
 
@@ -172,7 +179,7 @@ Major Nigerian banks like Zenith Bank, Providus Bank, First Bank, UBA, and GTB B
 *   **100% legit and verifiable documents**
 *   **Live-chat Support 24/7**
 
-Get in touch with us now on [**Whatsapp here**](https://wa.link/a8pskc) We’ll handle the stress so you can focus on your JAPA dreams!
+Get in touch with us now on [**Whatsapp here**](https://wa.me/2348103669924) We’ll handle the stress so you can focus on your JAPA dreams!
 
 ### **FAQs About Proof of Funds in Nigeria**
 

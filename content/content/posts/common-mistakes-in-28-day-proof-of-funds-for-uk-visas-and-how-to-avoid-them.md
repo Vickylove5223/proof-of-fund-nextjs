@@ -8,9 +8,12 @@ description: >-
   of Funds  requirement. Many applicants—even those w... | Call/WhatsApp:
   08103669924
 seo_title: Common Mistakes in 28-Day Proof of Funds for UK Visas (and How to Avoid Them)
+image: >-
+  https://img.freepik.com/free-photo/visa-application-form-smartphone_23-2149117778.jpg?uid=R45719163&ga=GA1.1.1313607400.1731226079&semt=ais_hybrid&w=740&q=80
 ---
+When applying for a **UK visa**, one of the biggest hurdles is meeting the **Proof of Funds (POF) requirement**. Many applicants—even those who qualify financially—get rejected because of mistakes in preparing their **28-day bank statement**.
 
-When applying for a **UK visa**, one of the biggest hurdles is meeting the **Proof of Funds (POF) requirement**. Many applicants—even those who qualify financially—get rejected because of mistakes in preparing their **28-day bank statement**. In this post, we’ll break down the **most common errors people make with 28-day Proof of Funds**, how they lead to **visa refusals**, and the correct way to prepare your documents.
+In this post, we’ll break down the **most common errors people make with 28-day Proof of Funds**, how they lead to **visa refusals**, and the correct way to prepare your documents.
 
 ### What Is the 28-Day Proof of Funds Rule?
 
@@ -40,7 +43,7 @@ Submitting screenshots or incomplete records. The statement must be on official 
 
 #### 4\. Unexplained Large Deposits
 
-Sudden inflows without explanation raise red flags. You must show the source of funds (salary slips, business transactions, property sales, etc.).
+Sudden inflows without explanation raise red flags. ).
 
 #### 5\. Miscalculating the Required Amount
 
@@ -68,7 +71,7 @@ The 28-day Proof of Funds rule applies to:
 
 #### Can I use my sponsor’s account for Proof of Funds?
 
-Yes, but only for immediate family members like parents, spouse, or siblings. You’ll need documents (e.g., birth certificate, marriage certificate) to prove the relationship.
+Yes, but only for immediate family members like parents, spouse, or siblings. , birth certificate, marriage certificate) to prove the relationship.
 
 #### What happens if my balance drops below the required amount during the 28 days?
 
@@ -76,15 +79,19 @@ Your application will be refused. The balance must remain above the required thr
 
 #### Can I combine multiple accounts for Proof of Funds?
 
-Yes, you can use more than one account, but each account must meet the official requirements (official statements, traceable funds, etc.).
+).
 
 #### Do UKVI accept microfinance or fintech banks like Opay or Moniepoint?
 
-No. It’s safer to use a traditional commercial bank licensed by the Central Bank. Many embassies reject statements from microfinance or digital wallets.
+No. It’s safer to use a traditional commercial bank licensed by the Central Bank.
+
+Many embassies reject statements from microfinance or digital wallets.
 
 #### Can I backdate my account or borrow money temporarily?
 
-This is a huge risk. UKVI can detect inconsistencies, and it could lead to refusal or even a visa ban. Always use genuine, traceable funds.
+This is a huge risk. UKVI can detect inconsistencies, and it could lead to refusal or even a visa ban.
+
+Always use genuine, traceable funds.
 
 ### Final Thoughts
 

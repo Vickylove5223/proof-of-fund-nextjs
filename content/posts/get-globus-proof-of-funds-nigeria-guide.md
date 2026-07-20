@@ -1,8 +1,14 @@
 ---
-title: "Get Globus Proof of Funds in Nigeria: Your Step-by-Step Guide"
-slug: "get-globus-proof-of-funds-nigeria-guide"
-date: "2025-11-17T06:44:50.000Z"
-type: "post"
+title: 'Get Globus Proof of Funds in Nigeria: Your Step-by-Step Guide'
+slug: get-globus-proof-of-funds-nigeria-guide
+date: '2025-11-17T06:44:50.000Z'
+type: post
+description: >-
+  \IMAGE: A person holding a passport and visa application documents,
+  representing the process of getting Globus Proof of funds in... |
+  Call/WhatsApp: 08103669924
+seo_title: 'Get Globus Proof of Funds in Nigeria: Your Step-by-Step Guide'
+image: /images/finance-2.png
 ---
 
 \[IMAGE: A person holding a passport and visa application documents, representing the process of getting Globus Proof of funds in Nigeria.\]
@@ -32,7 +38,7 @@ This is precisely where we come in. At POF NG, we specialize in bridging this ga
 How We Help You Get Your Globus Proof of Funds: A Step-by-Step Process
 ----------------------------------------------------------------------
 
-Our process for [getting a Proof of Funds in Nigeria](http://afrikamombraids.local/how-to-get-proof-of-fund-in-nigeria/) is designed to be simple, secure, and fast. We act as your trusted agent, connecting you with reliable financial partners who can assist with the funding.
+Our process for [getting a Proof of Funds in Nigeria](/guides/how-to-get-proof-of-fund-in-nigeria) is designed to be simple, secure, and fast. We act as your trusted agent, connecting you with reliable financial partners who can assist with the funding.
 
 \[IMAGE: A simple infographic showing the four-step process to get proof of funds with POF NG.\]
 
