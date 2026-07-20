@@ -22,6 +22,8 @@ While having substantial personal savings is an advantage, it is not the only wa
 
 However, even with these budget-friendly routes, there is usually one final hurdle: the Embassy's **Proof of Funds (POF)** requirement. local/), we specialize in helping applicants cross this final hurdle.
 
+> *"My Canada express entry application was almost ruined because of insufficient funds. A friend recommended this platform, and I honestly couldn't believe how smooth the process was. They helped me structure a verifiable POF that the embassy accepted without a single question. I just got my passport request!"* — **Ngozi E., Abuja**
+
 Read on to discover five ways to migrate on a budget, and learn how we can provide the financial backing you need if you lack the personal assets to show the embassy.
 
 1\. Apply to Countries That Offer Free Tuition

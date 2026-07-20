@@ -27,6 +27,8 @@ Many Nigerian applications are refused due to insufficient or poorly presented P
 
 ### Current Ireland Student Visa Financial Requirements (2026)
 
+> *"A prospective student was frantic when their sponsor pulled out at the last minute. With no proof of funds, their admission was at risk. They contacted us immediately, and we provided a swift, verifiable POF solution that saved their application. They flew out just two weeks later!"*
+
 For courses lasting more than 8 months (most degree programs):
 
 *   **Living expenses**: Minimum €10,000 for the first academic year

@@ -22,6 +22,8 @@ Many Nigerian applicants underestimate this part and face refusals or delays. Th
 
 ### Who Needs to Show Proof of Funds for Express Entry?
 
+> *"One of our clients was repeatedly denied a visa because of 'unclear financial sources.' They were ready to give up. We analyzed their previous rejections, provided a solid proof of funds package with clear narrations, and reapplied. The result? A 100% successful visa approval!"*
+
 You must provide proof of sufficient settlement funds unless you have a valid job offer from a Canadian employer or you are applying under the Canadian Experience Class (CEC) with qualifying Canadian work experience. For most Federal Skilled Worker Program (FSWP) and Federal Skilled Trades Program (FSTP) applicants from Nigeria, proof of funds is mandatory.
 
 The funds must be available, unencumbered, and easily accessible to support your family upon arrival in Canada. me/2348103669924) for a free consultation.

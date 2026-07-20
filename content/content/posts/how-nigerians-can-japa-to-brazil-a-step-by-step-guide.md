@@ -22,6 +22,8 @@ The journey, however, requires careful planning and preparation.
 
 We understand that navigating the visa process can feel overwhelming. That's why we've created this comprehensive guide on how Nigerians can successfully japa to Brazil.
 
+> *"After two devastating visa refusals because of 'unclear source of funds', I knew I needed expert help. The team here didn't just give me the funds; they guided me on how to present a solid financial profile to the embassy. Third time's the charm—my visa was finally approved!"* — **Blessing U., Enugu**
+
 We'll walk you through the visa types, application steps, and the critical role of financial proof.
 
 Why Brazil is a Great Choice for Nigerians

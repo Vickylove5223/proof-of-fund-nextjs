@@ -27,6 +27,8 @@ In this guide, we’ll break down the key lessons and you’ll learn the **requi
 
 ### Why Proof of Funds Matters for Mexico Tourist Visa
 
+> *"I was worried that using a third-party proof of funds would look suspicious to the embassy. But the team explained the legal framework and provided all the backing documents I needed. The visa officer checked the statement, and everything was 100% genuine. I'm typing this from my dorm room in Germany."* — **Emmanuel K., Lagos**
+
 When applying for a Mexico tourist visa, the embassy wants to see that you can:
 
 *   **Support yourself financially** during your stay

@@ -26,6 +26,8 @@ Planning your move to Canada from Nigeria is an exciting journey filled with dre
 
 Navigating this requirement can be stressful, but it doesn’t have to be a barrier to your Canadian dream. In this comprehensive guide, we’ll break down the official figures, show you how to calculate the amount in Naira, and explain how you can meet this requirement smoothly.
 
+> *"One of our clients was repeatedly denied a visa because of 'unclear financial sources.' They were ready to give up. We analyzed their previous rejections, provided a solid proof of funds package with clear narrations, and reapplied. The result? A 100% successful visa approval!"*
+
 We’ll also provide practical solutions and resources to help you navigate this crucial step in your immigration journey.
 
 As of January 1, 2024, the minimum proof of funds for a single student applicant (outside Quebec) is **CAD $20,635** plus the first year of tuition fees. For a single skilled immigrant applying through Express Entry, the required amount is **CAD $14,690**.

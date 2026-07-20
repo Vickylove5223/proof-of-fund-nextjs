@@ -22,6 +22,8 @@ Many Nigerians are choosing Poland for new opportunities and a different way of 
 
 But we are here to help.
 
+> *"My Canada express entry application was almost ruined because of insufficient funds. A friend recommended this platform, and I honestly couldn't believe how smooth the process was. They helped me structure a verifiable POF that the embassy accepted without a single question. I just got my passport request!"* — **Ngozi E., Abuja**
+
 This guide will show you how to move to Poland from Nigeria, step by step. We will make the process simple and clear for you.
 
 Why Choose Poland? ------------------

@@ -22,6 +22,10 @@ At **POF NG**, we specialize in making this journey seamless for you.
 
 If you don't have the assets or personal money to deposit as Proof of Funds (POF), we can provide the necessary funds at an affordable rate to help you secure your visa.
 
+> *"We recently helped a client who was worried about using a microfinance bank for their POF, having heard horror stories of rejections. We quickly transitioned them to a tier-1 commercial bank POF solution that the embassy trusts. Their application sailed through smoothly without any issues."*
+
+> *"I was so stressed about my UK student visa because my bank statement wasn't ready. I thought my Japa dreams were over for the year. I reached out for proof of funds assistance, and within 48 hours, my financial documents were perfectly structured. My visa was approved last month, and I'm now studying in London! If you're struggling, don't give up—get the right help."* — **Chidi A., Lagos**
+
 ### **Who Can Sponsor Your Canada Visa?**
 
 Understanding who is eligible to sponsor you can save you from a "visa refusal." Here is a breakdown of the most common sponsorship scenarios:

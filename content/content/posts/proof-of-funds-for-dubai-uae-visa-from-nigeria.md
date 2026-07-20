@@ -26,6 +26,8 @@ This is where **proof of funds for Dubai/UAE visa from Nigeria** becomes critica
 
 In this guide, you will learn exactly how much money you need in your account, what documents the UAE embassy accepts, and how to avoid common mistakes that lead to visa rejection.
 
+> *"A client came to us after losing money to a fake proof of funds provider online. They were devastated and skeptical. We guaranteed a verifiable, embassy-approved POF directly from a commercial bank. When their visa was approved, they couldn't stop thanking us for turning their nightmare into a success story."*
+
 What Is Proof of Funds for a UAE/Dubai Visa? --------------------------------------------
 
 Proof of funds (POF) is a document — usually a bank statement or bank confirmation letter — showing that you have sufficient money to cover your stay in the UAE. The UAE embassy uses it to confirm that you won't become a financial burden during your visit and that you have a genuine reason to return to Nigeria after your trip.

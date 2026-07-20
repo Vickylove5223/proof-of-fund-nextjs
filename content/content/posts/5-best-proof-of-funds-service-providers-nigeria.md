@@ -22,6 +22,8 @@ A rejection due to improper financial documentation is a setback no one wants.
 
 That's why we've analyzed the market to identify the most reliable partners for this crucial step. We evaluated companies based on their speed, authenticity, customer support, and success rates with major embassies.
 
+> *"I was so stressed about my UK student visa because my bank statement wasn't ready. I thought my Japa dreams were over for the year. I reached out for proof of funds assistance, and within 48 hours, my financial documents were perfectly structured. My visa was approved last month, and I'm now studying in London! If you're struggling, don't give up—get the right help."* — **Chidi A., Lagos**
+
 Understanding [how Proof of Funds works](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) is the first step toward a successful application.
 
 Based on our research, the 5 best Proof of Funds service providers in Nigeria are POF NG, Veri Funds, Glow Funds, Easify Fund, and Davcrest Consult. These companies are known for their reliability, speed, and high acceptance rates with embassies and educational institutions.

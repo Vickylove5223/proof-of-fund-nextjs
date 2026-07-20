@@ -22,6 +22,8 @@ Navigating these requirements can feel overwhelming, but with the right guidance
 
 At POF NG, we help Nigerians streamline one of the most challenging parts of this process. In this guide, we’ll walk you through the 10 essential requirements you need to meet when traveling abroad for work from Nigeria.
 
+> *"One of our clients was so confused about whether to use a fixed deposit or a current account for their proof of funds. We provided expert consultation, set up the perfect account structure, and supplied the necessary funds. Their confidence was restored, and their visa was approved shortly after."*
+
 The key requirements for Nigerians traveling abroad for work include a valid international passport, a work visa or permit, an official employment contract, verifiable Proof of Funds (POF), a police clearance certificate, a medical examination report, comprehensive travel insurance, pre-departure orientation, and a clear understanding of your tax obligations.
 
 ![Nigerian International Passport](image-placeholder-passport)

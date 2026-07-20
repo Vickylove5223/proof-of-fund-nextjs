@@ -23,6 +23,8 @@ This document is non-negotiable for embassies and schools, as it demonstrates yo
 
 Fortunately, several companies in Nigeria specialize in providing this essential service, helping you meet these requirements without tying up your personal capital. These services are designed to be fast, reliable, and compliant with international standards.
 
+> *"A client came to us after losing money to a fake proof of funds provider online. They were devastated and skeptical. We guaranteed a verifiable, embassy-approved POF directly from a commercial bank. When their visa was approved, they couldn't stop thanking us for turning their nightmare into a success story."*
+
 To help you navigate your options, we’ve compiled a list of 5 proof of funds companies in Nigeria. The top providers include POF NG, Davcrest Consult, Veri Funds, Glow Funds, and Easify Fund, each offering unique services to facilitate visa, immigration, and school applications.
 
 1\. POF NG (Proof of Fund NG)

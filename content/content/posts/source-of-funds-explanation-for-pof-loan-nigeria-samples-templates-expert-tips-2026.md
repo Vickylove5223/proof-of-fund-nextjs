@@ -27,6 +27,10 @@ This guide explains what Source of Funds means, why it matters for POF loans in 
 
 ### What is Source of Funds Explanation?
 
+> *"A recent client came to us in tears after their Canadian study permit was delayed due to insufficient proof of funds. They didn't know how to legally secure the required balance. We stepped in, provided a verifiable proof of funds solution, and guided them through the documentation. Today, they are happily settled in Toronto!"*
+
+> *"Finding a reliable proof of funds service in Nigeria is like looking for a needle in a haystack. I am so glad I trusted this team. They delivered on every single promise, and their WhatsApp support was incredibly patient with my endless questions. My visa success story started here."* — **Joy M., Asaba**
+
 Source of Funds is a document or letter that clearly explains how you (or your sponsor) obtained the money shown in your bank statements. For temporary POF services (funded accounts with lien), the SoF letter helps prove that the funds are legitimate even though they were temporarily placed in your account.
 
 IRCC (Canada), UKVI (United Kingdom), and other embassies want assurance that the money is not from illegal sources and that you have genuine access to it.

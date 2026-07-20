@@ -23,6 +23,8 @@ However, one of the most critical steps in this process is the visa application,
 
 Many applicants get nervous about this step, but there's no need to worry. We're here to break down exactly what embassies are looking for and show you the best way to provide evidence of sufficient funds for your visa application.
 
+> *"I almost gave up on my dream of studying in Australia because the POF requirement was just too high. Then I discovered I could legally get a POF loan. They funded the exact amount I needed for my visa application, and my student visa was granted two weeks ago. Highly recommended!"* — **David O., Port Harcourt**
+
 The best evidence of sufficient funds for a Nigerian visa application is an official, verifiable bank statement that clearly shows you have enough money to cover your travel, tuition, and living expenses for the duration of your stay. This document, officially called a Proof of Funds (POF), is the primary way to demonstrate your financial stability to the embassy or immigration office.
 
 What Exactly is Proof of Funds (POF)? -------------------------------------

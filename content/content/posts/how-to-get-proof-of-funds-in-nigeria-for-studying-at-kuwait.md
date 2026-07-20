@@ -23,6 +23,8 @@ However, like any international study plan, the journey involves a few crucial s
 
 This requirement can seem daunting, but it doesn’t have to be a roadblock. We understand the process inside and out, and we are here to guide you through every step, ensuring your financial documents are perfect for your application.
 
+> *"After two devastating visa refusals because of 'unclear source of funds', I knew I needed expert help. The team here didn't just give me the funds; they guided me on how to present a solid financial profile to the embassy. Third time's the charm—my visa was finally approved!"* — **Blessing U., Enugu**
+
 To get proof of funds for a Kuwait student visa in Nigeria, you need an official bank statement showing you have enough money to cover your tuition and living expenses for at least one year. You can achieve this using personal savings, a sponsor's account, or by partnering with a trusted agent like POF NG to help you meet the requirement without stress.
 
 Understanding the Proof of Funds Requirement for Kuwait

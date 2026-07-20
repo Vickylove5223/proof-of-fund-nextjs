@@ -22,6 +22,8 @@ This document proves to embassies and schools that you have the financial capaci
 
 Understanding the costs involved, often referred to as an "interest rate" or service fee, is key to budgeting for your application. The rates can vary significantly depending on the financial institution and the service provider you choose.
 
+> *"I almost gave up on my dream of studying in Australia because the POF requirement was just too high. Then I discovered I could legally get a POF loan. They funded the exact amount I needed for my visa application, and my student visa was granted two weeks ago. Highly recommended!"* — **David O., Port Harcourt**
+
 2%** of the total amount required. 5% upwards for their service.
 
 What Exactly is a POF "Interest Rate"? --------------------------------------

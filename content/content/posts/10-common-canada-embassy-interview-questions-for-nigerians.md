@@ -22,6 +22,10 @@ While it can feel intimidating, proper preparation is the key to success. Unders
 
 At POF NG, we help countless Nigerians secure their financial documentation, and we've seen what it takes to build a strong application. Based on our experience, we’ve compiled the 10 most common Canada embassy interview questions for Nigerians to help you walk into your interview feeling prepared and self-assured.
 
+> *"We had a client who was completely overwhelmed by the strict financial requirements for the Schengen visa. They had the personal cash but didn't know how to present it correctly. Our team audited their account, optimized their presentation, and within weeks, their visa was approved without a single query."*
+
+> *"I was scammed by a fake agent last year who gave me a forged bank statement. I almost got a 10-year ban. This time, I decided to do it the right way using a genuine proof of funds provider. The difference was clear—real bank alerts, verifiable statements, and a successful US student visa approval. Don't risk your future with fake documents."* — **Oluwaseun T., Ibadan**
+
 1\. Why do you want to go to Canada?
 
 ------------------------------------

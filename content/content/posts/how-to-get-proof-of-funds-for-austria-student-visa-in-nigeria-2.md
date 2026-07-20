@@ -22,6 +22,8 @@ Dreaming of studying in the beautiful cities of Vienna, Salzburg, or Graz? Austr
 
 For many Nigerian students, this dream is within reach. However, one of the most critical steps in the process is securing your student visa, and a key part of that is providing Proof of Funds (POF).
 
+> *"A recent client came to us in tears after their Canadian study permit was delayed due to insufficient proof of funds. They didn't know how to legally secure the required balance. We stepped in, provided a verifiable proof of funds solution, and guided them through the documentation. Today, they are happily settled in Toronto!"*
+
 Navigating the financial requirements can feel confusing, but we are here to simplify it for you. At POF NG, we've helped countless students successfully meet their visa requirements, and we can guide you through every step.
 
 To get Proof of Funds for an Austria student visa in Nigeria, you must show you have sufficient funds to cover your living expenses for one year. This is typically done by providing a bank statement from a Nigerian bank showing the required amount in your account, a letter of sponsorship, or by using a trusted service like POF NG to help you meet the financial threshold required by the Austrian embassy.

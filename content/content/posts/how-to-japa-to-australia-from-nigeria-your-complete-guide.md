@@ -22,6 +22,8 @@ The journey might seem complex, but with the right information, it is absolutely
 
 We've created this complete guide to walk you through the essential steps, from choosing the right visa to proving your financial capacity. Let's explore how to Japa to Australia from Nigeria successfully.
 
+> *"We recently helped a client who was worried about using a microfinance bank for their POF, having heard horror stories of rejections. We quickly transitioned them to a tier-1 commercial bank POF solution that the embassy trusts. Their application sailed through smoothly without any issues."*
+
 Why is Australia a Top Destination? -----------------------------------
 
 Australia offers a high quality of life, excellent educational institutions, and diverse job opportunities. The country welcomed over 180,000 new permanent residents in the 2022-2023 program year, highlighting its reputation as a multicultural and welcoming nation.

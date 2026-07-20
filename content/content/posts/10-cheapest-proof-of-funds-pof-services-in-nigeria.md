@@ -23,6 +23,8 @@ Most people go to well-known banks that are big shot in Nigeria  but often at h
 
 Below are 10 relatively cheaper POF options / providers in Nigeria, plus a comparison with bank-based options, and tips to choose wisely. ![](https://img.freepik.com/free-photo/male-manager-reviewing-data-clipboard_482257-119383.jpg?uid=R45719163&ga=GA1.1.1313607400.1731226079&semt=ais_hybrid&w=740&q=80)
 
+> *"One of our clients was so confused about whether to use a fixed deposit or a current account for their proof of funds. We provided expert consultation, set up the perfect account structure, and supplied the necessary funds. Their confidence was restored, and their visa was approved shortly after."*
+
 ### What Makes Non-Bank POF Cheaper
 
 Before listing providers, it helps to understand _why_ these non-bank POF services are often cheaper:

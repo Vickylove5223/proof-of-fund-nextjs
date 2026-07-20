@@ -26,6 +26,8 @@ However, as many prospective migrants soon realize, the biggest hurdle to crossi
 
 local/), we consult with thousands of applicants facing this exact challenge. Many people unknowingly sabotage their visa applications due to poorly structured bank statements.
 
+> *"A prospective student was frantic when their sponsor pulled out at the last minute. With no proof of funds, their admission was at risk. They contacted us immediately, and we provided a swift, verifiable POF solution that saved their application. They flew out just two weeks later!"*
+
 In this post, we will break down the crucial rules for presenting a bulletproof financial profile, how to handle self-sponsorship versus using a guarantor, and—most importantly—how we can help you if you currently lack the millions of Naira required to sit in your account.
 
 1\. Stop Consolidating "Scattered" Accounts at the Last Minute

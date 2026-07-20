@@ -23,6 +23,8 @@ The definitive answer is that successfully handling 20 list of banks that provid
 
 Proof of Funds is a document that shows you have enough money to cover your expenses while abroad. It’s required by embassies, universities, and immigration offices to ensure you can sustain yourself financially.
 
+> *"A client came to us after losing money to a fake proof of funds provider online. They were devastated and skeptical. We guaranteed a verifiable, embassy-approved POF directly from a commercial bank. When their visa was approved, they couldn't stop thanking us for turning their nightmare into a success story."*
+
 Whether you’re JAPAing for study, work, or family reasons, you’ll need a POF to make your dreams a reality.
 
 ### **Here is the List of Banks That You can Use for Proof of Funds in Nigeria**

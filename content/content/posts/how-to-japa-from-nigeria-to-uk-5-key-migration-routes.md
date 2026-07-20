@@ -22,6 +22,8 @@ But navigating the complex immigration system can feel overwhelming. Where do yo
 
 At POF NG, we help countless Nigerians take the first crucial step by securing their financial documentation. In this guide, we’ll break down the five most common and effective ways to JAPA from Nigeria to the UK, making your journey clearer and more achievable.
 
+> *"We had a client who was completely overwhelmed by the strict financial requirements for the Schengen visa. They had the personal cash but didn't know how to present it correctly. Our team audited their account, optimized their presentation, and within weeks, their visa was approved without a single query."*
+
 1\. The Student Visa Route
 --------------------------
 

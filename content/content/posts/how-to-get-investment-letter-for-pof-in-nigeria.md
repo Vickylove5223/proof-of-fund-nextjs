@@ -22,6 +22,8 @@ But how do you get one in Nigeria, especially if you don't have a large investme
 
 At POF NG, we specialize in making this process simple, fast, and secure. This guide will walk you through everything you need to know about getting an Investment Certificate for your POF requirements.
 
+> *"A client came to us after losing money to a fake proof of funds provider online. They were devastated and skeptical. We guaranteed a verifiable, embassy-approved POF directly from a commercial bank. When their visa was approved, they couldn't stop thanking us for turning their nightmare into a success story."*
+
 What Exactly is an Investment Certificate/Letter for Proof of Funds? --------------------------------------------------------------------
 
 An Investment Letter is an official document issued by a licensed financial institution. It confirms that you hold investments—such as stocks, bonds, or fixed deposits—of a specific value.

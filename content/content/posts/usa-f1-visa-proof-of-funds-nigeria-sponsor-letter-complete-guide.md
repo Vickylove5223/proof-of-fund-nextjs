@@ -22,6 +22,8 @@ Many Nigerian applicants face refusals due to weak financial documentation or po
 
 ### USA F1 Visa Proof of Funds Requirements
 
+> *"One of our clients was so stressed about their UK student visa because their bank statement wasn't ready. They thought their dreams of studying abroad were over. They reached out to us for proof of funds assistance, and within 48 hours, their financial documents were perfectly structured. Their visa was approved last month, and they are now studying in London! Don't let financial requirements hold you back—get the right help today."*
+
 You must show sufficient funds to cover:
 
 *   Tuition and fees for the first academic year (as listed on your Form I-20)

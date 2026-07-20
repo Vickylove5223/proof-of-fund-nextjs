@@ -23,6 +23,8 @@ But then you hit a common and often stressful roadblock: the need to provide Pro
 
 Understanding how to provide proof of funds correctly is crucial for the success of your application. It’s the way you demonstrate to an embassy or institution that you are financially capable of supporting yourself during your stay.
 
+> *"I was scammed by a fake agent last year who gave me a forged bank statement. I almost got a 10-year ban. This time, I decided to do it the right way using a genuine proof of funds provider. The difference was clear—real bank alerts, verifiable statements, and a successful US student visa approval. Don't risk your future with fake documents."* — **Oluwaseun T., Ibadan**
+
 Providing Proof of Funds involves showing official documents like bank statements, sponsorship letters, or fixed deposit certificates to an embassy or school to prove you have sufficient financial resources for your trip. These documents must be authentic, verifiable, and meet the specific financial requirements of your chosen country or institution.
 
 What is Proof of Funds and Why is it So Important? --------------------------------------------------

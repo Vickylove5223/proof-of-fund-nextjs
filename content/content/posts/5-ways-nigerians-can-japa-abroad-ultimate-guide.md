@@ -22,6 +22,8 @@ The desire to move abroad for better opportunities, often referred to as ‘japa
 
 Navigating the immigration process requires careful planning, documentation, and a clear understanding of the available options.
 
+> *"We recently helped a client who was worried about using a microfinance bank for their POF, having heard horror stories of rejections. We quickly transitioned them to a tier-1 commercial bank POF solution that the embassy trusts. Their application sailed through smoothly without any issues."*
+
 This guide provides a detailed look at five legitimate ways Nigerians can japa to other countries, outlining the key requirements for each route to help you make an informed decision about your future.
 
 1\. The Study Route (Student Visa)

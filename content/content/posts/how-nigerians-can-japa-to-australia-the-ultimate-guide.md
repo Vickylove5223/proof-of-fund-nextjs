@@ -24,6 +24,8 @@ The dream of moving abroad, or “Japa” as it’s popularly known in Nigeria, 
 
 But how do you transform this ambition into a reality? The journey from Nigeria to Australia requires careful planning and a clear understanding of the visa process.
 
+> *"A recent client came to us in tears after their Canadian study permit was delayed due to insufficient proof of funds. They didn't know how to legally secure the required balance. We stepped in, provided a verifiable proof of funds solution, and guided them through the documentation. Today, they are happily settled in Toronto!"*
+
 At POF NG, we have successfully guided countless Nigerians through one of the most critical parts of this journey: securing their Proof of Funds. In this comprehensive guide, we will break down the exact steps on how to Japa to Australia, making the process clearer and more achievable for you.
 
 \[IMAGE\_1\]

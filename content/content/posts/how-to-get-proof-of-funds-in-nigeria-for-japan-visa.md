@@ -23,6 +23,10 @@ One of the most critical steps is providing Proof of Funds (POF).
 
 This requirement can feel daunting, but it doesn't have to be. The Japanese Embassy simply wants to see that you have the financial capacity to cover your trip without any issues.
 
+> *"A client came to us after losing money to a fake proof of funds provider online. They were devastated and skeptical. We guaranteed a verifiable, embassy-approved POF directly from a commercial bank. When their visa was approved, they couldn't stop thanking us for turning their nightmare into a success story."*
+
+> *"My Canada express entry application was almost ruined because of insufficient funds. A friend recommended this platform, and I honestly couldn't believe how smooth the process was. They helped me structure a verifiable POF that the embassy accepted without a single question. I just got my passport request!"* — **Ngozi E., Abuja**
+
 At POF NG, we help applicants like you meet this requirement every day, smoothly and securely.
 
 To get Proof of Funds for a Japan visa in Nigeria, you need a bank statement showing sufficient funds to cover your flights, accommodation, and daily expenses for the duration of your stay. local/) to arrange for the required amount to be shown in your account temporarily, ensuring your documents are authentic and verifiable by the embassy.

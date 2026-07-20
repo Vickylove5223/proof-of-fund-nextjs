@@ -22,6 +22,8 @@ For many Nigerian students, this dream is within reach, but one of the most crit
 
 Navigating the financial requirements can be confusing, but we’re here to help. This guide will break down everything you need to know about getting Proof of Funds for your Austria student visa application in Nigeria, making the process clear and manageable.
 
+> *"A recent client came to us in tears after their Canadian study permit was delayed due to insufficient proof of funds. They didn't know how to legally secure the required balance. We stepped in, provided a verifiable proof of funds solution, and guided them through the documentation. Today, they are happily settled in Toronto!"*
+
 To get Proof of Funds for an Austria student visa in Nigeria, you must demonstrate you have enough money to cover your living expenses for one year. This involves providing official bank statements or a sponsor’s financial guarantee showing you meet the specific amount set by the Austrian government.
 
 You must then submit these verified documents as part of your visa application at the Austrian embassy.

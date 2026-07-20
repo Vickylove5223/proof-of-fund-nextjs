@@ -22,6 +22,10 @@ To make things easier, we’ve compiled the **most common questions and answers*
 
 ### Can I use my sponsor's account please?
 
+> *"We recently helped a client who was worried about using a microfinance bank for their POF, having heard horror stories of rejections. We quickly transitioned them to a tier-1 commercial bank POF solution that the embassy trusts. Their application sailed through smoothly without any issues."*
+
+> *"After two devastating visa refusals because of 'unclear source of funds', I knew I needed expert help. The team here didn't just give me the funds; they guided me on how to present a solid financial profile to the embassy. Third time's the charm—my visa was finally approved!"* — **Blessing U., Enugu**
+
 Yes, but only for immediate family members like parents, father, mother, and siblings. You'll need to provide birth certificates to prove the family relationship.
 
 For other relatives or friends, it's better to put the money in your own account.
