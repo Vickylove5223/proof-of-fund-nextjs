@@ -1,6 +1,6 @@
 media:
   input: public/wp-content/uploads
-  output: /wp-content/upload
+  output: /wp-content/uploads
 
 content:
   - name: posts
