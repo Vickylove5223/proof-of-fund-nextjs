@@ -18,18 +18,23 @@ content:
       - name: slug
         label: Slug
         type: string
+        hidden: true
       - name: date
         label: Date
         type: datetime
+        hidden: true
       - name: type
         label: Type
         type: string
+        hidden: true
       - name: description
         label: Description
         type: string
+        hidden: true
       - name: seo_title
         label: SEO Title
         type: string
+        hidden: true
       - name: image
         label: Featured Image
         type: image
