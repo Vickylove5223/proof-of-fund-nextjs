@@ -203,7 +203,7 @@ export default function Home() {
             <div className="bg-white rounded-3xl overflow-hidden border-[3px] border-[#120E00] shadow-[-10px_10px_0px_#120E00] flex flex-col h-full">
               <img src="/wp-content/uploads/2025/02/colleagues-studying-together-university-library_23-2148844695.jpg" alt="How to get POF" className="w-full h-48 object-cover border-b-[3px] border-[#120E00]" />
               <div className="p-6 flex flex-col flex-grow">
-                <h3 className="font-bold text-[#120E00] mb-4 uppercase tracking-wide">HOW TO GET PROOF OF FUNDS IN NIGERIA</h3>
+                <h3 className="font-bold text-[#120E00] mb-4 tracking-wide">HOW TO GET PROOF OF FUNDS IN NIGERIA</h3>
                 <div className="mt-auto">
                   <Link href="/blog/how-to-get-proof-of-funds" className="text-sm font-black text-[#2E1499] hover:text-blue-700 transition-colors tracking-widest uppercase">READ MORE</Link>
                 </div>
@@ -213,7 +213,7 @@ export default function Home() {
             <div className="bg-white rounded-3xl overflow-hidden border-[3px] border-[#120E00] shadow-[-10px_10px_0px_#120E00] flex flex-col h-full">
               <img src="/wp-content/uploads/2025/02/tourist-carrying-baggage_23-2151747389.jpg" alt="Student Visa" className="w-full h-48 object-cover border-b-[3px] border-[#120E00]" />
               <div className="p-6 flex flex-col flex-grow">
-                <h3 className="font-bold text-[#120E00] mb-4 uppercase tracking-wide">STUDENT VISA REQUIREMENTS FROM NIGERIA</h3>
+                <h3 className="font-bold text-[#120E00] mb-4 tracking-wide">STUDENT VISA REQUIREMENTS FROM NIGERIA</h3>
                 <div className="mt-auto">
                   <Link href="/blog/student-visa-requirements" className="text-sm font-black text-[#2E1499] hover:text-blue-700 transition-colors tracking-widest uppercase">READ MORE</Link>
                 </div>
@@ -223,7 +223,7 @@ export default function Home() {
             <div className="bg-white rounded-3xl overflow-hidden border-[3px] border-[#120E00] shadow-[-10px_10px_0px_#120E00] flex flex-col h-full">
               <img src="/wp-content/uploads/2025/02/two-business-woman-cafe_1157-14528.jpg" alt="List of Banks" className="w-full h-48 object-cover border-b-[3px] border-[#120E00]" />
               <div className="p-6 flex flex-col flex-grow">
-                <h3 className="font-bold text-[#120E00] mb-4 uppercase tracking-wide">TOP LIST OF BANKS THAT PROVIDE LOANS IN NIGERIA</h3>
+                <h3 className="font-bold text-[#120E00] mb-4 tracking-wide">TOP LIST OF BANKS THAT PROVIDE LOANS IN NIGERIA</h3>
                 <div className="mt-auto">
                   <Link href="/blog/top-list-of-banks" className="text-sm font-black text-[#2E1499] hover:text-blue-700 transition-colors tracking-widest uppercase">READ MORE</Link>
                 </div>
