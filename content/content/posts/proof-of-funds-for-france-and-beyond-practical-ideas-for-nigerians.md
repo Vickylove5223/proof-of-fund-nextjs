@@ -22,6 +22,8 @@ At **POF NG**, we understand that not everyone has the immediate cash required f
 
 ### **Options for Your Proof of Funds**
 
+> *"Finding a reliable proof of funds service in Nigeria is like looking for a needle in a haystack. I am so glad I trusted this team. They delivered on every single promise, and their WhatsApp support was incredibly patient with my endless questions. My visa success story started here."* — **Joy M., Asaba**
+
 When applying for your France visa, you generally have two main routes to prove your financial standing:
 
 #### **1\. Self-Sponsorship**

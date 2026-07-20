@@ -22,6 +22,8 @@ This guide explains step by step how to calculate your **Canada student visa pro
 
 What Is Proof of Funds for Canada Student Visa? -----------------------------------------------
 
+> *"I was worried that using a third-party proof of funds would look suspicious to the embassy. But the team explained the legal framework and provided all the backing documents I needed. The visa officer checked the statement, and everything was 100% genuine. I'm typing this from my dorm room in Germany."* — **Emmanuel K., Lagos**
+
 Proof of Funds (POF) is the **minimum amount of money required to cover your tuition fees and living expenses in Canada**. Immigration, Refugees and Citizenship Canada (IRCC) requires international students to demonstrate that they can pay for their education and cost of living without financial difficulty.
 
 ### Step 1: Tuition Fees

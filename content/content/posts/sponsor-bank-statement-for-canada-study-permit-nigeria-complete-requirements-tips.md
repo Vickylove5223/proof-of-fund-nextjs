@@ -27,6 +27,8 @@ me/2348103669924) for a free consultation. Share your sponsor details, required 
 
 Don’t let weak financial documentation derail your Canadian study dream. Build a professional and convincing sponsor package the right way.
 
+> *"I was so stressed about my UK student visa because my bank statement wasn't ready. I thought my Japa dreams were over for the year. I reached out for proof of funds assistance, and within 48 hours, my financial documents were perfectly structured. My visa was approved last month, and I'm now studying in London! If you're struggling, don't give up—get the right help."* — **Chidi A., Lagos**
+
 In this detailed guide, we explain exactly what IRCC expects from sponsor bank statements, how to prepare compelling sponsor documentation, common mistakes that lead to refusals, and legitimate ways to strengthen sponsor accounts when needed.
 
 ### Why Sponsor Bank Statements Matter for Nigerian Applicants

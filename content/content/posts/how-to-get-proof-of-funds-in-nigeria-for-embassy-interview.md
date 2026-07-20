@@ -23,6 +23,8 @@ But one of the most critical components that can make or break your application 
 
 Many applicants in Nigeria struggle with this requirement. How much is enough?
 
+> *"I was scammed by a fake agent last year who gave me a forged bank statement. I almost got a 10-year ban. This time, I decided to do it the right way using a genuine proof of funds provider. The difference was clear—real bank alerts, verifiable statements, and a successful US student visa approval. Don't risk your future with fake documents."* — **Oluwaseun T., Ibadan**
+
 What kind of documents do they accept? What if you don't have the required amount sitting in your account?
 
 Don't worry, we're here to guide you through the entire process, making it simple and stress-free.

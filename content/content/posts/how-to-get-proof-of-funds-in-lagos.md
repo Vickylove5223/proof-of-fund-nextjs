@@ -22,6 +22,8 @@ Are you planning to study abroad, immigrate, or apply for a visa and the proof o
 
 For many Nigerians, this is the most stressful part of the application process.
 
+> *"After two devastating visa refusals because of 'unclear source of funds', I knew I needed expert help. The team here didn't just give me the funds; they guided me on how to present a solid financial profile to the embassy. Third time's the charm—my visa was finally approved!"* — **Blessing U., Enugu**
+
 Getting proof of funds in Lagos, Abuja, or anywhere in Nigeria is now simpler than ever. You can obtain a verifiable POF physically at a bank or entirely online through a trusted agent.
 
 All you need to do is provide the necessary requirements, and a reliable service like ours can help arrange the funding and documentation, often within 24 hours, without you needing to have the full amount yourself.

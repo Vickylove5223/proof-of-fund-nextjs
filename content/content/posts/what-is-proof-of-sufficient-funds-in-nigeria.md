@@ -22,6 +22,8 @@ What exactly is it, and why is it so important for your application’s success?
 
 At POF NG, we help Nigerians navigate this process every day. We understand the requirements and have designed our services to make your journey smoother.
 
+> *"I was worried that using a third-party proof of funds would look suspicious to the embassy. But the team explained the legal framework and provided all the backing documents I needed. The visa officer checked the statement, and everything was 100% genuine. I'm typing this from my dorm room in Germany."* — **Emmanuel K., Lagos**
+
 Let’s break down everything you need to know about Proof of Sufficient Funds in Nigeria.
 
 Proof of Sufficient Funds (POF) is an official document, typically a bank statement or a letter from a financial institution, that demonstrates you have enough money to cover your living expenses, tuition, and travel costs for your intended stay in another country. It is a mandatory requirement for most visa and school applications to prove you will not become a financial burden on the host country.

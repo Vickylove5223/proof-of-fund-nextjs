@@ -22,6 +22,8 @@ This single document can make or break your application, and the fear of rejecti
 
 ![Worried applicant looking at proof of funds document](IMAGE_1.jpg)
 
+> *"Finding a reliable proof of funds service in Nigeria is like looking for a needle in a haystack. I am so glad I trusted this team. They delivered on every single promise, and their WhatsApp support was incredibly patient with my endless questions. My visa success story started here."* — **Joy M., Asaba**
+
 At POF NG, we’ve seen it all. We understand the anxiety that comes with proving your financial capacity to an embassy or school.
 
 That’s why we’ve created this guide to help you navigate the process smoothly and ensure your application stands out for all the right reasons.

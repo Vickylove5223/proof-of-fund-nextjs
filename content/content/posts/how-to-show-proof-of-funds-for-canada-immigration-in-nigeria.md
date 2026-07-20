@@ -22,6 +22,8 @@ But there is one big step that can feel confusing: showing proof of funds. This 
 
 Many people worry about this step, but we are here to help. This guide will break down everything you need to know about how to show proof of funds for Canada immigration in Nigeria, making the process simple and clear.
 
+> *"Applying for my family's Schengen visa was a nightmare because I didn't have the required bulk cash sitting in my account. I was advised to use this POF service, and they completely sorted out my financial requirements legally and transparently. We are currently enjoying our summer vacation in France!"* — **Amina Y., Kano**
+
 To show proof of funds for Canada immigration in Nigeria, you must get an official letter and recent statements from your bank. These papers must show you have enough money to support yourself and your family.
 
 The money must be yours and easy to access, not borrowed without a clear record.

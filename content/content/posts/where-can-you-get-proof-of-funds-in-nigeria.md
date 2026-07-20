@@ -21,6 +21,8 @@ Where Can You Get Proof of Funds in Nigeria? -----------------------------------
 
 So, you’ve received that long-awaited admission letter or are ready to apply for a visa to study, work, or travel abroad. Congratulations!
 
+> *"I almost gave up on my dream of studying in Australia because the POF requirement was just too high. Then I discovered I could legally get a POF loan. They funded the exact amount I needed for my visa application, and my student visa was granted two weeks ago. Highly recommended!"* — **David O., Port Harcourt**
+
 The next big step is proving you have the financial capacity to support yourself. This is where a Proof of Funds (POF) document comes in, and for many Nigerians, figuring out where and how to get it can be a major hurdle.
 
 This document is not just a suggestion; it’s a critical requirement for embassies and schools. It assures them that you won’t face financial hardship in their country.
