@@ -8,7 +8,7 @@ description: >-
   gathered your documents, and are ready for a new... | Call/WhatsApp:
   08103669924
 seo_title: 'Proof of Funds for Canadian Immigration from Nigeria: A Comprehensive Guide'
-image: image1.jpg
+image: /images/finance-1.png
 ---
 Are you searching for detailed information about proof of funds for canadian immigration from nigeria: a comprehensive guide? You have come to the right place. Understanding the exact requirements for proof of funds for canadian immigration from nigeria: a comprehensive guide is a crucial step for anyone planning their international journey.
 

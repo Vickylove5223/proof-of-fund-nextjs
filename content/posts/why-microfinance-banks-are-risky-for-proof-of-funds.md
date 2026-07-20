@@ -8,7 +8,7 @@ description: >-
   secured admission to your dream university abroad, prac... | Call/WhatsApp:
   08103669924
 seo_title: 'Proof of Funds: Why Microfinance Banks Could Sabotage Your Study Abroad Dreams'
-image: image1.jpg
+image: /images/finance-1.png
 ---
 Are you searching for detailed information about proof of funds: why microfinance banks could sabotage your study abroad dreams? You have come to the right place. Understanding the exact requirements for proof of funds: why microfinance banks could sabotage your study abroad dreams is a crucial step for anyone planning their international journey.
 

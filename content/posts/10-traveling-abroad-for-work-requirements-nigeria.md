@@ -8,7 +8,7 @@ description: >-
   cultures, career growth, and exciting opportunities. Ho... | Call/WhatsApp:
   08103669924
 seo_title: 'Your Essential Guide: 10 Requirements for Nigerians Traveling Abroad for Work'
-image: image-placeholder-passport
+image: /images/finance-2.png
 ---
 Are you searching for detailed information about your essential guide: 10 requirements for nigerians traveling abroad for work? You have come to the right place. Understanding the exact requirements for your essential guide: 10 requirements for nigerians traveling abroad for work is a crucial step for anyone planning their international journey.
 

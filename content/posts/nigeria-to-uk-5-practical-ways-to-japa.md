@@ -7,8 +7,7 @@ description: >-
   !London's Big Ben and Westminster Bridge at sunset, representing a destination
   for Nigerians moving to the UK. | Call/WhatsApp: 08103669924
 seo_title: 'How to Move to the UK from Nigeria: 5 Legitimate ''JAPA'' Pathways'
-image: >-
-  data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==
+image: /images/finance-1.png
 ---
 Are you searching for detailed information about how to move to the uk from nigeria: 5 legitimate japa pathways? You have come to the right place. Understanding the exact requirements for how to move to the uk from nigeria: 5 legitimate japa pathways is a crucial step for anyone planning their international journey.
 

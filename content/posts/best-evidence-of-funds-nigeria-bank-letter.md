@@ -12,7 +12,7 @@ description: >-
 seo_title: >-
   Best Evidence of Funds to Cover Stay in Nigeria (Bank Letter for Proof of
   Fund)
-image: <\<img src=>
+image: /images/finance-2.png
 ---
 Are you searching for detailed information about best evidence of funds to cover stay in nigeria (bank letter for proof of fund)? You have come to the right place. Understanding the exact requirements for best evidence of funds to cover stay in nigeria (bank letter for proof of fund) is a crucial step for anyone planning their international journey.
 

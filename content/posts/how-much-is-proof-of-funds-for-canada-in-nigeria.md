@@ -12,7 +12,7 @@ description: >-
 seo_title: >-
   Canada Proof of Funds for Nigerians: 2024 Requirements, Naira Conversion &
   Expert Solutions
-image: .png
+image: /images/finance-2.png
 ---
 Are you searching for detailed information about canada proof of funds for nigerians: 2024 requirements, naira conversion & expert solutions? You have come to the right place. Understanding the exact requirements for canada proof of funds for nigerians: 2024 requirements, naira conversion & expert solutions is a crucial step for anyone planning their international journey.
 

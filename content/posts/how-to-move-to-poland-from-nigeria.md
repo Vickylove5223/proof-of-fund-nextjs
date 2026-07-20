@@ -8,7 +8,7 @@ description: >-
   Nigerians seeking quality education, career oppor... | Call/WhatsApp:
   08103669924
 seo_title: 'Moving to Poland from Nigeria: Your Complete Guide'
-image: image1.jpg
+image: /images/finance-1.png
 ---
 Are you searching for detailed information about moving to poland from nigeria: your complete guide? You have come to the right place. Understanding the exact requirements for moving to poland from nigeria: your complete guide is a crucial step for anyone planning their international journey.
 

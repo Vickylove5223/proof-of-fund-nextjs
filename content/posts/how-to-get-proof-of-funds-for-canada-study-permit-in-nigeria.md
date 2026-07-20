@@ -8,7 +8,7 @@ description: >-
   education, diverse culture, and post-graduation opport... | Call/WhatsApp:
   08103669924
 seo_title: 'Proof of Funds for Canada Study Permit from Nigeria: Updated Guide for 2024'
-image: image_placeholder_1.jpg
+image: /images/finance-3.png
 ---
 Are you searching for detailed information about proof of funds for canada study permit from nigeria: updated guide for 2024? You have come to the right place. Understanding the exact requirements for proof of funds for canada study permit from nigeria: updated guide for 2024 is a crucial step for anyone planning their international journey.
 

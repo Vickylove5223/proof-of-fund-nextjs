@@ -8,7 +8,7 @@ description: >-
   You've perfected your CV, explored job opportunities, a... | Call/WhatsApp:
   08103669924
 seo_title: 'Proof of Funds for Canada Work Permit: A Nigerian Applicant''s Guide'
-image: image-of-canadian-currency-and-nigerian-passport.jpg
+image: /images/finance-1.png
 ---
 Are you searching for detailed information about proof of funds for canada work permit: a nigerian applicants guide? You have come to the right place. Understanding the exact requirements for proof of funds for canada work permit: a nigerian applicants guide is a crucial step for anyone planning their international journey.
 

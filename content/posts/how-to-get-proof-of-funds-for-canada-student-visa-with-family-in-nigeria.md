@@ -12,7 +12,7 @@ description: >-
 seo_title: >-
   Securing Your Canadian Dream: Proof of Funds for Student Visa with Family
   (From Nigeria)
-image: image1.jpg
+image: /images/finance-1.png
 ---
 Are you searching for detailed information about securing your canadian dream: proof of funds for student visa with family (from nigeria)? You have come to the right place. Understanding the exact requirements for securing your canadian dream: proof of funds for student visa with family (from nigeria) is a crucial step for anyone planning their international journey.
 

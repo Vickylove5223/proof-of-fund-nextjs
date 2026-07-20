@@ -7,7 +7,7 @@ description: >-
   Proof of Funds for Canada Student Visa in Nigeria: A Comprehensive Guide |
   Call/WhatsApp: 08103669924
 seo_title: 'Proof of Funds for Canada Student Visa in Nigeria: A Comprehensive Guide'
-image: image1.jpg
+image: /images/finance-2.png
 ---
 Are you searching for detailed information about proof of funds for canada student visa in nigeria: a comprehensive guide? You have come to the right place. Understanding the exact requirements for proof of funds for canada student visa in nigeria: a comprehensive guide is a crucial step for anyone planning their international journey.
 
