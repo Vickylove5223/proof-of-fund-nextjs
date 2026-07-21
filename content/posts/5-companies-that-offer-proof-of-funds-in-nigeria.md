@@ -70,7 +70,7 @@ com/student-info/student-finance/how-provide-proof-funds-your-student-visa), emp
 
 For those with needs beyond standard visa applications, PrimeVault Finance is a specialist provider. They focus on corporate and real estate proof of funds, handling high-value transactions and documentation for investors and businesses.
 
-Their expertise in this area makes them a trusted partner for clients who need to demonstrate significant financial standing for investment visas, property purchases, or large-scale business dealings. ng/).
+Their expertise in this area makes them a trusted partner for clients who need to demonstrate significant financial standing for investment visas, property purchases, or large-scale business dealings.
 
 ## 5 SureFund Nigeria
 
