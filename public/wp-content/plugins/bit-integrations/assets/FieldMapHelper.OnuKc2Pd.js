@@ -1,1 +1,0 @@
-import{u as m}from"./Note.CZEC0EVs.js";const t=(a,l,i)=>{i(p=>m(p,e=>{e.field_map.splice(a,0,{})}))},n=(a,l,i)=>{i(p=>m(p,e=>{e.field_map.length>1&&e.field_map.splice(a,1)}))},f=(a,l,i,p)=>{const{name:e,value:c}=a.target;p(d=>m(d,s=>{s.field_map[l][e]=c,c==="custom"&&(s.field_map[l].customValue="")}))};export{t as a,n as d,f as h};
