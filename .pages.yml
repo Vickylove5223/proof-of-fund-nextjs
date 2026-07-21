@@ -7,8 +7,10 @@ content:
     label: Posts
     type: collection
     path: content/posts
-    list:
-      - title
+    view:
+      fields:
+        - title
+        - image
     fields:
       - name: title
         label: Title
