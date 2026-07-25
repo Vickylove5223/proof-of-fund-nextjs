@@ -3,11 +3,8 @@ title: 'Bank Statement Mistakes Ruining Your Visa Application: The Hard Truth'
 slug: bank-statement-mistakes-ruining-your-visa-application-the-hard-truth
 date: '2026-02-26T09:47:44.000Z'
 type: post
-description: >-
-  Is your bank statement costing you your visa approval? Many applicants are
-  shocked when they receive a refusal for "insufficient... | Call/WhatsApp:
-  08103669924
-seo_title: 'Bank Statement Mistakes Ruining Your Visa Application: The Hard Truth'
+description: 'Is your bank statement quietly costing you your visa? The hard truth about the bank statement mistakes ruining Nigerian applications.'
+seo_title: 'Bank Statement Mistakes Ruining Your Visa Application'
 image: /wp-content/uploads/2025/02/family-enjoying-their-winter-time-together_23-2149186294.jpg
 ---
 Is your bank statement costing you your visa approval? Many applicants are shocked when they receive a refusal for "insufficient funds" despite having millions in their account.

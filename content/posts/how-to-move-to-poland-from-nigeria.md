@@ -3,10 +3,7 @@ title: 'Moving to Poland from Nigeria: Your Complete Guide'
 slug: how-to-move-to-poland-from-nigeria
 date: '2025-11-30T16:01:45.000Z'
 type: post
-description: >-
-  Dreaming of a life in Europe? Poland is quickly becoming a top destination for
-  Nigerians seeking quality education, career oppor... | Call/WhatsApp:
-  08103669924
+description: 'Poland offers quality education and career opportunities in the heart of Europe. Here''s how Nigerians can move there successfully.'
 seo_title: 'Moving to Poland from Nigeria: Your Complete Guide'
 image: /wp-content/uploads/2025/02/colleagues-studying-together-university-library_23-2148844695.jpg
 ---

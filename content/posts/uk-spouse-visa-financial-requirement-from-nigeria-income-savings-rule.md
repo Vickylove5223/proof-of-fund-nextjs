@@ -3,11 +3,8 @@ title: 'UK Spouse Visa Financial Requirement from Nigeria: The £29,000 Rule and
 slug: uk-spouse-visa-financial-requirement-from-nigeria-income-savings-rule
 date: '2026-07-21T13:00:00.000Z'
 type: post
-description: >-
-  The UK spouse visa now requires £29,000 income — or £88,500 in savings held
-  for 6 months. Full breakdown of the rules, the savings formula, and how
-  Nigerian couples meet it. | Call/WhatsApp: 08103669924
-seo_title: 'UK Spouse Visa £29,000 Financial Requirement from Nigeria 2026'
+description: 'The UK spouse visa now requires £29,000 income — or £88,500 in savings held for 6 months. The rules, the savings formula, and how couples meet it.'
+seo_title: 'UK Spouse Visa Financial Requirement 2026 (Nigeria)'
 image: /wp-content/uploads/2025/02/tourist-carrying-baggage_23-2151747389.jpg
 ---
 Joining your partner in the UK now runs through one of the toughest financial tests in the immigration system. Since April 2026, the minimum income requirement (MIR) for a UK spouse or partner visa is **£29,000 per year** — up from the old £18,600 — and it refuses more Nigerian family applications than any other single rule.

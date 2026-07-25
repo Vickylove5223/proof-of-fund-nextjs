@@ -3,11 +3,8 @@ title: 'How Much Bank Balance Is Required for a UK Visit Visa from Nigeria? (202
 slug: how-much-bank-balance-is-required-for-uk-visit-visa-from-nigeria
 date: '2026-07-21T09:00:00.000Z'
 type: post
-description: >-
-  Planning a UK visit? Learn exactly how much money you should show in your
-  bank statement for a UK Standard Visitor visa from Nigeria, and the mistakes
-  that cause refusals. | Call/WhatsApp: 08103669924
-seo_title: 'How Much Bank Balance Is Required for UK Visit Visa from Nigeria 2026'
+description: 'Planning a UK visit? Learn exactly how much to show in your bank statement for a Standard Visitor visa from Nigeria, and the mistakes that cause refusals.'
+seo_title: 'Bank Balance Needed for UK Visit Visa from Nigeria'
 image: /wp-content/uploads/2025/02/two-business-woman-cafe_1157-14528.jpg
 ---
 If you are applying for a UK Standard Visitor visa from Nigeria, the single question on your mind is probably this: **how much money do I need to show in my bank account?**

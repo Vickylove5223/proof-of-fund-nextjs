@@ -3,11 +3,8 @@ title: 'Domiciliary Account vs Naira Account for Proof of Funds: Which Do Embass
 slug: domiciliary-account-vs-naira-account-for-proof-of-funds
 date: '2026-07-21T11:10:00.000Z'
 type: post
-description: >-
-  Should your proof of funds sit in dollars or naira? How embassies convert
-  naira balances, when a domiciliary account helps, and the exchange-rate trap
-  that refuses borderline files. | Call/WhatsApp: 08103669924
-seo_title: 'Domiciliary vs Naira Account for Proof of Funds — Which Is Better?'
+description: 'Should your proof of funds sit in dollars or naira? How embassies convert naira balances, and the exchange-rate trap that refuses borderline files.'
+seo_title: 'Domiciliary vs Naira Account for Proof of Funds'
 image: /wp-content/uploads/2025/09/visa-application-composition-with-different-flags_23-2149117806.jpg
 ---
 It is one of the most-asked questions in every visa WhatsApp group: **"Should I show my money in dollars or naira?"** — usually followed by someone insisting embassies "respect dom accounts more."

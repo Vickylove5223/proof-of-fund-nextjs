@@ -3,10 +3,7 @@ title: What Is Acceptable Proof of Funds
 slug: what-is-acceptable-proof-of-funds
 date: '2025-11-27T13:17:41.000Z'
 type: post
-description: >-
-  Planning to study, work, or immigrate to another country is an exciting
-  journey. But before you can pack your bags, you'll face... | Call/WhatsApp:
-  08103669924
+description: 'Not every bank statement counts as valid Proof of Funds. Here''s exactly what embassies and institutions consider acceptable.'
 seo_title: What Is Acceptable Proof of Funds
 image: /wp-content/uploads/2025/02/colleagues-studying-together-university-library_23-2148844695.jpg
 ---

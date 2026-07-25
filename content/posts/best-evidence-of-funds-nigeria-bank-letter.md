@@ -2,10 +2,8 @@
 title: Best Evidence of Funds to Cover Stay in Nigeria (Bank Letter for Proof of Fund)
 slug: best-evidence-of-funds-nigeria-bank-letter
 type: post
-description: "Planning a trip to Nigeria, whether for tourism, business, or
-  visiting family, involves careful preparation. One of the most cri... |
-  Call/WhatsApp: 08103669924"
-seo_title: Best Evidence of Funds to Cover Stay in Nigeria (Bank Letter for Proof of Fund)
+description: 'Planning travel or business in Nigeria? Here''s the best evidence of funds — a proper bank letter format that satisfies verification checks.'
+seo_title: 'Best Evidence of Funds: Nigeria Bank Letter Guide'
 image: /wp-content/uploads/2025/02/tourist-carrying-baggage_23-2151747389.jpg
 ---
 Planning a trip to Nigeria, whether for tourism, business, or visiting family, involves careful preparation. One of the most critical documents you'll need is evidence that you can financially support yourself during your stay.

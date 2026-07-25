@@ -5,13 +5,8 @@ title: >-
 slug: australia-student-visa-proof-of-funds
 date: '2026-06-19T16:11:37.000Z'
 type: post
-description: >-
-  Applying for an Australian Student Visa  from Nigeria requires strong Proof of
-  Funds  to demonstrate you can support yourself wi... | Call/WhatsApp:
-  08103669924
-seo_title: >-
-  Australia Student Visa Proof of Funds from Nigeria 2026: Complete Requirements
-  Guide
+description: 'Everything Nigerians need to know about Proof of Funds for an Australian Student Visa — amounts, documents, and common refusal reasons.'
+seo_title: 'Australia Student Visa Proof of Funds (Nigeria)'
 image: /wp-content/uploads/2025/09/9ddc6236-2387-4ec0-a148-cdfe2b95934a.jpg
 ---
 Applying for an Australian Student Visa (Subclass 500) from Nigeria requires strong Proof of Funds (POF) to demonstrate you can support yourself without relying on unauthorized work or public funds. Australian immigration has strict financial capacity rules, and many Nigerian applications are refused due to insufficient or poorly documented funds.

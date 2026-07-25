@@ -2,9 +2,7 @@
 title: 5 Best Proof of Funds Agents in Nigeria
 slug: 5-best-proof-of-funds-agents-in-nigeria
 type: post
-description: "Planning to study, work, or immigrate abroad is an exciting
-  journey, but it comes with significant hurdles. One of the most crit... |
-  Call/WhatsApp: 08103669924"
+description: 'Choosing the wrong Proof of Funds agent can cost you your visa. Here are the 5 best, most trusted POF agents in Nigeria right now.'
 seo_title: 5 Best Proof of Funds Agents in Nigeria
 image: /wp-content/uploads/2025/09/visa-application-composition-with-different-flags_23-2149117806.jpg
 ---

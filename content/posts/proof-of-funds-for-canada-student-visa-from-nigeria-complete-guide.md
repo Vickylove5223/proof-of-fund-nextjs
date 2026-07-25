@@ -3,12 +3,9 @@ title: 'Proof of Funds for Canada Student Visa from Nigeria: Complete Guide'
 slug: proof-of-funds-for-canada-student-visa-from-nigeria-complete-guide
 date: '2026-06-19T12:09:57.000Z'
 type: post
-description: >-
-  Applying for a Canadian study permit from Nigeria has become increasingly
-  competitive. With stricter financial scrutiny and high... | Call/WhatsApp:
-  08103669924
-seo_title: 'Proof of Funds for Canada Student Visa from Nigeria: Complete Guide'
-image: /wp-content/uploads/2025/11/ai-generated-24fk3psmxno-300x164.jpg
+description: 'Canada''s study permit process is more competitive than ever. Here''s the complete guide to Proof of Funds for Nigerian applicants.'
+seo_title: 'Proof of Funds for Canada Student Visa (Nigeria)'
+image: /wp-content/uploads/2025/09/93e330bb-c279-4fe2-a3e9-8da837d7f5ff.jpg
 ---
 Applying for a Canadian study permit from Nigeria has become increasingly competitive. With stricter financial scrutiny and high refusal rates for Nigerian applicants, having strong Proof of Funds (POF) is often the deciding factor between approval and refusal.
 

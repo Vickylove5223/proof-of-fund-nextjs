@@ -3,11 +3,8 @@ title: 'UK Self-Sponsorship Proof of Funds: Using Your Business Step-by-Step Gui
 slug: uk-self-sponsorship-proof-of-funds-using-your-business-step-by-step-guide
 date: '2025-09-25T14:10:28.000Z'
 type: post
-description: >-
-  One of the most common questions I receive is: "Henry, what do you think about
-  proof of funds for self-sponsorship? Does my busi... | Call/WhatsApp:
-  08103669924
-seo_title: 'UK Self-Sponsorship Proof of Funds: Using Your Business Step-by-Step Guide'
+description: 'Can your business income count as Proof of Funds for UK self-sponsorship? Here''s a step-by-step guide to structuring it correctly.'
+seo_title: 'UK Self-Sponsorship Proof of Funds Using Your Business'
 image: /wp-content/uploads/2025/02/colleagues-studying-together-university-library_23-2148844695.jpg
 ---
 ### The Truth About Self-Sponsorship Proof of Funds Requirements

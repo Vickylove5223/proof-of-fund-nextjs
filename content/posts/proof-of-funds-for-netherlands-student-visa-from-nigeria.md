@@ -3,10 +3,7 @@ title: 'Proof of Funds for Netherlands Student Visa from Nigeria: 2026 Complete 
 slug: proof-of-funds-for-netherlands-student-visa-from-nigeria
 date: '2026-07-21T10:00:00.000Z'
 type: post
-description: >-
-  The Netherlands requires around €13,800 in proof of funds for a student visa
-  in 2026 — but the money goes to your university, not an embassy. Here's how
-  Nigerians meet it. | Call/WhatsApp: 08103669924
+description: 'The Netherlands requires around €13,800 in proof of funds for a student visa in 2026 — but it goes to your university, not an embassy. How to meet it.'
 seo_title: 'Netherlands Student Visa Proof of Funds from Nigeria 2026'
 image: /wp-content/uploads/2025/09/application-form-information-employment-concept_53876-128011.jpg
 ---

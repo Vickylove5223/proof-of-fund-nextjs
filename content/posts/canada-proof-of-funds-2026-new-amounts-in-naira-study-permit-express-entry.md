@@ -3,10 +3,7 @@ title: 'Canada Proof of Funds 2026: New Amounts in Naira (Study Permit & Express
 slug: canada-proof-of-funds-2026-new-amounts-in-naira-study-permit-express-entry
 date: '2026-07-21T09:40:00.000Z'
 type: post
-description: >-
-  IRCC has raised Canada proof of funds to CAD $22,895 for study permits and
-  $15,263+ for Express Entry in 2026. See the new amounts converted to naira
-  and how to meet them. | Call/WhatsApp: 08103669924
+description: 'IRCC raised Canada proof of funds to CAD $22,895 for study permits and $15,263+ for Express Entry in 2026. See the new amounts in naira and how to meet them.'
 seo_title: 'Canada Proof of Funds 2026: New Amounts in Naira (Updated)'
 image: /wp-content/uploads/2025/09/25ae7f4a-e9db-42af-95d8-f32cb793b7c8.jpg
 ---

@@ -3,11 +3,8 @@ title: How to Use a Deed of Gift for Your Canada Visa Proof of Funds
 slug: how-to-use-a-deed-of-gift-for-your-canada-visa-proof-of-funds
 date: '2026-02-26T08:36:08.000Z'
 type: post
-description: >-
-  One of the biggest hurdles for Nigerians moving to Canada—whether through the
-  Express Entry  route or a Study Permit—is presenti... | Call/WhatsApp:
-  08103669924
-seo_title: How to Use a Deed of Gift for Your Canada Visa Proof of Funds
+description: 'A lump sum in your account can raise flags with IRCC. Here''s how a properly notarized Deed of Gift protects your Canada visa Proof of Funds.'
+seo_title: 'Using a Deed of Gift for Canada Visa Proof of Funds'
 image: /wp-content/uploads/2025/09/application-form-information-employment-concept_53876-128011.jpg
 ---
 One of the biggest hurdles for Nigerians moving to Canada—whether through the Express Entry (PR) route or a Study Permit—is presenting an acceptable **Proof of Funds (POF)**. The Canadian government wants to ensure you have enough money to settle down without becoming a liability.

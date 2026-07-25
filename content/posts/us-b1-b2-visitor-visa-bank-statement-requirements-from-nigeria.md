@@ -3,10 +3,7 @@ title: 'US B1/B2 Visitor Visa Bank Statement Requirements from Nigeria (2026)'
 slug: us-b1-b2-visitor-visa-bank-statement-requirements-from-nigeria
 date: '2026-07-21T09:10:00.000Z'
 type: post
-description: >-
-  How much bank balance do you need for a US B1/B2 visitor visa from Nigeria?
-  Learn what consular officers check, how much to show, and interview tips that
-  win approvals. | Call/WhatsApp: 08103669924
+description: 'How much bank balance do you need for a US B1/B2 visitor visa from Nigeria? What consular officers check, and interview tips that win approvals.'
 seo_title: 'US B1/B2 Visa Bank Statement Requirements from Nigeria 2026'
 image: /wp-content/uploads/2025/09/93e330bb-c279-4fe2-a3e9-8da837d7f5ff.jpg
 ---

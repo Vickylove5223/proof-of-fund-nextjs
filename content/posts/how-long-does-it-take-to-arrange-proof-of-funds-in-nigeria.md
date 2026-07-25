@@ -3,11 +3,8 @@ title: 'How Long Does It Take to Arrange Proof of Funds in Nigeria? (Honest Time
 slug: how-long-does-it-take-to-arrange-proof-of-funds-in-nigeria
 date: '2026-07-21T15:10:00.000Z'
 type: post
-description: >-
-  Funding can land in 24–48 hours — but your embassy's history rules decide the
-  real timeline. Honest POF timelines for the UK, Canada, USA and Schengen,
-  and what to do on a tight deadline. | Call/WhatsApp: 08103669924
-seo_title: 'How Long Does Proof of Funds Take in Nigeria? Real Timelines 2026'
+description: 'Funding can land in 24–48 hours — but your embassy''s history rules decide the real timeline. Honest POF timelines for the UK, Canada, USA and Schengen.'
+seo_title: 'How Long Does Proof of Funds Take in Nigeria?'
 image: /wp-content/uploads/2025/09/Proof-of-Fund-in-Nigeria-2.webp
 ---
 The most common WhatsApp message we receive: *"My appointment is on [date] — can you arrange proof of funds in time?"*

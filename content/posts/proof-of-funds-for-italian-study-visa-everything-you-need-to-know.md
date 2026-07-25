@@ -3,11 +3,8 @@ title: 'Proof of Funds for Italian Study Visa: Everything You Need to Know'
 slug: proof-of-funds-for-italian-study-visa-everything-you-need-to-know
 date: '2026-02-26T09:31:34.000Z'
 type: post
-description: >-
-  Are you a Nigerian student dreaming of studying in Italy? One of the most
-  critical parts of your visa application is the Proof o... | Call/WhatsApp:
-  08103669924
-seo_title: 'Proof of Funds for Italian Study Visa: Everything You Need to Know'
+description: 'Dreaming of studying in Italy? Proof of Funds is one of the most critical parts of your visa application. Everything you need to know.'
+seo_title: 'Proof of Funds for Italian Study Visa: What to Know'
 image: /wp-content/uploads/2025/02/tourist-carrying-baggage_23-2151747389.jpg
 ---
 Are you a Nigerian student dreaming of studying in Italy? One of the most critical parts of your visa application is the **Proof of Funds (POF)**.

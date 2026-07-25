@@ -3,11 +3,8 @@ title: 'Proof of Funds for Canada Work Permit: A Nigerian Applicant''s Guide'
 slug: how-to-get-proof-of-funds-required-for-canada-work-permit-in-nigeria
 date: '2025-12-02T10:36:12.000Z'
 type: post
-description: >-
-  Dreaming of working in Canada? It’s an exciting goal for many Nigerians.
-  You've perfected your CV, explored job opportunities, a... | Call/WhatsApp:
-  08103669924
-seo_title: 'Proof of Funds for Canada Work Permit: A Nigerian Applicant''s Guide'
+description: 'Landed a Canadian job offer? Here''s how Nigerians get the Proof of Funds required to complete a Canada work permit application.'
+seo_title: 'Proof of Funds for Canada Work Permit (Nigeria)'
 image: /wp-content/uploads/2025/09/25ae7f4a-e9db-42af-95d8-f32cb793b7c8.jpg
 ---
 Dreaming of working in Canada? It’s an exciting goal for many Nigerians.

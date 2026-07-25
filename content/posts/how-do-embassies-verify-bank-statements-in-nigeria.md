@@ -3,10 +3,7 @@ title: 'How Do Embassies Verify Bank Statements in Nigeria? (What Really Happens
 slug: how-do-embassies-verify-bank-statements-in-nigeria
 date: '2026-07-21T09:30:00.000Z'
 type: post
-description: >-
-  Do embassies really call Nigerian banks to confirm your balance? Yes — here
-  is exactly how the UK, Canada, and US verify bank statements and what makes
-  verification fail. | Call/WhatsApp: 08103669924
+description: 'Do embassies really call Nigerian banks to confirm your balance? Yes — here''s exactly how the UK, Canada, and US verify statements, and what fails.'
 seo_title: 'How Embassies Verify Bank Statements in Nigeria 2026'
 image: /wp-content/uploads/2025/02/tourist-carrying-baggage_23-2151747389.jpg
 ---

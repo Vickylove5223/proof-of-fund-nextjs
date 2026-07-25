@@ -3,10 +3,7 @@ title: How to Get Proof of Funds for Nigerian Visa
 slug: how-to-get-proof-of-funds-for-nigerian-visa
 date: '2025-11-21T14:46:00.000Z'
 type: post
-description: >-
-  Planning to study, work, or travel abroad is an exciting journey. You’ve
-  picked your destination, prepared your documents, and a... | Call/WhatsApp:
-  08103669924
+description: 'Every visa application needs solid financial documentation. Here''s how Nigerians can get a verifiable Proof of Funds without the stress.'
 seo_title: How to Get Proof of Funds for Nigerian Visa
 image: /wp-content/uploads/2025/09/54393b20-44c6-4db1-b806-49c19fe2185f.jpg
 ---

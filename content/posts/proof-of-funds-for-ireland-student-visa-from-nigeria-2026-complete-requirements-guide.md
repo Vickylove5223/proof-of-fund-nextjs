@@ -6,13 +6,8 @@ slug: >-
   proof-of-funds-for-ireland-student-visa-from-nigeria-2026-complete-requirements-guide
 date: '2026-06-19T15:32:01.000Z'
 type: post
-description: >-
-  Applying for an Ireland Student Visa  from Nigeria requires strong financial
-  documentation. Irish immigration places significant... | Call/WhatsApp:
-  08103669924
-seo_title: >-
-  Proof of Funds for Ireland Student Visa from Nigeria 2026: Complete
-  Requirements Guide
+description: 'Irish immigration takes financial documentation seriously. Here''s the complete 2026 Proof of Funds guide for Nigerian student visa applicants.'
+seo_title: 'Proof of Funds for Ireland Student Visa 2026'
 image: /wp-content/uploads/2025/02/family-enjoying-their-winter-time-together_23-2149186294.jpg
 ---
 Applying for an Ireland Student Visa (Stamp 2) from Nigeria requires strong financial documentation. Irish immigration places significant emphasis on your ability to support yourself without relying on public funds or unauthorized work.

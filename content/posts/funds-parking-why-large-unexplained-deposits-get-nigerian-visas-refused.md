@@ -3,11 +3,8 @@ title: 'Funds Parking: Why Large Unexplained Deposits Get Nigerian Visas Refused
 slug: funds-parking-why-large-unexplained-deposits-get-nigerian-visas-refused
 date: '2026-07-21T09:20:00.000Z'
 type: post
-description: >-
-  A sudden ₦5m deposit before your visa application is a red flag officers call
-  "funds parking." Learn how to explain large deposits properly and keep your
-  application safe. | Call/WhatsApp: 08103669924
-seo_title: 'Funds Parking: Large Unexplained Deposits and Visa Refusal Nigeria'
+description: 'A sudden ₦5m deposit before your visa application is a red flag officers call "funds parking." Learn how to explain large deposits properly.'
+seo_title: 'Funds Parking: Why Big Deposits Get Visas Refused'
 image: /wp-content/uploads/2025/02/colleagues-studying-together-university-library_23-2148844695.jpg
 ---
 You finally gathered the money for your visa application. A relative transferred ₦3 million, you moved ₦2 million from your business account, and your statement now shows a healthy balance. Two months later: **refused — "I am not satisfied the funds are genuinely available to you."**

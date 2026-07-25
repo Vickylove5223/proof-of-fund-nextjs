@@ -2,9 +2,7 @@
 title: 5 Proof of Funds Companies in Nigeria
 slug: 5-proof-of-funds-companies-in-nigeria
 type: post
-description: "Applying for a visa, seeking admission to a foreign university, or
-  planning to immigrate often comes with a significant financia... |
-  Call/WhatsApp: 08103669924"
+description: 'Applying for a visa or foreign admission often means proving your finances. Here are 5 proof of funds companies Nigerians trust in 2026.'
 seo_title: 5 Proof of Funds Companies in Nigeria
 image: /wp-content/uploads/2025/02/two-business-woman-cafe_1157-14528.jpg
 ---

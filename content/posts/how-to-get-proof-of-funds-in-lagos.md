@@ -3,9 +3,7 @@ title: How to Get Proof of Funds in Lagos
 slug: how-to-get-proof-of-funds-in-lagos
 date: '2025-10-30T16:21:41.000Z'
 type: post
-description: |-
-  How to Get Proof of Funds in Lagos
-  ================================== | Call/WhatsApp: 08103669924
+description: 'Where and how to get verifiable proof of funds in Lagos — trusted providers, typical costs, and what embassies expect from your documentation.'
 seo_title: How to Get Proof of Funds in Lagos
 image: /wp-content/uploads/2025/09/9ddc6236-2387-4ec0-a148-cdfe2b95934a.jpg
 ---

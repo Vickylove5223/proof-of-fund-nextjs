@@ -3,10 +3,7 @@ title: '10 Countries With the Lowest Proof of Funds Requirements for Student Vis
 slug: countries-with-the-lowest-proof-of-funds-requirements-for-student-visas-2026
 date: '2026-07-21T10:10:00.000Z'
 type: post
-description: >-
-  Canada now wants CAD $22,895 — but some countries approve student visas with
-  under ₦10m total. Ranked list of the lowest proof of funds destinations for
-  Nigerians in 2026. | Call/WhatsApp: 08103669924
+description: 'Canada now wants CAD $22,895 — but some countries approve student visas with under ₦10m total. Ranked list of the lowest-cost destinations for 2026.'
 seo_title: 'Countries With Lowest Proof of Funds for Student Visas 2026'
 image: /wp-content/uploads/2025/09/Proof-of-Fund-in-Nigeria-2.webp
 ---

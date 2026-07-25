@@ -3,10 +3,7 @@ title: Proof of Funds Format that you can use for multiple Visas
 slug: proof-of-funds-format-that-you-can-use-for-multiple-visas
 date: '2026-02-26T09:12:16.000Z'
 type: post
-description: >-
-  Have you spent months building your Proof of Funds  only to use it for a
-  single visa application? Many applicants make the mista... | Call/WhatsApp:
-  08103669924
+description: 'Why build a new Proof of Funds for every application? Here''s a strong format Nigerians can reuse across multiple visa types.'
 seo_title: Proof of Funds Format that you can use for multiple Visas
 image: /wp-content/uploads/2025/09/9ddc6236-2387-4ec0-a148-cdfe2b95934a.jpg
 ---

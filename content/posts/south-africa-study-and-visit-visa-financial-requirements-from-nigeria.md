@@ -3,10 +3,7 @@ title: 'South Africa Study & Visit Visa Financial Requirements from Nigeria (202
 slug: south-africa-study-and-visit-visa-financial-requirements-from-nigeria
 date: '2026-07-21T16:00:00.000Z'
 type: post
-description: >-
-  What South Africa actually requires financially from Nigerian students and
-  visitors — bank statements, the deposit rules, tuition levels, and the
-  documents VFS checks in 2026. | Call/WhatsApp: 08103669924
+description: 'What South Africa actually requires financially from Nigerian students and visitors — bank statements, deposit rules, and what VFS checks in 2026.'
 seo_title: 'South Africa Visa Financial Requirements from Nigeria 2026'
 image: /wp-content/uploads/2025/09/25ae7f4a-e9db-42af-95d8-f32cb793b7c8.jpg
 ---

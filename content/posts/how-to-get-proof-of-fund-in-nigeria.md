@@ -2,9 +2,7 @@
 title: How to Get Proof of Fund in Nigeria
 slug: how-to-get-proof-of-fund-in-nigeria
 type: post
-description: "Proof of Fund  is a financial document that verifies an
-  individual’s or organization’s ability to finance a particular transacti... |
-  Call/WhatsApp: 08103669924"
+description: 'Proof of Fund verifies your ability to finance a visa, admission, or transaction. Here''s how Nigerians can get a verifiable one quickly.'
 seo_title: How to Get Proof of Fund in Nigeria
 image: /wp-content/uploads/2025/02/colleagues-studying-together-university-library_23-2148844695.jpg
 ---

@@ -3,11 +3,8 @@ title: 'Do I Get My POF Money Back If My Visa Is Refused? (And How to Reapply)'
 slug: do-i-get-my-pof-money-back-if-my-visa-is-refused
 date: '2026-07-21T10:50:00.000Z'
 type: post
-description: >-
-  Visa refused — what happens to your proof of funds? What's refundable, what
-  isn't, when you can withdraw, and how to turn a financial refusal into an
-  approval on reapplication. | Call/WhatsApp: 08103669924
-seo_title: 'Is POF Money Refundable After Visa Refusal? Reapplication Guide'
+description: 'Visa refused — what happens to your proof of funds? What''s refundable, what isn''t, and how to turn a financial refusal into an approval on reapplication.'
+seo_title: 'Is POF Money Refundable After Visa Refusal?'
 image: /wp-content/uploads/2025/09/9ddc6236-2387-4ec0-a148-cdfe2b95934a.jpg
 ---
 A refusal letter lands and two questions hit at once: **"What happens to the money I showed?"** and **"When can I try again?"** Both have clear answers — and knowing them turns a painful refusal into a short detour instead of a dead end.

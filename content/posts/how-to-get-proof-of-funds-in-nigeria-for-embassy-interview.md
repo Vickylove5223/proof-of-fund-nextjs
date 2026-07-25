@@ -3,10 +3,7 @@ title: How to Get Proof of Funds in Nigeria for Embassy Interview
 slug: how-to-get-proof-of-funds-in-nigeria-for-embassy-interview
 date: '2025-11-21T14:48:02.000Z'
 type: post
-description: >-
-  Preparing for an embassy interview can be a nerve-wracking experience. You've
-  filled out countless forms, gathered documents, an... | Call/WhatsApp:
-  08103669924
+description: 'Preparing for an embassy interview? Here''s how to make sure your Proof of Funds documentation holds up to an officer''s scrutiny.'
 seo_title: How to Get Proof of Funds in Nigeria for Embassy Interview
 image: /wp-content/uploads/2025/02/colleagues-studying-together-university-library_23-2148844695.jpg
 ---

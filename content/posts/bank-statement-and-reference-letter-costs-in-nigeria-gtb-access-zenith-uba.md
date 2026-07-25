@@ -3,11 +3,8 @@ title: 'Bank Statement & Reference Letter Costs in Nigeria: GTB, Access, Zenith,
 slug: bank-statement-and-reference-letter-costs-in-nigeria-gtb-access-zenith-uba
 date: '2026-07-21T14:40:00.000Z'
 type: post
-description: >-
-  How much does a stamped bank statement or embassy reference letter cost at
-  GTBank, Access, Zenith, UBA and First Bank — and how long each takes. The
-  practical guide for visa applicants. | Call/WhatsApp: 08103669924
-seo_title: 'Stamped Bank Statement & Reference Letter Cost Nigeria: GTB, Access, Zenith'
+description: 'How much does a stamped bank statement or reference letter cost at GTBank, Access, Zenith, UBA and First Bank — the practical guide for visa applicants.'
+seo_title: 'Bank Statement & Reference Letter Cost in Nigeria'
 image: /wp-content/uploads/2025/02/colleagues-studying-together-university-library_23-2148844695.jpg
 ---
 Small question, real stakes: your embassy checklist wants a **stamped statement** and maybe a **bank reference letter**, your appointment is next week, and you need to know what each bank charges and how long it takes.

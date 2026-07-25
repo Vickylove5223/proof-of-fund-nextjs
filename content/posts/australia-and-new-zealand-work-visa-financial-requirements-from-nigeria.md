@@ -3,11 +3,8 @@ title: 'Australia & New Zealand Work Visa Financial Requirements from Nigeria (2
 slug: australia-and-new-zealand-work-visa-financial-requirements-from-nigeria
 date: '2026-07-21T14:30:00.000Z'
 type: post
-description: >-
-  Do Australia and New Zealand work visas require proof of funds? Mostly no —
-  but state nominations, job seeker stays, and family members change that.
-  Here is the real financial picture. | Call/WhatsApp: 08103669924
-seo_title: 'Australia & New Zealand Work Visa Proof of Funds from Nigeria 2026'
+description: 'Do Australia and New Zealand work visas need proof of funds? Mostly no — but state nominations and job seeker stays change that. The real picture.'
+seo_title: 'Australia & NZ Work Visa Proof of Funds (Nigeria)'
 image: /wp-content/uploads/2025/09/54393b20-44c6-4db1-b806-49c19fe2185f.jpg
 ---
 Here's a surprise for applicants coming from UK-style rules: **Australia's main skilled visas have no formal proof-of-funds requirement, and neither does New Zealand's employer-sponsored work visa.** No £1,270-style maintenance test, no 28-day rule.

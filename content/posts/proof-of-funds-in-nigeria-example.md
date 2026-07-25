@@ -3,10 +3,7 @@ title: Proof of Funds in Nigeria Example
 slug: proof-of-funds-in-nigeria-example
 date: '2025-11-26T05:38:56.000Z'
 type: post
-description: >-
-  Are you applying for a visa or school admission abroad and feeling confused
-  about what a 'Proof of Funds' document actually look... | Call/WhatsApp:
-  08103669924
+description: 'Confused about what a real Proof of Funds document actually looks like? Here''s a clear example Nigerians can use as a reference.'
 seo_title: Proof of Funds in Nigeria Example
 image: /wp-content/uploads/2025/02/colleagues-studying-together-university-library_23-2148844695.jpg
 ---

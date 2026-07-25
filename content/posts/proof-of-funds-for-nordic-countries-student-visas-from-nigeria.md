@@ -3,11 +3,8 @@ title: 'Proof of Funds for Nordic Student Visas from Nigeria: Finland, Norway, S
 slug: proof-of-funds-for-nordic-countries-student-visas-from-nigeria
 date: '2026-07-21T15:00:00.000Z'
 type: post
-description: >-
-  Finland wants ~€9,600, Norway ~NOK 150,000 in a Norwegian account, Sweden
-  ~SEK 10,584/month. The Nordic proof of funds systems explained for Nigerian
-  students in 2026. | Call/WhatsApp: 08103669924
-seo_title: 'Nordic Student Visa Proof of Funds Nigeria: Finland, Norway, Sweden, Denmark'
+description: 'Finland wants ~€9,600, Norway ~NOK 150,000, Sweden ~SEK 10,584/month. Nordic proof of funds systems explained for Nigerian students in 2026.'
+seo_title: 'Nordic Student Visa Proof of Funds (Nigeria Guide)'
 image: /wp-content/uploads/2025/09/25ae7f4a-e9db-42af-95d8-f32cb793b7c8.jpg
 ---
 The Nordics are quietly excellent japa targets: world-class universities, English-taught programmes, safety, and post-study work rights — with proof-of-funds requirements lower than Canada's. But each of the four countries runs a **different financial system**, and applying with the wrong country's logic delays or sinks files.

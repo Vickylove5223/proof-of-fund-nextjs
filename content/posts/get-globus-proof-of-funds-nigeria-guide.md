@@ -2,10 +2,8 @@
 title: "Get Globus Proof of Funds in Nigeria: Your Step-by-Step Guide"
 slug: get-globus-proof-of-funds-nigeria-guide
 type: post
-description: "\\IMAGE: A person holding a passport and visa application
-  documents, representing the process of getting Globus Proof of funds in... |
-  Call/WhatsApp: 08103669924"
-seo_title: "Get Globus Proof of Funds in Nigeria: Your Step-by-Step Guide"
+description: 'Considering Globus Bank for your Proof of Funds? Here''s a step-by-step guide to getting a verifiable Globus POF in Nigeria.'
+seo_title: 'Get Globus Proof of Funds in Nigeria: Step-by-Step'
 image: /wp-content/uploads/2025/02/family-enjoying-their-winter-time-together_23-2149186294.jpg
 ---
 IMAGE: A person holding a passport and visa application documents, representing the process of getting Globus Proof of funds in Nigeria.

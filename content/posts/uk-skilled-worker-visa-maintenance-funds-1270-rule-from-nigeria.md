@@ -3,10 +3,7 @@ title: 'UK Skilled Worker Visa Maintenance Funds: The £1,270 Rule Explained for
 slug: uk-skilled-worker-visa-maintenance-funds-1270-rule-from-nigeria
 date: '2026-07-21T09:50:00.000Z'
 type: post
-description: >-
-  Applying for a UK Skilled Worker or care worker visa from Nigeria? You must
-  show £1,270 held for 28 days — or have your sponsor certify maintenance.
-  Full 2026 guide. | Call/WhatsApp: 08103669924
+description: 'Applying for a UK Skilled Worker or care worker visa from Nigeria? You must show £1,270 held for 28 days, or have your sponsor certify maintenance.'
 seo_title: 'UK Skilled Worker Visa £1,270 Maintenance Funds Nigeria 2026'
 image: /wp-content/uploads/2025/02/family-enjoying-their-winter-time-together_23-2149186294.jpg
 ---

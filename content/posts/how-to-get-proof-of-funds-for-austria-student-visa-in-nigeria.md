@@ -3,11 +3,8 @@ title: How to Get Proof of Funds for Austria Student Visa in Nigeria
 slug: how-to-get-proof-of-funds-for-austria-student-visa-in-nigeria
 date: '2025-11-17T12:04:57.000Z'
 type: post
-description: >-
-  Dreaming of studying in the beautiful cities of Vienna, Salzburg, or
-  Innsbruck? Austria offers world-class education and a rich... | Call/WhatsApp:
-  08103669924
-seo_title: How to Get Proof of Funds for Austria Student Visa in Nigeria
+description: 'Dreaming of studying in Vienna, Salzburg, or Innsbruck? Here''s exactly how to get the Proof of Funds Austria requires from Nigerian students.'
+seo_title: 'Proof of Funds for Austria Student Visa in Nigeria'
 image: /wp-content/uploads/2025/02/family-enjoying-their-winter-time-together_23-2149186294.jpg
 ---
 Dreaming of studying in the beautiful cities of Vienna, Salzburg, or Innsbruck? Austria offers world-class education and a rich cultural experience.

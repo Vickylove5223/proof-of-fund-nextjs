@@ -3,11 +3,8 @@ title: 'UK Student Visa Credibility Interview: Questions Nigerians Get (and Winn
 slug: uk-student-visa-credibility-interview-questions-for-nigerians
 date: '2026-07-21T14:50:00.000Z'
 type: post
-description: >-
-  UKVI credibility interviews decide borderline Nigerian student applications.
-  The actual questions asked — course, university, finances, agents — with
-  answer strategies that hold up. | Call/WhatsApp: 08103669924
-seo_title: 'UK Student Visa Credibility Interview Questions for Nigerians 2026'
+description: 'UKVI credibility interviews decide borderline Nigerian student applications. The actual questions asked, and answer strategies that hold up.'
+seo_title: 'UK Student Visa Credibility Interview Questions'
 image: /wp-content/uploads/2025/02/two-business-woman-cafe_1157-14528.jpg
 ---
 Unlike the US, the UK doesn't interview every student — which is exactly why the **credibility interview** catches Nigerians off guard. It arrives as a short-notice video call from UKVI, it feels informal, and it quietly decides borderline applications. Universities also run their own pre-CAS interviews that gate whether you get sponsored at all.

@@ -3,10 +3,7 @@ title: How to Get Proof of Funds in Nigeria for Studying at KNUST
 slug: how-to-get-proof-of-funds-in-nigeria-for-studying-at-knust
 date: '2025-11-26T05:44:02.000Z'
 type: post
-description: >-
-  Gaining admission into the prestigious Kwame Nkrumah University of Science and
-  Technology  in Ghana is an exciting goal for many... | Call/WhatsApp:
-  08103669924
+description: 'Got admission to KNUST in Ghana? Here''s how Nigerian students can get the Proof of Funds needed to complete their application.'
 seo_title: How to Get Proof of Funds in Nigeria for Studying at KNUST
 image: /wp-content/uploads/2025/02/tourist-carrying-baggage_23-2151747389.jpg
 ---

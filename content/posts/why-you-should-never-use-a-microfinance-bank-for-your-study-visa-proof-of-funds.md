@@ -6,13 +6,8 @@ slug: >-
   why-you-should-never-use-a-microfinance-bank-for-your-study-visa-proof-of-funds
 date: '2026-02-26T08:45:42.000Z'
 type: post
-description: >-
-  At POF NG, one of the most common questions we get from students planning to
-  study abroad is: "Is it okay to use a Microfinance... | Call/WhatsApp:
-  08103669924
-seo_title: >-
-  Why You Should NEVER Use a Microfinance Bank for Your Study Visa Proof of
-  Funds
+description: 'Thinking of using Opay or Kuda for your study visa Proof of Funds? Here''s why that''s a risky move for most destinations.'
+seo_title: 'Never Use a Microfinance Bank for Study Visa POF'
 image: /wp-content/uploads/2025/09/93e330bb-c279-4fe2-a3e9-8da837d7f5ff.jpg
 ---
 "_ The short answer? While getting your documentation ready is stressful, using a microfinance bank can easily lead to a heartbreaking visa refusal.

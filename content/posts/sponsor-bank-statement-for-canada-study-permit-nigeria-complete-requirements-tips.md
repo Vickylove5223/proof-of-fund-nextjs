@@ -6,14 +6,9 @@ slug: >-
   sponsor-bank-statement-for-canada-study-permit-nigeria-complete-requirements-tips
 date: '2026-06-19T12:24:26.000Z'
 type: post
-description: >-
-  Many Nigerian applicants for Canadian study permits rely on family sponsors —
-  usually parents, uncles, or siblings — to meet the... | Call/WhatsApp:
-  08103669924
-seo_title: >-
-  Sponsor Bank Statement for Canada Study Permit Nigeria: Complete Requirements
-  & Tips
-image: /wp-content/uploads/2025/11/ai-generated-0wlk2mxzd5p-300x164.jpg
+description: 'Relying on family to sponsor your Canadian study permit? Here''s the complete guide to sponsor bank statement requirements and tips.'
+seo_title: 'Sponsor Bank Statement for Canada Study Permit'
+image: /wp-content/uploads/2025/09/visa-application-composition-with-different-flags_23-2149117806.jpg
 ---
 Many Nigerian applicants for Canadian study permits rely on family sponsors — usually parents, uncles, or siblings — to meet the financial requirements. A strong sponsor bank statement is one of the most common and effective ways to prove you have sufficient funds.
 

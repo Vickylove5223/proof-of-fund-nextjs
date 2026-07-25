@@ -3,11 +3,8 @@ title: 'Proof of Funds for Canada Visa: Who Can Sponsor You and Documents Needed
 slug: proof-of-funds-for-canada-visa-who-can-sponsor-you-and-documents-needed
 date: '2026-02-26T09:00:37.000Z'
 type: post
-description: >-
-  Are you feeling torn between sponsoring yourself or having a family member act
-  as your sponsor for your Canadian visa? Choosing... | Call/WhatsApp:
-  08103669924
-seo_title: 'Proof of Funds for Canada Visa: Who Can Sponsor You and Documents Needed'
+description: 'Torn between self-sponsoring or having family back your Canada visa? Here''s who can sponsor you and the documents you''ll need.'
+seo_title: 'Canada Visa Proof of Funds: Who Can Sponsor You?'
 image: /wp-content/uploads/2025/09/93e330bb-c279-4fe2-a3e9-8da837d7f5ff.jpg
 ---
 Are you feeling torn between sponsoring yourself or having a family member act as your sponsor for your Canadian visa? Choosing the right sponsor and gathering the correct documentation is one of the most critical steps in the application process.

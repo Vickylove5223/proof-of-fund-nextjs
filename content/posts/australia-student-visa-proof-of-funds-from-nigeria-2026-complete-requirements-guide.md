@@ -6,13 +6,8 @@ slug: >-
   australia-student-visa-proof-of-funds-from-nigeria-2026-complete-requirements-guide
 date: '2026-06-19T16:11:37.000Z'
 type: post
-description: >-
-  Applying for an Australian Student Visa  from Nigeria requires strong Proof of
-  Funds  to demonstrate you can support yourself wi... | Call/WhatsApp:
-  08103669924
-seo_title: >-
-  Australia Student Visa Proof of Funds from Nigeria 2026: Complete Requirements
-  Guide
+description: 'Applying for an Australian Student Visa from Nigeria? Here''s the complete 2026 Proof of Funds requirements guide to avoid refusal.'
+seo_title: 'Australia Student Visa POF from Nigeria: 2026 Guide'
 image: /wp-content/uploads/2025/09/93e330bb-c279-4fe2-a3e9-8da837d7f5ff.jpg
 ---
 

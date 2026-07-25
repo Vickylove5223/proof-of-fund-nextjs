@@ -3,10 +3,7 @@ title: 'Nigerians: Japa to Brazil! Your Ultimate Relocation Guide'
 slug: nigerians-japa-to-brazil-your-ultimate-relocation-guide
 date: '2025-11-27T14:34:21.000Z'
 type: post
-description: >-
-  \IMAGE: A vibrant collage showcasing Brazilian landmarks like Christ the
-  Redeemer and Nigerian cultural symbols, with a person h... | Call/WhatsApp:
-  08103669924
+description: 'Brazil blends culture and opportunity for Nigerians looking to relocate. Your ultimate guide to visas, costs, and proof of funds.'
 seo_title: 'Nigerians: Japa to Brazil! Your Ultimate Relocation Guide'
 image: /wp-content/uploads/2025/09/application-form-information-employment-concept_53876-128011.jpg
 ---

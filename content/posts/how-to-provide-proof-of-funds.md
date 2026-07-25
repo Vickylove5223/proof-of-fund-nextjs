@@ -3,10 +3,7 @@ title: How to Provide Proof of Funds
 slug: how-to-provide-proof-of-funds
 date: '2025-11-17T11:50:57.000Z'
 type: post
-description: >-
-  Planning to study, work, or travel abroad is an exciting journey. You’ve
-  picked your destination, chosen your school, and prepar... | Call/WhatsApp:
-  08103669924
+description: 'Every visa, admission, or major transaction abroad needs Proof of Funds. Here''s exactly how Nigerians can provide it correctly.'
 seo_title: How to Provide Proof of Funds
 image: /wp-content/uploads/2025/02/tourist-carrying-baggage_23-2151747389.jpg
 ---

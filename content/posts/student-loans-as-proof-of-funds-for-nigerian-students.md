@@ -3,11 +3,8 @@ title: 'Student Loans as Proof of Funds for Nigerian Students: MPower, GlobCred 
 slug: student-loans-as-proof-of-funds-for-nigerian-students
 date: '2026-07-21T13:20:00.000Z'
 type: post
-description: >-
-  Prodigy Finance has paused African applicants for Fall 2026. Here are the
-  loan options that still work for Nigerians — and how a loan letter satisfies
-  proof of funds for the US, UK, and Canada. | Call/WhatsApp: 08103669924
-seo_title: 'Student Loans as Proof of Funds Nigeria 2026: MPower, GlobCred, Prodigy'
+description: 'Prodigy Finance has paused African applicants for Fall 2026. The loan options that still work for Nigerians, and how a loan letter satisfies proof of funds.'
+seo_title: 'Student Loans as Proof of Funds for Nigerians'
 image: /wp-content/uploads/2025/02/colleagues-studying-together-university-library_23-2148844695.jpg
 ---
 Thousands of Nigerian students build their study-abroad plans on one assumption: *"I'll fund it with an international student loan."* For 2026, that assumption needs urgent updating — **Prodigy Finance has paused support for African applicants for the Fall 2026 intake**, removing one of the two big no-collateral lenders from the table.

@@ -3,11 +3,8 @@ title: How to Get Proof of Funds for Studying in Canada (Easy Step-by-Step Guide
 slug: get-proof-of-funds-for-studying-in-canada-easy-step-by-step-guide
 date: '2025-09-25T14:46:14.000Z'
 type: post
-description: >-
-  If you are planning to come and study in Canada, one of the most important
-  things you’ll need to sort out is proof of funds. Man... | Call/WhatsApp:
-  08103669924
-seo_title: How to Get Proof of Funds for Studying in Canada (Easy Step-by-Step Guide)
+description: 'Planning to study in Canada? Proof of funds is one of the most important boxes to tick. Here''s an easy, step-by-step guide to getting yours.'
+seo_title: 'Get Proof of Funds for Studying in Canada (Easy Guide)'
 image: /wp-content/uploads/2025/09/afe771f8-dfc1-4561-aa1c-2e012f7bbeac-300x164.jpg
 ---
 If you are planning to come and study in Canada, one of the most important things you’ll need to sort out is **proof of funds**. Many students get confused about how to go about it, so let’s break it down.

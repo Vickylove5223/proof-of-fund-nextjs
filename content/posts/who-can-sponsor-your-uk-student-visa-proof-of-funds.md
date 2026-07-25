@@ -3,10 +3,7 @@ title: 'Who Can Sponsor Your UK Student Visa Proof of Funds? (The Parent Rule No
 slug: who-can-sponsor-your-uk-student-visa-proof-of-funds
 date: '2026-07-21T10:20:00.000Z'
 type: post
-description: >-
-  Your uncle's bank statement will get your UK student visa refused. UKVI only
-  accepts funds in your name or your parent/legal guardian's — here's the rule
-  and every workaround. | Call/WhatsApp: 08103669924
+description: 'Your uncle''s bank statement will get your UK student visa refused. UKVI only accepts funds in your name or your parent/guardian''s — the rule explained.'
 seo_title: 'Who Can Sponsor UK Student Visa Proof of Funds — Parent Rule'
 image: /wp-content/uploads/2025/09/application-form-information-employment-concept_53876-128011.jpg
 ---

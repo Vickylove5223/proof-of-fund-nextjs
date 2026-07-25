@@ -8,7 +8,7 @@ description: >-
   ===================================================== | Call/WhatsApp:
   08103669924
 seo_title: 5 Cheapest Proof of Funds in Nigeria for Student Visa
-image: /wp-content/uploads/2025/10/ai-generated-mb4e5blgfs.jpg
+image: /wp-content/uploads/2025/02/family-enjoying-their-winter-time-together_23-2149186294.jpg
 ---
 # 5 Cheapest Proof of Funds in Nigeria for Student Visa
 

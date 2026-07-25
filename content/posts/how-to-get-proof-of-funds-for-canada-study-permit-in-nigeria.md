@@ -3,11 +3,8 @@ title: 'Proof of Funds for Canada Study Permit from Nigeria: Updated Guide for 2
 slug: how-to-get-proof-of-funds-for-canada-study-permit-in-nigeria
 date: '2025-12-02T10:26:07.000Z'
 type: post
-description: >-
-  Dreaming of studying in Canada is an exciting first step. The world-class
-  education, diverse culture, and post-graduation opport... | Call/WhatsApp:
-  08103669924
-seo_title: 'Proof of Funds for Canada Study Permit from Nigeria: Updated Guide for 2026'
+description: 'Canada''s world-class education comes with strict financial rules. Here''s how Nigerians get an IRCC-compliant Proof of Funds for a study permit.'
+seo_title: 'Proof of Funds for Canada Study Permit: 2026 Guide'
 image: /wp-content/uploads/2025/09/application-form-information-employment-concept_53876-128011.jpg
 ---
 Dreaming of studying in Canada is an exciting first step. The world-class education, diverse culture, and post-graduation opportunities are major attractions for Nigerian students.

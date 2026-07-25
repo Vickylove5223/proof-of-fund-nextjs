@@ -3,10 +3,7 @@ title: 'Proof of Funds for Malta Student Visa from Nigeria: 2026 Requirements'
 slug: proof-of-funds-for-malta-student-visa-from-nigeria
 date: '2026-07-21T15:30:00.000Z'
 type: post
-description: >-
-  Malta is the EU's overlooked English-speaking study route — around €1,000 a
-  month in proof of funds plus modest tuition. Requirements, documents, and how
-  Nigerians apply in 2026. | Call/WhatsApp: 08103669924
+description: 'Malta is the EU''s overlooked English-speaking study route — around €1,000/month in proof of funds plus modest tuition. Requirements for Nigerians in 2026.'
 seo_title: 'Malta Student Visa Proof of Funds from Nigeria 2026'
 image: /wp-content/uploads/2025/02/two-business-woman-cafe_1157-14528.jpg
 ---

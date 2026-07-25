@@ -3,11 +3,8 @@ title: 'UK Care Worker Visa 2026: The Switching Route, Financial Requirements & 
 slug: uk-care-worker-visa-2026-switching-route-and-financial-requirements
 date: '2026-07-21T14:00:00.000Z'
 type: post
-description: >-
-  Nigerian UK work visas collapsed from 28,495 to under 3,000 a year. Here is
-  what still works in 2026 — the in-UK switching route, eligible roles, and the
-  money you must show. | Call/WhatsApp: 08103669924
-seo_title: 'UK Care Worker Visa 2026: Switching Route & Financial Requirements Nigeria'
+description: 'Nigerian UK work visas collapsed from 28,495 to under 3,000 a year. What still works in 2026 — the in-UK switching route and the money you must show.'
+seo_title: 'UK Care Worker Visa 2026: Financial Requirements'
 image: /wp-content/uploads/2025/09/visa-application-composition-with-different-flags_23-2149117806.jpg
 ---
 The numbers tell the story bluntly: Nigerian work visa grants for the UK fell from **28,495 in 2023 to under 3,000 in 2026**. The care-worker route that carried tens of thousands of Nigerians to the UK has been narrowed hard — higher salary thresholds, a dependants ban, and tighter sponsorship enforcement.

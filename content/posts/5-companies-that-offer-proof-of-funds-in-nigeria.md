@@ -2,9 +2,7 @@
 title: 5 Companies That Offer Proof of Funds in Nigeria
 slug: 5-companies-that-offer-proof-of-funds-in-nigeria
 type: post
-description: "Planning to study, work, or travel abroad is an exciting journey.
-  However, one of the most crucial steps—providing Proof of Fund... |
-  Call/WhatsApp: 08103669924"
+description: 'Providing Proof of Funds is one of the biggest hurdles for Nigerians going abroad. Here are 5 trusted companies that make it easier.'
 seo_title: 5 Companies That Offer Proof of Funds in Nigeria
 image: /wp-content/uploads/2025/02/family-enjoying-their-winter-time-together_23-2149186294.jpg
 ---

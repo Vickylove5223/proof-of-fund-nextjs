@@ -5,13 +5,8 @@ title: >-
 slug: how-much-is-proof-of-funds-for-canada-in-nigeria
 date: '2025-12-02T10:39:00.000Z'
 type: post
-description: >-
-  Planning your move to Canada from Nigeria is an exciting journey filled with
-  dreams of new opportunities. However, one of the mo... | Call/WhatsApp:
-  08103669924
-seo_title: >-
-  Canada Proof of Funds for Nigerians: 2026 Requirements, Naira Conversion &
-  Expert Solutions
+description: 'Moving to Canada from Nigeria? Here''s exactly how much Proof of Funds you need in 2026, converted to naira, and how to raise it fast.'
+seo_title: 'Canada Proof of Funds for Nigerians: 2026 Requirements'
 image: /wp-content/uploads/2025/09/application-form-information-employment-concept_53876-128011.jpg
 ---
 Planning your move to Canada from Nigeria is an exciting journey filled with dreams of new opportunities. However, one of the most critical steps that can feel overwhelming is the Proof of Funds (POF) requirement.

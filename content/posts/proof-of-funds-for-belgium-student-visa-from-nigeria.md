@@ -3,10 +3,7 @@ title: 'Proof of Funds for Belgium Student Visa from Nigeria: The Blocked-Accoun
 slug: proof-of-funds-for-belgium-student-visa-from-nigeria
 date: '2026-07-21T15:40:00.000Z'
 type: post
-description: >-
-  Belgium wants about €820/month for a student visa — paid into your
-  university's blocked account or backed by a formal sponsor guarantee. How
-  Nigerians meet the requirement in 2026. | Call/WhatsApp: 08103669924
+description: 'Belgium wants about €820/month for a student visa — paid into a blocked account or backed by a sponsor guarantee. How Nigerians meet it in 2026.'
 seo_title: 'Belgium Student Visa Proof of Funds from Nigeria 2026'
 image: /wp-content/uploads/2025/09/54393b20-44c6-4db1-b806-49c19fe2185f.jpg
 ---

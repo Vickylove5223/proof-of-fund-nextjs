@@ -3,12 +3,9 @@ title: 'Proof of Funds for Canada Express Entry Nigeria Family: Complete Guide'
 slug: proof-of-funds-for-canada-express-entry-nigeria-family-complete-guide
 date: '2026-06-19T12:39:02.000Z'
 type: post
-description: >-
-  Applying for Canadian permanent residence through Express Entry from Nigeria
-  can be a life-changing opportunity for you and your... | Call/WhatsApp:
-  08103669924
-seo_title: 'Proof of Funds for Canada Express Entry Nigeria Family: Complete Guide'
-image: /wp-content/uploads/2025/11/ai-generated-eb0frn3zgpk-300x164.jpg
+description: 'Applying for Canadian PR through Express Entry with family? Here''s the complete guide to meeting IRCC''s Proof of Funds requirement.'
+seo_title: 'Proof of Funds for Canada Express Entry Family'
+image: /wp-content/uploads/2025/09/54393b20-44c6-4db1-b806-49c19fe2185f.jpg
 ---
 Applying for Canadian permanent residence through Express Entry from Nigeria can be a life-changing opportunity for you and your family. One of the most critical requirements is Proof of Funds (also called settlement funds), especially for families.
 

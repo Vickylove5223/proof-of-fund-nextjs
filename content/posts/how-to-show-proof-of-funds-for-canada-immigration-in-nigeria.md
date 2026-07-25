@@ -3,11 +3,8 @@ title: 'Proof of Funds for Canadian Immigration from Nigeria: A Comprehensive Gu
 slug: how-to-show-proof-of-funds-for-canada-immigration-in-nigeria
 date: '2025-12-02T10:32:41.000Z'
 type: post
-description: >-
-  Moving to Canada is a dream for many Nigerians. You have filled out the forms,
-  gathered your documents, and are ready for a new... | Call/WhatsApp:
-  08103669924
-seo_title: 'Proof of Funds for Canadian Immigration from Nigeria: A Comprehensive Guide'
+description: 'Moving to Canada for good? Here''s how Nigerians can show the Proof of Funds required for a smooth Canadian immigration application.'
+seo_title: 'Proof of Funds for Canadian Immigration (Nigeria)'
 image: /wp-content/uploads/2025/02/two-business-woman-cafe_1157-14528.jpg
 ---
 Moving to Canada is a dream for many Nigerians. You have filled out the forms, gathered your documents, and are ready for a new life.

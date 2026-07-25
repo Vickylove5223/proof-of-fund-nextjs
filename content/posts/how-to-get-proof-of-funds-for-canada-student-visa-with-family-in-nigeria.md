@@ -5,13 +5,8 @@ title: >-
 slug: how-to-get-proof-of-funds-for-canada-student-visa-with-family-in-nigeria
 date: '2025-12-02T10:34:50.000Z'
 type: post
-description: >-
-  Dreaming of studying in Canada is exciting. Planning to bring your family
-  along makes that dream even bigger and more meaningful... | Call/WhatsApp:
-  08103669924
-seo_title: >-
-  Securing Your Canadian Dream: Proof of Funds for Student Visa with Family
-  (From Nigeria)
+description: 'Bringing your family to study in Canada? Here''s how Nigerians can get Proof of Funds that covers dependents and satisfies IRCC.'
+seo_title: 'Canada Student Visa POF With Family (Nigeria Guide)'
 image: /wp-content/uploads/2025/02/two-business-woman-cafe_1157-14528.jpg
 ---
 Dreaming of studying in Canada is exciting. Planning to bring your family along makes that dream even bigger and more meaningful.

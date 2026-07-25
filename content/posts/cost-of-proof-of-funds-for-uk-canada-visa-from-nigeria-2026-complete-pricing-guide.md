@@ -6,13 +6,8 @@ slug: >-
   cost-of-proof-of-funds-for-uk-canada-visa-from-nigeria-2026-complete-pricing-guide
 date: '2026-06-19T15:09:35.000Z'
 type: post
-description: >-
-  One of the most frequently asked questions by Nigerian applicants is: \\How
-  much does temporary Proof of Funds  cost for UK and... | Call/WhatsApp:
-  08103669924
-seo_title: >-
-  Cost of Proof of Funds for UK & Canada Visa from Nigeria 2026: Complete
-  Pricing Guide
+description: 'What does temporary Proof of Funds actually cost for UK and Canada visas from Nigeria in 2026? A complete, transparent pricing guide.'
+seo_title: 'Cost of Proof of Funds for UK & Canada Visa 2026'
 image: /wp-content/uploads/2025/09/93e330bb-c279-4fe2-a3e9-8da837d7f5ff.jpg
 ---
 \*\* Getting legitimate temporary funding for your bank statements can be the difference between visa approval and refusal, but understanding the pricing is crucial. ng gives you the best value.

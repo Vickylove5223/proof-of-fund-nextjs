@@ -3,10 +3,7 @@ title: 'How to JAPA from Nigeria to UK: 5 Key Migration Routes'
 slug: how-to-japa-from-nigeria-to-uk-5-key-migration-routes
 date: '2025-10-30T19:00:36.000Z'
 type: post
-description: >-
-  The dream to ‘JAPA’—a popular Nigerian term for relocating abroad—is on the
-  minds of many. The United Kingdom, with its world-cl... | Call/WhatsApp:
-  08103669924
+description: 'The UK remains a top choice for Nigerians seeking to relocate. Here are the 5 key migration routes and their financial requirements.'
 seo_title: 'How to JAPA from Nigeria to UK: 5 Key Migration Routes'
 image: /wp-content/uploads/2025/09/9ddc6236-2387-4ec0-a148-cdfe2b95934a.jpg
 ---

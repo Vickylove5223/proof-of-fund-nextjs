@@ -3,11 +3,8 @@ title: 'Backdated Bank Statement for Visa in Nigeria: Why It Fails (and What Wor
 slug: backdated-bank-statement-for-visa-in-nigeria-why-it-fails-and-what-works
 date: '2026-07-21T12:00:00.000Z'
 type: post
-description: >-
-  Thinking of a backdated bank statement for your visa? Embassies verify
-  directly with Nigerian banks — here is what actually happens, and the legal
-  way to get the history you need. | Call/WhatsApp: 08103669924
-seo_title: 'Backdated Bank Statement for Visa Nigeria: Why It Fails + Legal Alternative'
+description: 'Thinking of a backdated bank statement for your visa? Embassies verify directly with Nigerian banks — here''s what happens, and the legal alternative.'
+seo_title: 'Backdated Bank Statements: Why They Fail Visas'
 image: /wp-content/uploads/2025/09/visa-application-composition-with-different-flags_23-2149117806.jpg
 ---
 If you are searching for a backdated bank statement for your visa application, you already know your problem: **the embassy wants months of account history, and you don't have it.** Maybe your money arrived recently. Maybe it sits in someone else's account. Maybe your real account tells the wrong story.

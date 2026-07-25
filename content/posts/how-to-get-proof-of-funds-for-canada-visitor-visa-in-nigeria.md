@@ -3,11 +3,8 @@ title: "Canada Visitor Visa: Your 2026 Guide to Proof of Funds for Nigerian
   Applicants"
 slug: how-to-get-proof-of-funds-for-canada-visitor-visa-in-nigeria
 type: post
-description: "Dreaming of visiting Canada? From the breathtaking Niagara Falls
-  to the vibrant cities of Toronto and Vancouver, Canada offers a... |
-  Call/WhatsApp: 08103669924"
-seo_title: "Canada Visitor Visa: Your 2026 Guide to Proof of Funds for Nigerian
-  Applicants"
+description: 'From Niagara Falls to Toronto, Canada awaits. Here''s your 2026 guide to Proof of Funds for a Canada visitor visa from Nigeria.'
+seo_title: 'Canada Visitor Visa: Proof of Funds Guide (Nigeria)'
 image: /wp-content/uploads/2025/09/25ae7f4a-e9db-42af-95d8-f32cb793b7c8.jpg
 ---
 Dreaming of visiting Canada? From the breathtaking Niagara Falls to the vibrant cities of Toronto and Vancouver, Canada offers a wealth of experiences.

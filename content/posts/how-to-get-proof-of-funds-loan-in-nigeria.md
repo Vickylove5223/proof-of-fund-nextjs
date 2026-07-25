@@ -2,9 +2,7 @@
 title: How to Get Proof of Funds Loan in Nigeria
 slug: how-to-get-proof-of-funds-loan-in-nigeria
 type: post
-description: |-
-  How to Get Proof of Funds Loan in Nigeria
-  ========================================= | Call/WhatsApp: 08103669924
+description: 'How a proof of funds loan works in Nigeria — funding process, fees, timelines, and what to check before choosing a provider.'
 seo_title: How to Get Proof of Funds Loan in Nigeria
 image: /wp-content/uploads/2025/09/application-form-information-employment-concept_53876-128011.jpg
 ---

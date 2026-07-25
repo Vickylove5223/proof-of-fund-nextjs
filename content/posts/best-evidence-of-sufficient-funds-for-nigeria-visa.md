@@ -3,11 +3,8 @@ title: Best Evidence of Sufficient Funds for Nigeria Visa (Proof of Fund)
 slug: best-evidence-of-sufficient-funds-for-nigeria-visa
 date: '2025-11-17T11:40:27.000Z'
 type: post
-description: >-
-  Planning to travel, study, or work abroad is an exciting journey. You've
-  picked your destination, prepared your documents, and a... | Call/WhatsApp:
-  08103669924
-seo_title: Best Evidence of Sufficient Funds for Nigeria Visa (Proof of Fund)
+description: 'Preparing your Nigeria visa documents? Here''s what counts as the best evidence of sufficient funds, and how to get it right the first time.'
+seo_title: 'Best Evidence of Sufficient Funds for Nigeria Visa'
 image: /wp-content/uploads/2025/02/two-business-woman-cafe_1157-14528.jpg
 ---
 Planning to travel, study, or work abroad is an exciting journey. You've picked your destination, prepared your documents, and are ready for the next chapter.

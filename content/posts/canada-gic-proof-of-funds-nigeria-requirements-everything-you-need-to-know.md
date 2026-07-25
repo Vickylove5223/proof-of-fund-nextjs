@@ -3,11 +3,8 @@ title: 'Canada GIC Proof of Funds Nigeria Requirements: Everything You Need to K
 slug: canada-gic-proof-of-funds-nigeria-requirements-everything-you-need-to-know
 date: '2026-06-19T12:17:48.000Z'
 type: post
-description: >-
-  Many Nigerian students aiming for a Canadian study permit in 2026 are asking
-  about the Guaranteed Investment Certificate  option... | Call/WhatsApp:
-  08103669924
-seo_title: 'Canada GIC Proof of Funds Nigeria Requirements: Everything You Need to Know'
+description: 'Nigerian students eyeing a 2026 Canadian study permit are asking about the GIC option. Everything you need to know about requirements and cost.'
+seo_title: 'Canada GIC Proof of Funds: Nigeria Requirements'
 image: /wp-content/uploads/2025/11/2d287143-7207-4096-9a11-be7c49121ca6-200x300.webp
 ---
 Many Nigerian students aiming for a Canadian study permit in 2026 are asking about the Guaranteed Investment Certificate (GIC) option. While the Student Direct Stream (SDS) has ended, a GIC remains one of the strongest and most trusted forms of proof of funds recognized by IRCC.

@@ -3,10 +3,7 @@ title: Most Common Proof of Funds Interest Rate in Nigeria
 slug: most-common-proof-of-funds-interest-rate-in-nigeria
 date: '2025-11-27T10:49:53.000Z'
 type: post
-description: >-
-  Planning to study, work, or immigrate abroad is an exciting journey. As you
-  prepare your documents, one of the most critical req... | Call/WhatsApp:
-  08103669924
+description: 'Wondering what a fair Proof of Funds rate looks like? Here''s the most common interest rates charged in Nigeria, and how to avoid overpaying.'
 seo_title: Most Common Proof of Funds Interest Rate in Nigeria
 image: /wp-content/uploads/2025/02/colleagues-studying-together-university-library_23-2148844695.jpg
 ---

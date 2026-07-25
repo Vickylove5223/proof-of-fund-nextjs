@@ -3,10 +3,7 @@ title: What Is Proof of Source of Funds
 slug: what-is-proof-of-source-of-funds
 date: '2025-11-27T13:18:49.000Z'
 type: post
-description: >-
-  When you’re applying for a visa, seeking admission to a university abroad, or
-  making a large purchase like a house, you’ll often... | Call/WhatsApp:
-  08103669924
+description: 'Buying property or applying for a visa? You''ll often be asked for Source of Funds, not just Proof of Funds. Here''s the difference explained.'
 seo_title: What Is Proof of Source of Funds
 image: /wp-content/uploads/2025/02/family-enjoying-their-winter-time-together_23-2149186294.jpg
 ---

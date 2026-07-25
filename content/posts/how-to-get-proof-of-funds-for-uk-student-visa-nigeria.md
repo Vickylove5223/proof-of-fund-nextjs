@@ -3,11 +3,8 @@ title: 'Proof of Funds for UK Student Visa from Nigeria: The Ultimate Guide'
 slug: how-to-get-proof-of-funds-for-uk-student-visa-nigeria
 date: '2025-11-30T10:06:55.000Z'
 type: post
-description: >-
-  Securing admission to a UK university is a massive achievement, a dream come
-  true for many Nigerian students. However, between y... | Call/WhatsApp:
-  08103669924
-seo_title: 'Proof of Funds for UK Student Visa from Nigeria: The Ultimate Guide'
+description: 'Got your UK university admission? Here''s the ultimate guide to getting a UKVI-compliant Proof of Funds for Nigerian students.'
+seo_title: 'Proof of Funds for UK Student Visa from Nigeria'
 image: /wp-content/uploads/2025/09/93e330bb-c279-4fe2-a3e9-8da837d7f5ff.jpg
 ---
 Securing admission to a UK university is a massive achievement, a dream come true for many Nigerian students. However, between you and your studies in the UK stands one of the most critical steps: the visa application.

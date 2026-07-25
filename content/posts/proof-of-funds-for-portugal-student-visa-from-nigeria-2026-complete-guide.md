@@ -3,11 +3,8 @@ title: 'Proof of Funds for Portugal Student Visa from Nigeria 2026: Complete Gui
 slug: proof-of-funds-for-portugal-student-visa-from-nigeria-2026-complete-guide
 date: '2026-07-03T09:11:16.000Z'
 type: post
-description: >-
-  Are you a Nigerian planning to study in Portugal and wondering about Proof of
-  Funds  requirements? Portugal has emerged as one o... | Call/WhatsApp:
-  08103669924
-seo_title: 'Proof of Funds for Portugal Student Visa from Nigeria 2026: Complete Guide'
+description: 'Portugal is a rising study destination for Nigerians. Here''s the complete 2026 guide to its Proof of Funds requirements.'
+seo_title: 'Proof of Funds for Portugal Student Visa 2026'
 image: /wp-content/uploads/2025/09/54393b20-44c6-4db1-b806-49c19fe2185f.jpg
 ---
 Are you a Nigerian planning to study in Portugal and wondering about Proof of Funds (POF) requirements? Portugal has emerged as one of the most sought-after European study destinations for Nigerians in 2026, offering world-class universities, affordable living costs compared to the UK and Germany, and a pathway to EU residence.

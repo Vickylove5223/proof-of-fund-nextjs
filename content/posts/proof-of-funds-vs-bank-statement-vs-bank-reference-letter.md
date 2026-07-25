@@ -3,11 +3,8 @@ title: 'Proof of Funds vs Bank Statement vs Bank Reference Letter: What''s the D
 slug: proof-of-funds-vs-bank-statement-vs-bank-reference-letter
 date: '2026-07-21T10:40:00.000Z'
 type: post
-description: >-
-  Embassies ask for proof of funds, bank statements, and bank letters — and
-  they are not the same thing. Learn what each document is, when you need
-  which, and how to get them in Nigeria. | Call/WhatsApp: 08103669924
-seo_title: 'Proof of Funds vs Bank Statement vs Bank Letter — Difference Explained'
+description: 'Embassies ask for proof of funds, bank statements, and bank letters — and they''re not the same thing. What each document is and how to get them in Nigeria.'
+seo_title: 'Proof of Funds vs Bank Statement vs Reference Letter'
 image: /wp-content/uploads/2025/02/family-enjoying-their-winter-time-together_23-2149186294.jpg
 ---
 Visa checklists throw three terms around as if everyone was born knowing them: *proof of funds*, *bank statement*, and *bank reference letter*. Applicants routinely submit one when the embassy wanted another — and get refused on "insufficient documentation" while having every naira required.

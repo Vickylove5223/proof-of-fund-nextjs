@@ -3,10 +3,7 @@ title: What Is Proof of Sufficient Funds in Nigeria
 slug: what-is-proof-of-sufficient-funds-in-nigeria
 date: '2025-11-27T13:19:52.000Z'
 type: post
-description: >-
-  Planning to travel, study, or immigrate abroad from Nigeria? If so, you’ve
-  likely come across the term “Proof of Sufficient Fund... | Call/WhatsApp:
-  08103669924
+description: 'Planning to travel, study, or immigrate from Nigeria? Here''s what "Proof of Sufficient Funds" actually means and how to get it right.'
 seo_title: What Is Proof of Sufficient Funds in Nigeria
 image: /wp-content/uploads/2025/11/image-1.jpg
 ---

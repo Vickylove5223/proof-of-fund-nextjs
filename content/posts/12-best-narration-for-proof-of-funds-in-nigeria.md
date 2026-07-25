@@ -2,11 +2,9 @@
 title: 12 best narration for proof of funds in nigeria
 slug: 12-best-narration-for-proof-of-funds-in-nigeria
 type: post
-description: "When you submit your bank statement for a visa or school
-  application, every detail matters. But one of the most overlooked detai... |
-  Call/WhatsApp: 08103669924"
+description: 'The narration on your bank statement can make or break your Proof of Funds. Here are 12 acceptable narrations embassies actually approve.'
 seo_title: 12 best narration for proof of funds in nigeria
-image: /wp-content/uploads/2025/10/ai-generated-4pnp4xya8jl-300x164.jpg
+image: /wp-content/uploads/2025/02/colleagues-studying-together-university-library_23-2148844695.jpg
 ---
 When you submit your bank statement for a visa or school application, every detail matters. But one of the most overlooked details is the transaction narration—that short description explaining where the money came from.
 

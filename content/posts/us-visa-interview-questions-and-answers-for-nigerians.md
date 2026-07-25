@@ -3,10 +3,7 @@ title: 'US Visa Interview Questions and Answers for Nigerians (F1 & B1/B2) — 2
 slug: us-visa-interview-questions-and-answers-for-nigerians
 date: '2026-07-21T11:00:00.000Z'
 type: post
-description: >-
-  The exact questions consular officers in Lagos and Abuja ask Nigerian F1 and
-  B1/B2 applicants — with answer strategies for the money questions that decide
-  approvals. | Call/WhatsApp: 08103669924
+description: 'The exact questions consular officers in Lagos and Abuja ask Nigerian F1 and B1/B2 applicants, with answer strategies for the money questions.'
 seo_title: 'US Visa Interview Questions and Answers for Nigerians 2026'
 image: /wp-content/uploads/2025/09/9ddc6236-2387-4ec0-a148-cdfe2b95934a.jpg
 ---

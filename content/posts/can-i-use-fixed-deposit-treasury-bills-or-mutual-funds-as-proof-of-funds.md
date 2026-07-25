@@ -3,11 +3,8 @@ title: 'Can I Use a Fixed Deposit, Treasury Bills, or Mutual Funds as Proof of F
 slug: can-i-use-fixed-deposit-treasury-bills-or-mutual-funds-as-proof-of-funds
 date: '2026-07-21T10:30:00.000Z'
 type: post
-description: >-
-  Fixed deposits usually count as proof of funds. Treasury bills, mutual funds,
-  stocks, and crypto? It depends on the embassy. Country-by-country breakdown
-  for Nigerian applicants. | Call/WhatsApp: 08103669924
-seo_title: 'Fixed Deposit, Treasury Bills, Mutual Funds as Proof of Funds Nigeria'
+description: 'Fixed deposits usually count as proof of funds. Treasury bills, mutual funds, stocks, and crypto? It depends on the embassy — a country-by-country breakdown.'
+seo_title: 'Fixed Deposits, T-Bills & Mutual Funds as POF Nigeria'
 image: /wp-content/uploads/2025/09/application-form-information-employment-concept_53876-128011.jpg
 ---
 Your money is working for you — sitting in a fixed deposit at 18%, spread across treasury bills, or growing in a money-market fund. Then visa season arrives and the question hits: **do I have to liquidate everything into a savings account, or can my investments serve as proof of funds?**

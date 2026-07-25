@@ -3,10 +3,7 @@ title: How to Get Proof of Funds in Nigeria for Japan Visa
 slug: how-to-get-proof-of-funds-in-nigeria-for-japan-visa
 date: '2025-11-26T05:41:09.000Z'
 type: post
-description: >-
-  Dreaming of exploring the vibrant streets of Tokyo, the serene temples of
-  Kyoto, or the beautiful landscapes of Hokkaido? Japan... | Call/WhatsApp:
-  08103669924
+description: 'Dreaming of Tokyo or Kyoto? Here''s how Nigerians can get a Proof of Funds that satisfies Japan''s visa financial requirements.'
 seo_title: How to Get Proof of Funds in Nigeria for Japan Visa
 image: /wp-content/uploads/2025/02/family-enjoying-their-winter-time-together_23-2149186294.jpg
 ---

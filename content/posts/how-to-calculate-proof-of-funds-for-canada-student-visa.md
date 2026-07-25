@@ -3,10 +3,7 @@ title: How to Calculate Proof of Funds for Canada Student Visa
 slug: how-to-calculate-proof-of-funds-for-canada-student-visa
 date: '2025-09-25T15:29:10.000Z'
 type: post
-description: >-
-  If you are planning to study in Canada, one of the most important requirements
-  for your study permit application is Proof of Fun... | Call/WhatsApp:
-  08103669924
+description: 'Studying in Canada? Learn exactly how to calculate the Proof of Funds required for your study permit, including family and tuition costs.'
 seo_title: How to Calculate Proof of Funds for Canada Student Visa
 image: /wp-content/uploads/2025/09/93e330bb-c279-4fe2-a3e9-8da837d7f5ff.jpg
 ---

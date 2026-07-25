@@ -3,10 +3,7 @@ title: 'Sponsorship Letter for Visa from Nigeria: Format, Samples & What Embassi
 slug: sponsorship-letter-for-visa-from-nigeria-format-and-samples
 date: '2026-07-21T13:30:00.000Z'
 type: post
-description: >-
-  Copy-ready sponsorship letter and invitation letter formats for UK, US,
-  Canada and Schengen applications — plus the supporting documents that make
-  embassies actually accept them. | Call/WhatsApp: 08103669924
+description: 'Copy-ready sponsorship and invitation letter formats for UK, US, Canada and Schengen applications, plus the supporting documents embassies accept.'
 seo_title: 'Sponsorship Letter for Visa Nigeria: Format + Samples 2026'
 image: /wp-content/uploads/2025/02/two-business-woman-cafe_1157-14528.jpg
 ---

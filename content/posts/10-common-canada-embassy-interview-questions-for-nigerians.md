@@ -3,10 +3,7 @@ title: 10 Common Canada Embassy Interview Questions for Nigerians
 slug: 10-common-canada-embassy-interview-questions-for-nigerians
 date: '2025-11-27T14:44:50.000Z'
 type: post
-description: >-
-  Securing an interview at the Canadian embassy is a major step towards
-  achieving your dream of studying, working, or visiting Can... | Call/WhatsApp:
-  08103669924
+description: 'Securing a Canada embassy interview is a big step. Here are the 10 most common questions Nigerian applicants face, with answer tips.'
 seo_title: 10 Common Canada Embassy Interview Questions for Nigerians
 image: /wp-content/uploads/2025/02/two-business-woman-cafe_1157-14528.jpg
 ---

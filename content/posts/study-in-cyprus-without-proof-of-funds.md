@@ -2,10 +2,8 @@
 title: "Study in Cyprus Without Proof of Funds: Everything You Need to Know"
 slug: study-in-cyprus-without-proof-of-funds
 type: post
-description: "Many Nigerians believe that to “japa” , they must have a huge
-  proof of funds  sitting in their bank account. While that’s true f... |
-  Call/WhatsApp: 08103669924"
-seo_title: "Study in Cyprus Without Proof of Funds: Everything You Need to Know"
+description: 'Think Japa always needs a huge bank balance? Here''s how some Nigerians are studying in Cyprus with lighter Proof of Funds requirements.'
+seo_title: 'Study in Cyprus Without Proof of Funds: Full Guide'
 image: /wp-content/uploads/2025/09/93e330bb-c279-4fe2-a3e9-8da837d7f5ff.jpg
 ---
 Many Nigerians believe that to **“japa”** (relocate abroad), they must have a huge **proof of funds (POF)** sitting in their bank account. While that’s true for countries like **Canada, the UK, or Schengen states**, there are still destinations where you can study without showing proof of funds.

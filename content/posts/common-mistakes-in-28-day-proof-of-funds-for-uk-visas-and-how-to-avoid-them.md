@@ -3,13 +3,9 @@ title: Common Mistakes in 28-Day Proof of Funds for UK Visas (and How to Avoid T
 slug: common-mistakes-in-28-day-proof-of-funds-for-uk-visas-and-how-to-avoid-them
 date: '2025-09-25T15:39:57.000Z'
 type: post
-description: >-
-  When applying for a UK visa, one of the biggest hurdles is meeting the Proof
-  of Funds  requirement. Many applicants—even those w... | Call/WhatsApp:
-  08103669924
-seo_title: Common Mistakes in 28-Day Proof of Funds for UK Visas (and How to Avoid Them)
-image: >-
-  https://img.freepik.com/free-photo/visa-application-form-smartphone_23-2149117778.jpg?uid=R45719163&ga=GA1.1.1313607400.1731226079&semt=ais_hybrid&w=740&q=80
+description: 'When applying for a UK visa, meeting the 28-day Proof of Funds rule trips up many applicants. Common mistakes, and how to avoid them.'
+seo_title: 'Common Mistakes in 28-Day UK Visa Proof of Funds'
+image: /wp-content/uploads/2025/02/two-business-woman-cafe_1157-14528.jpg
 ---
 When applying for a **UK visa**, one of the biggest hurdles is meeting the **Proof of Funds (POF) requirement**. Many applicants—even those who qualify financially—get rejected because of mistakes in preparing their **28-day bank statement**.
 
@@ -71,13 +67,15 @@ The 28-day Proof of Funds rule applies to:
 
 #### Can I use my sponsor’s account for Proof of Funds?
 
-Yes, but only for immediate family members like parents, spouse, or siblings. , birth certificate, marriage certificate) to prove the relationship.
+Yes, but only for immediate family members like parents, spouse, or siblings. You'll need supporting documents (e.g., birth certificate, marriage certificate) to prove the relationship.
 
 #### What happens if my balance drops below the required amount during the 28 days?
 
 Your application will be refused. The balance must remain above the required threshold for the entire 28-day period.
 
 #### Can I combine multiple accounts for Proof of Funds?
+
+Generally, no. UKVI prefers a single account showing the full required amount held for the full 28 days, since combining accounts makes it harder to verify a consistent balance.
 
 #### Do UKVI accept microfinance or fintech banks like Opay or Moniepoint?
 

@@ -3,10 +3,7 @@ title: How to Get Proof of Funds in Nigeria for Studying at Kuwait
 slug: how-to-get-proof-of-funds-in-nigeria-for-studying-at-kuwait
 date: '2025-11-26T05:45:57.000Z'
 type: post
-description: >-
-  Dreaming of pursuing your education in Kuwait? It’s an exciting goal, offering
-  a unique blend of modern education and rich cultu... | Call/WhatsApp:
-  08103669924
+description: 'Planning to study in Kuwait? Here''s how Nigerians can get a verifiable Proof of Funds that meets Kuwaiti student visa requirements.'
 seo_title: How to Get Proof of Funds in Nigeria for Studying at Kuwait
 image: /wp-content/uploads/2025/02/two-business-woman-cafe_1157-14528.jpg
 ---

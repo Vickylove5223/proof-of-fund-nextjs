@@ -3,10 +3,7 @@ title: 20 List of banks that provide proof of funds in Nigeria
 slug: list-of-banks-that-provide-proof-of-funds-in-nigeria
 date: '2025-02-16T17:30:48.000Z'
 type: post
-description: >-
-  Are you looking for a list of banks in Nigeria that provide proof of funds for
-  JAPA, study, family relocation, or other purposes... | Call/WhatsApp:
-  08103669924
+description: 'Not every Nigerian bank makes Proof of Funds easy. Here''s a full list of banks that provide it for JAPA, study, and family relocation.'
 seo_title: 20 List of banks that provide proof of funds in Nigeria
 image: >-
   /wp-content/uploads/2025/09/application-form-information-employment-concept_53876-128011-300x200.jpg

@@ -3,10 +3,8 @@ title: 'Japa to Brazil from Nigeria: Your Comprehensive Relocation Guide'
 slug: japa-to-brazil-from-nigeria-your-ultimate-relocation-guide
 date: '2025-11-30T21:15:58.000Z'
 type: post
-description: >-
-  Japa to Brazil from Nigeria: Your Comprehensive Relocation Guide |
-  Call/WhatsApp: 08103669924
-seo_title: 'Japa to Brazil from Nigeria: Your Comprehensive Relocation Guide'
+description: 'Everything Nigerians need to relocate to Brazil — visa routes, financial requirements, and practical steps for a smooth move in 2026.'
+seo_title: 'Japa to Brazil from Nigeria: Relocation Guide'
 image: /wp-content/uploads/2025/09/54393b20-44c6-4db1-b806-49c19fe2185f.jpg
 ---
 Japa to Brazil from Nigeria: Your Comprehensive Relocation Guide

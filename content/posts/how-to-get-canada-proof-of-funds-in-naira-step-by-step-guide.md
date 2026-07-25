@@ -3,12 +3,9 @@ title: How to Get Canada Proof of Funds in Naira (Step-by-Step Guide)
 slug: how-to-get-canada-proof-of-funds-in-naira-step-by-step-guide
 date: '2025-10-27T15:25:44.000Z'
 type: post
-description: >-
-  Planning a move to Canada is an exciting journey, but it comes with important
-  financial requirements. One of the biggest hurdles... | Call/WhatsApp:
-  08103669924
-seo_title: How to Get Canada Proof of Funds in Naira (Step-by-Step Guide)
-image: /wp-content/uploads/2025/10/ai-generated-5uvtlmi0lfj.jpg
+description: 'Moving to Canada comes with real financial requirements. A step-by-step guide to getting your Canada Proof of Funds sorted in naira.'
+seo_title: 'How to Get Canada Proof of Funds in Naira (Guide)'
+image: /wp-content/uploads/2025/09/application-form-information-employment-concept_53876-128011.jpg
 ---
 Planning a move to Canada is an exciting journey, but it comes with important financial requirements. One of the biggest hurdles for many Nigerians is providing Proof of Funds (POF).
 

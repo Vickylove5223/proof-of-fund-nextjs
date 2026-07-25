@@ -3,11 +3,8 @@ title: 'Schengen Visa Bank Statement Requirements from Nigeria 2026: The New 6-M
 slug: schengen-visa-bank-statement-requirements-from-nigeria-6-months
 date: '2026-07-21T13:10:00.000Z'
 type: post
-description: >-
-  Spain, France, Italy and other Schengen consulates now ask Nigerians for 6
-  months of bank statements, not 3. Country-by-country amounts and how to
-  present a statement that passes. | Call/WhatsApp: 08103669924
-seo_title: 'Schengen Visa Bank Statement Nigeria 2026: 6-Month Rule by Country'
+description: 'Spain, France, Italy and other Schengen consulates now ask Nigerians for 6 months of bank statements, not 3. Country-by-country amounts and tips.'
+seo_title: 'Schengen Visa Bank Statement Rules by Country 2026'
 image: /wp-content/uploads/2025/09/visa-application-composition-with-different-flags_23-2149117806.jpg
 ---
 If your Schengen checklist from last year said "3 months of bank statements," throw it away. **Several of the busiest Schengen consulates in Nigeria — Spain, France, Italy, Portugal, Greece, and the Czech Republic — have moved to requesting six months of bank statements**, and applicants who show up with three are getting documents-incomplete refusals.

@@ -3,11 +3,8 @@ title: 'Proof of Funds for Germany Student Visa from Nigeria: 2026 Complete Guid
 slug: proof-of-funds-germany-student-visa-nigeria
 date: '2026-05-22T10:11:48.000Z'
 type: post
-description: >-
-  Planning to study in Germany from Nigeria? One of the most critical
-  requirements you must meet is proof of funds for your German... |
-  Call/WhatsApp: 08103669924
-seo_title: 'Proof of Funds for Germany Student Visa from Nigeria: 2026 Complete Guide'
+description: 'Planning to study in Germany from Nigeria? Here''s exactly what Proof of Funds (blocked account) requirement you need to meet in 2026.'
+seo_title: 'Proof of Funds for Germany Student Visa (Nigeria)'
 image: /wp-content/uploads/2025/09/visa-application-composition-with-different-flags_23-2149117806.jpg
 ---
 Planning to study in Germany from Nigeria? One of the most critical requirements you must meet is **proof of funds for your Germany student visa**.

@@ -3,11 +3,8 @@ title: 14 Rules for a Bulletproof Canada Study Permit Proof of Funds
 slug: 14-rules-for-a-bulletproof-canada-study-permit-proof-of-funds
 date: '2026-02-26T08:09:47.000Z'
 type: post
-description: >-
-  Congratulations! You’ve finally received your admission letter to a Canadian
-  university or college. But before you start packing... | Call/WhatsApp:
-  08103669924
-seo_title: 14 Rules for a Bulletproof Canada Study Permit Proof of Funds
+description: 'Got your Canadian admission letter? Follow these 14 rules to build a Proof of Funds that survives IRCC scrutiny and secures your study permit.'
+seo_title: '14 Rules for a Bulletproof Canada Study Permit POF'
 image: /wp-content/uploads/2025/09/54393b20-44c6-4db1-b806-49c19fe2185f.jpg
 ---
 Congratulations! You’ve finally received your admission letter to a Canadian university or college.

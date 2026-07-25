@@ -5,14 +5,9 @@ title: >-
 slug: proof-of-funds-usa-visa-bank-balance-requirements-common-mistakes
 date: '2025-10-27T11:24:02.000Z'
 type: post
-description: >-
-  Are you dreaming of experiencing the vibrant culture, educational
-  opportunities, or exciting business landscape of the United St... |
-  Call/WhatsApp: 08103669924
-seo_title: >-
-  Proof of Funds for USA Visa: Bank Balance Requirements and Common Mistakes to
-  Avoid
-image: /wp-content/uploads/2025/10/ai-generated-9zppj78r16.jpg
+description: 'Dreaming of the US? Your bank balance and Proof of Funds documentation can make or break your visa. Requirements and common mistakes.'
+seo_title: 'Proof of Funds for USA Visa: Requirements & Mistakes'
+image: /wp-content/uploads/2025/09/9ddc6236-2387-4ec0-a148-cdfe2b95934a.jpg
 ---
 Are you dreaming of experiencing the vibrant culture, educational opportunities, or exciting business landscape of the United States? For many Nigerians, securing a USA visa is the first major step towards that dream.
 

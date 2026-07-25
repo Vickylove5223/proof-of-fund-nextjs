@@ -2,9 +2,7 @@
 title: 5 Proof of funds requirements for Nigerians
 slug: learn-about-proof-of-funds-requirements-in-nigeria
 type: post
-description: "Are you looking to get a cheap proof of funds in Nigeria to JAPA,
-  for study, family relocation, or other purposes? Well, you’re... |
-  Call/WhatsApp: 08103669924"
+description: 'Looking for an affordable Proof of Funds in Nigeria for Japa, study, or family relocation? Learn exactly what the requirements are.'
 seo_title: 5 Proof of funds requirements for Nigerians
 image: /wp-content/uploads/2025/09/9ddc6236-2387-4ec0-a148-cdfe2b95934a.jpg
 ---

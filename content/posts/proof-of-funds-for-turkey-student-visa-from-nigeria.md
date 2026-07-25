@@ -3,10 +3,7 @@ title: 'Proof of Funds for Turkey Student Visa from Nigeria: 2026 Requirements &
 slug: proof-of-funds-for-turkey-student-visa-from-nigeria
 date: '2026-07-21T15:50:00.000Z'
 type: post
-description: >-
-  Turkey is one of the cheapest real study routes for Nigerians — roughly
-  $4,000–$7,000 covers a year including proof of funds. Requirements, the
-  Türkiye Scholarships shortcut, and application steps. | Call/WhatsApp: 08103669924
+description: 'Turkey is one of the cheapest real study routes for Nigerians — roughly $4,000–$7,000 a year including proof of funds. Requirements and application steps.'
 seo_title: 'Turkey Student Visa Proof of Funds from Nigeria 2026'
 image: /wp-content/uploads/2025/09/93e330bb-c279-4fe2-a3e9-8da837d7f5ff.jpg
 ---
