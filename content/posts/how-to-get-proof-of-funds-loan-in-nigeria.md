@@ -93,17 +93,13 @@ The cost typically depends on two main factors:
 
 5%. This means you would pay a one-time fee of ₦375,000 to ₦525,000.
 
-This is far more achievable than sourcing the full ₦15 million. You can use our [POF calculator](/guides/proof-of-fund-calculator) to get a quick estimate.
-
-html).
+This is far more achievable than sourcing the full ₦15 million. You can use our [POF calculator](/proof-of-fund-calculator) to get a quick estimate.
 
 ![How to Get Proof of Funds Loan in Nigeria - Image 3](https://img.b2bpic.net/premium-photo/woman-holding-united-states-passport-outdoors-with-american-flag-background_1184450-2570.jpg)
 
 Why Use a Trusted Agent Like POF NG? ------------------------------------
 
 While it's possible to approach finance companies directly, using a trusted agent like POF NG offers several key benefits. We provide a layer of security and assurance.
-
-ng/).
 
 With us, you get:
 

@@ -66,7 +66,7 @@ The Australian Government accepts several financial instruments to prove you can
 
 4\. Next Steps to Apply
 
-au/help-support/tools/immiaccount). Afterward, you will be required to submit your biometrics at the nearest [VFS Global Australian Biometric Collection Centre](https://visa.vfsglobal.com/nga/en/aus) in Lagos or Abuja
+You'll submit your application through ImmiAccount. Afterward, you will be required to submit your biometrics at the nearest [VFS Global Australian Biometric Collection Centre](https://visa.vfsglobal.com/nga/en/aus) in Lagos or Abuja
 
 ### Acceptable Proof of Funds Documents for Nigerians
 

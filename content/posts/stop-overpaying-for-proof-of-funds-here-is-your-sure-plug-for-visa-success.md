@@ -50,7 +50,7 @@ It is incredibly common for highly skilled workers and brilliant students to lac
 
 We specialize in providing temporary liquidity. We will credit your account with the exact funds required by your destination embassy.
 
-The money stays in your account for the required duration, prints perfectly on your statement, and can withstand any verification check. _Read more on how we structure funds for academic routes in our [Study Visa Proof of Funds Guide.](/guides/proof-of-funds-for-study-visa)_
+The money stays in your account for the required duration, prints perfectly on your statement, and can withstand any verification check. _Read more on how we structure funds for academic routes in our [Study Visa Proof of Funds Guide.](/guides/ultimate-guide-to-proof-of-funds-for-student-visas-how-to-avoid-costly-mistakes)_
 
 Take the Next Step: Chat with Our Live Support Now
 --------------------------------------------------

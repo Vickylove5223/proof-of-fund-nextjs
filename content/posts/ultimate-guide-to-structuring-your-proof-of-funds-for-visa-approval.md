@@ -42,7 +42,7 @@ If your regular salary is ₦200,000 a month, and suddenly ₦15 million lands i
 
 Attach documentary evidence, such as land sale receipts, official gift deeds, or a deed of sale for a vehicle. Without proof, that lump sum will be your downfall.
 
-_Related: Learn more about how to strategically structure your accounts in our complete [Study Visa Proof of Funds Guide](/guides/proof-of-funds-for-study-visa)._
+_Related: Learn more about how to strategically structure your accounts in our complete [Study Visa Proof of Funds Guide](/guides/ultimate-guide-to-proof-of-funds-for-student-visas-how-to-avoid-costly-mistakes)._
 
 3\. Self-Sponsorship vs.
 
@@ -63,7 +63,7 @@ If your uncle is sponsoring your €18,000 tuition and living expenses, the visa
 
 Does he pay rent? If your sponsor earns ₦250,000 a month, it is mathematically illogical for them to sponsor a multi-million Naira trip abroad while sustaining their own family.
 
-To use a sponsor successfully, they must provide their own strong bank statement, work contract, payslips, and a formal letter of financial guarantee. _External Resource: If you are applying for a French Student Visa, for instance, your sponsor must adhere to the strict [Campus France financial guarantee guidelines](https://www.campusfrance.org/en/student-visa-for-france), which require showing at least €615 per month for living expenses._
+To use a sponsor successfully, they must provide their own strong bank statement, work contract, payslips, and a formal letter of financial guarantee. _External Resource: If you are applying for a French Student Visa, for instance, your sponsor must adhere to the strict Campus France financial guarantee guidelines, which require showing at least €615 per month for living expenses._
 
 ### **Why the Visa Officer Cares About Your Statement**
 
@@ -105,7 +105,7 @@ If caught, you face a permanent ban from countries like Canada or the US, which 
 
 #### **4\. Explain Every Large Inflow**
 
-If you receive a gift or sell an asset, you must document it. Use a **Gift Deed** (as we discussed in our [previous guide](/guides/blog)) or sales receipts to prove the money is yours and non-refundable.
+If you receive a gift or sell an asset, you must document it. Use a **Gift Deed** (as we discussed in our [previous guide](/guides)) or sales receipts to prove the money is yours and non-refundable.
 
 ### **Need Help Meeting the Requirement?**
 
@@ -113,7 +113,7 @@ Building a statement takes time—sometimes months of planning. If you find your
 
 We provide affordable, legitimate Proof of Funds services to ensure your closing balance meets the embassy's requirements without the risk of using fake documents.
 
-You don't have to give up on your dreams, and you definitely shouldn't resort to selling off your family's vital assets or presenting fake, unverified documents. **This is exactly why [POF NG](/guides/services) exists.** If you don't have the assets or personal money to deposit as your Proof of Funds, **we can provide the exact money you need at a highly affordable rate.**
+You don't have to give up on your dreams, and you definitely shouldn't resort to selling off your family's vital assets or presenting fake, unverified documents. **This is exactly why [POF NG](/) exists.** If you don't have the assets or personal money to deposit as your Proof of Funds, **we can provide the exact money you need at a highly affordable rate.**
 
 ### Why Choose POF NG?
 

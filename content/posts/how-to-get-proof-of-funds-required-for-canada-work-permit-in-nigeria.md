@@ -22,7 +22,7 @@ To demonstrate Proof of Funds for a Canadian work permit from Nigeria, provide o
 
 We connect you with financial partners who offer authentic, verifiable bank statements meeting Canadian immigration standards, quickly and securely.
 
-![Canadian currency and Nigerian passport](image-of-canadian-currency-and-nigerian-passport.jpg)
+
 
 Understanding Canada Work Permits and POF Requirements
 ------------------------------------------------------
@@ -37,11 +37,11 @@ This permit typically requires a Labour Market Impact Assessment (LMIA) and a jo
 
 An **Open Work Permit** offers greater flexibility, allowing you to work for almost any employer in Canada. Spouses or common-law partners of certain temporary foreign workers or international students are often eligible.
 
-![People working in a Canadian office](image-of-people-working-collaboratively-in-a-modern-canadian-office.jpg)
+
 
 ### When is Proof of Funds (POF) Actually Required?
 
-ca/), you must prove you can financially support yourself and your family members upon arrival in Canada.
+According to IRCC requirements, you must prove you can financially support yourself and your family members upon arrival in Canada.
 
 Proof of Funds is almost always required for **open work permit** applicants. Without a guaranteed job, Canadian officials need assurance you can support yourself while job hunting.
 
@@ -60,9 +60,7 @@ Acceptable documents include:
 
 Funds must be in your name or your spouse/partner's name. Funds from other family members are only acceptable with a formal letter of sponsorship.
 
-html).
 
-![Financial Documents for Canadian Immigration](image-of-various-financial-documents-bank-statements-investment-portfolio.jpg)
 
 The Challenge for Many Nigerians and How We Can Help
 ----------------------------------------------------
@@ -86,7 +84,7 @@ Whether using your own funds or our service, ensuring document perfection is key
 
 ### Ensure Your Bank Statement is Clear and Official
 
-ca/nigeria/) scrutinizes documents. com/) or Globus Bank.
+The Canadian visa office in Nigeria closely scrutinizes documents. Use a reputable bank such as GTBank or Globus Bank.
 
 It should clearly show the bank’s contact information, your name, address, and a detailed transaction history.
 
@@ -107,9 +105,9 @@ The temptation to use fake documents is high, but consequences are severe, inclu
 
 Using a legitimate agent like POF NG ensures authentic documents from registered financial institutions. Every document we facilitate is 100% verifiable.
 
-com/) on financial documents.
+Immigration officers are trained to spot inconsistencies on financial documents.
 
-![Financial advisor assisting with Proof of Funds](image-of-a-person-shaking-hands-with-a-financial-advisor.jpg)
+
 
 Conclusion: Your Canadian Dream is Within Reach
 -----------------------------------------------

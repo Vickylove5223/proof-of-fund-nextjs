@@ -42,7 +42,7 @@ For example, let’s say you’re applying for a student visa to a country that 
 
 The funds must also have been in the account for a specific period, often 28 days or more, to show that the money isn’t just a last-minute deposit.
 
-S. gov/visas/) website for American visa details.
+Check the U.S. Department of State's official website for American visa details.
 
 You can also explore our guide to [learn about Proof of Funds requirements](/guides/learn-about-proof-of-funds-requirements-in-nigeria) for various countries.
 
@@ -69,7 +69,7 @@ Why Choose POF NG for Your Financial Proof? ------------------------------------
 
 While there are several companies offering POF services, choosing a trusted and reliable agent is key to avoiding visa rejection. POF NG stands out as the #1 trusted provider in Nigeria for good reason.
 
-ng/), to ensure every document we facilitate is 100% authentic and verifiable. Our process is fast, transparent, and designed to give you peace of mind.
+At POF NG, we work only with CBN-licensed partners to ensure every document we facilitate is 100% authentic and verifiable. Our process is fast, transparent, and designed to give you peace of mind.
 
 ![financial documents verification](/wp-content/uploads/2025/11/image-3.jpg)
 

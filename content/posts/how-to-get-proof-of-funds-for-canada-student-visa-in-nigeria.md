@@ -125,7 +125,7 @@ Getting your Proof of Funds for a Canada student visa is a detailed process, but
 
 If you feel overwhelmed or are struggling to meet the financial requirements, don’t let it stop you. At POF NG, we specialize in helping Nigerian students secure authentic, verifiable, and embassy-accepted Proof of Funds quickly and affordably.
 
-We’ve helped countless students like you turn their Canadian dreams into reality. com/) about international student journeys.
+We've helped countless students like you turn their Canadian dreams into reality. Read more of our guides about international student journeys.
 
 Conclusion
 ----------

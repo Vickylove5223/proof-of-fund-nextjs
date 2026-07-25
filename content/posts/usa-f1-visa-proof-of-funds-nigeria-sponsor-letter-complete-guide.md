@@ -38,7 +38,7 @@ Acceptable Nigerian Financial Documents
 
 *   **Official Bank Statements:** Statements from recognized Nigerian banks (e.g., GTBank, Zenith, Access Bank, UBA) with a verifiable official stamp and signature. 
 *   **Bank Reference Letter:** A formal letter from your bank manager confirming the account balance, account type, and overall good standing of the account.
-*   **Fixed Deposits:** Fixed deposit certificates are acceptable if you can provide proof of maturity and liquidity. \[[1](https://cloudsandblueconsult.com/proof-of-fund-for-usa-visa-in-nigeria/)\]
+*   **Fixed Deposits:** Fixed deposit certificates are acceptable if you can provide proof of maturity and liquidity. \[1\]
 *   **Alternative Funding:** Scholarships, educational loans, or assistantship letters can be combined with your sponsor's documents.
 
 Tips for a Successful Visa Interview
@@ -50,8 +50,6 @@ Tips for a Successful Visa Interview
 ### Role of a Sponsor Letter for F1 Visa
 
 If you are not self-funded, a sponsor (usually a parent, relative, or guardian) must provide an affidavit or sponsorship letter. This letter explains the relationship and commitment to support you financially.
-
-, birth certificate).
 
 ### What Makes a Strong Sponsor Letter?
 
@@ -76,7 +74,7 @@ If you are not self-funded, a sponsor (usually a parent, relative, or guardian) 
 
 ### How proofoffund.com.ng Helps with F1 Visa POF & Sponsor Documentation
 
-) with transparent lien/mandate arrangements. Our team also provides guidance on sponsor letters and full documentation packages tailored for the US Embassy in Nigeria.
+POF NG can fund your account with transparent lien/mandate arrangements. Our team also provides guidance on sponsor letters and full documentation packages tailored for the US Embassy in Nigeria.
 
 ### Step-by-Step Tips for Strong F1 Financial Package
 

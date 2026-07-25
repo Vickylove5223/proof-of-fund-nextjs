@@ -9,9 +9,7 @@ description: >-
   08103669924
 seo_title: Privacy Policy
 ---
-ng (“we,” “our,” or “us”). Your privacy is important to us.
-
-local/) (the “Website”).
+Welcome to ProofOfFund.com.ng (“we,” “our,” or “us”). Your privacy is important to us. This Privacy Policy explains how we collect, use, disclose, and protect your information when you visit or use our website, ProofOfFund.com.ng (the “Website”).
 
 By using our Website, you agree to the collection and use of information in accordance with this policy.
 
@@ -122,4 +120,10 @@ We may update this Privacy Policy from time to time. Changes will be posted on t
 9\. Contact Information
 -----------------------
 
-If you have any questions regarding this Privacy Policy, please contact: Website: [/guides/](http:/afrikamombraids.local/)
+If you have any questions regarding this Privacy Policy, please contact us:
+
+*   Email: [info@proofoffund.com.ng](mailto:info@proofoffund.com.ng)
+
+*   Phone/WhatsApp: 08103669924
+
+*   Address: 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos

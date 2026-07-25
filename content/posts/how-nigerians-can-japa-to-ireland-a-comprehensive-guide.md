@@ -89,7 +89,7 @@ We can help you understand exactly [how Proof of Funds works](/guides/learn-how-
 
 ### 4\. Complete the Online Application
 
-ie/). Ensure all information is accurate and matches your supporting documents.
+Ensure all information is accurate and matches your supporting documents.
 
 ### 5\. Submit Your Application and Biometrics
 
@@ -98,8 +98,6 @@ After completing the online form, you will be directed to submit your passport, 
 ### 6\. Await the Decision
 
 Visa processing times can vary. You can track your application status online.
-
-ie/irish-embassy/nigeria/).
 
 Your Irish Dream is Within Reach
 --------------------------------

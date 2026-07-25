@@ -45,7 +45,7 @@ Applications go through **VFS Global** (Lagos and Abuja) to the Department of Ho
 1. **Processing time is the wildcard** — study visas officially take 4–8 weeks but backlogs regularly stretch this; apply the day your admission letter lands
 2. **Checklists are enforced literally** — a missing medical-aid certificate or unstamped statement means rejection-and-refile, not a benefit-of-the-doubt approval. The [document-formatting discipline](/guides/bank-statement-and-reference-letter-costs-in-nigeria-gtb-access-zenith-uba) matters more here than almost anywhere
 
-Official reference: [Department of Home Affairs](http://www.dha.gov.za/) and VFS South Africa (Nigeria).
+Official reference: Department of Home Affairs and VFS South Africa (Nigeria).
 
 ## Structuring a South Africa File
 

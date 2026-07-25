@@ -39,7 +39,7 @@ The government's **Türkiye Bursları** programme takes hundreds of Nigerians an
 4. **Assemble the financial file** — statements, sponsor documents, receipts
 5. **After arrival:** convert to a residence permit (ikamet) within your first weeks — budget for the permit fee and Turkish health insurance
 
-Processing typically runs 2–8 weeks. Confirm current checklists with the [Turkish Embassy in Abuja](https://abuja.emb.mfa.gov.tr/).
+Processing typically runs 2–8 weeks. Confirm current checklists with the Turkish Embassy in Abuja.
 
 ## Eyes-Open Considerations
 

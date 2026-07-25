@@ -35,7 +35,7 @@ This transfer-based system is actually good news for Nigerian applicants: there 
 | Visa/permit fees (via university) | ~€250 |
 | Health insurance | ~€600/year |
 
-Confirm live figures on the official [IND study page](https://ind.nl/en/residence-permits/study/student-residence-permit) and [Study in NL](https://www.studyinnl.org/finances) — the monthly norm amount updates every year.
+Confirm live figures on the official IND study page and [Study in NL](https://www.studyinnl.org/finances) — the monthly norm amount updates every year.
 
 ## Acceptable Ways Nigerians Meet the Requirement
 

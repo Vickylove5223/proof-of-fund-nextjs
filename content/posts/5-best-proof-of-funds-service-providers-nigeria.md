@@ -98,9 +98,9 @@ The process can be confusing, so having access to responsive and helpful custome
 
 While cost shouldn't be the only factor, it's an important consideration. Fees typically depend on the amount of funds required and the duration they need to be shown.
 
-We recommend you get a clear quote upfront and [use a calculator to estimate costs](/guides/proof-of-fund-calculator) before committing. Be wary of providers with hidden charges.
+We recommend you get a clear quote upfront and [use a calculator to estimate costs](/proof-of-fund-calculator) before committing. Be wary of providers with hidden charges.
 
-uk/student-visa/money), for instance, require a specific amount for a set duration, which will influence the cost.
+Some embassies, the UK's visa authorities for instance, require a specific amount for a set duration, which will influence the cost.
 
 ## Conclusion
 
@@ -108,4 +108,4 @@ Navigating the complexities of visa and school applications is challenging enoug
 
 The five companies we've highlighted are excellent starting points in your search.
 
-We recommend you review their services, compare their offerings, and [check specific visa requirements](/guides/see-requirements) to find the partner that best aligns with your goals. gov/your-5-steps-us-study/finance-your-studies).
+We recommend you review their services, compare their offerings, and [check specific visa requirements](/see-requirements) to find the partner that best aligns with your goals. gov/your-5-steps-us-study/finance-your-studies).

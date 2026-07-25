@@ -34,8 +34,8 @@ export const metadata: Metadata = {
     images: ['/logo.png'],
   },
   icons: {
-    icon: '/favicon.ico',
-    apple: '/logo.png', // Fallback for apple touch if needed
+    icon: '/favicon.png',
+    apple: '/favicon.png',
   }
 };
 

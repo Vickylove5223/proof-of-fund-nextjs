@@ -27,7 +27,7 @@ The process generally involves securing admission into a UK institution, receivi
 
 A critical part of this application is proving you have enough money to pay for your course fees and living expenses. This is known as [Proof of Funds (POF)](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide).
 
-uk/student-visa) rules, these funds must be held for a specific period, typically 28 consecutive days. Failing to meet this requirement is a common reason for visa refusal.
+Under the UK's student visa rules, these funds must be held for a specific period, typically 28 consecutive days. Failing to meet this requirement is a common reason for visa refusal.
 
 2\. The Skilled Worker Visa Route
 ---------------------------------
@@ -38,16 +38,12 @@ The system is points-based, and you’ll need to score points for your job offer
 
 Fields like IT, engineering, finance, and healthcare are consistently in high demand. To start, you’ll need to find a job with a company that can provide you with a Certificate of Sponsorship (CoS).
 
-uk/government/publications/register-of-licensed-sponsors-workers).
-
 3\. The Health and Care Worker Visa
 -----------------------------------
 
 As a subset of the Skilled Worker route, the Health and Care Worker visa is specifically for qualified doctors, nurses, and other health or adult social care professionals. The UK’s National Health Service (NHS) and private care sector actively recruit from overseas, including Nigeria.
 
 This visa offers significant advantages, including lower application fees, an exemption from the annual Immigration Health Surcharge, and a faster decision-making process. If you have a background in healthcare, this is one of the most direct ways to JAPA to the UK.
-
-uk/health-care-worker-visa).
 
 4\. The Global Talent Visa
 --------------------------
@@ -66,8 +62,6 @@ It’s a prestigious pathway for those at the top of their game. UK website.
 This route is for Nigerians who have a partner, spouse, parent, or child who is a British citizen or has settled status in the UK. The primary requirement is proving that your relationship is genuine and that your UK-based family member meets a minimum income threshold.
 
 While it seems straightforward, the financial and documentary evidence required can be extensive. It’s essential to gather all necessary documents, including proof of relationship and financial stability, to ensure a smooth application process.
-
-uk/uk-family-visa).
 
 The Critical Role of Proof of Funds in Your Journey
 ---------------------------------------------------

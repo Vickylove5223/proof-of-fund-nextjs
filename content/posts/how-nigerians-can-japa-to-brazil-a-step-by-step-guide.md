@@ -27,7 +27,7 @@ Beyond the famous carnivals and football, Brazil is the largest economy in Latin
 
 For Nigerians, there's also a deep-rooted cultural connection, with many Afro-Brazilians tracing their ancestry back to Nigeria. This shared heritage can make the transition feel more familiar and welcoming.
 
-country=Brazil) can be more affordable than in many Western countries, allowing your money to go further as you settle in.
+The cost of living in Brazil can be more affordable than in many Western countries, allowing your money to go further as you settle in.
 
 Understanding the Main Visa Routes to Brazil
 --------------------------------------------
@@ -50,7 +50,7 @@ You'll need to prove you can cover your tuition and living expenses for the dura
 
 This visa is for those who have a close family member (spouse, child, or parent) who is a Brazilian citizen or a permanent resident. The family member in Brazil will need to act as your sponsor.
 
-org/wiki/Nigerian_Brazilians), making this a viable path for some.
+Nigeria has a long-documented history of emigration to Brazil, making this a viable path for some.
 
 \[IMAGE\_1\]
 
@@ -64,7 +64,7 @@ Once you've identified the right visa, it's time to begin the application proces
 Documentation is the backbone of your application. While specific requirements vary by visa type, you will generally need:
 
 *   A valid Nigerian international passport (with at least two blank pages).
-*   A completed online visa application form from the [Consulate General of Brazil in Lagos](http://lagos.itamaraty.gov.br/en-us/).
+*   A completed online visa application form from the Consulate General of Brazil in Lagos.
 *   Recent passport-sized photographs meeting specific guidelines.
 *   A police character certificate.
 *   Original birth certificate.
@@ -109,7 +109,7 @@ It's that simple. We provide the peace of mind you need to focus on the other pa
 
 Whether you need funds for a student, work, or tourist visa, we have you covered.
 
-br/mj/pt-br/assuntos/seus-direitos/migracoes) for the latest policies.
+Check Brazil's Ministry of Justice migration portal for the latest policies.
 
 \[IMAGE\_3\]
 

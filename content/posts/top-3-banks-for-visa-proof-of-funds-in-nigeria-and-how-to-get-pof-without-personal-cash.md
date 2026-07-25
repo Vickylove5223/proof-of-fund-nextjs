@@ -67,7 +67,7 @@ Furthermore, paying a 5% upfront charge to a bank for temporary liquidity can be
 The POF NG Solution: We Provide the Funds for You
 -------------------------------------------------
 
-You do not need to abandon your travel dreams or sell off your family properties just to show a bank balance. This is exactly why [**POF NG**](/guides/services) exists.
+You do not need to abandon your travel dreams or sell off your family properties just to show a bank balance. This is exactly why [**POF NG**](/) exists.
 
 If you don’t have the millions required to deposit as Proof of Funds, **we can provide the money for you at a highly affordable rate.**
 
@@ -78,7 +78,7 @@ If you don’t have the millions required to deposit as Proof of Funds, **we can
 *   **Zero Collateral Stress:** You don't need to surrender your car or house documents to us. We have a streamlined, trusted system designed specifically for visa applicants.
 *   **100% Legitimacy:** The funds we provide are real and verifiable. When the consular officer or embassy conducts their checks, your financial standing will be solid and unquestionable.
 
-_Internal Link: Learn more about how we structure funds specifically for academic migration in our [Study Visa POF Guide](/guides/proof-of-funds-for-study-visa)._
+_Internal Link: Learn more about how we structure funds specifically for academic migration in our [Study Visa POF Guide](/guides/ultimate-guide-to-proof-of-funds-for-student-visas-how-to-avoid-costly-mistakes)._
 
 Don't Let Lack of Funds Stop Your Migration Dreams
 --------------------------------------------------

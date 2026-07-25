@@ -78,7 +78,7 @@ This makes them a viable option for those who need a reliable service without ex
 
 Glow Funds is another player in the Nigerian market that offers proof of funds services to prospective travelers and students. Their main objective is to bridge the financial gap for applicants who have secured admission or have travel plans but lack the required liquid cash to show in their accounts.
 
-html) shows, these requirements are very strict.
+As official visa guidance shows, these requirements are very strict.
 
 The company provides bank statements that reflect the required balance for the necessary duration. Their process is designed to be discreet and efficient, ensuring client confidentiality while delivering documents that pass embassy checks.
 
@@ -100,7 +100,7 @@ Their service involves providing clients with the necessary financial backing an
 
 The company prides itself on transparency and customer support, guiding clients through the process to ensure all documents are correctly prepared. Their turnaround time is competitive, making them a solid option for applicants who need reliable documentation quickly.
 
-Before committing, it's wise to use a [proof of fund calculator](/guides/proof-of-fund-calculator) to estimate the total amount you'll need to show.
+Before committing, it's wise to use a [proof of fund calculator](/proof-of-fund-calculator) to estimate the total amount you'll need to show.
 
 ### Key Features:
 

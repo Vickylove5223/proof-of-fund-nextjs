@@ -23,8 +23,6 @@ However, travel agents are humans—they make mistakes, and they get paid regard
 
 Consular officers are trained to look for legitimacy. They don't just look at your closing balance; they look at the history of how that money got there.
 
-html).
-
 Building Your POF: Business Owners vs. Salaried Workers
 -------------------------------------------------------
 
@@ -42,14 +40,14 @@ The "believability" of your account is key. 7 million, a consular officer will a
 
 Your income must logically support the cost of your trip. If your salary can't cover the flight ticket, you need a solid explanation or a specialized financial structure.
 
-_Related: [Learn more about Proof of Funds for Study Visas](/guides/proof-of-funds-for-study-visa)_
+_Related: [Learn more about Proof of Funds for Study Visas](/guides/ultimate-guide-to-proof-of-funds-for-student-visas-how-to-avoid-costly-mistakes)_
 
 The Danger of the Exchange Rate Fluctuations
 --------------------------------------------
 
 One area where many Nigerians fail is the "Exchange Rate Trap." If you started building your POF six months ago when the dollar was N900, and you saved N10 million, that money might have been enough then.
 
-uk/student-visa/money). You must build or secure your funds based on the **current** exchange rate at the time of your application.
+You must build or secure your funds based on the **current** exchange rate at the time of your application.
 
 Failing to account for Naira devaluation is a leading cause of "Insufficient Funds" refusals.
 
@@ -66,7 +64,7 @@ This is the reality for many talented students and workers in Nigeria: You have 
 *   **Affordability:** Instead of struggling to find millions, you only pay a small service fee to use our funds for your application period.
 *   **Expert Guidance:** We help structure your "Inflow and Outflow" so your statement looks natural and professional to consular officers.
 
-_Check out our [latest blog posts](/guides/blog) for more tips on migration and visa success._
+_Check out our [latest blog posts](/guides) for more tips on migration and visa success._
 
 Don't Risk Your Visa with "Lump Sum" Deposits
 ---------------------------------------------

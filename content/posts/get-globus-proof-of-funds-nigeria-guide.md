@@ -74,7 +74,7 @@ Your information is handled with the utmost confidentiality.
 
 ### Can I use this for a UK Student Visa?
 
-Yes. uk/student-visa/money) for student visas and other immigration routes.
+Yes. Globus Bank statements are accepted by UK visa authorities for student visas and other immigration routes.
 
 ### What documents do I need to start?
 

@@ -29,7 +29,7 @@ These are providers known (as of mid-2025) for offering relatively low rates / c
 
 ## How Banks Compare
 
-). But compared to the non-bank providers above, their “cost” often is higher in one or more of these ways:
+Commercial banks are typically the most expensive route for a POF. But compared to the non-bank providers above, their “cost” often is higher in one or more of these ways:
 
 1. **Higher Interest / Fee** for POF or for maintaining “locked” funds.
 2. **Longer verification period** – getting statements, signed letters, references often takes more time.
@@ -41,23 +41,10 @@ These are providers known (as of mid-2025) for offering relatively low rates / c
 
 Here’s a hypothetical sketch (numbers just illustrative) to show how much you might save:
 
-Scenario
-
-Bank
-
-g. Easify, EdFin, etc.)
-
-POF requirement: ₦5,000,000 for visa
-
-Bank statement generation, possible charges, waiting time, maybe interest/commission ~ 2**.5% - 4%** + fees (2-3 days)
-
-Non-bank provider offers ~ **2.5-3.5%** flat, disburse in 24-48 hrs, minimal documentation
-
-POF requirement: ₦30,000,000
-
-Bank may require higher fees, more documents, possibly higher % or stricter terms
-
-Non-bank may still offer < 2.5 - 4% for large amounts, with fast turnaround
+| Scenario | Bank | Non-bank (e.g. Easify, EdFin, etc.) |
+| --- | --- | --- |
+| POF requirement: ₦5,000,000 for visa | Bank statement generation, possible charges, waiting time, maybe interest/commission ~ **2.5% - 4%** + fees (2-3 days) | Non-bank provider offers ~ **2.5-3.5%** flat, disburse in 24-48 hrs, minimal documentation |
+| POF requirement: ₦30,000,000 | Bank may require higher fees, more documents, possibly higher % or stricter terms | Non-bank may still offer < 2.5 - 4% for large amounts, with fast turnaround |
 
 So, using a non-bank provider might save you **1-2%** (or more) plus time, effort, documentation. ![](https://img.freepik.com/free-photo/african-young-woman-holding-wallet-with-virtual-currency-bitcoin-stressed-frustrated-with-hand-head-surprised-angry-face_839833-23012.jpg?uid=R45719163&ga=GA1.1.1313607400.1731226079&semt=ais_hybrid&w=740&q=80)
 

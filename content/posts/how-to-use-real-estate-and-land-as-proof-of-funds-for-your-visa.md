@@ -12,7 +12,7 @@ image: /images/finance-2.png
 ---
 One of the most frequent questions we get at **POF NG** is: "Can I use my house or my landed property as Proof of Funds?" While the short answer is that IRCC and most embassies prefer liquid cash, your real estate assets play a massive role in strengthening your application.
 
-If you have properties but lack the liquid cash required to show as settlement funds, **POF NG** is here to bridge that gap. We provide the [liquid Proof of Funds you need](/guides/services) at an affordable rate, allowing you to use your properties as "Asset or Other Income Source Proof" instead.
+If you have properties but lack the liquid cash required to show as settlement funds, **POF NG** is here to bridge that gap. We provide the [liquid Proof of Funds you need](/) at an affordable rate, allowing you to use your properties as "Asset or Other Income Source Proof" instead.
 
 ### **Liquid Funds vs. Fixed Assets**
 
@@ -60,7 +60,7 @@ We understand that many Nigerians are "asset rich but cash poor." You might have
 
 *   [IRCC Guide: What Counts as Proof of Funds?](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html)
 
-*   [Lagos State Lands Bureau - Document Verification](https://lands.lagosstate.gov.ng/)
+*   Lagos State Lands Bureau - Document Verification
 
 _Disclaimer: POF NG provides financial assistance for visa documentation. We do not provide real estate legal services.
 

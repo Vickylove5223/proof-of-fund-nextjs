@@ -103,4 +103,4 @@ Securing your Proof of Funds is a critical step toward achieving your internatio
 
 Each of these five companies offers a credible solution, but the best one for you will depend on your specific needs, budget, and timeline.
 
-We recommend you do your final checks, ask questions, and perhaps [use a calculator to estimate costs](/guides/proof-of-fund-calculator) before making a commitment. By partnering with a trusted agent, you can confidently submit your application and move one step closer to your dream abroad.
+We recommend you do your final checks, ask questions, and perhaps [use a calculator to estimate costs](/proof-of-fund-calculator) before making a commitment. By partnering with a trusted agent, you can confidently submit your application and move one step closer to your dream abroad.

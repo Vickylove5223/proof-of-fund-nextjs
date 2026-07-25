@@ -14,7 +14,7 @@ Dreaming of studying in Canada is an exciting first step. The world-class educat
 
 However, before you can pack your bags, you must cross a critical hurdle: providing Proof of Funds (POF) for your study permit application.
 
-![Nigerian student holding a Canadian flag and smiling in front of a university campus](image_placeholder_1.jpg)
+
 
 This requirement often feels daunting, but it doesn’t have to be a barrier to your dreams. We understand the process inside and out, and we are here to guide you through every step.
 
@@ -33,9 +33,9 @@ You must demonstrate that you can cover:
 *   **Living expenses:** As of 2024, the minimum amount for a single student is CAD $20,635 per year (outside of Quebec).
 *   **Travel expenses:** You should also account for the cost of your flight to Canada.
 
-![Close-up of Canadian currency (CAD) with a calculator and a pen, illustrating financial planning](image_placeholder_2.jpg)
 
-ca/) for the most up-to-date figures, as these can change.
+
+Check IRCC's official website for the most up-to-date figures, as these can change.
 
 Acceptable Proof of Funds Documents
 -----------------------------------
@@ -48,7 +48,7 @@ This is the most common method. You’ll need to provide official bank statement
 
 The statements must show a consistent history of funds and not a sudden, unexplained large deposit just before your application. The source of these funds must be clear, such as salary, investment proceeds, or sale of property.
 
-![Example of a bank statement highlighting consistent transactions over several months](image_placeholder_3.jpg)
+
 
 ### 2\. Guaranteed Investment Certificate (GIC)
 
@@ -61,7 +61,7 @@ If you have received a scholarship, an official letter detailing the amount and 
 Calculating Your Required Proof of Funds: A Sample Breakdown
 ------------------------------------------------------------
 
-Let’s break down the calculation with an example. com/) for the latest exchange rates.
+Let's break down the calculation with an example, using a reliable currency converter for the latest exchange rates.
 
 Assuming an exchange rate of **1 CAD = 1,100 NGN**:
 
@@ -91,7 +91,7 @@ Many promising applications are rejected due to simple POF mistakes. Here are th
 *   **Lack of Document Authenticity:** Submitting fake or altered documents will lead to an automatic refusal and a potential ban from entering Canada.
 *   **Unclear Source of Funds:** The visa officer needs to understand where the money came from. Include supporting documents like pay stubs, business registration documents, or property sale agreements.
 
-![Close-up of a rejected visa application form with a red stamp, symbolizing application failure](image_placeholder_4.jpg)
+
 
 Don't Have the Funds? Lawful Assistance is Available
 ----------------------------------------------------
@@ -115,4 +115,4 @@ If you feel overwhelmed or need assistance meeting the financial threshold, reme
 
 Contact us today for a free consultation and let’s make your dream of studying in Canada a reality.
 
-com/) that often cover stories on international education.
+Follow reputable education-news sources that often cover stories on international education.

@@ -35,7 +35,7 @@ Understanding USA Visa Bank Balance Requirements
 
 S. government does not publish a single, fixed minimum bank balance requirement for all visa types.
 
-gov/students/prepare/proof-of-funds) for at least your first year of study, as outlined on your I-20 form. This can easily range into tens of thousands of dollars.
+You'll need to show sufficient funds for at least your first year of study, as outlined on your I-20 form. This can easily range into tens of thousands of dollars.
 
 The key is to demonstrate you have more than enough. It's always better to show a comfortable surplus rather than the bare minimum.
 
@@ -76,9 +76,7 @@ Transparency is key.
 
 ### Mistake 4: Using Unacceptable Documents
 
-Not all financial documents are treated equally. S.
-
-embassy primarily accepts official bank statements, savings account books, and letters from reputable financial institutions. asp) unless they can be quickly converted to cash.
+Not all financial documents are treated equally. The U.S. embassy primarily accepts official bank statements, savings account books, and letters from reputable financial institutions. Non-liquid assets are generally not accepted unless they can be quickly converted to cash.
 
 Ensure your documents are current, authenticated, and directly from your bank.
 
@@ -86,7 +84,7 @@ Ensure your documents are current, authenticated, and directly from your bank.
 
 This is a critical error with severe consequences. Submitting fake or altered financial documents will not only lead to an immediate visa rejection but can also result in a permanent ban from entering the United States.
 
-S. html) and its embassies are highly skilled at detecting fraud.
+The U.S. State Department and its embassies are highly skilled at detecting fraud.
 
 Always ensure your documents are 100% authentic and verifiable. [A dramatic, photorealistic image illustrating 'common mistakes' with Proof of Funds.
 
@@ -124,4 +122,4 @@ Don't let the complexities of Proof of Funds hinder your American dream. We at P
 
 Ready to take the next step? [Contact POF NG](/) or contact us today to get your authentic Proof of Funds and move closer to your USA visa goal.
 
-com/immigration-resources/common-questions-usa-visa-interview/) helpful.
+Many applicants find independent immigration-resource guides helpful.

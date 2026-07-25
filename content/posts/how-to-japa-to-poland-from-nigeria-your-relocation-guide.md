@@ -26,7 +26,7 @@ Poland is a great choice for many reasons. eu/policies/schengen-borders-and-visa
 
 This means you can travel to many other European countries easily once you live there.
 
-country=Poland) is often lower than in Western European countries. This makes it easier to settle in.
+The cost of living in Poland is often lower than in Western European countries. This makes it easier to settle in.
 
 Poland also has a growing economy with good job and study options.
 
@@ -51,7 +51,7 @@ Think carefully about your reason for moving. This will help you choose the corr
 
 ### Step 2: Carefully Gather Your Documents
 
-Getting your papers ready is a very important step. pl/web/nigeria/embassy-abuja) requires specific documents.
+Getting your papers ready is a very important step. Poland's embassy in Abuja requires specific documents.
 
 Make sure you have everything they ask for.
 
@@ -83,7 +83,7 @@ We connect you with trusted financial partners to provide the documents you need
 
 ### Step 4: The Visa Application Process
 
-Once you have all your documents, it is time to apply. com/nga/en/pol/), the official partner for the Polish embassy.
+Once you have all your documents, it is time to apply. Applications go through VFS Global, the official partner for the Polish embassy.
 
 Here is how it works:
 
@@ -97,7 +97,7 @@ Here is how it works:
 
 You got your visa! Congratulations.
 
-Now the final planning begins. com/jobs/jobs-in-poland/) if you have a work visa, book your flight, and arrange your long-term housing.
+Now the final planning begins. Search job portals for Poland if you have a work visa, book your flight, and arrange your long-term housing.
 
 Get ready to pack your bags and start your new adventure!
 

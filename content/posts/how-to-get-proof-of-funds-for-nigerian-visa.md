@@ -50,7 +50,7 @@ You’ll need to provide a few key details:
 *   The duration the funds need to be in the account (e.g., 28 days for a [UK visa](https://www.gov.uk/student-visa/money)).
 *   A valid ID and your contact details.
 
-Our team will review your [visa or school requirements](/guides/see-requirements) to ensure everything is perfectly aligned.
+Our team will review your [visa or school requirements](/see-requirements) to ensure everything is perfectly aligned.
 
 ### Step 2: We Connect You with a Trusted Financial Partner
 
@@ -106,7 +106,5 @@ Getting proof of funds for your Nigerian visa application doesn’t have to be a
 By partnering with a trusted agent like POF NG, you can get legitimate, verifiable, and embassy-approved financial documents quickly and affordably.
 
 Don’t let financial documentation stand in the way of your dreams. We are here to provide the peace of mind and professional support you need for a successful application.
-
-S. asp).
 
 **Contact POF NG today for a free consultation and let us help you take the next step in your journey. Visit our website at [/](/) or call/WhatsApp us to get started!**

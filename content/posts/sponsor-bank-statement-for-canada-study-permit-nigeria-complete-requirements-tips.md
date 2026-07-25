@@ -17,7 +17,7 @@ image: /wp-content/uploads/2025/11/ai-generated-0wlk2mxzd5p-300x164.jpg
 ---
 Many Nigerian applicants for Canadian study permits rely on family sponsors — usually parents, uncles, or siblings — to meet the financial requirements. A strong sponsor bank statement is one of the most common and effective ways to prove you have sufficient funds.
 
-me/2348103669924) for a free consultation. Share your sponsor details, required amount, and timeline — we will provide clear, tailored options.
+[Chat with us on WhatsApp](https://wa.me/2348103669924) for a free consultation. Share your sponsor details, required amount, and timeline — we will provide clear, tailored options.
 
 Don’t let weak financial documentation derail your Canadian study dream. Build a professional and convincing sponsor package the right way.
 
@@ -86,7 +86,7 @@ If your sponsor has genuine funds but needs to show a stronger, more liquid bala
 
 ng, we specialize in supporting sponsor accounts for Canada study permits. We work only with CBN-licensed partners to create verifiable, bank-generated records that strengthen your application.
 
-me/2348103669924) for a free consultation. Share your sponsor details, required amount, and timeline — we will provide clear, tailored options.
+[Chat with us on WhatsApp](https://wa.me/2348103669924) for a free consultation. Share your sponsor details, required amount, and timeline — we will provide clear, tailored options.
 
 ### Step-by-Step Guide to Prepare Sponsor Documents
 
@@ -106,6 +106,6 @@ ng, we have helped hundreds of Nigerian students and their families prepare cred
 *   Guidance on combining sponsor statements with GIC or other proofs
 *   Competitive rates and dedicated support
 
-me/2348103669924) for a free consultation. Share your sponsor details, required amount, and timeline — we will provide clear, tailored options.
+[Chat with us on WhatsApp](https://wa.me/2348103669924) for a free consultation. Share your sponsor details, required amount, and timeline — we will provide clear, tailored options.
 
 Don’t let weak financial documentation derail your Canadian study dream. Build a professional and convincing sponsor package the right way.

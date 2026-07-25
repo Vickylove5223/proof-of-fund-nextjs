@@ -33,7 +33,7 @@ Some top countries offering free or highly subsidized tuition for international 
 *   **Czech Republic** (If you are willing to study in the Czech language)
 *   **Finland** (Offers free vocational schools and certain tuition-free programs)
 
-, Germany's Blocked Account requirement). If you don't have this bulk cash, read to the end to see how [POF NG](/guides/services) can help you.
+If you don't have this bulk cash, read to the end to see how [POF NG](/) can help you.
 
 2\. Take Advantage of International Student Loans
 -------------------------------------------------
@@ -66,7 +66,7 @@ If you have skills in high demand—such as Tech, Healthcare, Engineering, or Ed
 
 **How to find them:** Optimize your LinkedIn profile. Search for "Talent Acquisition Specialist" or use recruitment agencies that specialize in international hiring, such as _Southern Cross Personnel_ or _Konnecting_ (for Australia).
 
-_Note:_ Depending on the country, even with a sponsored job, you may still be required to show a "Maintenance Fund" (Proof of Funds) for your first month. If you are short on cash, [we can easily structure this for you](/guides/proof-of-funds-for-study-visa).
+_Note:_ Depending on the country, even with a sponsored job, you may still be required to show a "Maintenance Fund" (Proof of Funds) for your first month. If you are short on cash, [we can easily structure this for you](/guides/ultimate-guide-to-proof-of-funds-for-student-visas-how-to-avoid-costly-mistakes).
 
 5\. Apply for Global Scholarships
 ---------------------------------
@@ -110,7 +110,7 @@ If you do not have the personal cash, assets, or property to secure a bank POF, 
 
 Don't let the final hurdle stop your relocation goals. Thousands of Nigerians are legally migrating using our structured financial services.
 
-Check out our [blog](/guides/blog) to see success stories and more tips.
+Check out our [blog](/guides) to see success stories and more tips.
 
 ### Ready to Secure Your Visa? Talk to Us Today!
 

@@ -78,7 +78,7 @@ They may contact the bank directly to confirm the funds are real and accessible.
 
 ### Meeting Specific Requirements
 
-Different countries have unique rules. html#financial) vary by province and family size.
+Different countries have unique rules. Canada's requirements, for example, vary by province and family size.
 
 It is vital to understand the [specific proof of funds requirements](/guides/learn-about-proof-of-funds-requirements-in-nigeria) for your destination country and institution to avoid any mistakes.
 

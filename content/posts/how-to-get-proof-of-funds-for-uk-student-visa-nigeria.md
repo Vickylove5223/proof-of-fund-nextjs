@@ -22,7 +22,7 @@ To get Proof of Funds for a UK student visa in Nigeria, you must show you have e
 
 You can use personal bank statements, a letter from an official financial sponsor, or a loan letter, and services like POF NG can help you meet these requirements lawfully and quickly.
 
-![UK Visa Application Process](image-of-uk-visa-application-process.jpg)
+
 
 Understanding the UK’s Financial Requirement
 --------------------------------------------
@@ -50,9 +50,9 @@ Let’s say your tuition for the first year is £15,000 and your university is i
 *   **Living Costs:** £9,207 (£1,023 x 9 months)
 *   **Total Required Funds:** £15,000 + £9,207 = £24,207
 
-You must show that you have at least £24,207 in your account. You can use our [proof of fund calculator](/guides/proof-of-fund-calculator) to get a quick estimate for your specific situation.
+You must show that you have at least £24,207 in your account. You can use our [proof of fund calculator](/proof-of-fund-calculator) to get a quick estimate for your specific situation.
 
-![Calculating Proof of Funds](image-of-calculating-proof-of-funds.jpg)
+
 
 Acceptable Documents for Proof of Funds
 ---------------------------------------
@@ -68,7 +68,7 @@ The most common [acceptable proof of funds](/guides/what-is-acceptable-proof-of-
 
 It’s also crucial to understand the [best narration for proof of funds](/guides/12-best-narration-for-proof-of-funds-in-nigeria) to ensure your transactions are clearly explained and don’t raise red flags.
 
-![Bank Statements for Proof of Funds](image-of-bank-statements-for-proof-of-funds.jpg)
+
 
 Formatting, Currency Conversion, and the 28-Day Rule
 ----------------------------------------------------
@@ -89,9 +89,9 @@ A visa refusal is heartbreaking, especially when it’s due to a preventable err
 *   **Incorrect Documentation:** Submitting statements from a business account or using a non-approved financial institution. For more details, read about [common mistakes in 28-day proof of funds for UK visas](/guides/common-mistakes-in-28-day-proof-of-funds-for-uk-visas-and-how-to-avoid-them).
 *   **Outdated Statements:** Submitting a bank statement that is more than 31 days old.
 
-org/) for student information. com/) can provide the necessary statements, but meeting the balance requirement can be the main challenge.
+Check UKCISA for student information. Your bank can provide the necessary statements, but meeting the balance requirement can be the main challenge.
 
-![Common Reasons for Visa Rejection](image-of-common-reasons-for-visa-rejection.jpg)
+
 
 Need Help? How POF NG Offers a Lawful Solution
 ----------------------------------------------
@@ -108,7 +108,7 @@ With a turnaround time of just 24 to 72 hours, we can help you get your applicat
 
 We offer [urgent 48-hour proof of funds](/guides/48-hour-proof-of-funds-uk-student-visa) for those on a tight deadline.
 
-![Proof of Funds Service](image-of-proof-of-funds-service.jpg)
+
 
 Conclusion
 ----------

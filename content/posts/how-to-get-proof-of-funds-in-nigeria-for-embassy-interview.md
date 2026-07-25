@@ -35,9 +35,9 @@ First, it's essential to understand what embassies are looking for. They aren't 
 
 The core purpose of a POF is to prove that you can cover your tuition, living expenses, and travel costs without needing to work illegally or rely on public funds in their country.
 
-Each country has specific requirements. uk/student-visa/money) specifies that funds must be held for at least 28 consecutive days.
+Each country has specific requirements. The UK, for instance, specifies that funds must be held for at least 28 consecutive days.
 
-S. html) also requires substantial proof of financial capacity.
+The U.S. also requires substantial proof of financial capacity.
 
 Always check the official immigration website of your destination country for the most accurate information.
 

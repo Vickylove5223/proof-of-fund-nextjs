@@ -47,7 +47,7 @@ The process involves getting accepted into a registered Australian institution, 
 
 If you are a professional with skills in demand in Australia, you might be eligible for a skilled migration visa. This pathway uses a points-based system that assesses factors like your age, qualifications, work experience, and English language ability.
 
-au/) and submit an Expression of Interest (EOI).
+Create a SkillSelect account and submit an Expression of Interest (EOI).
 
 A Step-by-Step Guide for the Student Route
 ------------------------------------------
@@ -56,7 +56,7 @@ Let’s focus on the student visa, as it’s the most accessible route for many.
 
 ### Step 1: Research Your Course and School
 
-Your journey begins with choosing a course and an institution. au/) is an excellent resource for exploring courses, universities, and vocational colleges across the country.
+Your journey begins with choosing a course and an institution. Australia's official study portal is an excellent resource for exploring courses, universities, and vocational colleges across the country.
 
 Once you’ve chosen, you must apply and receive a Confirmation of Enrolment (CoE) from the institution.
 
@@ -64,7 +64,7 @@ Once you’ve chosen, you must apply and receive a Confirmation of Enrolment (Co
 
 You will need to prove your English proficiency by taking a standardized test. The most commonly accepted tests are the IELTS and PTE Academic.
 
-au/visas/getting-a-visa/visa-listing/student-500) for your visa application.
+Check the Department of Home Affairs' Student visa (subclass 500) page for your visa application.
 
 ### Step 3: Secure Your Proof of Funds (POF)
 
@@ -95,11 +95,11 @@ Life in Australia: What to Expect
 
 Once your visa is approved, it’s time to prepare for your new life! It’s wise to research the cost of living in your chosen city.
 
-com/cost-of-living/in/Sydney) can provide a good estimate of expenses in cities like Sydney or Melbourne.
+Online cost-of-living calculators can provide a good estimate of expenses in cities like Sydney or Melbourne.
 
 As a student, you’ll have rights to work part-time. The Australian government allows student visa holders to work up to 48 hours per fortnight during study periods.
 
-au/find-help-for/visa-holders-and-migrants). This can be a great way to gain local work experience and supplement your income.
+This can be a great way to gain local work experience and supplement your income.
 
 \[IMAGE\_3\]
 

@@ -35,7 +35,7 @@ How Much Money is Enough for KNUST? -----------------------------------
 
 The exact amount you need to show can vary based on your chosen course and lifestyle. To get an accurate figure, you should always start with the official source.
 
-gh/admissions/international-students) for the latest fee schedule.
+Check KNUST's official admissions page for the latest fee schedule.
 
 Your total Proof of Funds should cover:
 
@@ -79,7 +79,7 @@ Ensuring Your Application is Successful
 
 Beyond just showing the money, authenticity is key. KNUST will verify the documents you submit.
 
-Ensure that any academic credentials you provide from Nigeria are recognized. ng/).
+Ensure that any academic credentials you provide from Nigeria are recognized.
 
 Using a trusted agent like POF NG guarantees that your financial documents are verifiable and will pass any checks from the university or embassy. We handle the complexities so you can focus on preparing for your academic journey.
 

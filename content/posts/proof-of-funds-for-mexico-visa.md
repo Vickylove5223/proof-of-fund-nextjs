@@ -33,7 +33,7 @@ That’s why they require **bank statements and financial documents** to confirm
 
 ### Avoid Microfinance Banks for Proof of Funds
 
-) for proof of funds. Embassies often reject these statements because:
+Some applicants try to use screenshots or unofficial printouts for proof of funds. Embassies often reject these statements because:
 
 *   They don’t see microfinance banks as **stable financial institutions**
 *   Many don’t have **international recognition**

@@ -93,8 +93,6 @@ Start collecting all necessary paperwork. This includes:
 *   Proof of Funds (Bank Statements)
 *   Acceptance letter or employment contract (if applicable)
 
-br/en-us/).
-
 ### Step 3: Secure Your Proof of Funds
 
 This is where we come in. Don't let financial proof be the obstacle that stops your dream.
@@ -110,8 +108,6 @@ Once all your documents are in order, submit your application and schedule an in
 ### Step 5: Plan Your Travel and Arrival
 
 After your visa is approved, it's time to book your flight! Research accommodation for your first few weeks, learn some basic Portuguese phrases, and connect with Nigerian communities in Brazil online.
-
-org/en/country/brazil).
 
 Conclusion: Your Brazilian Dream is Within Reach
 ------------------------------------------------

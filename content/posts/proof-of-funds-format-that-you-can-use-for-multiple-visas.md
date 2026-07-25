@@ -14,7 +14,7 @@ Have you spent months building your Proof of Funds (POF) only to use it for a si
 
 At **POF NG**, we believe in efficiency.
 
-Why build multiple statements when you can use one strong POF to secure multiple visas at the same time? If you don't have the personal funds to maintain this kind of statement, we can provide the [Proof of Funds you need](/guides/services) at an affordable rate.
+Why build multiple statements when you can use one strong POF to secure multiple visas at the same time? If you don't have the personal funds to maintain this kind of statement, we can provide the [Proof of Funds you need](/) at an affordable rate.
 
 ### **The Strategy: One POF, Multiple Destinations**
 

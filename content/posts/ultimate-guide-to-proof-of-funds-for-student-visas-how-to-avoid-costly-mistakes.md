@@ -55,7 +55,7 @@ If your sponsor is handing over their entire life savings to fund your education
 *   A solid bank statement showing they have enough money to support you **and** maintain their own family's standard of living.
 *   A formal letter of financial guarantee.
 
-_External Resource: If you are applying to France, for instance, you must adhere strictly to the [Campus France financial guarantee requirements](https://www.campusfrance.org/en/student-visa-for-france)._
+_External Resource: If you are applying to France, for instance, you must adhere strictly to the Campus France financial guarantee requirements._
 
 4\. How Much Should You Really Have in Your Account?
 
@@ -69,7 +69,7 @@ A strong Proof of Funds should always have a comfortable buffer. If your require
 
 This demonstrates to the visa officer that you will not become a public burden when you arrive in their country. _Internal Link: Want to know exactly how to calculate your funds?
 
-Read our complete guide on [Proof of Funds for Study Visas](/guides/proof-of-funds-for-study-visa)._
+Read our complete guide on [Proof of Funds for Study Visas](/guides/ultimate-guide-to-proof-of-funds-for-student-visas-how-to-avoid-costly-mistakes)._
 
 Don't Have the Personal Cash or Assets? We Can Help!
 
@@ -98,4 +98,4 @@ Our dedicated live support team is online and ready to analyze your specific vis
 
 👉 **[Click Here to Chat with POF NG Live Support on WhatsApp Now!](https://wa.me/2348103669924)**
 
-Let [**POF NG**](/guides/services) take the financial stress off your shoulders so you can focus on packing your bags. Send us a DM today!
+Let [**POF NG**](/) take the financial stress off your shoulders so you can focus on packing your bags. Send us a DM today!

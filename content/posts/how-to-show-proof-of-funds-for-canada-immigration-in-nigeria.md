@@ -38,7 +38,7 @@ The amount of money you need depends on the size of your family. The Government 
 
 It is important to check the latest figures on their official website to make sure you have enough.
 
-Here is an example of the required funds based on recent data. html).
+Here is an example of the required funds based on recent data.
 
 *   **1 person:** $13,757 CAD
 *   **2 people:** $17,127 CAD
@@ -51,8 +51,6 @@ _(Note: These are sample figures. Please check the official IRCC link for the mo
 What Kinds of Proof are Accepted? ---------------------------------
 
 Canada is very specific about the documents they accept. You cannot just show them cash or property value.
-
-ng/).
 
 ### Acceptable documents include:
 
@@ -76,7 +74,7 @@ This is a common challenge for many applicants in Nigeria. Saving up the full se
 
 You might have the money in assets like land, or you might be short of the required total. So, what can you do?
 
-This is where a trusted service like POF NG can help. int/) and the specific needs of Canadian immigration.
+This is where a trusted service like POF NG can help, matching you with a solution suited to the specific needs of Canadian immigration.
 
 We connect you with verified financial partners who can help you meet the proof of funds requirement legally and safely. You don’t have to put your dream on hold.
 
@@ -106,9 +104,9 @@ Our process is clear:
 
 With our help, you can be sure your financial documents are 100% verifiable and accepted by the embassy. To learn more, check out our [complete guide on getting proof of funds](/guides/how-to-get-proof-of-funds-in-nigeria-a-complete-guide).
 
-org/en/country/nigeria). With the right preparation, you can be one of them.
+Thousands of Nigerians successfully immigrate to Canada every year. With the right preparation, you can be one of them.
 
-ng/), and your proof of funds are your keys to success.
+A clear plan, the right documentation, and your proof of funds are your keys to success.
 
 Your Canadian Dream is Within Reach
 -----------------------------------

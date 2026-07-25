@@ -33,7 +33,7 @@ This financial evidence assures the embassy that you can support yourself withou
 
 For professionals with valuable work experience and qualifications, skilled worker programs are an excellent option. Countries use these points-based systems to attract talent that can fill labor market gaps and contribute to the economy.
 
-uk/skilled-worker-visa) are prime examples.
+The UK's Skilled Worker visa route is a prime example.
 
 Applicants are typically assessed based on age, education, work experience, and language skills. A job offer from a foreign employer is often required, but not always.
 

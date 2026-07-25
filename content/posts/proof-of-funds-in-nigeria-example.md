@@ -27,12 +27,12 @@ Before we dive into the examples, let's clarify what embassies and universities 
 
 It’s not just about a large number in an account; it's about proving the funds are genuinely yours and accessible.
 
-The document must come from a recognized financial institution. ng/), all commercial banks in the country are regulated, making their statements and letters credible sources for your application.
+The document must come from a recognized financial institution. Under Central Bank of Nigeria regulation, all commercial banks in the country are regulated, making their statements and letters credible sources for your application.
 
 Proof of Funds in Nigeria: Real-Life Examples & Templates
 ---------------------------------------------------------
 
-gov/education-culture/study-usa/getting-started/) have strict guidelines. Here are the three most common types of POF documents they accept, along with templates to guide you.
+U.S. institutions have strict guidelines. Here are the three most common types of POF documents they accept, along with templates to guide you.
 
 ### Example 1: The Bank Confirmation Letter
 

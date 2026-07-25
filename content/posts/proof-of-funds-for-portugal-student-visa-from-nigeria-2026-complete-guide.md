@@ -100,7 +100,7 @@ Frequently Asked Questions (FAQs)
 
 ### How much bank balance is required for Portugal student visa from Nigeria?
 
-8M). The official Portuguese government benchmark is €870/month.
+The official Portuguese government benchmark is €870/month.
 
 We recommend showing the full annual amount.
 

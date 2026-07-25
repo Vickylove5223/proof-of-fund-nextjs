@@ -19,7 +19,7 @@ image: /images/finance-2.png
 
 ### What is Temporary Proof of Funds?
 
-) with real money. The funded portion is placed under a lien/mandate so it cannot be withdrawn during the visa processing period, while you receive full statements and supporting letters.
+Temporary proof of funds means your account is funded by a licensed partner with real money. The funded portion is placed under a lien/mandate so it cannot be withdrawn during the visa processing period, while you receive full statements and supporting letters.
 
 This service is widely used for UK Student/Visitor visas (28-day rule) and Canada Study Permit/Express Entry applications.
 

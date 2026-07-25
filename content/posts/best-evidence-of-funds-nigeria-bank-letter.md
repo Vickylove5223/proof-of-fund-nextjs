@@ -24,8 +24,6 @@ It demonstrates that your visit is well-funded and that you have strong ties to 
 
 Failing to provide adequate proof is one of the most common reasons for visa denials. A strong financial document, like a bank letter, directly addresses these concerns and strengthens your application significantly.
 
-S. html).
-
 What Makes a Bank Letter the Best Evidence of Funds? ----------------------------------------------------
 
 While a bank statement is acceptable, a formal letter from your bank is often considered the gold standard. It is a direct, official confirmation from a reputable financial institution.

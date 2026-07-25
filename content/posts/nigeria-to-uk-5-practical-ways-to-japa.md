@@ -58,7 +58,7 @@ The financial requirement for the Student Visa is notoriously strict. You must p
 
 Crucially, these funds must have been held in your account for at least 28 consecutive days before you apply. This is a common hurdle for many applicants.
 
-uk/student-visa) for government guidelines.
+Check the UK government's official student visa page for guidelines.
 
 3\. The Health and Care Worker Visa
 -----------------------------------
@@ -78,8 +78,6 @@ If you are a recognized leader or show exceptional promise in fields like academ
 
 To qualify, you must first successfully apply for an endorsement from a designated body to prove you are a leader or potential leader in your field. While it doesn't have a specific maintenance fund requirement like other visas, a strong financial standing is always beneficial for your overall application.
 
-uk/global-talent).
-
 5\. The Family Visa Route
 -------------------------
 
@@ -88,8 +86,6 @@ The Family Visa route is designed for those who have a close family member—suc
 Be aware: this visa category has one of the strictest financial requirements. Your UK-based sponsor must meet a specific minimum income threshold to prove they can support you without needing public funds.
 
 The evidence required, such as bank statements and employment records, is scrutinized heavily and must be flawless. This is a non-negotiable part of the application.
-
-uk/uk-family-visa).
 
 ![A happy family playing in a park, representing the family visa route to the UK.](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)
 

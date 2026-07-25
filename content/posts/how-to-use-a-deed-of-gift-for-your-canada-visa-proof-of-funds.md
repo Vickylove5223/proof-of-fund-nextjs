@@ -20,8 +20,6 @@ What is a Deed of Gift? -----------------------
 
 A Deed of Gift is a formal, legal document in which a person (the donor) willingly gives a specific amount of money to another person (the donee) as a gift, without expecting any form of repayment. For immigration purposes, it proves to the visa officer that the sudden lump sum in your account is entirely yours and is not a loan.
 
-html).
-
 A Gift Deed is one of the most effective ways to show POF because:
 
 1.  **No 6-Month Maturity Required:** Unlike traditional savings, gifted funds don't necessarily need to be in your account for 6 months, as long as you have the legal documentation to back it up.
@@ -65,7 +63,7 @@ Ensure you include:
 Why a Deed of Gift is a Great Option
 ------------------------------------
 
-** Normally, embassies want to see the history of your funds over a 4 to 6-month period. However, if your father gives you ₦20 million today, and you back it up with a properly notarized Deed of Gift, you can literally submit your Canada PR or [Study Visa application](/guides/proof-of-funds-for-study-visa) next week.
+** Normally, embassies want to see the history of your funds over a 4 to 6-month period. However, if your father gives you ₦20 million today, and you back it up with a properly notarized Deed of Gift, you can literally submit your Canada PR or [Study Visa application](/guides/ultimate-guide-to-proof-of-funds-for-student-visas-how-to-avoid-costly-mistakes) next week.
 
 It legally explains away the sudden "lump sum" in your account.
 
@@ -91,7 +89,7 @@ We know the reality. The exchange rate is high, and raising tens of millions of 
 
 ** You do not have cars to sell or personal cash to lock away for months. Do you abandon your "Japa" dreams?
 
-Absolutely not! At [**POF NG**](/guides/services), we are your sure plug for visa financial backing.
+Absolutely not! At [**POF NG**](/), we are your sure plug for visa financial backing.
 
 **If you don't have the assets or personal money to deposit as POF, we can provide the exact money for you at a highly affordable rate.**
 

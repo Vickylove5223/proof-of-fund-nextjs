@@ -26,7 +26,7 @@ We’ll show you exactly how to calculate your Canada Proof of Funds in Naira, c
 
 First, What Exactly is Proof of Funds for Canada? -------------------------------------------------
 
-Proof of Funds is official evidence that you have sufficient money to cover your living expenses and, if applicable, tuition fees for your first year in Canada. html).
+Proof of Funds is official evidence that you have sufficient money to cover your living expenses and, if applicable, tuition fees for your first year in Canada.
 
 It’s not a payment to the government; it’s simply proof of your financial stability.
 
@@ -45,7 +45,7 @@ Let's walk through it step-by-step.
 
 The amount you need depends on your immigration program and the number of family members coming with you. For students, the minimum amount for living expenses (outside of Quebec) is currently set by IRCC.
 
-html#financial) for the most up-to-date figures, as they can change. For our example, let's use the requirement for a single student, which is **$10,000 CAD** for living expenses.
+Check IRCC's official website for the most up-to-date figures, as they can change. For our example, let's use the requirement for a single student, which is **$10,000 CAD** for living expenses.
 
 ### Step 2: Add Your First-Year Tuition Fees (For Students)
 
@@ -61,7 +61,7 @@ Your total required amount in CAD would be: $10,000 (living expenses) + $18,000 
 
 The exchange rate between the Canadian Dollar and the Nigerian Naira fluctuates daily. It's crucial to use a recent, reliable rate for your calculation.
 
-asp) portal.
+Check the current exchange rate on the CBN's official portal.
 
 For this guide, let's use an example exchange rate of **1 CAD = 1,100 NGN**.
 
@@ -75,7 +75,7 @@ To be safe, we always recommend adding a 10-15% buffer to your final amount. Thi
 
 With a 10% buffer, your target amount would be approximately **₦33,880,000**.
 
-Want a faster way to estimate? Try our handy [Proof of Fund Calculator](/guides/proof-of-fund-calculator) to get a quick idea of what you'll need.
+Want a faster way to estimate? Try our handy [Proof of Fund Calculator](/proof-of-fund-calculator) to get a quick idea of what you'll need.
 
 What if You Don't Have the Full Amount? ---------------------------------------
 

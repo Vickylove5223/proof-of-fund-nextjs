@@ -3,10 +3,7 @@ import Link from 'next/link';
 export default function GlobalFooterCTA() {
   return (
     <section className="pt-8 pb-24 px-6 bg-[#F3F0FF]">
-      <div 
-        className="max-w-4xl mx-auto bg-[#120E00] rounded-3xl p-12 md:p-16 text-center relative overflow-hidden" 
-        style={{ backgroundImage: `url('/bg-pattern.svg')`, backgroundSize: 'cover', backgroundPosition: 'center' }}
-      >
+      <div className="max-w-4xl mx-auto bg-[#120E00] rounded-3xl p-12 md:p-16 text-center relative overflow-hidden">
         <div className="absolute inset-0 bg-[#120E00]/90"></div>
         <div className="absolute top-0 left-0 w-full h-1 bg-[#2E1499]"></div>
         

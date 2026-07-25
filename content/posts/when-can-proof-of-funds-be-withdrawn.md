@@ -65,7 +65,7 @@ This is why partnering with a reliable agent like POF NG is so important. We don
 
 We ensure that you understand the timeline and follow the rules precisely. S.
 
-html) to European Schengen authorities. asp), and we help you demonstrate it correctly.
+This applies whether you're proving funds to Canadian immigration or to European Schengen authorities. Each has its own withdrawal rules, and we help you demonstrate it correctly.
 
 ### Conclusion: Patience is Your Best Strategy
 

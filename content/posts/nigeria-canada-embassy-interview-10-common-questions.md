@@ -48,13 +48,13 @@ Be specific and direct.
 
 The officer is testing if you’ve done your research. Generic answers won’t work.
 
-ca/) stands out from similar programs in Nigeria or other countries.
+Canada's application process stands out from similar programs in Nigeria or other countries.
 
 ### 3 Who is sponsoring your trip, and how will you fund your stay?
 
 This is a critical question about your financial capacity. Your answer must align perfectly with the financial documents you submitted, including your Proof of Funds (POF).
 
-”) and be prepared to show the documents to prove it. A common reason for rejection is inconsistent financial proof.
+Know exactly why you're applying and be prepared to show the documents to prove it. A common reason for rejection is inconsistent financial proof.
 
 We explain [why visa applications get rejected because of POF](/guides/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it) and how to prevent it.
 
@@ -62,13 +62,13 @@ We explain [why visa applications get rejected because of POF](/guides/why-visa-
 
 Be honest. Lying is the fastest way to get a refusal.
 
-, citizen, permanent resident). Having family in Canada is not necessarily a negative thing, but hiding it is.
+Having family in Canada is not necessarily a negative thing, but hiding it is.
 
 ### 5 What are your plans after completing your studies/visit?
 
 For temporary visas (student, visitor), the officer needs to be convinced of your intent to return to Nigeria. This is about demonstrating strong ties to your home country.
 
-Talk about your job prospects in Nigeria, family responsibilities, or property you own. html) website.
+Talk about your job prospects in Nigeria, family responsibilities, or property you own.
 
 ![A diverse group of students studying together on a Canadian university campus.](https://images.pexels.com/photos/207692/pexels-photo-207692.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 

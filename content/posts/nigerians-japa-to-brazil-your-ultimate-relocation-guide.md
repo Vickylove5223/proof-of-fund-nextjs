@@ -53,7 +53,7 @@ This is the main category for those looking to relocate long-term. The VITEM has
 
 \[IMAGE: Close-up of a person's hands filling out a Brazilian visa application form with a Nigerian passport visible nearby.\]
 
-br/en-us/) website.
+Check Brazil's official immigration website.
 
 Proving Your Financial Capacity: The Proof of Funds (POF) Hurdle
 ----------------------------------------------------------------
@@ -95,7 +95,7 @@ It will help you integrate, find a job, and connect with people. com/course/pt/e
 
 Brazil’s economy has strong sectors in technology, agriculture, and services. Major cities like São Paulo and Rio de Janeiro are the main economic hubs.
 
-com/jobs/jobs-in-brazil/) or local sites like Catho.
+Search international job boards or local sites like Catho.
 
 ### Nigerian Community
 

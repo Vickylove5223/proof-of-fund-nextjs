@@ -27,7 +27,7 @@ Understanding Austria’s Proof of Funds Requirement
 
 The Austrian government wants to ensure that international students can support themselves financially throughout their studies without needing to work excessively or rely on state support. Therefore, you must prove you have a certain amount of money accessible to you for your first year.
 
-According to the official [Austrian Agency for Education and Internationalisation (OeAD)](https://oead.at/en/to-austria/entry-and-residence/proof-of-sufficient-financial-means), the required amounts for 2024 are:
+According to the official Austrian Agency for Education and Internationalisation (OeAD), the required amounts for 2024 are:
 
 *   **Students up to 24 years old:** €672.64 per month (€8,071.68 for a full year).
 *   **Students over 24 years old:** €1,217.96 per month (€14,615.52 for a full year).
@@ -68,7 +68,7 @@ The required funds are listed in Euros, so you’ll need to calculate the equiva
 
 €8,071.68 x 1,600 = ₦12,914,688
 
-We recommend adding at least 10% extra to be safe. com/) to get an accurate figure.
+We recommend adding at least 10% extra to be safe. Use a reliable currency converter to get an accurate figure.
 
 \[IMAGE: A graphic showing a calculator converting Euros to Nigerian Naira to illustrate the proof of funds calculation for an Austrian student visa.\]
 
@@ -104,7 +104,7 @@ Conclusion: Your Austrian Dream is Within Reach
 
 Securing Proof of Funds for your Austrian student visa is a detailed but achievable task. By understanding the requirements, choosing the right method, calculating the correct amount, and preparing your documents carefully, you can confidently move forward with your application.
 
-at/en/) portal for guidance.
+Check Austria's official immigration portal for guidance.
 
 Don’t let financial proof stand in the way of your educational goals. If you need assistance or have questions about securing your POF, we are here to help.
 

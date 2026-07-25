@@ -78,7 +78,7 @@ Decide whether you’re moving for work, study, or another reason. Get your job 
 
 ### Step 2: Apply for Your National (D-type) Visa
 
-pl/web/nigeria/). This usually involves booking an appointment online in advance.
+This usually involves booking an appointment online in advance.
 
 ### Step 3: Arrive in Poland and Register Your Address
 
@@ -95,9 +95,9 @@ Poland’s job market is robust, with high demand in sectors like IT, engineerin
 
 While many Poles in business speak English, learning some basic Polish will greatly enhance your experience and integration. pl/) are popular for job searches.
 
-For students, Poland offers a world-class education system. pl/) website.
+For students, Poland offers a world-class education system. Check the Study in Poland website for accredited programs.
 
-pl/), so have your documents ready.
+Processing times vary, so have your documents ready.
 
 Ready to Make Your Move? ------------------------
 

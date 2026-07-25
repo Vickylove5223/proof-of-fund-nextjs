@@ -27,7 +27,7 @@ Proof of Funds is verifiable evidence that you or your sponsor have enough money
 
 ### Understanding Nigerian Bank POF Loans
 
-, GTB, Zenith, Access) and depositing it into your account to show the required balance. You pay interest and must provide collateral or meet strict eligibility criteria.
+This involves the bank sourcing funds from a partner (e.g. GTB, Zenith, Access) and depositing it into your account to show the required balance. You pay interest and must provide collateral or meet strict eligibility criteria.
 
 **Pros:**
 
@@ -44,7 +44,7 @@ Proof of Funds is verifiable evidence that you or your sponsor have enough money
 
 ### What is POF NG?
 
-ng). We  partner with CBN-licensed finance houses and major banks to temporarily fund your existing or new account with real money.
+We partner with CBN-licensed finance houses and major banks to temporarily fund your existing or new account with real money.
 
 The POF portion is placed under a lien/mandate, preventing withdrawal during the visa processing period, while you receive full statements and supporting letters. **Pros:**
 
@@ -126,6 +126,6 @@ This approach has helped hundreds of Nigerians secure visas to Canada, the UK, R
 
 ng, we offer the most reliable, transparent, and embassy-friendly POF solution in Nigeria. Whether you need support for Canada, UK, Russia, or any other destination, our team delivers fast and professional results.
 
-me/2348103669924) for a no-obligation consultation. Share your destination, required amount, and timeline — we will recommend the best package for your situation.
+[Chat with us on WhatsApp](https://wa.me/2348103669924) for a no-obligation consultation. Share your destination, required amount, and timeline — we will recommend the best package for your situation.
 
 Don’t risk visa refusal due to weak financial documentation. Choose the proven, efficient way to secure your Proof of Funds.

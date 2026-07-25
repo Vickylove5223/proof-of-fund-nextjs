@@ -44,7 +44,7 @@ You can sell products ranging from fashion and electronics to handmade crafts an
 
 For those who want to avoid the costs of managing inventory, dropshipping is an excellent alternative. In this model, you sell products from a third-party supplier who handles storage and shipping.
 
-Your primary role is marketing and customer service. com/outlook/dmo/ecommerce/nigeria).
+Your primary role is marketing and customer service.
 
 3\. Innovate with Agriculture Technology (AgriTech)
 ---------------------------------------------------
@@ -55,7 +55,7 @@ This doesn’t mean you have to own a farm yourself.
 
 You can invest in farms through crowdfunding platforms, provide drone services for crop monitoring, or develop software that helps farmers manage their resources more efficiently. This sector combines tradition with technology, creating new income opportunities in Nigeria that are both profitable and impactful.
 
-For more ideas on emerging business trends, you can explore various [insights and updates](/guides/insights-updates) on the modern economy.
+For more ideas on emerging business trends, you can explore various [insights and updates](/guides) on the modern economy.
 
 \[IMAGE\_3\]
 
@@ -64,7 +64,7 @@ For more ideas on emerging business trends, you can explore various [insights an
 
 If you have a passion for a particular topic, content creation can be a rewarding venture. By starting a blog, YouTube channel, or podcast, you can build an audience and monetize your platform through advertising, sponsorships, and affiliate marketing.
 
-ng/statistics-reports/industry-overview), representing a vast potential audience.
+Nigeria's e-commerce sector continues to grow year over year, representing a vast potential audience.
 
 Alternatively, you can offer digital marketing services to businesses. Companies are always looking for experts in SEO, content marketing, and social media management to improve their online presence.
 

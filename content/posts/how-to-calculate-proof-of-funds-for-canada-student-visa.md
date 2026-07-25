@@ -90,13 +90,13 @@ Yes, but only if the sponsor is an **immediate family member** (parents, sibling
 
 No. You only need to show that you can pay the **remaining tuition + living expenses**.
 
-, 5,000–10,000 CAD) often strengthens your application.
+Showing an extra buffer above the minimum required amount (roughly 5,000–10,000 CAD) often strengthens your application.
 
 ### 3\. Can I borrow money to show Proof of Funds?
 
 It’s risky. Visa officers check if your funds are **genuine and traceable**.
 
-Sudden large deposits without explanation can lead to rejection. ).
+Sudden large deposits without explanation can lead to rejection.
 
 ### 4\. How many months of bank statement do I need?
 

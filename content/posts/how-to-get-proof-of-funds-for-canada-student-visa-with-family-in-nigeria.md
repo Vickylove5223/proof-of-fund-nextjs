@@ -57,7 +57,7 @@ Let’s imagine you are a student heading to a Canadian college with your spouse
 
 **Total Required Proof of Funds:** CAD $38,000
 
-You would need to show a verifiable balance of at least CAD $38,000 in your bank account or investment portfolio. You can use an online tool like the [POF NG Calculator](/guides/proof-of-fund-calculator) to estimate the amount in Naira.
+You would need to show a verifiable balance of at least CAD $38,000 in your bank account or investment portfolio. You can use an online tool like the [POF NG Calculator](/proof-of-fund-calculator) to estimate the amount in Naira.
 
 Gathering the Right Documentation for Your Family
 -------------------------------------------------
@@ -109,6 +109,4 @@ If you need a reliable, stress-free way to meet the financial requirements, POF 
 
 Ready to take the next step? [Contact POF NG](/)** for a free consultation and let’s secure your family’s future together.
 
-ca/). com/).
-
-ng/). com/) are a good source.
+Official immigration forums and resources are a good source.

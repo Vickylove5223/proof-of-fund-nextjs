@@ -14,7 +14,7 @@ Is your bank statement costing you your visa approval? Many applicants are shock
 
 The truth is, visa officers don't just look at the final balance; they scrutinize every line, inflow, and outflow to ensure your story adds up.
 
-At **POF NG**, we see these mistakes every day. me/2348103669924) at an affordable rate to ensure your application is airtight.
+At **POF NG**, we see these mistakes every day. [Reach out to us on WhatsApp](https://wa.me/2348103669924) at an affordable rate to ensure your application is airtight.
 
 > *"One of our clients was so confused about whether to use a fixed deposit or a current account for their proof of funds. We provided expert consultation, set up the perfect account structure, and supplied the necessary funds. Their confidence was restored, and their visa was approved shortly after."*
 
@@ -70,7 +70,7 @@ We provide legitimate Proof of Funds support, helping you maintain the required 
 
 *   [Central Bank of Nigeria (CBN) Financial Regulations](https://www.cbn.gov.ng/)
 
-*   [UK Government Guide on Financial Evidence for Visas](https://www.gov.uk/guidance/financial-evidence-for-sponsored-or-endorsed-work-visas)
+*   UK Government Guide on Financial Evidence for Visas
 
 _Disclaimer: POF NG provides financial support for documentation purposes. We are not a travel agency.
 

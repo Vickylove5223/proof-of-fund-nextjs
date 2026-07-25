@@ -14,7 +14,7 @@ Are you a Nigerian student dreaming of studying in Italy? One of the most critic
 
 Unlike other destinations, Italy has specific requirements and a high level of scrutiny when it comes to financial documentation.
 
-At **POF NG**, we understand the nuances of the Italian embassy's requirements. If you don't have the assets or personal money to deposit for your application, we provide [Proof of Funds services](/guides/services) at an affordable rate to help you secure your Italian study visa.
+At **POF NG**, we understand the nuances of the Italian embassy's requirements. If you don't have the assets or personal money to deposit for your application, we provide [Proof of Funds services](/) at an affordable rate to help you secure your Italian study visa.
 
 > *"We had a client who was completely overwhelmed by the strict financial requirements for the Schengen visa. They had the personal cash but didn't know how to present it correctly. Our team audited their account, optimized their presentation, and within weeks, their visa was approved without a single query."*
 

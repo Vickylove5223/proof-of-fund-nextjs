@@ -24,7 +24,7 @@ Using microfinance banks for your Proof of Funds is highly risky because embassi
 
 What Exactly Are Microfinance Banks? ------------------------------------
 
-Before we dive into the risks, it’s important to understand what microfinance banks are. ng), their primary goal is to provide financial services—such as small loans (microcredit), savings, and insurance—to low-income individuals, small businesses, and those in rural areas who may not have access to traditional commercial banks.
+Before we dive into the risks, it’s important to understand what microfinance banks are. Unlike commercial banks, their primary goal is to provide financial services—such as small loans (microcredit), savings, and insurance—to low-income individuals, small businesses, and those in rural areas who may not have access to traditional commercial banks.
 
 While they play a vital role in promoting financial inclusion, their operational scale, regulatory framework, and international recognition are vastly different from major commercial banks. This difference is precisely where the problem lies for visa applicants.
 
@@ -72,7 +72,7 @@ Their statements meet international requirements set by embassies like those of 
 
 Showing funds in a fixed deposit or investment portfolio from a recognized financial institution demonstrates long-term financial stability. It proves the money isn’t just a temporary loan but part of your family’s established assets.
 
-com) highlight this as a strong proof point.
+Immigration forums frequently highlight this as a strong proof point.
 
 ### Verified Third-Party POF Services
 

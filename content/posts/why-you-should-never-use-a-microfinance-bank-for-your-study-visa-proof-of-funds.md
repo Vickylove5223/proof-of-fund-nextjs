@@ -22,7 +22,7 @@ In this post, we’ll explain exactly why visa officers reject statements from m
 The Truth Inside a Visa Officer's GCMS Notes
 --------------------------------------------
 
-Many applicants assume that as long as the money is in an account bearing their name, the embassy will accept it. html) or UK student visas—know the Nigerian banking system very well.
+Many applicants assume that as long as the money is in an account bearing their name, the embassy will accept it. But immigration officers—whether for Canadian, US, or UK student visas—know the Nigerian banking system very well.
 
 Recently, a viral video exposed the Global Case Management System (GCMS) notes of an applicant who was refused a Canadian study visa simply because of the bank they used. When the applicant requested their GCMS notes to understand the refusal, the visa officer's reasoning was crystal clear:
 
@@ -35,7 +35,7 @@ Commercial Banks vs. Microfinance Banks for POF
 
 Even if you know someone who miraculously had their visa approved using a microfinance bank, it is a massive gamble. Why risk your tuition deposits, heavy application fees, and your future on a technicality?
 
-) for your [Proof of Funds](/guides/proof-of-funds-for-canada-study-visa). Commercial banks are globally recognized, authorized to process foreign exchange, and fully trusted by immigration bodies worldwide.
+Always use a full commercial bank for your [Proof of Funds](/guides/how-to-get-proof-of-funds-for-canada-student-visa-in-nigeria). Commercial banks are globally recognized, authorized to process foreign exchange, and fully trusted by immigration bodies worldwide.
 
 Don't Have Enough Money for a Commercial Bank POF? We Can Help!
 
@@ -43,7 +43,7 @@ Don't Have Enough Money for a Commercial Bank POF? We Can Help!
 
 We understand that the current exchange rates have made Proof of Funds (POF) requirements astronomical. Not everyone has tens of millions of Naira sitting idly in a commercial bank account or personal assets to liquidate.
 
-But that shouldn't stop your study abroad dreams. If you don't have personal money to deposit as POF, **[we can provide the money for you at a highly affordable rate!](/guides/services)**
+But that shouldn't stop your study abroad dreams. If you don't have personal money to deposit as POF, **[we can provide the money for you at a highly affordable rate!](/)**
 
 ### Why Choose POF NG?
 

@@ -65,7 +65,7 @@ Here are 12 clear and acceptable narrations to use for large deposits in your ac
   IFO stands for "In Favour Of." This is used when a third party makes a deposit into your account on behalf of someone else. For example, if a company pays a contractor through you. It provides clarity on the transaction flow.
 12. **Rent**
 
-  If you are a landlord, this narration is used for income from your properties. A tenancy agreement serves as excellent proof for this source of funds, which is accepted for applications like the [Schengen visa](https://schengenvisainfo.com/schengen-visa-application-requirements/proof-of-sufficient-funds/).
+  If you are a landlord, this narration is used for income from your properties. A tenancy agreement serves as excellent proof for this source of funds, which is accepted for applications like the Schengen visa.
 
 ## How to Ensure Your Proof of Funds Is Accepted
 
@@ -75,7 +75,7 @@ If you need to show a specific amount for a certain duration but don't have it r
 
 This is where we can help. POF NG connects you with verified financial partners who can provide the required funds for your bank account. and is fully verifiable.
 
-Not sure how much you need? Use our handy [POF Calculator](/guides/proof-of-fund-calculator) to estimate the amount.
+Not sure how much you need? Use our handy [POF Calculator](/proof-of-fund-calculator) to estimate the amount.
 
 ![Here are a few options for a catchy, SEO-optimized blog post title based on your topic: \*\*Options:\*\* 1. \*\*USA Visa Proof of Funds: Bank Balance Requirements & Common Mistakes to Avoid\*\* (Direct, Clear, all keywords) 2. \*\*How Much Bank Balance for Your USA Visa? Proof of Funds & Mistakes to Avoid\*\* (Question-based, engaging, all keywords) 3. \*\*Secure Your USA Visa: Mastering Proof of Funds, Bank Balance & Avoiding Common Pitfalls\*\* (Benefit-oriented, strong verbs, all keywords) 4. \*\*USA Visa Bank Balance: The Ultimate Proof of Funds Guide & 7 Mistakes to Skip\*\* (Guide-style, includes a number, active verb) 5. \*\*Proof of Funds for USA Visa: Your Bank Balance Explained & Costly Mistakes to Dodge\*\* (Informative, adds urgency, catchy verb) image 1](/wp-content/uploads/2025/10/ai-generated-in3xrpljiyg-300x300.png)
 

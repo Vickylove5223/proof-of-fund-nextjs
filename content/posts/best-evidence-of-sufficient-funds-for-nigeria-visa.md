@@ -99,8 +99,6 @@ Frequently Asked Questions (FAQs)
 
 Absolutely. POF NG is a trusted agent that partners only with licensed financial institutions.
 
-gov/visas/).
-
 ### How quickly can I get my Proof of Funds?
 
 We understand that visa applications are time-sensitive. Our process is optimized for speed, and you can typically receive your complete POF documentation within 24 to 72 hours after submitting your request.
@@ -120,4 +118,4 @@ For many Nigerians, using a professional service is the key to meeting this cruc
 
 At POF NG, we are dedicated to making your journey abroad smoother. By connecting you with trusted financial partners, we provide fast, affordable, and fully verifiable Proof of Funds that gives your visa application the best chance of approval.
 
-Don't let financial documentation stand in your way. ng/) for official guidelines and contact us to get started on your application with confidence.
+Don't let financial documentation stand in your way — check the embassy's official guidelines and contact us to get started on your application with confidence.

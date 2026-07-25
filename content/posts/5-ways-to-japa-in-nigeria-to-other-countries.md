@@ -22,7 +22,7 @@ Navigating the immigration process requires careful planning, documentation, and
 
 For professionals with valuable work experience and qualifications, skilled worker programs are a primary route. Countries like Canada, Australia, and the UK actively seek skilled individuals to fill gaps in their labor markets.
 
-html) is a prime example, using a points-based system (Comprehensive Ranking System - CRS) to rank candidates based on age, education, work experience, and language proficiency.
+Canada's Express Entry system is a prime example, using a points-based system (Comprehensive Ranking System - CRS) to rank candidates based on age, education, work experience, and language proficiency.
 
 To succeed through this pathway, you typically need to have your educational credentials assessed, prove your work experience, and achieve a high score on a language test like the IELTS. A crucial component is also demonstrating that you have sufficient settlement funds.
 

@@ -23,7 +23,7 @@ Without a proper POF, your dreams of JAPAing might hit a roadblock. But don’t 
 
 ### **Need Proof of Funds Fast? Contact Us Today!**
 
-me/2348103669924) We’ll guide you through the process and ensure you get your proof of funds quickly and affordably. ![](/wp-content/uploads/2025/09/visa-application-composition-with-europe-america-flag_23-2149117810-300x200.jpg)
+[Chat with us on WhatsApp.](https://wa.me/2348103669924) We'll guide you through the process and ensure you get your proof of funds quickly and affordably. ![](/wp-content/uploads/2025/09/visa-application-composition-with-europe-america-flag_23-2149117810-300x200.jpg)
 
 ### **How to Get Proof of Funds in Nigeria**
 
@@ -44,7 +44,7 @@ All you need to do is **get in touch with us**, and we’ll handle the rest. It
 
 ### **Got Questions? We’re Here to Help!**
 
-me/2348103669924) We’re always happy to assist you!
+[Chat with us on WhatsApp.](https://wa.me/2348103669924) We're always happy to assist you!
 
 ### **Tips for a Smooth Proof of Funds Process**
 

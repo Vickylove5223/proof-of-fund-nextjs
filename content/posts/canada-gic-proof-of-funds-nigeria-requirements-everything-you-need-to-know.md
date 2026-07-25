@@ -70,7 +70,7 @@ If transferring funds for a full GIC is challenging, you can still meet IRCC exp
 
 ng, we help Nigerian students create strong, verifiable bank statements in major Nigerian banks that complement or serve as reliable Proof of Funds when a direct GIC is not immediately feasible. Our funded accounts come with proper lien documentation and narrations that demonstrate legitimacy.
 
-me/2348103669924) for a free, no-obligation consultation. Share your target amount, preferred bank, and application timeline — we will provide clear options and pricing.
+[Chat with us on WhatsApp](https://wa.me/2348103669924) for a free, no-obligation consultation. Share your target amount, preferred bank, and application timeline — we will provide clear options and pricing.
 
 ![](/wp-content/uploads/2025/11/2d287143-7207-4096-9a11-be7c49121ca6-200x300.webp)
 
@@ -96,6 +96,6 @@ Many successful applicants use a hybrid approach: partial GIC + strong Nigerian 
 
 ng, we have supported hundreds of Nigerian students with credible, CBN-compliant Proof of Funds for Canada and other destinations. Whether you need full funding for bank statements, guidance on GIC preparation, or a complete financial package, our team is ready to help.
 
-me/2348103669924) for a free, no-obligation consultation. Share your target amount, preferred bank, and application timeline — we will provide clear options and pricing.
+[Chat with us on WhatsApp](https://wa.me/2348103669924) for a free, no-obligation consultation. Share your target amount, preferred bank, and application timeline — we will provide clear options and pricing.
 
 Don’t let financial documentation become the reason for refusal. Build a strong, professional Proof of Funds the right way and increase your chances of Canada study visa approval.

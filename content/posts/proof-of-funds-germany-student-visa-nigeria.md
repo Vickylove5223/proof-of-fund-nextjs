@@ -67,7 +67,7 @@ If you have a sponsor in Germany — a relative, employer, or host organisation 
 
 ### 3\. Scholarship Award Letter
 
-g. DAAD, university scholarship) confirming a monthly stipend of at least €992 is accepted.
+A scholarship confirmation letter (e.g. DAAD, university scholarship) confirming a monthly stipend of at least €992 is accepted.
 
 The scholarship must clearly state the monthly amount and duration of support.
 
@@ -111,7 +111,7 @@ Frequently Asked Questions About Proof of Funds for Germany Student Visa Nigeria
 
 ### How much money do I need for a Germany student visa from Nigeria in 2026?
 
-8 million)** to cover one year of living expenses. This is the 2026 standard set by the German government and is updated annually.
+you'll need to show the Naira equivalent of the current blocked-account requirement (roughly **₦18.8 million)** to cover one year of living expenses. This is the 2026 standard set by the German government and is updated annually.
 
 ### Is a Sperrkonto mandatory for Germany student visa?
 

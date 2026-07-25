@@ -104,6 +104,6 @@ ng, we have successfully helped many Nigerian families meet Express Entry settle
 *   Support for large family amounts
 *   Dedicated guidance tailored for IRCC
 
-me/2348103669924) for a free consultation. Tell us your family size, preferred bank, and timeline — we will give you clear options and pricing to strengthen your Express Entry profile.
+[Chat with us on WhatsApp](https://wa.me/2348103669924) for a free consultation. Tell us your family size, preferred bank, and timeline — we will give you clear options and pricing to strengthen your Express Entry profile.
 
 Don’t let proof of funds hold back your Canadian PR dream. Build credible, IRCC-compliant settlement funds the smart and legitimate way.

@@ -112,4 +112,4 @@ Relocating from Nigeria to Brazil is a big step, but with a clear plan, it is en
 
 Remember, preparation is key. When you're ready to handle the financial proof part of your application, we are here to help.
 
-Check out the specific [visa requirements](/guides/see-requirements) on our site and contact us to get started on your journey.
+Check out the specific [visa requirements](/see-requirements) on our site and contact us to get started on your journey.

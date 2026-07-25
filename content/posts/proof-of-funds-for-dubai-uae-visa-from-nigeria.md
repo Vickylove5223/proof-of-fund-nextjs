@@ -68,7 +68,7 @@ What If You Don't Have Enough Funds? ------------------------------------
 
 Not everyone has millions sitting in a personal account — and that's okay. Verified proof of funds services in Nigeria exist specifically to help travelers who need to show sufficient funds for visa applications.
 
-local), we help Nigerians access genuine, embassy-ready proof of funds backed by a licensed finance company. Our service is fast (24–48 hours), discreet, and fully compliant with embassy requirements.
+At POF NG, we help Nigerians access genuine, embassy-ready proof of funds backed by a licensed finance company. Our service is fast (24–48 hours), discreet, and fully compliant with embassy requirements.
 
 You can get up to ₦300 million in proof of funds — enough to satisfy even the strictest UAE embassy requirements.
 
@@ -102,4 +102,4 @@ Final Thoughts
 
 Getting a Dubai/UAE visa from Nigeria requires strong financial documentation. A clean, consistent, stamped bank statement from a reputable Nigerian bank is your best tool.
 
-local) and we'll help you get verified proof of funds quickly, discreetly, and affordably.
+[Contact POF NG](/) and we'll help you get verified proof of funds quickly, discreetly, and affordably.

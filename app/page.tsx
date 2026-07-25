@@ -95,10 +95,7 @@ export default function Home() {
             ].map((service, i) => (
               <div key={i} className="bg-white rounded-3xl p-8 border-[3px] border-[#120E00] shadow-[-12px_12px_0px_#120E00] flex flex-col h-full">
                 <h3 className="text-[1.75rem] leading-tight font-serif font-bold text-[#2E1499] mb-6">{service.title}</h3>
-                <p className="text-[#120E00] text-[15px] leading-relaxed mb-8 flex-grow">{service.desc}</p>
-                <Link href="/services" className="text-[#2E1499] font-black text-sm tracking-widest uppercase hover:text-blue-700 transition-colors">
-                  LEARN MORE
-                </Link>
+                <p className="text-[#120E00] text-[15px] leading-relaxed flex-grow">{service.desc}</p>
               </div>
             ))}
           </div>
@@ -205,7 +202,7 @@ export default function Home() {
               <div className="p-6 flex flex-col flex-grow">
                 <h3 className="font-bold text-[#120E00] mb-4 tracking-wide">HOW TO GET PROOF OF FUNDS IN NIGERIA</h3>
                 <div className="mt-auto">
-                  <Link href="/guides/how-to-get-proof-of-funds" className="text-sm font-black text-[#2E1499] hover:text-blue-700 transition-colors tracking-widest uppercase">READ MORE</Link>
+                  <Link href="/guides/how-to-get-proof-of-funds-in-nigeria-a-complete-guide" className="text-sm font-black text-[#2E1499] hover:text-blue-700 transition-colors tracking-widest uppercase">READ MORE</Link>
                 </div>
               </div>
             </div>
@@ -215,7 +212,7 @@ export default function Home() {
               <div className="p-6 flex flex-col flex-grow">
                 <h3 className="font-bold text-[#120E00] mb-4 tracking-wide">STUDENT VISA REQUIREMENTS FROM NIGERIA</h3>
                 <div className="mt-auto">
-                  <Link href="/guides/student-visa-requirements" className="text-sm font-black text-[#2E1499] hover:text-blue-700 transition-colors tracking-widest uppercase">READ MORE</Link>
+                  <Link href="/guides/countries-with-the-lowest-proof-of-funds-requirements-for-student-visas-2026" className="text-sm font-black text-[#2E1499] hover:text-blue-700 transition-colors tracking-widest uppercase">READ MORE</Link>
                 </div>
               </div>
             </div>
@@ -225,7 +222,7 @@ export default function Home() {
               <div className="p-6 flex flex-col flex-grow">
                 <h3 className="font-bold text-[#120E00] mb-4 tracking-wide">TOP LIST OF BANKS THAT PROVIDE LOANS IN NIGERIA</h3>
                 <div className="mt-auto">
-                  <Link href="/guides/top-list-of-banks" className="text-sm font-black text-[#2E1499] hover:text-blue-700 transition-colors tracking-widest uppercase">READ MORE</Link>
+                  <Link href="/guides/list-of-banks-that-provide-proof-of-funds-in-nigeria" className="text-sm font-black text-[#2E1499] hover:text-blue-700 transition-colors tracking-widest uppercase">READ MORE</Link>
                 </div>
               </div>
             </div>

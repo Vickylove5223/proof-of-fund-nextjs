@@ -26,7 +26,7 @@ Proof of Funds is an official document that shows you have the financial resourc
 
 It's important to remember that POF is not a loan. It is a formal way to demonstrate that you have enough money set aside for your plans.
 
-html), the UK, the USA, and Schengen nations.
+This document format is accepted by most embassies, including Canada, the UK, the USA, and Schengen nations.
 
 Types of Documents Officially Recognized as Proof of Funds
 ----------------------------------------------------------
@@ -69,7 +69,7 @@ Here’s how we help:
 2.  **We connect you to a partner:** We link you with a verified financial partner who can arrange for the funds to be placed in an account in your name.
 3.  **You receive official documents:** You get authentic bank statements and confirmation letters that meet all embassy standards.
 
-au/visas/getting-a-visa/visa-listing/student-500/financial-capacity). You only pay a service fee, which is a fraction of the total funds required.
+You only pay a service fee, which is a fraction of the total funds required.
 
 Choosing a Reliable POF Provider in Nigeria
 -------------------------------------------

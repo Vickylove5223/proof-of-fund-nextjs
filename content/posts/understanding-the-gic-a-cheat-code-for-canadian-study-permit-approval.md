@@ -70,7 +70,7 @@ e the person is depositing the fund out of their own money to secure Canada visa
 
 ### **External Resources**
 
-*   [CIBC International Student Banking](https://www.cibc.com/en/personal-banking/international-student-banking.html)
+*   CIBC International Student Banking
 
 *   [Official IRCC GIC Guidelines](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents.html%23financial-support)
 

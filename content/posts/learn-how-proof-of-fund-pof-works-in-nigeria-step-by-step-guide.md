@@ -10,7 +10,7 @@ description: >-
 seo_title: Learn How Proof of Fund (POF) Works in Nigeria
 image: /images/finance-2.png
 ---
-uk/student-visa), preparing for international travel, bidding for contracts, buying property, or meeting immigration requirements. But in Nigeria, the process is often misunderstood.
+Proof of Funds is required for a UK student visa, preparing for international travel, bidding for contracts, buying property, or meeting immigration requirements. But in Nigeria, the process is often misunderstood.
 
 Many people don't know what to expect, what documents are needed, or how the system really works. At POF NG, we've simplified the entire process into clear, practical steps.
 
@@ -43,7 +43,7 @@ Make sure you confirm the exact amount needed before proceeding. Having insuffic
 
 ### Step 3: Identify Which Bank Account to Use
 
-Now that you know your purpose and the amount needed, it's time to choose which bank account you'll use for your POF. **Use an Existing Bank Account** If you already have a bank account with any of the following [CBN-licensed commercial banks](https://www.cbn.gov.ng/supervision/Inst-DM.asp), you can use it, i.e
+Now that you know your purpose and the amount needed, it's time to choose which bank account you'll use for your POF. **Use an Existing Bank Account** If you already have a bank account with any of the following CBN-licensed commercial banks, you can use it, i.e
 
 *   Access Bank
 *   GTBank (Guaranty Trust Bank)
@@ -83,13 +83,13 @@ After choosing your bank and agreeing on the rate, the next step is to provide u
 
 Here's what you'll need:
 
-*   Personal or company details (full name, account number, [BVN](https://www.cbn.gov.ng/bvn/), NIN, contact details)
+*   Personal or company details (full name, account number, BVN, NIN, contact details)
 *   Valid means of identification (International Passport, Driver's License, or National ID)
 *   Proof of address (recent utility bill)
 *   Next of kin information
 *   Passport photograph and signature on plain paper
 
-**[See full requirements here](/guides/see-requirements)** You can submit your documents either via **WhatsApp** or through **our online form**. Our compliance team will verify your information securely and begin processing your request.
+**[See full requirements here](/see-requirements)** You can submit your documents either via **WhatsApp** or through **our online form**. Our compliance team will verify your information securely and begin processing your request.
 
 ### Step 6: Make Payment for the First Month's Interest
 
@@ -101,7 +101,7 @@ We'll notify you **two days before your tenor expires**, so you have time to dec
 
 ### Step 7: Your Account is Funded with a Mandate (Lien) Placed
 
-After your payment is confirmed, the agreed POF amount will be **transferred into your bank account as real money**. asp).
+After your payment is confirmed, the agreed POF amount will be **transferred into your bank account as real money**.
 
 **Important: Funds are Earmarked (Blocked)** Once the funds are credited, a **mandate (lien)** is placed on the account. This means: ✅ The funds **will show in your account balance** ✅ The funds **will appear on your bank statement** ❌ You **cannot withdraw** the exact POF amount during the agreed tenor However, if it's your salary or business account, you can still:
 
@@ -168,7 +168,7 @@ Proof of Fund services in Nigeria may seem complex, but when broken down step by
 
 Whether you're a student, business owner, investor, or traveler, we ensure that your proof of funds is **legitimate, verifiable, and hassle-free**. ** Don't navigate this process alone.
 
-Our team is here to guide you every step of the way. me/2348103669924)** to get your personalized rate quote and begin your POF application today.
+Our team is here to guide you every step of the way. [**Chat with us on WhatsApp**](https://wa.me/2348103669924) to get your personalized rate quote and begin your POF application today.
 
 ### Frequently Asked Questions (FAQ)
 

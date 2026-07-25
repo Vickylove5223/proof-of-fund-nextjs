@@ -12,14 +12,14 @@ image: /wp-content/uploads/2025/11/ai-generated-24fk3psmxno-300x164.jpg
 ---
 Applying for a Canadian study permit from Nigeria has become increasingly competitive. With stricter financial scrutiny and high refusal rates for Nigerian applicants, having strong Proof of Funds (POF) is often the deciding factor between approval and refusal.
 
-ng), we specialize in exactly this for Nigerian applicants heading to Canada. Our process:
+At POF NG, we specialize in exactly this for Nigerian applicants heading to Canada. Our process:
 
 1.  Consultation & document submission.
 2.  Interest/payment for the service.
 3.  Funding into your chosen CBN-licensed bank account.
 4.  Delivery of statements and supporting letters tailored for IRCC.
 
-We only partner with reliable institutions — no microfinance shortcuts. me/2348103669924) for a free consultation.
+We only partner with reliable institutions — no microfinance shortcuts. [Chat with us on WhatsApp](https://wa.me/2348103669924) for a free consultation.
 
 Tell us your target amount, preferred bank, and timeline — we’ll guide you on the best options for your Canada application. In this comprehensive guide, we break down the exact IRCC requirements for 2026, acceptable documents, common pitfalls, and practical solutions for Nigerians — including legitimate ways to strengthen your application quickly and compliantly.
 
@@ -84,16 +84,7 @@ Many genuine students don’t have the full amount readily available in liquid c
 *   Full documentation (bank statements, funding letters with narrations).
 *   Support for high amounts (up to ₦50M–300M+ depending on provider).
 
-This approach is widely used for UK, Canada, and other visas because it creates verifiable, bank-generated records that satisfy embassy checks when done transparently. ng) we specialize in exactly this for Nigerian applicants heading to Canada.
-
-Our process:
-
-1.  Consultation & document submission.
-2.  Interest/payment for the service.
-3.  Funding into your chosen CBN-licensed bank account.
-4.  Delivery of statements and supporting letters tailored for IRCC.
-
-We only partner with reliable institutions — no microfinance shortcuts.
+This approach is widely used for UK, Canada, and other visas because it creates verifiable, bank-generated records that satisfy embassy checks when done transparently.
 
 ### Step-by-Step Tips to Strengthen Your Canada POF Application
 
@@ -109,13 +100,13 @@ With approval rates for Nigerian study permits remaining challenging (often belo
 
 ### Ready to Secure Strong Proof of Funds for Your Canada Student Visa?
 
-ng, we’ve helped hundreds of Nigerian students successfully meet Canada (and other destination) financial requirements with legitimate, traceable funding.
+POF NG, we’ve helped hundreds of Nigerian students successfully meet Canada (and other destination) financial requirements with legitimate, traceable funding.
 
 *   Competitive rates
 *   Fast turnaround
 *   Transparent process with CBN-compliant banks
 *   Dedicated support for visa documentation
 
-me/2348103669924) for a free consultation. Tell us your target amount, preferred bank, and timeline — we’ll guide you on the best options for your Canada application.
+[Chat with us on WhatsApp](https://wa.me/2348103669924) for a free consultation. Tell us your target amount, preferred bank, and timeline — we’ll guide you on the best options for your Canada application.
 
 ** Build credible Proof of Funds the smart way.

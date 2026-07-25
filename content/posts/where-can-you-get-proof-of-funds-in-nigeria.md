@@ -31,7 +31,7 @@ You can get Proof of Funds in Nigeria from three main sources: traditional comme
 
 Before diving into where to get it, let’s quickly recap what a Proof of Funds is. It is an official document, usually a bank statement or letter, that shows you have access to a specific amount of money.
 
-uk/student-visa/money), or the USA.
+This applies whether you're applying to Canada, the UK, or the USA.
 
 \[IMAGE: A collage of international university campuses and famous landmarks from Canada, the UK, and the USA.\]
 
@@ -91,7 +91,7 @@ Making the right choice is crucial for your application’s success. Whether you
 
 Is the provider legitimate? Your POF will be checked by the embassy.
 
-ng/). This guarantees authenticity when the embassy or school runs a check.
+This guarantees authenticity when the embassy or school runs a check.
 
 #### Speed of Delivery
 
@@ -125,6 +125,6 @@ Securing a Proof of Funds in Nigeria doesn’t have to be a complicated or anxio
 
 \[IMAGE: A confident Nigerian individual looking at a flight information board at an international airport.\]
 
-html). By choosing a trusted partner, you are choosing peace of mind and a higher chance of success for your application.
+By choosing a trusted partner, you are choosing peace of mind and a higher chance of success for your application.
 
 Ready to get started? [Contact POF NG](/) for a free consultation, and let us help you take the next step in your journey abroad.

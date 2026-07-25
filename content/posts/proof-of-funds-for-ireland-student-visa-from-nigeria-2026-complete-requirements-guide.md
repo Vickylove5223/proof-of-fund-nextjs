@@ -72,7 +72,7 @@ Irish immigration accepts the following:
 *   Sponsor documents including sponsorship letter/affidavit, sponsor’s bank statements, employment proof, and relationship evidence
 *   Scholarship letters (if applicable)
 
-). Avoid fintech or microfinance accounts.
+Use a recognized commercial bank. Avoid fintech or microfinance accounts.
 
 ### Common Reasons Nigerian Applications Are Refused on Financial Grounds
 

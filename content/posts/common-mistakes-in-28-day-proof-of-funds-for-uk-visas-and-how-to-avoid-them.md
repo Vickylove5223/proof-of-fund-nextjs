@@ -43,7 +43,7 @@ Submitting screenshots or incomplete records. The statement must be on official 
 
 #### 4\. Unexplained Large Deposits
 
-Sudden inflows without explanation raise red flags. ).
+Sudden inflows without explanation raise red flags.
 
 #### 5\. Miscalculating the Required Amount
 
@@ -78,8 +78,6 @@ Yes, but only for immediate family members like parents, spouse, or siblings. , 
 Your application will be refused. The balance must remain above the required threshold for the entire 28-day period.
 
 #### Can I combine multiple accounts for Proof of Funds?
-
-).
 
 #### Do UKVI accept microfinance or fintech banks like Opay or Moniepoint?
 

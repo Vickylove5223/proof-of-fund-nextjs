@@ -71,13 +71,13 @@ Navigating the complex world of visa applications is tough. Using a professional
 
 Forget waiting weeks or months. Our process is 100% online and delivers authentic, embassy-acceptable documents in as little as 24 hours.
 
-uk/student-visa/money) (UKVI) or any other embassy contacts the bank to verify, the funds will be confirmed as authentic and available.
+If UK Visas and Immigration (UKVI) or any other embassy contacts the bank to verify, the funds will be confirmed as authentic and available.
 
 ### Affordability and Cost-Effectiveness
 
 The cost of our service depends on the amount and duration required. However, it is far more affordable than borrowing from informal sources or liquidating valuable assets.
 
-5%. You can estimate the cost for your specific needs using our free [Proof of Fund Calculator](/guides/proof-of-fund-calculator).
+5%. You can estimate the cost for your specific needs using our free [Proof of Fund Calculator](/proof-of-fund-calculator).
 
 Top Proof of Funds Providers in Nigeria
 ---------------------------------------
@@ -97,9 +97,7 @@ Ultimately, securing your proof of funds should not be the reason your travel or
 
 The process is now more accessible than ever, thanks to reliable online agents dedicated to your success.
 
-S. ng/).
-
-gov/), can further prepare you for the process.
+Reviewing the embassy's official checklist can further prepare you for the process.
 
 \---
 

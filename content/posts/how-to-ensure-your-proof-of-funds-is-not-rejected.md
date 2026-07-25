@@ -14,7 +14,7 @@ You’ve spent months planning your journey abroad, whether for studies, work, o
 
 This single document can make or break your application, and the fear of rejection is real. A small mistake can lead to delays, disappointment, and even outright refusal.
 
-![Worried applicant looking at proof of funds document](IMAGE_1.jpg)
+
 
 > *"Finding a reliable proof of funds service in Nigeria is like looking for a needle in a haystack. I am so glad I trusted this team. They delivered on every single promise, and their WhatsApp support was incredibly patient with my endless questions. My visa success story started here."* — **Joy M., Asaba**
 
@@ -24,7 +24,7 @@ That’s why we’ve created this guide to help you navigate the process smoothl
 
 To ensure your Proof of Funds is not rejected, you must verify that all names are consistent, the account shows regular activity, the balance is legitimate and stable, signatures match your official ID, and the bank’s contact details are clear. Avoid sudden, unexplained large deposits and prepare supporting documents like payslips or tax records to prove the source of your funds.
 
-![Checklist for proof of funds verification](IMAGE_2.jpg)
+
 
 The Ultimate POF Verification Checklist
 ---------------------------------------
@@ -45,7 +45,7 @@ A dormant account suddenly filled with a large sum of money looks suspicious. Em
 
 This includes regular inflows (like salary) and outflows (like daily expenses). An account that shows a consistent, healthy flow of money is far more credible.
 
-![Bank statement showing regular transactions](IMAGE_3.jpg)
+
 
 ### 3\. Legitimate and Stable Balances
 
@@ -53,7 +53,7 @@ The closing balance must meet the required amount, but it also needs to be stabl
 
 A balance that drops significantly right after the statement is printed can lead to rejection if the embassy does a follow-up verification. For more details on this, you can read about [what is acceptable proof of funds](/guides/what-is-acceptable-proof-of-funds).
 
-![Graph showing stable account balance](IMAGE_4.jpg)
+
 
 ### 4\. Matching Signatures
 
@@ -63,20 +63,18 @@ The signature on any accompanying bank letter or document must match the one in 
 
 Your bank statement or letter must be on official letterhead and include the bank’s full name, address, phone number, and email. Embassies often contact banks to verify the funds, and if they can’t reach them easily, they may reject your application.
 
-ng).
-
 ### 6\. No Sudden, Unexplained Large Deposits
 
 This is one of the most common reasons for rejection. A large, recent deposit without a clear source looks like borrowed money, which is not allowed.
 
 If you recently sold a property or received a gift, you need official documentation to prove it. This is why understanding [why visa applications get rejected because of POF](/guides/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it) is crucial.
 
-![Illustration of large deposit in bank account](IMAGE_5.jpg)
+
 
 How to Prepare Strong Supporting Documents
 ------------------------------------------
 
-![Pile of supporting financial documents](IMAGE_6.jpg)
+
 
 A strong POF is more than just a bank statement. It’s a complete story of your financial stability.
 
@@ -93,13 +91,13 @@ Here’s what you should prepare to accompany your POF:
 Pre-Check Steps and How POF NG Can Help
 ---------------------------------------
 
-![POF NG logo and service offerings](IMAGE_7.jpg)
+
 
 Feeling overwhelmed? You don’t have to do this alone.
 
 The stakes are too high to leave anything to chance. At POF NG, we offer a pre-check and review service to ensure your documents are perfect before submission.
 
-gov). Our service is designed to be fast, secure, and stress-free.
+Our service is designed to be fast, secure, and stress-free.
 
 We handle the complexities so you can focus on your travel plans.
 
