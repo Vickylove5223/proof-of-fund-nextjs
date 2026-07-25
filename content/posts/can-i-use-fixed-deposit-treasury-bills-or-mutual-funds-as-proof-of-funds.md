@@ -36,7 +36,7 @@ Nigerian T-bills are verifiable and safe, but they are not bank balances. Canada
 
 ### Mutual funds and money-market funds — SOMETIMES
 
-Money-market funds from recognised fund managers (Stanbic IBTC, ARM, FBNQuest) carry weight with Canadian and American officers when documented with fund statements and a redemption-terms letter. Again, the UK effectively requires liquidation first. An [investment certificate or letter](/guides/how-to-get-investment-letter-for-pof-in-nigeria) from the fund manager strengthens any file.
+Money-market funds from recognised fund managers (Stanbic IBTC, ARM, FBNQuest) carry weight with Canadian and American officers when documented with fund statements and a redemption-terms letter. Again, the UK effectively requires liquidation first. An [investment certificate or letter](/how-to-get-investment-letter-for-pof-in-nigeria) from the fund manager strengthens any file.
 
 ### Stocks and shares — RARELY
 
@@ -44,11 +44,11 @@ Too volatile. A portfolio worth ₦20m today can be ₦14m at assessment. Office
 
 ### Cryptocurrency — NO
 
-No embassy currently accepts crypto balances as proof of funds — unverifiable custody and volatility rule it out. Convert to naira/fiat, land it in your bank account, and document the source **early**, because large crypto-origin inflows attract exactly the scrutiny described in our [embassy verification guide](/guides/how-do-embassies-verify-bank-statements-in-nigeria).
+No embassy currently accepts crypto balances as proof of funds — unverifiable custody and volatility rule it out. Convert to naira/fiat, land it in your bank account, and document the source **early**, because large crypto-origin inflows attract exactly the scrutiny described in our [embassy verification guide](/how-do-embassies-verify-bank-statements-in-nigeria).
 
 ### Land and property — INDIRECTLY
 
-Property is not liquid, but it can back your file two ways: as evidence of ties to Nigeria, or as the documented **source** of funds after a sale. Full details in our guide on [using real estate and land as proof of funds](/guides/how-to-use-real-estate-and-land-as-proof-of-funds-for-your-visa).
+Property is not liquid, but it can back your file two ways: as evidence of ties to Nigeria, or as the documented **source** of funds after a sale. Full details in our guide on [using real estate and land as proof of funds](/how-to-use-real-estate-and-land-as-proof-of-funds-for-your-visa).
 
 ## Quick Reference Table
 
@@ -63,8 +63,8 @@ Property is not liquid, but it can back your file two ways: as evidence of ties 
 
 ## The Timing Play That Protects Your Interest
 
-Break investments **strategically, not fearfully**: liquidate only the required amount (check it with the [proof of funds calculator](/proof-of-fund-calculator)), move it early enough to satisfy seasoning rules — 28+ days for the UK, ideally 3–6 months for [Canada](/guides/how-to-calculate-proof-of-funds-for-canada-student-visa) — and keep the redemption paperwork as your source-of-funds evidence.
+Break investments **strategically, not fearfully**: liquidate only the required amount (check it with the [proof of funds calculator](/proof-of-fund-calculator)), move it early enough to satisfy seasoning rules — 28+ days for the UK, ideally 3–6 months for [Canada](/how-to-calculate-proof-of-funds-for-canada-student-visa) — and keep the redemption paperwork as your source-of-funds evidence.
 
-And if breaking your investments would cost you real returns, that is precisely when a structured POF service makes financial sense: your investments keep earning while compliant funds sit under lien in a top bank. Compare the [cost of professional POF](/guides/cost-of-proof-of-funds-for-uk-canada-visa-from-nigeria-2026-complete-pricing-guide) against your interest penalty — the maths often favours keeping your money working.
+And if breaking your investments would cost you real returns, that is precisely when a structured POF service makes financial sense: your investments keep earning while compliant funds sit under lien in a top bank. Compare the [cost of professional POF](/cost-of-proof-of-funds-for-uk-canada-visa-from-nigeria-2026-complete-pricing-guide) against your interest penalty — the maths often favours keeping your money working.
 
 Talk it through with POF NG on **Call/WhatsApp: 08103669924**.

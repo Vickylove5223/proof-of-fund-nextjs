@@ -44,7 +44,7 @@ The funds must also have been in the account for a specific period, often 28 day
 
 Check the U.S. Department of State's official website for American visa details.
 
-You can also explore our guide to [learn about Proof of Funds requirements](/guides/learn-about-proof-of-funds-requirements-in-nigeria) for various countries.
+You can also explore our guide to [learn about Proof of Funds requirements](/learn-about-proof-of-funds-requirements-in-nigeria) for various countries.
 
 How Can You Get Proof of Sufficient Funds in Nigeria? -----------------------------------------------------
 
@@ -88,6 +88,6 @@ Don’t let this requirement stand in the way of your dreams.
 
 If you need a fast, secure, and embassy-acceptable Proof of Funds, we are here to help. Let us handle the financial proof so you can focus on the exciting parts of your travel preparation.
 
-Visit our website to [get started with your Proof of Funds in Nigeria](/guides/how-to-get-proof-of-fund-in-nigeria) today!
+Visit our website to [get started with your Proof of Funds in Nigeria](/how-to-get-proof-of-fund-in-nigeria) today!
 
 ![travel visa requirements](/wp-content/uploads/2025/11/image-4.jpg)

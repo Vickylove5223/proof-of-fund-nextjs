@@ -61,7 +61,7 @@ This is where a trusted agent like POF NG comes in.
 
 At POF NG, we connect you with reliable finance companies that provide verified and authentic Proof of Funds. We understand the process can be complex, so we've made it simple and secure.
 
-We can help you understand exactly [how our Proof of Funds service works](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) to make your application seamless.
+We can help you understand exactly [how our Proof of Funds service works](/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) to make your application seamless.
 
 Here’s how we help:
 
@@ -88,7 +88,7 @@ Here are some of the top providers in the country:
 *   Verifund Africa
 *   SureFund Nigeria
 
-When comparing the [best Proof of Funds providers in Nigeria](/guides/10-best-proof-of-funds-providers-in-nigeria), look for transparency, fast processing times, and verifiable documents. The cost typically depends on the amount needed and the duration, with rates from banks like Globus, Parallax, and Fidelity often being more affordable.
+When comparing the [best Proof of Funds providers in Nigeria](/10-best-proof-of-funds-providers-in-nigeria), look for transparency, fast processing times, and verifiable documents. The cost typically depends on the amount needed and the duration, with rates from banks like Globus, Parallax, and Fidelity often being more affordable.
 
 Conclusion: Secure Your Future with the Right Proof of Funds
 ------------------------------------------------------------

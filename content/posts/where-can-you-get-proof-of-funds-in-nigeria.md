@@ -79,7 +79,7 @@ Here are some of the most reliable companies for Proof of Funds in Nigeria:
 *   Easify Fund
 *   Davcrest Consult
 
-For a more detailed comparison, you can check out this list of the [10 best proof of funds providers in Nigeria](/guides/10-best-proof-of-funds-providers-in-nigeria).
+For a more detailed comparison, you can check out this list of the [10 best proof of funds providers in Nigeria](/10-best-proof-of-funds-providers-in-nigeria).
 
 ### Key Factors to Consider Before Choosing a Provider
 
@@ -109,7 +109,7 @@ We provide a free, no-obligation quote so you know exactly what to expect.
 
 We designed our service to be simple, secure, and stress-free. We eliminate the delays and complexities of traditional methods so you can focus on the other parts of your application.
 
-Here’s [how our process works](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide):
+Here’s [how our process works](/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide):
 
 \[IMAGE: A simple infographic showing a three-step process: contact, connect, receive.\]
 

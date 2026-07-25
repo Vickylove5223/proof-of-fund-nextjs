@@ -78,7 +78,7 @@ If you don’t have the millions required to deposit as Proof of Funds, **we can
 *   **Zero Collateral Stress:** You don't need to surrender your car or house documents to us. We have a streamlined, trusted system designed specifically for visa applicants.
 *   **100% Legitimacy:** The funds we provide are real and verifiable. When the consular officer or embassy conducts their checks, your financial standing will be solid and unquestionable.
 
-_Internal Link: Learn more about how we structure funds specifically for academic migration in our [Study Visa POF Guide](/guides/ultimate-guide-to-proof-of-funds-for-student-visas-how-to-avoid-costly-mistakes)._
+_Internal Link: Learn more about how we structure funds specifically for academic migration in our [Study Visa POF Guide](/ultimate-guide-to-proof-of-funds-for-student-visas-how-to-avoid-costly-mistakes)._
 
 Don't Let Lack of Funds Stop Your Migration Dreams
 --------------------------------------------------

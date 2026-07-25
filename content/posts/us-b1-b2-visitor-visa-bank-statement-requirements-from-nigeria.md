@@ -54,7 +54,7 @@ If a relative in the US is covering your stay, bring their **Form I-134 (Declara
 *   **Round-figure "prepared" statements** with no living expenses on them
 *   Memorised answers that fall apart under one follow-up question
 
-The same red flags apply to US student visas — see our full guide on [proof of funds for USA visa bank balance requirements](/guides/proof-of-funds-usa-visa-bank-balance-requirements-common-mistakes) and the [F1 visa sponsor letter guide](/guides/usa-f1-visa-proof-of-funds-nigeria-sponsor-letter-complete-guide).
+The same red flags apply to US student visas — see our full guide on [proof of funds for USA visa bank balance requirements](/proof-of-funds-usa-visa-bank-balance-requirements-common-mistakes) and the [F1 visa sponsor letter guide](/usa-f1-visa-proof-of-funds-nigeria-sponsor-letter-complete-guide).
 
 ## Official Resources
 

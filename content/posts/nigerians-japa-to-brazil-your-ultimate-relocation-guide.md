@@ -68,7 +68,7 @@ We understand the struggle, and we’ve designed a service to make it easy. We c
 
 Our process is fast, secure, and fully verifiable by the embassy.
 
-With our help, you can get your POF documents ready in as little as 24 to 72 hours. To learn more about the process, check out our guide on [how to get Proof of Funds in Nigeria](/guides/how-to-get-proof-of-fund-in-nigeria).
+With our help, you can get your POF documents ready in as little as 24 to 72 hours. To learn more about the process, check out our guide on [how to get Proof of Funds in Nigeria](/how-to-get-proof-of-fund-in-nigeria).
 
 Estimating Your Relocation Costs
 --------------------------------
@@ -115,7 +115,7 @@ To ensure a smooth process, steer clear of these common pitfalls:
 3.  **Ignoring the Language Barrier:** Don’t assume you can get by with just English. Start learning Portuguese as soon as possible.
 4.  **Not Having a Plan:** Research cities, job markets, and living costs before you land. A clear plan will save you time, money, and stress.
 
-One of the biggest hurdles is the financial proof, and we’ve seen many applications fail because of it. Learn more about [why visa applications get rejected because of POF](/guides/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it) and how you can avoid it.
+One of the biggest hurdles is the financial proof, and we’ve seen many applications fail because of it. Learn more about [why visa applications get rejected because of POF](/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it) and how you can avoid it.
 
 Your Brazilian Dream is Within Reach
 ------------------------------------

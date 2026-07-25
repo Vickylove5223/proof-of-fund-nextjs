@@ -12,7 +12,7 @@ image: /images/finance-2.png
 ---
 On pure affordability, Türkiye beats almost every serious study destination open to Nigerians: public-university tuition from **$500–$1,500/year**, living costs of **$300–$500/month**, and no fixed national proof-of-funds threshold — the consulate simply wants credible evidence you can cover your declared costs.
 
-A realistic full-year budget, funds evidence included, runs **$4,000–$7,000 (₦6m–₦11m)** — numbers that make Türkiye the entry point for students priced out of [Canada's CAD $22,895 era](/guides/canada-proof-of-funds-2026-new-amounts-in-naira-study-permit-express-entry).
+A realistic full-year budget, funds evidence included, runs **$4,000–$7,000 (₦6m–₦11m)** — numbers that make Türkiye the entry point for students priced out of [Canada's CAD $22,895 era](/canada-proof-of-funds-2026-new-amounts-in-naira-study-permit-express-entry).
 
 ## What the Consulate Wants to See
 
@@ -20,10 +20,10 @@ Because there's no published minimum, the financial test is **consistency**:
 
 *   **Bank statements (3–6 months)** — yours or a sponsor's — showing you can cover tuition + roughly $400/month of living costs for your programme length
 *   **Tuition payment receipt** or university invoice
-*   **Sponsor documents** where a parent funds you: statements, income evidence, and a [properly structured sponsorship letter](/guides/sponsorship-letter-for-visa-from-nigeria-format-and-samples)
+*   **Sponsor documents** where a parent funds you: statements, income evidence, and a [properly structured sponsorship letter](/sponsorship-letter-for-visa-from-nigeria-format-and-samples)
 *   **Accommodation evidence** — dorm allocation or rental commitment
 
-The absence of a fixed number cuts both ways: a modest ₦8m file with clean history passes, while a big balance that [appeared last week](/guides/funds-parking-why-large-unexplained-deposits-get-nigerian-visas-refused) still fails. Standard [statement hygiene](/guides/bank-statement-and-reference-letter-costs-in-nigeria-gtb-access-zenith-uba) applies — stamped, complete, name-matched.
+The absence of a fixed number cuts both ways: a modest ₦8m file with clean history passes, while a big balance that [appeared last week](/funds-parking-why-large-unexplained-deposits-get-nigerian-visas-refused) still fails. Standard [statement hygiene](/bank-statement-and-reference-letter-costs-in-nigeria-gtb-access-zenith-uba) applies — stamped, complete, name-matched.
 
 ## The Türkiye Scholarships Shortcut
 
@@ -45,7 +45,7 @@ Processing typically runs 2–8 weeks. Confirm current checklists with the Turki
 
 *   **Language:** English-taught programmes exist (especially private universities), but daily life and part-time work run in Turkish
 *   **Currency:** the lira's volatility works *for* dollar-holding students — but price your budget in dollars, not lira
-*   **Recognition:** stick to YÖK-recognised universities so your degree travels — especially if Türkiye is a stepping stone toward [European routes later](/guides/10-visa-routes-that-got-easier-for-nigerians-in-2026)
+*   **Recognition:** stick to YÖK-recognised universities so your degree travels — especially if Türkiye is a stepping stone toward [European routes later](/10-visa-routes-that-got-easier-for-nigerians-in-2026)
 
 ## Build the File Once, Properly
 

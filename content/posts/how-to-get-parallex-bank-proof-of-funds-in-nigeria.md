@@ -41,7 +41,7 @@ Parallex Bank stands out as one of the most cost-effective options. 5%.
 
 This is often lower than the rates charged by some of the larger, more traditional banks. By choosing an affordable option, you save money that can be used for other aspects of your travel or study plans.
 
-You can learn more about the [list of banks that provide Proof of Funds in Nigeria](/guides/list-of-banks-that-provide-proof-of-funds-in-nigeria) on our blog.
+You can learn more about the [list of banks that provide Proof of Funds in Nigeria](/list-of-banks-that-provide-proof-of-funds-in-nigeria) on our blog.
 
 The Main Hurdle: Sourcing the Actual Funds
 ------------------------------------------
@@ -83,7 +83,7 @@ This statement will reflect the required balance and meet embassy standards.
 
 You will receive the official bank statement and any other supporting documents, like a bank reference letter if needed. These documents are 100% verifiable.
 
-If the embassy or school contacts the bank for confirmation, the funds will be confirmed as being available. To learn more about the general process, check out our guide on [how to get Proof of Fund in Nigeria](/guides/how-to-get-proof-of-fund-in-nigeria).
+If the embassy or school contacts the bank for confirmation, the funds will be confirmed as being available. To learn more about the general process, check out our guide on [how to get Proof of Fund in Nigeria](/how-to-get-proof-of-fund-in-nigeria).
 
 Is This Service Safe and Legitimate? ------------------------------------
 

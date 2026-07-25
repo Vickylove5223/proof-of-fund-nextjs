@@ -22,7 +22,7 @@ A transaction narration is the story behind the money entering your account. For
 
 A vague or suspicious narration like "Personal" or "Credit" for a large sum can make them doubt the source of your money. A clear, accurate narration, however, builds trust and supports your application.
 
-A mismatch between the narration and your supporting documents is one of the key [reasons visa applications get rejected](/guides/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it). Consistency is key.
+A mismatch between the narration and your supporting documents is one of the key [reasons visa applications get rejected](/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it). Consistency is key.
 
 ![A photorealistic close-up shot of a printed bank statement. The focus is on the 'Narration' column, where text like 'Liquidation of Investment' is clearly visible and highlighted with a yellow marker. The image should convey a sense of official documentation and scrutiny.](/wp-content/uploads/2025/10/ai-generated-4pnp4xya8jl-300x164.jpg)
 

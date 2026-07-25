@@ -18,7 +18,7 @@ This guide covers the new statement expectations, the per-country daily amounts 
 
 *   **Six months of statements** for Spain, France, Italy, Portugal, Greece, Czechia — three months remains the floor elsewhere
 *   Statements must be **stamped by the bank** (or meet the consulate's e-statement rules) and be recent — typically issued within days of your appointment
-*   Officers examine **balance consistency**, not just the closing figure — a [large deposit shortly before applying](/guides/funds-parking-why-large-unexplained-deposits-get-nigerian-visas-refused) is the classic refusal trigger
+*   Officers examine **balance consistency**, not just the closing figure — a [large deposit shortly before applying](/funds-parking-why-large-unexplained-deposits-get-nigerian-visas-refused) is the classic refusal trigger
 *   In practice, consulates want to see **1.5×–2× the minimum calculation** to consider you financially stable
 
 ## How Much Money Per Country (2026)
@@ -48,10 +48,10 @@ Appointment scarcity is real, especially for Spain and France in travel season �
 
 ## What a Passing Nigerian Statement Looks Like
 
-1. **Six months of history** from a major commercial bank ([the banks consulates recognise](/guides/list-of-banks-that-provide-proof-of-funds-in-nigeria))
+1. **Six months of history** from a major commercial bank ([the banks consulates recognise](/list-of-banks-that-provide-proof-of-funds-in-nigeria))
 2. **Consistent balances** that match your declared income — salary inflows, normal spending, no zero-crashes
-3. **A bank attestation letter** alongside the statement — Schengen posts lean on these heavily; see the difference between [statements, bank letters, and proof of funds](/guides/proof-of-funds-vs-bank-statement-vs-bank-reference-letter)
-4. **Documented sources for any large credit** — a [source-of-funds explanation](/guides/source-of-funds-explanation-for-pof-loan-nigeria-samples-templates-expert-tips-2026) turns a red flag into a footnote
+3. **A bank attestation letter** alongside the statement — Schengen posts lean on these heavily; see the difference between [statements, bank letters, and proof of funds](/proof-of-funds-vs-bank-statement-vs-bank-reference-letter)
+4. **Documented sources for any large credit** — a [source-of-funds explanation](/source-of-funds-explanation-for-pof-loan-nigeria-samples-templates-expert-tips-2026) turns a red flag into a footnote
 5. **Travel insurance (€30,000 minimum cover)**, flight reservation, and accommodation matching your stated trip cost
 
 ## Using a Sponsor for a Schengen Visa
@@ -60,6 +60,6 @@ Spain, France, and Italy accept sponsored applications: the sponsor (in Nigeria 
 
 ## The Six-Month Problem — Solved Legitimately
 
-The shift from three to six months doubled the runway Nigerians need. If your account can't show six clean months yet, do not reach for shortcuts — European consulates [verify statements with Nigerian banks](/guides/how-do-embassies-verify-bank-statements-in-nigeria), and a deception finding is shared across all Schengen states.
+The shift from three to six months doubled the runway Nigerians need. If your account can't show six clean months yet, do not reach for shortcuts — European consulates [verify statements with Nigerian banks](/how-do-embassies-verify-bank-statements-in-nigeria), and a deception finding is shared across all Schengen states.
 
-POF NG builds compliant files the legal way: funding in top Nigerian banks, genuine history built forward, attestation letters included, sized to your destination's daily rates with the stability buffer consulates expect. **Message us on WhatsApp at 08103669924** with your destination and travel date, or start with the [proof of funds calculator](/proof-of-fund-calculator). For the broader picture, see our [Schengen visa proof of funds guide](/guides/schengen-visa-proof-of-funds).
+POF NG builds compliant files the legal way: funding in top Nigerian banks, genuine history built forward, attestation letters included, sized to your destination's daily rates with the stability buffer consulates expect. **Message us on WhatsApp at 08103669924** with your destination and travel date, or start with the [proof of funds calculator](/proof-of-fund-calculator). For the broader picture, see our [Schengen visa proof of funds guide](/schengen-visa-proof-of-funds).

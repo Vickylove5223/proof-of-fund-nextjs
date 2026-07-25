@@ -56,7 +56,7 @@ This is a critical question about your financial capacity. Your answer must alig
 
 Know exactly why you're applying and be prepared to show the documents to prove it. A common reason for rejection is inconsistent financial proof.
 
-We explain [why visa applications get rejected because of POF](/guides/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it) and how to prevent it.
+We explain [why visa applications get rejected because of POF](/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it) and how to prevent it.
 
 ### 4 Do you have family or friends in Canada?
 

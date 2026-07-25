@@ -32,11 +32,11 @@ VAT may be added, and some branches price statements per page or per year covere
 
 ### Stamped statement
 
-Walk into your branch (the app PDF is not what most embassies mean) and ask for an **official statement, stamped and signed on every page**, covering the exact period your embassy requires — [3 months minimum, 6 months for Schengen's new rules](/guides/schengen-visa-bank-statement-requirements-from-nigeria-6-months) and Canada. Check before leaving the counter: your full name matching your passport, account number, stamp on every page, and the full date range with no gaps.
+Walk into your branch (the app PDF is not what most embassies mean) and ask for an **official statement, stamped and signed on every page**, covering the exact period your embassy requires — [3 months minimum, 6 months for Schengen's new rules](/schengen-visa-bank-statement-requirements-from-nigeria-6-months) and Canada. Check before leaving the counter: your full name matching your passport, account number, stamp on every page, and the full date range with no gaps.
 
 ### Reference / attestation letter
 
-This is the bank formally vouching for you — [a different document from the statement, and embassies often want both](/guides/proof-of-funds-vs-bank-statement-vs-bank-reference-letter). Request it in writing (banks have a form or accept a short letter), state the purpose ("visa application — [country]"), and specify what it must confirm: account opening date, current balance, and satisfactory operation. Signatures must be by authorised officers — embassies [verify these letters directly](/guides/how-do-embassies-verify-bank-statements-in-nigeria), and an improperly signed letter fails verification through no fault of yours.
+This is the bank formally vouching for you — [a different document from the statement, and embassies often want both](/proof-of-funds-vs-bank-statement-vs-bank-reference-letter). Request it in writing (banks have a form or accept a short letter), state the purpose ("visa application — [country]"), and specify what it must confirm: account opening date, current balance, and satisfactory operation. Signatures must be by authorised officers — embassies [verify these letters directly](/how-do-embassies-verify-bank-statements-in-nigeria), and an improperly signed letter fails verification through no fault of yours.
 
 ![Bank documents ready for a visa file](/wp-content/uploads/2025/09/Proof-of-Fund-in-Nigeria-2.webp)
 
@@ -46,11 +46,11 @@ This is the bank formally vouching for you — [a different document from the st
 2. **Name mismatches.** If your account says "Chukwu V." and your passport "Victoria Chukwu," fix the account name *before* requesting documents — a mismatch voids the file.
 3. **Stamp on first page only.** Insist on every page; UK and Schengen posts reject partially stamped statements.
 4. **Old-format letters.** Some branches use outdated letter templates missing the account-opening date. Hand them the embassy checklist line.
-5. **Dormant account reactivation delays.** If your account has been inactive, reactivate it weeks before you need documents — and remember a freshly reactivated account with a sudden balance invites [funds-parking questions](/guides/funds-parking-why-large-unexplained-deposits-get-nigerian-visas-refused).
+5. **Dormant account reactivation delays.** If your account has been inactive, reactivate it weeks before you need documents — and remember a freshly reactivated account with a sudden balance invites [funds-parking questions](/funds-parking-why-large-unexplained-deposits-get-nigerian-visas-refused).
 
 ## Which Bank Should Visa Applicants Use?
 
-For embassy purposes, stick to the majors — statements from tier-1 commercial banks verify fast and are never questioned as institutions. Our rankings: [top 3 banks for visa proof of funds](/guides/top-3-banks-for-visa-proof-of-funds-in-nigeria-and-how-to-get-pof-without-personal-cash) and the [full list of banks that provide POF](/guides/list-of-banks-that-provide-proof-of-funds-in-nigeria). Avoid [microfinance banks for visa files entirely](/guides/why-you-should-never-use-a-microfinance-bank-for-your-study-visa-proof-of-funds).
+For embassy purposes, stick to the majors — statements from tier-1 commercial banks verify fast and are never questioned as institutions. Our rankings: [top 3 banks for visa proof of funds](/top-3-banks-for-visa-proof-of-funds-in-nigeria-and-how-to-get-pof-without-personal-cash) and the [full list of banks that provide POF](/list-of-banks-that-provide-proof-of-funds-in-nigeria). Avoid [microfinance banks for visa files entirely](/why-you-should-never-use-a-microfinance-bank-for-your-study-visa-proof-of-funds).
 
 ## When the Documents Are Easy but the Balance Isn't
 

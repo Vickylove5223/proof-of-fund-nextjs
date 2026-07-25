@@ -16,10 +16,10 @@ A sponsorship letter is often the weakest document in a Nigerian visa file — n
 
 Before drafting anything, confirm the destination's sponsor rules — this is the step that voids most letters:
 
-*   **UK student visas:** only **you, your parents, or a legal guardian** can hold the funds — an uncle's sponsorship letter cannot fix ineligible funds. Full rules in [who can sponsor your UK student visa](/guides/who-can-sponsor-your-uk-student-visa-proof-of-funds).
-*   **UK visit visas:** flexible — any credible host/relative can support, but [you must still show personal funds and ties](/guides/how-much-bank-balance-is-required-for-uk-visit-visa-from-nigeria).
-*   **Canada:** extended family sponsorship is workable with strong documentation — see the [sponsor bank statement requirements for Canada](/guides/sponsor-bank-statement-for-canada-study-permit-nigeria-complete-requirements-tips).
-*   **USA:** any sponsor, but credibility is tested at interview; US-based sponsors should complete **Form I-134** alongside the letter — see the [F1 sponsor letter guide](/guides/usa-f1-visa-proof-of-funds-nigeria-sponsor-letter-complete-guide).
+*   **UK student visas:** only **you, your parents, or a legal guardian** can hold the funds — an uncle's sponsorship letter cannot fix ineligible funds. Full rules in [who can sponsor your UK student visa](/who-can-sponsor-your-uk-student-visa-proof-of-funds).
+*   **UK visit visas:** flexible — any credible host/relative can support, but [you must still show personal funds and ties](/how-much-bank-balance-is-required-for-uk-visit-visa-from-nigeria).
+*   **Canada:** extended family sponsorship is workable with strong documentation — see the [sponsor bank statement requirements for Canada](/sponsor-bank-statement-for-canada-study-permit-nigeria-complete-requirements-tips).
+*   **USA:** any sponsor, but credibility is tested at interview; US-based sponsors should complete **Form I-134** alongside the letter — see the [F1 sponsor letter guide](/usa-f1-visa-proof-of-funds-nigeria-sponsor-letter-complete-guide).
 *   **Schengen:** France uses the *attestation d'accueil*, Spain the *carta de invitación* — official forms, not free-text letters, plus the sponsor's statements.
 
 ## Sponsorship Letter Format (Financial Support)
@@ -65,7 +65,7 @@ Before drafting anything, confirm the destination's sponsor rules — this is th
 
 A letter is a claim; the attachments are the evidence. Officers test three things:
 
-1. **Capacity** — does the sponsor's income plausibly support the promise? A sponsor pledging ₦30m on a ₦400k salary triggers the same [genuineness analysis](/guides/funds-parking-why-large-unexplained-deposits-get-nigerian-visas-refused) as any suspicious statement, and sponsor accounts get [verified with banks](/guides/how-do-embassies-verify-bank-statements-in-nigeria) too.
+1. **Capacity** — does the sponsor's income plausibly support the promise? A sponsor pledging ₦30m on a ₦400k salary triggers the same [genuineness analysis](/funds-parking-why-large-unexplained-deposits-get-nigerian-visas-refused) as any suspicious statement, and sponsor accounts get [verified with banks](/how-do-embassies-verify-bank-statements-in-nigeria) too.
 2. **Relationship** — documents beat assertions: birth certificates, marriage certificates, photos for hosts.
 3. **Consistency** — the letter's numbers must match the statements, the application form, and (for the US) the interview answers.
 
@@ -74,7 +74,7 @@ A letter is a claim; the attachments are the evidence. Officers test three thing
 *   Handwritten or unsigned letters (always typed, signed, dated)
 *   Signature that doesn't match the enclosed ID
 *   Vague promises ("I will support as needed") instead of named costs and amounts
-*   No source-of-funds story for the sponsor's balance — attach a [source-of-funds explanation](/guides/source-of-funds-explanation-for-pof-loan-nigeria-samples-templates-expert-tips-2026) for any large credits
+*   No source-of-funds story for the sponsor's balance — attach a [source-of-funds explanation](/source-of-funds-explanation-for-pof-loan-nigeria-samples-templates-expert-tips-2026) for any large credits
 *   Wrong instrument for the destination (free-text letter where Spain wants a *carta de invitación*, or an uncle's letter for a UK student file)
 
 ## When the Sponsor's Funds Are the Problem

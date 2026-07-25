@@ -32,22 +32,22 @@ If there's no POF requirement, what are people paying ₦2m–₦5m for? Usually
 1. **"Visa slot" sales** — agents claiming to sell Qatar/Saudi work visas without a real employer behind them. A work visa without a job is either fake or a freelance-visa trap that leaves you undocumented
 2. **Fee-charging "recruiters"** — legitimate Gulf recruitment is employer-paid; a recruiter charging you large fees is either breaking the rules or not sending you anywhere
 3. **Job-swap arrivals** — promised office jobs that become different, harsher work on landing, with your passport "held." Verify the employer and contract *before* travelling, not after
-4. **Fake medical/attestation shortcuts** — Gulf systems verify documents; forged attestations end in bans, the same way [fake bank documents do elsewhere](/guides/consequences-of-fake-proof-of-funds-or-backdated-bank-statements-for-visa-applications-from-nigeria-2026)
+4. **Fake medical/attestation shortcuts** — Gulf systems verify documents; forged attestations end in bans, the same way [fake bank documents do elsewhere](/consequences-of-fake-proof-of-funds-or-backdated-bank-statements-for-visa-applications-from-nigeria-2026)
 
 **Verification steps that cost nothing:** confirm the employer exists (Qatar's commercial registry / Saudi ministry portals), insist on seeing the employment contract before any payment, and treat "pay first, contract later" as the scam signature it is.
 
 ## Where Money DOES Enter Gulf Trips
 
-*   **Visit visas:** Qatar and Saudi tourist eVisas ask for return tickets, hotel bookings, and bank statements showing trip capacity — a modest [3-month statement](/guides/bank-statement-and-reference-letter-costs-in-nigeria-gtb-access-zenith-uba) with ₦2m+ in consistent funds is the practical bar
+*   **Visit visas:** Qatar and Saudi tourist eVisas ask for return tickets, hotel bookings, and bank statements showing trip capacity — a modest [3-month statement](/bank-statement-and-reference-letter-costs-in-nigeria-gtb-access-zenith-uba) with ₦2m+ in consistent funds is the practical bar
 *   **Family sponsorship after arrival:** bringing spouses/children requires *your* Gulf salary to clear thresholds (e.g., QAR 10,000+/month in Qatar for family residency) — plan this into contract negotiations
 *   **Business visas:** invitation-letter based, with your company documents and statements
 
 ## Gulf vs the Alternatives
 
-The Gulf trade-off is speed and zero POF against no permanent-residence pathway. If your goal is eventual citizenship or family settlement, weigh the [routes that got easier in 2026](/guides/10-visa-routes-that-got-easier-for-nigerians-in-2026) — several European job-seeker visas cost more upfront but lead somewhere the Gulf structurally doesn't.
+The Gulf trade-off is speed and zero POF against no permanent-residence pathway. If your goal is eventual citizenship or family settlement, weigh the [routes that got easier in 2026](/10-visa-routes-that-got-easier-for-nigerians-in-2026) — several European job-seeker visas cost more upfront but lead somewhere the Gulf structurally doesn't.
 
 ## Where POF NG Fits
 
-For Gulf **work** visas: mostly by telling you the truth — don't pay for proof of funds you don't need, and don't pay "agents" for visas employers provide free. For Gulf **visit and business** visas, and for the [Dubai/UAE routes](/guides/proof-of-funds-for-dubai-uae-visa-from-nigeria) where statements do matter, we structure clean, verifiable files.
+For Gulf **work** visas: mostly by telling you the truth — don't pay for proof of funds you don't need, and don't pay "agents" for visas employers provide free. For Gulf **visit and business** visas, and for the [Dubai/UAE routes](/proof-of-funds-for-dubai-uae-visa-from-nigeria) where statements do matter, we structure clean, verifiable files.
 
 **WhatsApp: 08103669924** — tell us the route you've been offered, and we'll tell you honestly whether money should be changing hands at all.

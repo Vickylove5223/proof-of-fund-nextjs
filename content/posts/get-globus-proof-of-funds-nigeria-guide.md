@@ -42,7 +42,7 @@ We help you secure the necessary funding to get an authentic and verifiable bank
 
 ## How We Help You Get Your Globus Proof of Funds: A Step-by-Step Process
 
-Our process for [getting a Proof of Funds in Nigeria](/guides/how-to-get-proof-of-fund-in-nigeria) is designed to be simple, secure, and fast. We act as your trusted agent, connecting you with reliable financial partners who can assist with the funding.
+Our process for [getting a Proof of Funds in Nigeria](/how-to-get-proof-of-fund-in-nigeria) is designed to be simple, secure, and fast. We act as your trusted agent, connecting you with reliable financial partners who can assist with the funding.
 
 IMAGE: A simple infographic showing the four-step process to get proof of funds with POF NG.
 

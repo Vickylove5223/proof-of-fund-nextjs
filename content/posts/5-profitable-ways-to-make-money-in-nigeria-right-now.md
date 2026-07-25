@@ -92,4 +92,4 @@ The five methods discussed—freelancing, e-commerce, AgriTech, content creation
 
 Ultimately, making money in Nigeria requires a blend of strategy, consistency, and hard work. By choosing a path that aligns with your skills and interests, you can create a sustainable source of revenue and work towards achieving your most ambitious financial goals.
 
-As you build your finances, you open up doors to new possibilities, including international travel and education, which often have specific financial prerequisites. Learning [how to get proof of funds in Nigeria](/guides/how-to-get-proof-of-fund-in-nigeria) can be a crucial next step once your earnings are stable.
+As you build your finances, you open up doors to new possibilities, including international travel and education, which often have specific financial prerequisites. Learning [how to get proof of funds in Nigeria](/how-to-get-proof-of-fund-in-nigeria) can be a crucial next step once your earnings are stable.

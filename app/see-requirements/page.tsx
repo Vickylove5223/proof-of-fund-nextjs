@@ -5,7 +5,7 @@ import { ChevronRight } from 'lucide-react';
 
 export default function RequirementsPage() {
   return (
-    <div className="min-h-screen bg-[#F3F0FF] pb-24 font-sans text-[#120E00]">
+    <div className="min-h-screen bg-[#F3F0FF] font-sans text-[#120E00]">
       {/* Header Section */}
       <div className="bg-[#2E1499] text-white pt-20 pb-20 px-6 text-center">
         <div className="max-w-4xl mx-auto">
@@ -95,13 +95,11 @@ export default function RequirementsPage() {
           </ul>
 
           <h3 className="text-2xl font-bold mb-4 mt-12">Final Thoughts</h3>
-          <p className="text-slate-700 mb-12 leading-relaxed">
+          <p className="text-slate-700 leading-relaxed">
             While these lists cover standard requirements, every institution or embassy has specific nuances regarding formatting, currency conversions, and holding periods. Working with experienced professionals like POFNG ensures your documentation is structured perfectly the first time, avoiding costly delays or rejections.
           </p>
         </div>
       </div>
-
-
     </div>
   );
 }

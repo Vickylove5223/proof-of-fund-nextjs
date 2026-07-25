@@ -58,7 +58,7 @@ These actions are considered **misrepresentation or deception** under most immig
 *   Digital forensics on PDFs and metadata
 *   Cross-checking with other application details
 
-For the full breakdown of the verification process, read [how embassies verify bank statements in Nigeria](/guides/how-do-embassies-verify-bank-statements-in-nigeria).
+For the full breakdown of the verification process, read [how embassies verify bank statements in Nigeria](/how-do-embassies-verify-bank-statements-in-nigeria).
 
 ### Real Stories and Warnings from Embassies
 
@@ -80,7 +80,7 @@ Instead of risking everything with fake documents, use compliant temporary fundi
 *   Clear funding letters and Source of Funds explanations
 *   Transparent process that strengthens rather than risks your application
 
-At **POF NG**, we provide legitimate, verifiable Proof of Funds that thousands of Nigerians have used successfully for UK, Canada, and other destinations. If your problem is missing account *history*, the legal fix is building real history forward — often in as little as 28 days for UK routes. We explain exactly how in [why backdated statements fail and what works instead](/guides/backdated-bank-statement-for-visa-in-nigeria-why-it-fails-and-what-works).
+At **POF NG**, we provide legitimate, verifiable Proof of Funds that thousands of Nigerians have used successfully for UK, Canada, and other destinations. If your problem is missing account *history*, the legal fix is building real history forward — often in as little as 28 days for UK routes. We explain exactly how in [why backdated statements fail and what works instead](/backdated-bank-statement-for-visa-in-nigeria-why-it-fails-and-what-works).
 
 ### Final Advice: Protect Your Future
 

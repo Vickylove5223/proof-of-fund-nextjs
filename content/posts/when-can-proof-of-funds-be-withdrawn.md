@@ -37,7 +37,7 @@ The temptation to access or return the funds prematurely can be strong, but the 
 
 Here’s what can happen:
 
-*   **Immediate Visa Rejection:** Embassies perform thorough checks. If they verify your account and find the balance has dropped below the required amount or has been withdrawn, your application will almost certainly be rejected. This is a common reason [why visa applications get rejected because of POF](/guides/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it).
+*   **Immediate Visa Rejection:** Embassies perform thorough checks. If they verify your account and find the balance has dropped below the required amount or has been withdrawn, your application will almost certainly be rejected. This is a common reason [why visa applications get rejected because of POF](/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it).
 *   **Loss of Credibility:** A rejected application due to financial misrepresentation can damage your credibility. It may lead to future applications being scrutinized more heavily or even result in a temporary ban from applying.
 *   **Forfeiture of Service Fees:** The fee you pay for a POF service is for arranging and holding the funds for the agreed-upon period. Withdrawing early violates this agreement, and you will not be refunded.
 
@@ -54,7 +54,7 @@ Here’s how it works:
 4.  **Generate the Statement:** After the holding period is complete, you can now request the official bank statement that covers the entire period. This statement is the document you will submit as your Proof of Funds.
 5.  **Fund Reversal:** Only after the bank statement has been generated and the mandatory period has passed can the funds be safely withdrawn or reversed by the finance company according to your service agreement.
 
-Following these steps ensures your financial documents are authentic, verifiable, and fully compliant. To learn more about the general process, you can read our guide on [how Proof of Funds works in Nigeria](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide).
+Following these steps ensures your financial documents are authentic, verifiable, and fully compliant. To learn more about the general process, you can read our guide on [how Proof of Funds works in Nigeria](/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide).
 
 Partner with an Expert You Can Trust
 ------------------------------------

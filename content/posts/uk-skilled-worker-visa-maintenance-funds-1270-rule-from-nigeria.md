@@ -49,11 +49,11 @@ A family of four self-maintaining therefore shows **£2,070** held for 28 days.
 
 ## The Technicalities That Refuse Applications
 
-*   **The one-day dip.** Balance touched £1,265 on day 19? The 28-day clock restarts. This mirrors the [28-day rule mistakes we see on student visas](/guides/common-mistakes-in-28-day-proof-of-funds-for-uk-visas-and-how-to-avoid-them).
+*   **The one-day dip.** Balance touched £1,265 on day 19? The 28-day clock restarts. This mirrors the [28-day rule mistakes we see on student visas](/common-mistakes-in-28-day-proof-of-funds-for-uk-visas-and-how-to-avoid-them).
 *   **Stale evidence.** Statement ends 35 days before your application date — refused.
 *   **Naira accounts without conversion clarity.** Naira balances are acceptable, but the converted value must stay above £1,270 across all 28 days. Exchange-rate swings have refused borderline files — keep a healthy buffer (we suggest maintaining ₦3m+).
-*   **Unrecognised institutions.** Use a major commercial bank — see [which Nigerian banks visa officers trust](/guides/top-3-banks-for-visa-proof-of-funds-in-nigeria-and-how-to-get-pof-without-personal-cash).
-*   **Funds that appear suddenly.** Even at this small scale, [funds parking](/guides/funds-parking-why-large-unexplained-deposits-get-nigerian-visas-refused) logic applies.
+*   **Unrecognised institutions.** Use a major commercial bank — see [which Nigerian banks visa officers trust](/top-3-banks-for-visa-proof-of-funds-in-nigeria-and-how-to-get-pof-without-personal-cash).
+*   **Funds that appear suddenly.** Even at this small scale, [funds parking](/funds-parking-why-large-unexplained-deposits-get-nigerian-visas-refused) logic applies.
 
 ## Timeline for a Clean Application
 
@@ -66,6 +66,6 @@ Official reference: the [GOV.UK Skilled Worker visa guidance](https://www.gov.uk
 
 ## Sorting Your Maintenance Funds Fast
 
-If your account can't hold ₦3m untouched for a month — or your start date won't wait for a restarted 28-day clock — POF NG can structure legitimate maintenance funds in a top Nigerian bank with the full 28-day history and documentation UKVI expects. It's the same service trusted for [UK student visa proof of funds](/guides/48-hour-proof-of-funds-uk-student-visa), sized for worker files.
+If your account can't hold ₦3m untouched for a month — or your start date won't wait for a restarted 28-day clock — POF NG can structure legitimate maintenance funds in a top Nigerian bank with the full 28-day history and documentation UKVI expects. It's the same service trusted for [UK student visa proof of funds](/48-hour-proof-of-funds-uk-student-visa), sized for worker files.
 
 Message us on **Call/WhatsApp: 08103669924** — or estimate your requirement (with dependants) using the [proof of funds calculator](/proof-of-fund-calculator).

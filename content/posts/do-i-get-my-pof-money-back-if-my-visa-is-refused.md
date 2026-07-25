@@ -19,10 +19,10 @@ Proof of funds is **evidence, not a fee**. Whether the visa is approved or refus
 *   **Your own savings:** yours throughout; after a refusal you can withdraw immediately — though hold off if you plan to reapply soon (more below)
 *   **GIC (Canada):** if refused, you apply to the bank (Scotiabank, RBC, CIBC) for a **full GIC refund** — standard process, refunded to the source account, usually within 4–8 weeks with your refusal letter as evidence
 *   **Germany blocked account:** refunded on presentation of the refusal letter, minus provider fees
-*   **POF service funding:** the funded amount was never yours to keep — what you spent is the **service fee**, which is generally non-refundable since the service (funding + documentation) was delivered. Reputable providers offer discounted re-runs for reapplications; see [how POF services work](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) and the [current cost structure](/guides/cost-of-proof-of-funds-for-uk-canada-visa-from-nigeria-2026-complete-pricing-guide)
+*   **POF service funding:** the funded amount was never yours to keep — what you spent is the **service fee**, which is generally non-refundable since the service (funding + documentation) was delivered. Reputable providers offer discounted re-runs for reapplications; see [how POF services work](/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) and the [current cost structure](/cost-of-proof-of-funds-for-uk-canada-visa-from-nigeria-2026-complete-pricing-guide)
 *   **Visa application fees:** not refundable after a decision, anywhere
 
-For the timing rules on moving your own money safely, see [when can proof of funds be withdrawn](/guides/when-can-proof-of-funds-be-withdrawn).
+For the timing rules on moving your own money safely, see [when can proof of funds be withdrawn](/when-can-proof-of-funds-be-withdrawn).
 
 ![Reviewing a visa decision letter](/wp-content/uploads/2025/09/application-form-information-employment-concept_53876-128011.jpg)
 
@@ -32,11 +32,11 @@ Your refusal letter states the ground. Financial refusals come in flavours, and 
 
 | Refusal wording | What it really means | The fix |
 | --- | --- | --- |
-| "Funds not held for the required period" | You broke the 28-day/seasoning rule | Re-season correctly — [28-day rule guide](/guides/common-mistakes-in-28-day-proof-of-funds-for-uk-visas-and-how-to-avoid-them) |
-| "Not satisfied funds are genuinely available" | Parked or unexplained deposits | Document sources — [funds parking guide](/guides/funds-parking-why-large-unexplained-deposits-get-nigerian-visas-refused) |
-| "Third-party funds not acceptable" | Wrong sponsor (e.g. uncle for UK student) | Restructure into eligible names — [who can sponsor UK student funds](/guides/who-can-sponsor-your-uk-student-visa-proof-of-funds) |
+| "Funds not held for the required period" | You broke the 28-day/seasoning rule | Re-season correctly — [28-day rule guide](/common-mistakes-in-28-day-proof-of-funds-for-uk-visas-and-how-to-avoid-them) |
+| "Not satisfied funds are genuinely available" | Parked or unexplained deposits | Document sources — [funds parking guide](/funds-parking-why-large-unexplained-deposits-get-nigerian-visas-refused) |
+| "Third-party funds not acceptable" | Wrong sponsor (e.g. uncle for UK student) | Restructure into eligible names — [who can sponsor UK student funds](/who-can-sponsor-your-uk-student-visa-proof-of-funds) |
 | "Insufficient funds" | Amount below requirement | Recalculate with a buffer — [POF calculator](/proof-of-fund-calculator) |
-| "Documents could not be verified" | Bank/institution verification failed | Move to a top-tier bank — [embassy verification explained](/guides/how-do-embassies-verify-bank-statements-in-nigeria) |
+| "Documents could not be verified" | Bank/institution verification failed | Move to a top-tier bank — [embassy verification explained](/how-do-embassies-verify-bank-statements-in-nigeria) |
 
 ## How Soon Can You Reapply?
 
@@ -44,7 +44,7 @@ Your refusal letter states the ground. Financial refusals come in flavours, and 
 
 *   If the defect was documentation, you can fix and refile within weeks
 *   If the defect was fund seasoning, your timeline is the seasoning window itself (28 days for the UK; ideally 3–6 months of history for Canada)
-*   A refusal for **deception** (fake documents) is different — that carries a 10-year ban for the UK and long inadmissibility elsewhere. This is why we say it loudly: never touch [fake or backdated statements](/guides/consequences-of-fake-proof-of-funds-or-backdated-bank-statements-for-visa-applications-from-nigeria-2026)
+*   A refusal for **deception** (fake documents) is different — that carries a 10-year ban for the UK and long inadmissibility elsewhere. This is why we say it loudly: never touch [fake or backdated statements](/consequences-of-fake-proof-of-funds-or-backdated-bank-statements-for-visa-applications-from-nigeria-2026)
 
 **Does a refusal hurt the next application?** You must declare it, and the officer will read the previous ground. A reapplication that squarely fixes the stated defect — ideally with a short cover letter naming the previous refusal and showing what changed — is approved every day. What fails is resubmitting the same file and hoping for a different officer.
 
@@ -56,7 +56,7 @@ Your refusal letter states the ground. Financial refusals come in flavours, and 
 4. Add a one-page cover letter: "Previous application refused on X; this application addresses it by Y"
 5. Recheck every non-financial document too — a second refusal on a *new* ground burns months
 
-More prevention strategies in [why visa applications get rejected because of POF](/guides/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it) and the [12 ways to avoid UK refusal](/guides/12-way-on-how-to-avoid-uk-visa-refusal).
+More prevention strategies in [why visa applications get rejected because of POF](/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it) and the [12 ways to avoid UK refusal](/12-way-on-how-to-avoid-uk-visa-refusal).
 
 ## Turn the Refusal Around
 

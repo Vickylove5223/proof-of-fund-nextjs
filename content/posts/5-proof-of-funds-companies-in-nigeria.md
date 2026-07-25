@@ -46,7 +46,7 @@ They assist clients in obtaining necessary bank statements and reference letters
 
 The company focuses on providing tailored solutions based on individual needs, whether for student visas or business travel. Their process involves assessing the applicant's specific requirements and providing the appropriate documentation to match.
 
-While turnaround times can vary, they are known for their professional approach and attention to detail, which helps minimize the risk of visa rejection due to financial proof issues. For more details on what's needed, you can [learn about proof of funds requirements in Nigeria](/guides/learn-about-proof-of-funds-requirements-in-nigeria) and see how they align.
+While turnaround times can vary, they are known for their professional approach and attention to detail, which helps minimize the risk of visa rejection due to financial proof issues. For more details on what's needed, you can [learn about proof of funds requirements in Nigeria](/learn-about-proof-of-funds-requirements-in-nigeria) and see how they align.
 
 ### Key Features:
 
@@ -64,7 +64,7 @@ Their service is built on the promise of providing authentic and easily verifiab
 
 The company often works with a network of financial partners to facilitate the necessary arrangements. Applicants can typically expect a straightforward process where they submit their requirements and receive the completed documentation within a specified timeframe.
 
-This makes them a viable option for those who need a reliable service without extensive paperwork. Understanding [how proof of fund works in Nigeria](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) can help you better appreciate the service they provide.
+This makes them a viable option for those who need a reliable service without extensive paperwork. Understanding [how proof of fund works in Nigeria](/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) can help you better appreciate the service they provide.
 
 ### Key Features:
 

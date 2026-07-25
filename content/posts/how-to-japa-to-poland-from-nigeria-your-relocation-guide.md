@@ -77,7 +77,7 @@ This document proves your financial stability. It tells the embassy you will not
 
 Getting this right is key to getting your visa approved. If you need help with this, we at POF NG are experts.
 
-We connect you with trusted financial partners to provide the documents you need. You can [learn how Proof of Funds works](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) on our website.
+We connect you with trusted financial partners to provide the documents you need. You can [learn how Proof of Funds works](/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) on our website.
 
 \[IMAGE\_2\]
 
@@ -112,7 +112,7 @@ A common problem is an issue with the Proof of Funds. The bank statement might n
 
 To avoid this, double-check every document before you submit it. Make sure all information is accurate and complete.
 
-Getting expert help can prevent these issues and increase your chances of success. It is important to understand [why visa applications get rejected](/guides/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it) so you can avoid those mistakes.
+Getting expert help can prevent these issues and increase your chances of success. It is important to understand [why visa applications get rejected](/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it) so you can avoid those mistakes.
 
 Your Journey to Poland Starts Now
 ---------------------------------

@@ -96,7 +96,7 @@ A bank statement provides a detailed history of your account over a period, typi
 *   Opening and closing balances for each month.
 *   An official bank stamp on every page to certify its authenticity.
 
-While we can't provide a full statement template, the key is ensuring the final closing balance meets the required amount and the history doesn't show any suspicious, large, unexplained deposits right before the statement was printed. If you need help understanding [the specific requirements for your visa](/guides/learn-about-proof-of-funds-requirements-in-nigeria), our team can guide you.
+While we can't provide a full statement template, the key is ensuring the final closing balance meets the required amount and the history doesn't show any suspicious, large, unexplained deposits right before the statement was printed. If you need help understanding [the specific requirements for your visa](/learn-about-proof-of-funds-requirements-in-nigeria), our team can guide you.
 
 ### Example 3: The Fixed Deposit Receipt
 
@@ -134,7 +134,7 @@ We connect you with verified financial partners who can help arrange the necessa
 
 We are ranked as the #1 trusted POF company in Nigeria, leading a list of reliable providers like Davcrest Finance Ltd and SwiftFunds NG. Our process is simple: you tell us what you need, and we handle the rest, ensuring you receive authentic documents.
 
-Learn more about [how to get your Proof of Funds](/guides/how-to-get-proof-of-fund-in-nigeria) through our secure platform.
+Learn more about [how to get your Proof of Funds](/how-to-get-proof-of-fund-in-nigeria) through our secure platform.
 
 Why Your Proof of Funds Must Be Authentic
 -----------------------------------------

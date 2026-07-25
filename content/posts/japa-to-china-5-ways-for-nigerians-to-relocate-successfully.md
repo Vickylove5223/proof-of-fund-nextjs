@@ -33,7 +33,7 @@ To get a study visa, you first need an admission letter from a recognized Chines
 
 A critical part of this application is providing Proof of Funds (POF) to show you can cover your tuition and living expenses. The Chinese embassy needs assurance that you won't become a financial burden.
 
-Understanding [how Proof of Funds works](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) is the first step to a smooth application. org/) is an excellent resource.
+Understanding [how Proof of Funds works](/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) is the first step to a smooth application. org/) is an excellent resource.
 
 ### 2\. Work Visa (Z Visa)
 
@@ -91,4 +91,4 @@ The key to success lies in meticulous preparation, from securing the right invit
 
 Don't let the complexities of financial proof hold you back. By understanding these five pathways and ensuring your Proof of Funds is solid, you can turn your dream of moving to China into a reality.
 
-If you need assistance with [getting your financial documents in order](/guides/how-to-get-proof-of-fund-in-nigeria), our team at POF NG is here to provide reliable and fast support for your journey.
+If you need assistance with [getting your financial documents in order](/how-to-get-proof-of-fund-in-nigeria), our team at POF NG is here to provide reliable and fast support for your journey.

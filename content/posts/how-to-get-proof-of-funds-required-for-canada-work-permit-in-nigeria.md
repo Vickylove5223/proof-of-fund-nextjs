@@ -75,7 +75,7 @@ As Nigeria's No. 1 trusted POF agent, we connect you with reliable finance compa
 
 We simplify the process, ensuring you meet embassy requirements without liquidating assets.
 
-Our service is fast (often within 24-72 hours), 100% verifiable, and accepted by the Canadian High Commission. Learn [how to get Canada Proof of Funds in Naira](/guides/how-to-get-canada-proof-of-funds-in-naira-step-by-step-guide) with our step-by-step guide.
+Our service is fast (often within 24-72 hours), 100% verifiable, and accepted by the Canadian High Commission. Learn [how to get Canada Proof of Funds in Naira](/how-to-get-canada-proof-of-funds-in-naira-step-by-step-guide) with our step-by-step guide.
 
 Tips for a Smooth Verification Process
 --------------------------------------

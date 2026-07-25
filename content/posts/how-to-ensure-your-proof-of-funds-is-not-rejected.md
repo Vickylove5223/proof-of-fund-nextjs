@@ -51,7 +51,7 @@ This includes regular inflows (like salary) and outflows (like daily expenses). 
 
 The closing balance must meet the required amount, but it also needs to be stable. The funds should be in the account for the minimum required period (often 28 days or more, depending on the country).
 
-A balance that drops significantly right after the statement is printed can lead to rejection if the embassy does a follow-up verification. For more details on this, you can read about [what is acceptable proof of funds](/guides/what-is-acceptable-proof-of-funds).
+A balance that drops significantly right after the statement is printed can lead to rejection if the embassy does a follow-up verification. For more details on this, you can read about [what is acceptable proof of funds](/what-is-acceptable-proof-of-funds).
 
 
 
@@ -67,7 +67,7 @@ Your bank statement or letter must be on official letterhead and include the ban
 
 This is one of the most common reasons for rejection. A large, recent deposit without a clear source looks like borrowed money, which is not allowed.
 
-If you recently sold a property or received a gift, you need official documentation to prove it. This is why understanding [why visa applications get rejected because of POF](/guides/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it) is crucial.
+If you recently sold a property or received a gift, you need official documentation to prove it. This is why understanding [why visa applications get rejected because of POF](/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it) is crucial.
 
 
 

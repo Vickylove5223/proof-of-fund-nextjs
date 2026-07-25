@@ -36,7 +36,7 @@ Why an Investment Letter is a Superior Form of POF
 Whether you're applying to Canada, the UK, or elsewhere, the quality of your documents matters. An Investment Letter stands out for several reasons:
 
 *   **Enhanced Credibility:** It comes from a reputable financial institution, adding a layer of authenticity to your application.
-*   **Proves Legitimate Source of Funds:** It helps to [avoid common reasons for visa rejection](/guides/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it) by clearly showing the origin of your financial capacity.
+*   **Proves Legitimate Source of Funds:** It helps to [avoid common reasons for visa rejection](/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it) by clearly showing the origin of your financial capacity.
 *   **Demonstrates Financial Maturity:** It suggests that your finances are well-managed and stable, not just a last-minute arrangement.
 
 The Challenge: Getting an Investment Certificate in Nigeria
@@ -53,14 +53,14 @@ You don't need to have your own investment portfolio to get an Investment Letter
 
 Our streamlined process ensures you get a fully authentic and verifiable Investment Letter, often within 24 hours.
 
-As [one of the best Proof of Funds providers in Nigeria](/guides/10-best-proof-of-funds-providers-in-nigeria), we ensure our service is fast, affordable, and completely secure. The entire process is handled online for your convenience.
+As [one of the best Proof of Funds providers in Nigeria](/10-best-proof-of-funds-providers-in-nigeria), we ensure our service is fast, affordable, and completely secure. The entire process is handled online for your convenience.
 
 ### Our Simple, Step-by-Step Process
 
-We've simplified [how Proof of Funds works](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) to eliminate stress. Here’s how you can get your Investment Letter with us:
+We've simplified [how Proof of Funds works](/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) to eliminate stress. Here’s how you can get your Investment Letter with us:
 
 1.  **Contact Us with Your Needs:** Reach out to our team via WhatsApp or our website. Tell us the amount you need to show and the purpose (e.g., Canada student visa, UK work visa).
-2.  **Submit Basic Documents:** We only need a few things to get started, such as a valid ID and the document outlining your school or embassy's financial requirements. This helps us ensure the letter will [meet your specific financial requirements](/guides/learn-about-proof-of-funds-requirements-in-nigeria).
+2.  **Submit Basic Documents:** We only need a few things to get started, such as a valid ID and the document outlining your school or embassy's financial requirements. This helps us ensure the letter will [meet your specific financial requirements](/learn-about-proof-of-funds-requirements-in-nigeria).
 3.  **We Connect You to a Partner:** We immediately link you with a licensed finance company from our network. They will handle the issuance of the official Investment Letter and any supporting documents. All partner institutions are regulated and recognized by bodies like the [Central Bank of Nigeria (CBN)](https://www.cbn.gov.ng).
 4.  **Receive Your Verifiable Documents:** You will receive your authentic Investment Letter, ready for submission. Our documents are 100% verifiable, so you can submit them with complete confidence.
 

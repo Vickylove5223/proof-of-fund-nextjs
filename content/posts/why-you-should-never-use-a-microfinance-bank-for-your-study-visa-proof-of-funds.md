@@ -35,7 +35,7 @@ Commercial Banks vs. Microfinance Banks for POF
 
 Even if you know someone who miraculously had their visa approved using a microfinance bank, it is a massive gamble. Why risk your tuition deposits, heavy application fees, and your future on a technicality?
 
-Always use a full commercial bank for your [Proof of Funds](/guides/how-to-get-proof-of-funds-for-canada-student-visa-in-nigeria). Commercial banks are globally recognized, authorized to process foreign exchange, and fully trusted by immigration bodies worldwide.
+Always use a full commercial bank for your [Proof of Funds](/how-to-get-proof-of-funds-for-canada-student-visa-in-nigeria). Commercial banks are globally recognized, authorized to process foreign exchange, and fully trusted by immigration bodies worldwide.
 
 Don't Have Enough Money for a Commercial Bank POF? We Can Help!
 

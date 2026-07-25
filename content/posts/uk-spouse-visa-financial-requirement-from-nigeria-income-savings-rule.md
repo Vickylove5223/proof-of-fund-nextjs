@@ -42,11 +42,11 @@ If the UK partner earns below £29,000 — or nothing at all — savings can bri
 The conditions on those savings are strict — and this is where applications fail:
 
 1. **Held for 6 consecutive months** before the application, never dipping below the required figure
-2. **In cash** — instant-access savings or current accounts; stocks and pensions must be liquidated 6+ months before (see [what counts as cash-equivalent funds](/guides/can-i-use-fixed-deposit-treasury-bills-or-mutual-funds-as-proof-of-funds))
+2. **In cash** — instant-access savings or current accounts; stocks and pensions must be liquidated 6+ months before (see [what counts as cash-equivalent funds](/can-i-use-fixed-deposit-treasury-bills-or-mutual-funds-as-proof-of-funds))
 3. **In the couple's names** — either partner or jointly; a parent's or sibling's account does not count
-4. **Source documented** — a recent gift is permitted, but it must have completed the 6-month seasoning and the source must be explainable, or you invite the [funds-parking scrutiny](/guides/funds-parking-why-large-unexplained-deposits-get-nigerian-visas-refused) that refuses files
+4. **Source documented** — a recent gift is permitted, but it must have completed the 6-month seasoning and the source must be explainable, or you invite the [funds-parking scrutiny](/funds-parking-why-large-unexplained-deposits-get-nigerian-visas-refused) that refuses files
 
-Savings held in Nigeria **can qualify** if properly evidenced — but naira volatility means the converted value must stay above the threshold every day of the six months. Hold a generous buffer, or hold the funds in pounds; our guide on [domiciliary vs naira accounts](/guides/domiciliary-account-vs-naira-account-for-proof-of-funds) covers the trade-off.
+Savings held in Nigeria **can qualify** if properly evidenced — but naira volatility means the converted value must stay above the threshold every day of the six months. Hold a generous buffer, or hold the funds in pounds; our guide on [domiciliary vs naira accounts](/domiciliary-account-vs-naira-account-for-proof-of-funds) covers the trade-off.
 
 ## Which Route Should Nigerian Couples Use?
 
@@ -57,9 +57,9 @@ Savings held in Nigeria **can qualify** if properly evidenced — but naira vola
 
 ## The Timeline Mistake That Costs Couples a Year
 
-The six-month seasoning clock is unforgiving. Couples routinely gather the money, apply the following month, and get refused — then must restart the six months from scratch. Plan backwards: **money in place by month zero, untouched through month six, application in month seven.** The same discipline applies to the [28-day rules elsewhere in the UK system](/guides/common-mistakes-in-28-day-proof-of-funds-for-uk-visas-and-how-to-avoid-them) — the UK refuses on arithmetic, not sympathy.
+The six-month seasoning clock is unforgiving. Couples routinely gather the money, apply the following month, and get refused — then must restart the six months from scratch. Plan backwards: **money in place by month zero, untouched through month six, application in month seven.** The same discipline applies to the [28-day rules elsewhere in the UK system](/common-mistakes-in-28-day-proof-of-funds-for-uk-visas-and-how-to-avoid-them) — the UK refuses on arithmetic, not sympathy.
 
-Also verify the evidence format: statements covering the full period, in the right names, fresh at the date of application. UKVI [verifies with banks](/guides/how-do-embassies-verify-bank-statements-in-nigeria), including Nigerian banks.
+Also verify the evidence format: statements covering the full period, in the right names, fresh at the date of application. UKVI [verifies with banks](/how-do-embassies-verify-bank-statements-in-nigeria), including Nigerian banks.
 
 ## Structuring the Savings Route Properly
 

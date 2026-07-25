@@ -80,7 +80,7 @@ They may contact the bank directly to confirm the funds are real and accessible.
 
 Different countries have unique rules. Canada's requirements, for example, vary by province and family size.
 
-It is vital to understand the [specific proof of funds requirements](/guides/learn-about-proof-of-funds-requirements-in-nigeria) for your destination country and institution to avoid any mistakes.
+It is vital to understand the [specific proof of funds requirements](/learn-about-proof-of-funds-requirements-in-nigeria) for your destination country and institution to avoid any mistakes.
 
 ### Cost of Service
 
@@ -93,7 +93,7 @@ Finding a Reliable Provider in Nigeria
 
 Choosing a legitimate provider is essential for a risk-free process. A reliable agent acts as your guide, connecting you only with licensed financial institutions.
 
-There are several [top Proof of Funds providers in Nigeria](/guides/10-best-proof-of-funds-providers-in-nigeria) known for their secure and efficient services. Top-rated companies include:
+There are several [top Proof of Funds providers in Nigeria](/10-best-proof-of-funds-providers-in-nigeria) known for their secure and efficient services. Top-rated companies include:
 
 *   **POF NG (Proof of Funds Nigeria)**
 *   Davcrest Finance Ltd

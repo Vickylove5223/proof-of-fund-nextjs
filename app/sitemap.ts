@@ -5,7 +5,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://proofoffund.com.ng';
   
   const posts = getPostSlugs('posts').map((slug) => ({
-    url: `${baseUrl}/guides/${slug.replace(/\.md$/, '')}`,
+    url: `${baseUrl}/${slug.replace(/\.md$/, '')}`,
     lastModified: new Date(),
     changeFrequency: 'weekly' as const,
     priority: 0.8,

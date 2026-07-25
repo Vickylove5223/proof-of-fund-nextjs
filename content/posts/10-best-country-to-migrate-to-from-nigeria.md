@@ -60,7 +60,7 @@ _Tags: Best for Singles, Best for Families_
 _Tags: Best for Students, Best for Families_
 
 *   **Why it’s good:** The UK shares close historical ties with Nigeria, making cultural adaptation easier. It has a world-class education system and a robust job market, especially in finance and tech.
-*   **Typical Visa Routes:** Skilled Worker visa, Health and Care Worker visa, Student visa. Learn more about [how to ‘japa’ from Nigeria to UK](/guides/how-to-japa-from-nigeria-to-uk-5-key-migration-routes) here.
+*   **Typical Visa Routes:** Skilled Worker visa, Health and Care Worker visa, Student visa. Learn more about [how to ‘japa’ from Nigeria to UK](/how-to-japa-from-nigeria-to-uk-5-key-migration-routes) here.
 *   **Ease for Nigerians:** High. The language is a major advantage, and there’s a large, supportive Nigerian diaspora.
 *   **Top Job Sectors:** Finance, Healthcare (NHS), IT, Law.
 
@@ -134,7 +134,7 @@ Feeling stuck? Ask yourself these questions to narrow down your options:
 
 1.  **What is my primary goal?** (Career growth, family life, education)
 2.  **Do my skills match the high-demand jobs in that country?** (Check official immigration skills lists from sources like the [Government of Canada](https://www.canada.ca/) or [Australia’s Department of Home Affairs](https://immi.homeaffairs.gov.au/)).
-3.  **Can I meet the financial requirements?** Every visa requires [Proof of Funds (POF)](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) to show you can support yourself. Check official sites like the [UK government’s visa page](https://www.gov.uk/) for exact amounts.
+3.  **Can I meet the financial requirements?** Every visa requires [Proof of Funds (POF)](/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) to show you can support yourself. Check official sites like the [UK government’s visa page](https://www.gov.uk/) for exact amounts.
 4.  **Am I comfortable with the climate and culture?** (For example, compare Canada’s cold winters to Australia’s heat).
 5.  **What’s the long-term plan?** (Do I want permanent residency or just temporary work experience?) Use resources like [Numbeo](https://www.numbeo.com/) for cost of living and [The World Bank](https://www.worldbank.org/) for economic data.
 

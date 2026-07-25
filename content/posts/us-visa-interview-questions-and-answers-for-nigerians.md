@@ -24,11 +24,11 @@ The officer has your DS-160 on screen before you speak. They are testing three t
 
 **"Why this university?"** — Name one or two specific academic reasons (a professor, a lab, a programme ranking), not "it is a good school."
 
-**"Who is sponsoring you?"** — The decisive question. Name the sponsor, their occupation, and their capacity: *"My father — he runs a construction company with annual income around ₦120 million; he has funded my I-20 amount of $42,000."* If a US-based relative is sponsoring, be ready for follow-ups on their status and income; our [F1 sponsor letter guide](/guides/usa-f1-visa-proof-of-funds-nigeria-sponsor-letter-complete-guide) covers the documentation.
+**"Who is sponsoring you?"** — The decisive question. Name the sponsor, their occupation, and their capacity: *"My father — he runs a construction company with annual income around ₦120 million; he has funded my I-20 amount of $42,000."* If a US-based relative is sponsoring, be ready for follow-ups on their status and income; our [F1 sponsor letter guide](/usa-f1-visa-proof-of-funds-nigeria-sponsor-letter-complete-guide) covers the documentation.
 
 **"How much is your tuition?"** — Know the exact I-20 figure. Not knowing your own numbers is a silent refusal.
 
-**"What does your sponsor do?"** — Officers probe whether declared income plausibly produces your funding. If the statement shows ₦40m but the sponsor earns ₦300k/month, expect the [genuineness problem](/guides/funds-parking-why-large-unexplained-deposits-get-nigerian-visas-refused) to surface right here.
+**"What does your sponsor do?"** — Officers probe whether declared income plausibly produces your funding. If the statement shows ₦40m but the sponsor earns ₦300k/month, expect the [genuineness problem](/funds-parking-why-large-unexplained-deposits-get-nigerian-visas-refused) to surface right here.
 
 **"What will you do after graduation?"** — Tie your plan to Nigeria: the industry, a family business, a specific career path home.
 
@@ -38,7 +38,7 @@ The officer has your DS-160 on screen before you speak. They are testing three t
 
 **"Why are you travelling?"** — One concrete sentence: a specific event, relative, or itinerary.
 
-**"Who pays for the trip?"** — If self-funded, know your own balance and what the trip costs. If sponsored, name the sponsor and the arrangement. The full financial-evidence picture is in our [B1/B2 bank statement requirements guide](/guides/us-b1-b2-visitor-visa-bank-statement-requirements-from-nigeria).
+**"Who pays for the trip?"** — If self-funded, know your own balance and what the trip costs. If sponsored, name the sponsor and the arrangement. The full financial-evidence picture is in our [B1/B2 bank statement requirements guide](/us-b1-b2-visitor-visa-bank-statement-requirements-from-nigeria).
 
 **"What do you do in Nigeria?"** — Your strongest ties answer. Business owners: bring CAC documents and speak in specifics — staff count, monthly revenue.
 
@@ -56,7 +56,7 @@ The officer has your DS-160 on screen before you speak. They are testing three t
 
 ## Documents to Bring (Even If Never Opened)
 
-Six months of stamped statements, sponsor documents and I-134 where applicable, employment/business evidence, and admission documents (F1). The officer may not look — but when they do ask, the file must match your mouth. See [what counts as acceptable proof of funds](/guides/what-is-acceptable-proof-of-funds) and get the [statement vs bank letter distinction](/guides/proof-of-funds-vs-bank-statement-vs-bank-reference-letter) right.
+Six months of stamped statements, sponsor documents and I-134 where applicable, employment/business evidence, and admission documents (F1). The officer may not look — but when they do ask, the file must match your mouth. See [what counts as acceptable proof of funds](/what-is-acceptable-proof-of-funds) and get the [statement vs bank letter distinction](/proof-of-funds-vs-bank-statement-vs-bank-reference-letter) right.
 
 Book and prepare through the official [US Travel Docs Nigeria portal](https://www.ustraveldocs.com/ng/); embassy-specific instructions live on the [US Mission Nigeria site](https://ng.usembassy.gov/visas/).
 

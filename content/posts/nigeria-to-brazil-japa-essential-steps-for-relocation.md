@@ -69,7 +69,7 @@ Getting a large sum of money to sit in your account can be difficult. That's whe
 
 At POF NG, we connect you with trusted financial partners who can help you meet embassy requirements securely and legitimately. Our service ensures you get an authentic, verifiable bank statement that satisfies the embassy's criteria.
 
-If you're unsure [how to get Proof of Funds in Nigeria](/guides/how-to-get-proof-of-fund-in-nigeria), we make the process simple and stress-free.
+If you're unsure [how to get Proof of Funds in Nigeria](/how-to-get-proof-of-fund-in-nigeria), we make the process simple and stress-free.
 
 ### 4\. Secure a Job or School Admission
 

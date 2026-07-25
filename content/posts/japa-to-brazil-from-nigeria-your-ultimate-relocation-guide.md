@@ -51,7 +51,7 @@ Brazil has joined the growing list of countries offering a digital nomad visa. I
 The Critical Step: Proving Your Financial Capacity
 --------------------------------------------------
 
-No matter which visa you apply for, the Brazilian embassy needs to know you can support yourself financially. This is where [Proof of Funds (POF)](/guides/what-is-proof-of-sufficient-funds-in-nigeria) becomes non-negotiable.
+No matter which visa you apply for, the Brazilian embassy needs to know you can support yourself financially. This is where [Proof of Funds (POF)](/what-is-proof-of-sufficient-funds-in-nigeria) becomes non-negotiable.
 
 It's an official bank statement or document showing you have enough money to cover your living expenses, tuition, and other costs without becoming a burden on the state.
 
@@ -99,7 +99,7 @@ This is where we come in. Don't let financial proof be the obstacle that stops y
 
 With POF NG, you can get verifiable funds for your visa application within 24-72 hours. We ensure the documentation meets all embassy requirements.
 
-To understand the mechanics behind this, you can read our guide on [how Proof of Funds works](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide).
+To understand the mechanics behind this, you can read our guide on [how Proof of Funds works](/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide).
 
 ### Step 4: Apply for Your Visa and Attend the Interview
 

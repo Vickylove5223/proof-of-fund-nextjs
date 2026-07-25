@@ -74,7 +74,7 @@ Documentation is the backbone of your application. While specific requirements v
 
 This is one of the most critical steps in any visa application. The Brazilian embassy needs to see that you can financially support yourself during your stay.
 
-They want assurance that you won't become a public charge. An inadequate or unverifiable Proof of Funds is a major reason [why visa applications get rejected](/guides/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it).
+They want assurance that you won't become a public charge. An inadequate or unverifiable Proof of Funds is a major reason [why visa applications get rejected](/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it).
 
 But what if you don't have the entire required amount sitting in your account? This is where we at POF NG come in.
 
@@ -99,7 +99,7 @@ Securing the right Proof of Funds can be stressful, but it doesn’t have to be.
 
 We understand the specific requirements of the Brazilian embassy and ensure your documentation is perfect.
 
-Wondering [how to get Proof of Funds in Nigeria](/guides/how-to-get-proof-of-fund-in-nigeria) without the hassle? Our service is straightforward:
+Wondering [how to get Proof of Funds in Nigeria](/how-to-get-proof-of-fund-in-nigeria) without the hassle? Our service is straightforward:
 
 1.  You tell us the amount and duration you need.
 2.  We connect you to a verified financial institution.

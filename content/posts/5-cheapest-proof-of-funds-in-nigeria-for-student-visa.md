@@ -86,7 +86,7 @@ We facilitate this service to ensure your documents from Stanbic are 100% verifi
 
 You might be wondering, "How do I access these rates and get my POF so quickly?" That's where we come in.
 
-At POF NG, we are not a bank; we are your trusted agent. We connect you with reliable finance companies and the [best banks that provide Proof of Funds in Nigeria](/guides/list-of-banks-that-provide-proof-of-funds-in-nigeria).
+At POF NG, we are not a bank; we are your trusted agent. We connect you with reliable finance companies and the [best banks that provide Proof of Funds in Nigeria](/list-of-banks-that-provide-proof-of-funds-in-nigeria).
 
 Our process is simple:
 
@@ -95,9 +95,9 @@ Our process is simple:
 3. The funds are arranged, and the official bank statement is generated.
 4. You receive your embassy-ready POF documents, often within 24 hours.
 
-We ensure that all the [Proof of Funds requirements](/guides/learn-about-proof-of-funds-requirements-in-nigeria) are met perfectly to avoid any risk of rejection. Need to figure out the exact amount you need?
+We ensure that all the [Proof of Funds requirements](/learn-about-proof-of-funds-requirements-in-nigeria) are met perfectly to avoid any risk of rejection. Need to figure out the exact amount you need?
 
-Our team can guide you, and you can use this [POF calculator guide](/guides/how-to-calculate-proof-of-funds-for-canada-student-visa) to get a clear estimate.
+Our team can guide you, and you can use this [POF calculator guide](/how-to-calculate-proof-of-funds-for-canada-student-visa) to get a clear estimate.
 
 ![A photorealistic image capturing the moment a Nigerian student receives their visa-stamped passport back at a visa application center. The student is beaming with joy and relief. The focus is tight on their happy face and the passport in their hand. The background is blurred, emphasizing the personal victory and the successful outcome of their application process.](/wp-content/uploads/2025/10/ai-generated-o21e2lsy13n.jpg)
 
@@ -105,7 +105,7 @@ Why Choose a Reputable Agent Over Going Direct? --------------------------------
 
 While you could approach a bank directly, using an expert agent like POF NG offers significant advantages. We have established relationships that guarantee faster processing and lower rates.
 
-Working with us gives you peace of mind, knowing your financial proof is authentic, verifiable, and delivered on time. With so many [Proof of Funds providers in Nigeria](/guides/10-best-proof-of-funds-providers-in-nigeria), choosing the No.
+Working with us gives you peace of mind, knowing your financial proof is authentic, verifiable, and delivered on time. With so many [Proof of Funds providers in Nigeria](/10-best-proof-of-funds-providers-in-nigeria), choosing the No.
 
 1 trusted agent ensures your study abroad journey starts on the right foot. offer valuable information.
 

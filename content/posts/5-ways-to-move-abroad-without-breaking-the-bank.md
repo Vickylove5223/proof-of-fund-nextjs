@@ -66,7 +66,7 @@ If you have skills in high demand—such as Tech, Healthcare, Engineering, or Ed
 
 **How to find them:** Optimize your LinkedIn profile. Search for "Talent Acquisition Specialist" or use recruitment agencies that specialize in international hiring, such as _Southern Cross Personnel_ or _Konnecting_ (for Australia).
 
-_Note:_ Depending on the country, even with a sponsored job, you may still be required to show a "Maintenance Fund" (Proof of Funds) for your first month. If you are short on cash, [we can easily structure this for you](/guides/ultimate-guide-to-proof-of-funds-for-student-visas-how-to-avoid-costly-mistakes).
+_Note:_ Depending on the country, even with a sponsored job, you may still be required to show a "Maintenance Fund" (Proof of Funds) for your first month. If you are short on cash, [we can easily structure this for you](/ultimate-guide-to-proof-of-funds-for-student-visas-how-to-avoid-costly-mistakes).
 
 5\. Apply for Global Scholarships
 ---------------------------------

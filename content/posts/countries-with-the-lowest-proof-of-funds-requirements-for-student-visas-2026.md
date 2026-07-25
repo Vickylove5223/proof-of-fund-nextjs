@@ -20,7 +20,7 @@ This ranked guide covers the destinations with the lowest financial barriers in 
 
 ### 1. Northern Cyprus — from ₦3m – ₦5m total
 
-No formal proof of funds requirement for most universities; you show ability to pay tuition (from ~$2,500/year). The trade-off: limited international recognition of the territory. Our [Cyprus without proof of funds guide](/guides/study-in-cyprus-without-proof-of-funds) covers both sides of the island.
+No formal proof of funds requirement for most universities; you show ability to pay tuition (from ~$2,500/year). The trade-off: limited international recognition of the territory. Our [Cyprus without proof of funds guide](/study-in-cyprus-without-proof-of-funds) covers both sides of the island.
 
 ### 2. Georgia — ~$3,000 – $5,000
 
@@ -36,7 +36,7 @@ Stipendium Hungaricum takes hundreds of Nigerians yearly with zero POF. Self-fun
 
 ### 5. Poland — ~€6,000 – €9,000
 
-Living-cost requirement is about €701/month declared, with tuition from €2,000/year. See our full [Poland relocation guide for Nigerians](/guides/how-to-japa-to-poland-from-nigeria-your-relocation-guide).
+Living-cost requirement is about €701/month declared, with tuition from €2,000/year. See our full [Poland relocation guide for Nigerians](/how-to-japa-to-poland-from-nigeria-your-relocation-guide).
 
 ### 6. Malta — ~€8,000 – €12,000
 
@@ -44,34 +44,34 @@ English-speaking EU country; show roughly €1,000/month plus tuition. Smaller u
 
 ### 7. Portugal — ~€9,000 – €12,000
 
-Living requirement pegged to the Portuguese minimum wage (~€870/month). Full breakdown in our [Portugal student visa guide](/guides/proof-of-funds-for-portugal-student-visa-from-nigeria-2026-complete-guide).
+Living requirement pegged to the Portuguese minimum wage (~€870/month). Full breakdown in our [Portugal student visa guide](/proof-of-funds-for-portugal-student-visa-from-nigeria-2026-complete-guide).
 
 ### 8. Germany — €11,904 (blocked account)
 
-Not the lowest, but the most predictable: one fixed number in a blocked account, tuition-free public universities. The maths in our [Germany student visa proof of funds guide](/guides/proof-of-funds-germany-student-visa-nigeria).
+Not the lowest, but the most predictable: one fixed number in a blocked account, tuition-free public universities. The maths in our [Germany student visa proof of funds guide](/proof-of-funds-germany-student-visa-nigeria).
 
 ### 9. Austria — ~€12,000
 
-Around €1,000/month for students under 24; low tuition at public universities. Details in the [Austria student visa POF guide](/guides/how-to-get-proof-of-funds-for-austria-student-visa-in-nigeria).
+Around €1,000/month for students under 24; low tuition at public universities. Details in the [Austria student visa POF guide](/how-to-get-proof-of-funds-for-austria-student-visa-in-nigeria).
 
 ### 10. Netherlands — ~€13,800
 
-Higher than the rest of this list but with a university-managed visa process and no embassy statement forensics — see [how the Dutch transfer system works](/guides/proof-of-funds-for-netherlands-student-visa-from-nigeria).
+Higher than the rest of this list but with a university-managed visa process and no embassy statement forensics — see [how the Dutch transfer system works](/proof-of-funds-for-netherlands-student-visa-from-nigeria).
 
 ## For Comparison: The Expensive End (2026)
 
 | Country | Living-cost POF alone |
 | --- | --- |
-| Canada | CAD $22,895 (~₦27m) — [new 2026 amounts](/guides/canada-proof-of-funds-2026-new-amounts-in-naira-study-permit-express-entry) |
-| Australia | AUD $29,710 (~₦30m) — [Australia requirements](/guides/australia-student-visa-proof-of-funds-from-nigeria-2026-complete-requirements-guide) |
-| UK (London) | £1,483/month × 9 (~₦25m) — [UK student guide](/guides/how-to-get-proof-of-funds-for-uk-student-visa-nigeria) |
+| Canada | CAD $22,895 (~₦27m) — [new 2026 amounts](/canada-proof-of-funds-2026-new-amounts-in-naira-study-permit-express-entry) |
+| Australia | AUD $29,710 (~₦30m) — [Australia requirements](/australia-student-visa-proof-of-funds-from-nigeria-2026-complete-requirements-guide) |
+| UK (London) | £1,483/month × 9 (~₦25m) — [UK student guide](/how-to-get-proof-of-funds-for-uk-student-visa-nigeria) |
 | USA | I-20 amount, typically $25,000 – $60,000 |
 
 ## Three Warnings Before You Chase the Cheapest Option
 
 1. **Low POF ≠ low scrutiny of genuineness.** Poland and Hungary refuse Nigerian applicants over weak study motivation even when funds check out.
 2. **Cheap destinations have weaker post-study work rights.** Compare the total journey, not just the entry ticket.
-3. **Every destination still verifies what you do show.** A ₦6m file gets the same [funds-parking and verification checks](/guides/how-do-embassies-verify-bank-statements-in-nigeria) as a ₦60m file.
+3. **Every destination still verifies what you do show.** A ₦6m file gets the same [funds-parking and verification checks](/how-do-embassies-verify-bank-statements-in-nigeria) as a ₦60m file.
 
 ## Whatever the Amount — Present It Properly
 

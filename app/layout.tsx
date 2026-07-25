@@ -129,9 +129,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           
           <div className="max-w-7xl mx-auto mt-16 pt-8 border-t border-white/10 flex flex-col md:flex-row justify-between items-center gap-6 text-white/60 font-medium">
             <p>&copy; {new Date().getFullYear()} Proof of Funds Nigeria</p>
-            <div className="flex gap-4">
-               <a href="tel:08103669924" className="bg-white text-[#120E00] px-6 py-2 rounded-full font-bold hover:bg-gray-200 transition-colors">Call 08103669924</a>
-            </div>
           </div>
         </footer>
         <div className="fixed bottom-6 right-6 z-[999] flex items-center gap-3 group">

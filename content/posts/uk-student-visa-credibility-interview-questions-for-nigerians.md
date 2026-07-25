@@ -28,11 +28,11 @@ The test has a name in the rules: are you a **genuine student**? Here are the qu
 
 This is where your file and your mouth must match perfectly:
 
-**"How are you funding your studies?"** — State the structure precisely: "Tuition of £16,500 — £6,000 deposit already paid, the balance from my father's account; maintenance of £9,207 held in my own GTBank account for over 28 days." Vague answers ("my family will handle it") invite the refusal. Know the [maintenance rules](/guides/how-to-get-proof-of-funds-for-uk-student-visa-nigeria) and — critically — [who is allowed to hold your funds](/guides/who-can-sponsor-your-uk-student-visa-proof-of-funds).
+**"How are you funding your studies?"** — State the structure precisely: "Tuition of £16,500 — £6,000 deposit already paid, the balance from my father's account; maintenance of £9,207 held in my own GTBank account for over 28 days." Vague answers ("my family will handle it") invite the refusal. Know the [maintenance rules](/how-to-get-proof-of-funds-for-uk-student-visa-nigeria) and — critically — [who is allowed to hold your funds](/who-can-sponsor-your-uk-student-visa-proof-of-funds).
 
-**"What does your sponsor do? What is their income?"** — The plausibility check: declared income must credibly produce the balances shown. This is the interview version of the [genuineness analysis officers run on statements](/guides/funds-parking-why-large-unexplained-deposits-get-nigerian-visas-refused).
+**"What does your sponsor do? What is their income?"** — The plausibility check: declared income must credibly produce the balances shown. This is the interview version of the [genuineness analysis officers run on statements](/funds-parking-why-large-unexplained-deposits-get-nigerian-visas-refused).
 
-**"Where did this money come from?"** — If your statement shows large recent credits, know the [source-of-funds story](/guides/source-of-funds-explanation-for-pof-loan-nigeria-samples-templates-expert-tips-2026) cold — the documents are in your file; your answer must match them.
+**"Where did this money come from?"** — If your statement shows large recent credits, know the [source-of-funds story](/source-of-funds-explanation-for-pof-loan-nigeria-samples-templates-expert-tips-2026) cold — the documents are in your file; your answer must match them.
 
 **"How will you cope with London living costs?"** — Show you know real numbers (rent ranges, transport) — awareness of costs is treated as evidence of genuine planning.
 
@@ -44,7 +44,7 @@ This is where your file and your mouth must match perfectly:
 
 **"What are your plans after the course?"** — The safe ground is a career plan that the course enables — in Nigeria or through legal routes like the Graduate visa. Never deny knowing about post-study options (that reads as coached); frame them as options, not the purpose.
 
-**"Have you been refused a visa before?"** — Disclose truthfully. A [previous refusal handled honestly](/guides/do-i-get-my-pof-money-back-if-my-visa-is-refused) is survivable; a concealed one is not.
+**"Have you been refused a visa before?"** — Disclose truthfully. A [previous refusal handled honestly](/do-i-get-my-pof-money-back-if-my-visa-is-refused) is survivable; a concealed one is not.
 
 ## How to Prepare in 48 Hours
 

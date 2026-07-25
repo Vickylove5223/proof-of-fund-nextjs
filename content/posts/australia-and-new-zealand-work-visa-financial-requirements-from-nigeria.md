@@ -22,11 +22,11 @@ No POF requirement. Your employer's nomination and your salary meeting the tempo
 
 ### Subclass 189/190/491 — points-based skilled visas
 
-The federal 189 has no funds requirement. **State nominations (190/491) are different**: several states require a **declaration of settlement funds** — commonly **AUD $20,000 – $35,000** for a single applicant, more with family. Some states take declarations at face value; others can request evidence. Treat the declared figure as money you should genuinely be able to show — [in verifiable, documented form](/guides/proof-of-funds-vs-bank-statement-vs-bank-reference-letter).
+The federal 189 has no funds requirement. **State nominations (190/491) are different**: several states require a **declaration of settlement funds** — commonly **AUD $20,000 – $35,000** for a single applicant, more with family. Some states take declarations at face value; others can request evidence. Treat the declared figure as money you should genuinely be able to show — [in verifiable, documented form](/proof-of-funds-vs-bank-statement-vs-bank-reference-letter).
 
 ### The student comparison
 
-If you're weighing work against study routes: the student visa DOES have a hard requirement — **AUD $29,710** in living costs plus tuition — covered in our [Australia student visa guide](/guides/australia-student-visa-proof-of-funds-from-nigeria-2026-complete-requirements-guide).
+If you're weighing work against study routes: the student visa DOES have a hard requirement — **AUD $29,710** in living costs plus tuition — covered in our [Australia student visa guide](/australia-student-visa-proof-of-funds-from-nigeria-2026-complete-requirements-guide).
 
 ![Reviewing visa application options](/wp-content/uploads/2025/09/visa-application-composition-with-different-flags_23-2149117806.jpg)
 
@@ -51,10 +51,10 @@ NZ student visas require **NZD $20,000/year** in living costs. Partners of worke
 3. **Landing funds** — no rule requires them, but 2–3 months of living costs (AUD/NZD $8,000–$15,000) is the difference between job-hunting calmly and desperately
 4. **Family files** — partners and children multiply both declared funds and real costs
 
-And when any of that money moves through your accounts before an application, the usual rules apply: [clean history, documented sources](/guides/funds-parking-why-large-unexplained-deposits-get-nigerian-visas-refused), banks that [verify cleanly](/guides/how-do-embassies-verify-bank-statements-in-nigeria).
+And when any of that money moves through your accounts before an application, the usual rules apply: [clean history, documented sources](/funds-parking-why-large-unexplained-deposits-get-nigerian-visas-refused), banks that [verify cleanly](/how-do-embassies-verify-bank-statements-in-nigeria).
 
 ## Structuring for the Southern Routes
 
-POF NG structures settlement-fund evidence for Australian state nominations and complete financial files for the student routes into both countries — correct amounts, verifiable banks, full documentation. If you're choosing between routes, our [comparison of who requires what](/guides/countries-with-the-lowest-proof-of-funds-requirements-for-student-visas-2026) is the place to start.
+POF NG structures settlement-fund evidence for Australian state nominations and complete financial files for the student routes into both countries — correct amounts, verifiable banks, full documentation. If you're choosing between routes, our [comparison of who requires what](/countries-with-the-lowest-proof-of-funds-requirements-for-student-visas-2026) is the place to start.
 
 **Message us on WhatsApp at 08103669924**, or size your route on the [proof of funds calculator](/proof-of-fund-calculator).

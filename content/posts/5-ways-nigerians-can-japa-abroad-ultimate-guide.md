@@ -69,9 +69,9 @@ Embassies and immigration offices demand it to ensure applicants will not become
 
 Meeting this requirement can be challenging. Many applicants struggle to gather the required amount in their personal accounts for the specified duration.
 
-This is a common reason [why visa applications get rejected](/guides/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it). Fortunately, services exist to assist with this process.
+This is a common reason [why visa applications get rejected](/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it). Fortunately, services exist to assist with this process.
 
-Companies like POF NG connect applicants with licensed financial partners who can help arrange the necessary funds and provide verifiable, embassy-accepted documents. To better understand the mechanics, it’s helpful to [learn how Proof of Funds works in Nigeria](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) through a trusted agent.
+Companies like POF NG connect applicants with licensed financial partners who can help arrange the necessary funds and provide verifiable, embassy-accepted documents. To better understand the mechanics, it’s helpful to [learn how Proof of Funds works in Nigeria](/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) through a trusted agent.
 
 ## Conclusion
 
@@ -81,4 +81,4 @@ The key to success lies in thorough research, early preparation, and ensuring al
 
 By planning carefully, you can navigate the process and successfully begin your new chapter abroad.
 
-For those ready to explore global opportunities, you can start by researching some of the [best countries for Nigerians to work abroad](/guides/24-best-countries-for-nigerians-to-work-abroad).
+For those ready to explore global opportunities, you can start by researching some of the [best countries for Nigerians to work abroad](/24-best-countries-for-nigerians-to-work-abroad).

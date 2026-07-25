@@ -69,7 +69,7 @@ A strong Proof of Funds should always have a comfortable buffer. If your require
 
 This demonstrates to the visa officer that you will not become a public burden when you arrive in their country. _Internal Link: Want to know exactly how to calculate your funds?
 
-Read our complete guide on [Proof of Funds for Study Visas](/guides/ultimate-guide-to-proof-of-funds-for-student-visas-how-to-avoid-costly-mistakes)._
+Read our complete guide on [Proof of Funds for Study Visas](/ultimate-guide-to-proof-of-funds-for-student-visas-how-to-avoid-costly-mistakes)._
 
 Don't Have the Personal Cash or Assets? We Can Help!
 

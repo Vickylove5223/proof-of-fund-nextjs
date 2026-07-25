@@ -50,13 +50,13 @@ Now, let’s convert this to Nigerian Naira (NGN). Assuming an exchange rate of 
 
 **CAD $38,635 x 1,100 NGN/CAD = ₦42,498,500**
 
-5 million in your account. You can use our guide to [calculate the exact amount you need](/guides/how-to-calculate-proof-of-funds-for-canada-student-visa) for your specific situation.
+5 million in your account. You can use our guide to [calculate the exact amount you need](/how-to-calculate-proof-of-funds-for-canada-student-visa) for your specific situation.
 
 What Documents Are Accepted as Proof of Funds? ----------------------------------------------
 
 The Canadian embassy is very specific about the documents they accept. Simply having the money isn’t enough; you need the right paperwork to prove it.
 
-Here are the most common forms of [acceptable proof of funds](/guides/what-is-acceptable-proof-of-funds):
+Here are the most common forms of [acceptable proof of funds](/what-is-acceptable-proof-of-funds):
 
 *   **Bank Statements:** Your personal bank account statements for the past four to six months.
 *   **Guaranteed Investment Certificate (GIC):** A GIC from a participating Canadian financial institution is a highly recommended method.

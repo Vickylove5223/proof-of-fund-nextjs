@@ -80,7 +80,7 @@ This is where many applicants face challenges. Are you worried about meeting thi
 
 We can help.
 
-At POF NG, we specialize in connecting you with reliable finance partners to secure verifiable and embassy-accepted Proof of Funds. We understand the specific [proof of funds requirements](/guides/learn-about-proof-of-funds-requirements-in-nigeria) and ensure your documentation is perfect, preventing common mistakes that lead to rejection.
+At POF NG, we specialize in connecting you with reliable finance partners to secure verifiable and embassy-accepted Proof of Funds. We understand the specific [proof of funds requirements](/learn-about-proof-of-funds-requirements-in-nigeria) and ensure your documentation is perfect, preventing common mistakes that lead to rejection.
 
 Our process is fast, secure, and designed to give you peace of mind.
 
@@ -110,7 +110,7 @@ Many promising applications are rejected due to avoidable errors. The most commo
 
 The GTE is a personal statement where you must convince the immigration officer that you intend to stay in Australia temporarily for your studies.
 
-A rejection can be heartbreaking and costly. To learn more about how to avoid these pitfalls, especially those related to financial proof, you can read our guide on [why visa applications get rejected because of POF](/guides/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it).
+A rejection can be heartbreaking and costly. To learn more about how to avoid these pitfalls, especially those related to financial proof, you can read our guide on [why visa applications get rejected because of POF](/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it).
 
 Your Australian Dream Awaits
 ----------------------------

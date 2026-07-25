@@ -24,14 +24,14 @@ Here's how each works for Nigerians in 2026. (Figures update annually — always
 ## Norway — the strictest mechanics
 
 *   **Amount:** around **NOK 150,000+ per year** (~₦21m+) — the figure tracks the state loan-fund rate and rises annually
-*   **The catch:** money must usually be transferred to a **Norwegian bank account** — your university's deposit account for new arrivals — not merely shown in a Nigerian statement. This mirrors the [Dutch transfer system](/guides/proof-of-funds-for-netherlands-student-visa-from-nigeria): no statement forensics, but the transfer must actually complete
-*   **Plan the wire early:** the CBN Form A process plus a Norwegian deposit account takes weeks — same mechanics as the [GIC wire from Nigeria](/guides/how-to-open-a-gic-account-from-nigeria-step-by-step)
+*   **The catch:** money must usually be transferred to a **Norwegian bank account** — your university's deposit account for new arrivals — not merely shown in a Nigerian statement. This mirrors the [Dutch transfer system](/proof-of-funds-for-netherlands-student-visa-from-nigeria): no statement forensics, but the transfer must actually complete
+*   **Plan the wire early:** the CBN Form A process plus a Norwegian deposit account takes weeks — same mechanics as the [GIC wire from Nigeria](/how-to-open-a-gic-account-from-nigeria-step-by-step)
 *   Official: [UDI study permit page](https://www.udi.no/en/want-to-apply/studies/)
 
 ## Sweden — the monthly-rate system
 
 *   **Amount:** about **SEK 10,584/month** for the permit period (10 months ≈ SEK 105,840 ≈ ₦16m), plus family supplements
-*   **How shown:** your own bank statements; the Migration Agency wants the funds **in your name** — parental funds need a documented gift transfer first, with the seasoning that implies (see [who can hold your funds and how to move them properly](/guides/who-can-sponsor-your-uk-student-visa-proof-of-funds) for the same logic applied to the UK)
+*   **How shown:** your own bank statements; the Migration Agency wants the funds **in your name** — parental funds need a documented gift transfer first, with the seasoning that implies (see [who can hold your funds and how to move them properly](/who-can-sponsor-your-uk-student-visa-proof-of-funds) for the same logic applied to the UK)
 *   Official: [Migrationsverket student page](https://www.migrationsverket.se/en)
 
 ## Denmark — the establishment-account route
@@ -51,12 +51,12 @@ Here's how each works for Nigerians in 2026. (Figures update annually — always
 | Sweden | ~SEK 105,840+ | Your account, your name | High on ownership |
 | Denmark | ~DKK 68,000 | Mixed / tuition receipts | Moderate |
 
-For how these stack against the rest of Europe, see [countries with the lowest proof of funds requirements](/guides/countries-with-the-lowest-proof-of-funds-requirements-for-student-visas-2026).
+For how these stack against the rest of Europe, see [countries with the lowest proof of funds requirements](/countries-with-the-lowest-proof-of-funds-requirements-for-student-visas-2026).
 
 ## The Three Nigerian-Specific Traps
 
-1. **Currency mathematics.** Four different currencies, all quoted annually — convert with a 10–15% buffer, the same [volatility logic that applies to naira-held funds anywhere](/guides/domiciliary-account-vs-naira-account-for-proof-of-funds).
-2. **Ownership rules.** Sweden (and Finland in practice) want funds in *your* name — start family transfers months early so the money is seasoned and [its source documented](/guides/source-of-funds-explanation-for-pof-loan-nigeria-samples-templates-expert-tips-2026).
+1. **Currency mathematics.** Four different currencies, all quoted annually — convert with a 10–15% buffer, the same [volatility logic that applies to naira-held funds anywhere](/domiciliary-account-vs-naira-account-for-proof-of-funds).
+2. **Ownership rules.** Sweden (and Finland in practice) want funds in *your* name — start family transfers months early so the money is seasoned and [its source documented](/source-of-funds-explanation-for-pof-loan-nigeria-samples-templates-expert-tips-2026).
 3. **Transfer-based systems reward preparation.** For Norway and Denmark, the visa risk isn't verification — it's your wire arriving late. Begin the FX process the day you accept admission.
 
 ## Getting Nordic-Ready

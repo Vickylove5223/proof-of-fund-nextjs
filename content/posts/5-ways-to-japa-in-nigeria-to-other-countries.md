@@ -37,7 +37,7 @@ This pathway is highly attractive but has one major requirement: Proof of Funds 
 
 This financial proof is non-negotiable and a common reason for visa denials. Properly preparing your financial documents is essential for a successful application.
 
-For instance, you must know [how to get proof of funds for studying in Canada](/guides/get-proof-of-funds-for-studying-in-canada-easy-step-by-step-guide) before starting your application.
+For instance, you must know [how to get proof of funds for studying in Canada](/get-proof-of-funds-for-studying-in-canada-easy-step-by-step-guide) before starting your application.
 
 ![A diverse group of international students, including a Nigerian student, smiling and walking on a university campus in Canada. The architecture is modern, with autumn leaves on the ground, visually representing the study abroad pathway.](/wp-content/uploads/2025/10/ai-generated-j93lfi203q.jpg)
 
@@ -83,7 +83,7 @@ These services help you meet embassy requirements without liquidating your asset
 
 ![A close-up, photorealistic shot of an official bank statement document being stamped 'VERIFIED' in green ink. The document clearly shows a significant account balance, symbolizing a successful proof of funds verification for a visa application.](/wp-content/uploads/2025/10/ai-generated-lrpp4orx5t.jpg)
 
-When seeking such services, it is crucial to work with trusted providers. According to industry analysis, some of the [best proof of funds providers in Nigeria](/guides/10-best-proof-of-funds-providers-in-nigeria) offer transparent, secure, and embassy-acceptable documentation.
+When seeking such services, it is crucial to work with trusted providers. According to industry analysis, some of the [best proof of funds providers in Nigeria](/10-best-proof-of-funds-providers-in-nigeria) offer transparent, secure, and embassy-acceptable documentation.
 
 A top-tier agent ensures your POF is 100% verifiable, whether the embassy confirms it online or by contacting the bank directly, giving you peace of mind during your application process.
 

@@ -79,7 +79,7 @@ Assuming an exchange rate of **1 CAD = 1,100 NGN**:
 *   **Tuition Fee:** CAD $18,000 (approx. 19,800,000 NGN)
 *   **Total Required POF:** CAD $42,635 (approx. **46,898,500 NGN**)
 
-Need help with your specific calculation? You can use our handy [guide on how to calculate proof of funds for a Canada student visa](/guides/how-to-calculate-proof-of-funds-for-canada-student-visa).
+Need help with your specific calculation? You can use our handy [guide on how to calculate proof of funds for a Canada student visa](/how-to-calculate-proof-of-funds-for-canada-student-visa).
 
 Common Rejection Reasons and How to Avoid Them
 ----------------------------------------------

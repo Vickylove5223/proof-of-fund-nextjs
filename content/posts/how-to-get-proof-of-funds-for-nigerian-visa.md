@@ -84,12 +84,12 @@ Legitimate sources include:
 *   A gift from a sponsor (e.g., parent or spouse) with a gift deed
 *   Educational funds or sponsorship
 
-Our partners ensure that the transaction history on your statement appears natural and meets embassy guidelines. For more details on how this works, you can read our [step-by-step guide on how POF works](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide).
+Our partners ensure that the transaction history on your statement appears natural and meets embassy guidelines. For more details on how this works, you can read our [step-by-step guide on how POF works](/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide).
 
 Top Proof of Funds Providers in Nigeria
 ---------------------------------------
 
-When choosing a provider, it's crucial to work with a reliable and transparent company. Based on customer reviews and reliability, here are some of the [best proof of funds providers in Nigeria](/guides/10-best-proof-of-funds-providers-in-nigeria):
+When choosing a provider, it's crucial to work with a reliable and transparent company. Based on customer reviews and reliability, here are some of the [best proof of funds providers in Nigeria](/10-best-proof-of-funds-providers-in-nigeria):
 
 1.  **POF NG (Proof of Fund NG):** As the top-rated agent, we guarantee fast, secure, and embassy-acceptable documents with professional support from start to finish.
 2.  **Veri Funds:** A trusted name for handling individual and business financial proof.

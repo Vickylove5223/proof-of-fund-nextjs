@@ -102,7 +102,7 @@ Our process is clear:
 *   **We connect you with partners:** We link you to licensed financial companies that provide authentic proof of funds.
 *   **You get verifiable documents:** You receive official bank letters and statements that meet all of Canada’s rules.
 
-With our help, you can be sure your financial documents are 100% verifiable and accepted by the embassy. To learn more, check out our [complete guide on getting proof of funds](/guides/how-to-get-proof-of-funds-in-nigeria-a-complete-guide).
+With our help, you can be sure your financial documents are 100% verifiable and accepted by the embassy. To learn more, check out our [complete guide on getting proof of funds](/how-to-get-proof-of-funds-in-nigeria-a-complete-guide).
 
 Thousands of Nigerians successfully immigrate to Canada every year. With the right preparation, you can be one of them.
 

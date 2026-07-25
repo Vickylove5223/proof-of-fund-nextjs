@@ -42,7 +42,7 @@ Confirm live figures on the official IND study page and [Study in NL](https://ww
 1. **Direct transfer to the university** — cleanest and most common. Funds transferred from Nigeria (or a relative abroad) to the university's designated account.
 2. **Own bank statement** — where accepted, a statement showing the full amount; recent history matters less than for UK/Canada but the balance must be present and verifiable.
 3. **Sponsor guarantee** — a parent or sponsor's statement plus a signed financial guarantee form; some universities require the sponsor's funds to be transferred anyway.
-4. **Scholarship or loan letters** — Orange Knowledge/OTS and university scholarships offset the requirement euro-for-euro, similar to how [scholarships interact with proof of funds for Italy](/guides/does-scholarship-replace-proof-of-funds-for-italy-student-visa).
+4. **Scholarship or loan letters** — Orange Knowledge/OTS and university scholarships offset the requirement euro-for-euro, similar to how [scholarships interact with proof of funds for Italy](/does-scholarship-replace-proof-of-funds-for-italy-student-visa).
 
 ## Common Nigerian Applicant Mistakes
 
@@ -53,7 +53,7 @@ Confirm live figures on the official IND study page and [Study in NL](https://ww
 
 ## How the Netherlands Compares
 
-Netherlands sits in the middle of the European pack: more expensive than [Germany's blocked-account route](/guides/proof-of-funds-germany-student-visa-nigeria) in tuition, but with a faster, university-driven visa process and strong post-study work rights. See how it stacks against [Ireland](/guides/proof-of-funds-for-ireland-student-visa-from-nigeria-2026-complete-requirements-guide) and [Portugal](/guides/proof-of-funds-for-portugal-student-visa-from-nigeria-2026-complete-guide) in our country guides, or the full comparison in [countries with the lowest proof of funds requirements](/guides/countries-with-the-lowest-proof-of-funds-requirements-for-student-visas-2026).
+Netherlands sits in the middle of the European pack: more expensive than [Germany's blocked-account route](/proof-of-funds-germany-student-visa-nigeria) in tuition, but with a faster, university-driven visa process and strong post-study work rights. See how it stacks against [Ireland](/proof-of-funds-for-ireland-student-visa-from-nigeria-2026-complete-requirements-guide) and [Portugal](/proof-of-funds-for-portugal-student-visa-from-nigeria-2026-complete-guide) in our country guides, or the full comparison in [countries with the lowest proof of funds requirements](/countries-with-the-lowest-proof-of-funds-requirements-for-student-visas-2026).
 
 ## Need the Funds Structured?
 

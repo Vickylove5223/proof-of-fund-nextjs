@@ -84,7 +84,7 @@ Other Trusted POF Providers in Nigeria
 
 While we are confident in our industry-leading service, we believe in transparency. There are several reliable companies offering POF services in the country.
 
-Based on customer trust, speed, and reliability, here are some of the [top Proof of Funds providers in Nigeria](/guides/10-best-proof-of-funds-providers-in-nigeria):
+Based on customer trust, speed, and reliability, here are some of the [top Proof of Funds providers in Nigeria](/10-best-proof-of-funds-providers-in-nigeria):
 
 1.  **POF NG (Proof of Funds Nigeria)**
 2.  Davcrest Finance Ltd
@@ -107,7 +107,7 @@ We understand that visa applications are time-sensitive. Our process is optimize
 
 Yes, 100%. All funds are placed in real, verifiable accounts at registered financial institutions.
 
-Whether the embassy calls the bank or checks through other channels, the information will be confirmed as authentic. You can [learn more about how Proof of Funds works](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) on our website.
+Whether the embassy calls the bank or checks through other channels, the information will be confirmed as authentic. You can [learn more about how Proof of Funds works](/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) on our website.
 
 Conclusion: Secure Your Visa with Confidence
 --------------------------------------------

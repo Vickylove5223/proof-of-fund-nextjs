@@ -63,7 +63,7 @@ Ensure you include:
 Why a Deed of Gift is a Great Option
 ------------------------------------
 
-** Normally, embassies want to see the history of your funds over a 4 to 6-month period. However, if your father gives you ₦20 million today, and you back it up with a properly notarized Deed of Gift, you can literally submit your Canada PR or [Study Visa application](/guides/ultimate-guide-to-proof-of-funds-for-student-visas-how-to-avoid-costly-mistakes) next week.
+** Normally, embassies want to see the history of your funds over a 4 to 6-month period. However, if your father gives you ₦20 million today, and you back it up with a properly notarized Deed of Gift, you can literally submit your Canada PR or [Study Visa application](/ultimate-guide-to-proof-of-funds-for-student-visas-how-to-avoid-costly-mistakes) next week.
 
 It legally explains away the sudden "lump sum" in your account.
 

@@ -49,7 +49,7 @@ This increase reflects the rising cost of living in Canada and ensures that stud
 
 At an example exchange rate of NGN 1,200 per CAD (please note this rate is for illustrative purposes and changes daily), the total amount in Naira would be approximately **₦49,000,000**. Always use the most current exchange rate when calculating your POF in Naira.
 
-For the full breakdown of the new amounts, see our guide on the [Canada proof of funds 2026 new amounts in naira](/guides/canada-proof-of-funds-2026-new-amounts-in-naira-study-permit-express-entry).
+For the full breakdown of the new amounts, see our guide on the [Canada proof of funds 2026 new amounts in naira](/canada-proof-of-funds-2026-new-amounts-in-naira-study-permit-express-entry).
 
 ### Proof of Funds for Skilled Immigrants (Express Entry)
 
@@ -89,7 +89,7 @@ You don't have to let a temporary lack of liquid cash stop your Canadian dream. 
 
 At POF NG, we connect you with verified financial partners who can help arrange the required funds in your account. We ensure you receive authentic bank statements and confirmation letters that are 100% verifiable and accepted by the Canadian embassy.
 
-You can learn more about [how proof of funds works](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) with our secure process. We are committed to providing transparent and reliable solutions.
+You can learn more about [how proof of funds works](/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) with our secure process. We are committed to providing transparent and reliable solutions.
 
 Why Choose POF NG for Your Canada Application? Your Trusted Partner
 -------------------------------------------------------------------

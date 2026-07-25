@@ -91,7 +91,7 @@ This is where a reliable service can make all the difference and prevent an unne
 
 At POF NG, we specialize in helping travelers like you meet their financial proof requirements without stress. We connect you with trusted financial partners who can provide authentic and verifiable Proof of Funds.
 
-The process is simple: funds are temporarily placed in an account, and you receive the official documentation needed for your application. You can [learn how Proof of Fund (POF) works](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) on our website.
+The process is simple: funds are temporarily placed in an account, and you receive the official documentation needed for your application. You can [learn how Proof of Fund (POF) works](/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) on our website.
 
 Our service is fast, secure, and accepted by embassies. We ensure that all documents are 100% verifiable, giving you the confidence you need for a successful application. to ensure you have all your documents in order.
 

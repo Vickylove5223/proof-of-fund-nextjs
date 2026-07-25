@@ -57,7 +57,7 @@ This is one of the most critical questions in any Canada interview at the embass
 
 This is where your Proof of Funds (POF) comes in.
 
-**How to Answer:** Confidently explain your financial plan. Refer to your bank statements and other financial documents. If you need assistance, [getting your Proof of Funds for Canada](/guides/get-proof-of-funds-for-studying-in-canada-easy-step-by-step-guide) through a trusted agent like POF NG ensures your documents are authentic and verifiable, giving the officer confidence in your application.
+**How to Answer:** Confidently explain your financial plan. Refer to your bank statements and other financial documents. If you need assistance, [getting your Proof of Funds for Canada](/get-proof-of-funds-for-studying-in-canada-easy-step-by-step-guide) through a trusted agent like POF NG ensures your documents are authentic and verifiable, giving the officer confidence in your application.
 
 5\. What are your ties to Nigeria?
 
@@ -109,7 +109,7 @@ This is the moment of truth. The officer will want to see the bank statements an
 
 They must be clear, legitimate, and verifiable. Any doubt about the authenticity of your Proof of Funds can lead to a refusal.
 
-**How to Answer:** Have all your documents neatly organized and ready to present. Working with us at [POF NG](/) ensures that your financial statements are 100% verifiable by the embassy, helping you [avoid common mistakes](/guides/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it) that lead to visa rejection. For specific details about the Canadian mission in Nigeria, visit the official [High Commission of Canada in Nigeria](https://www.international.gc.ca/country-pays/nigeria/) website. You can also learn more about global migration trends from organizations like the [International Organization for Migration](https://www.iom.int/).
+**How to Answer:** Have all your documents neatly organized and ready to present. Working with us at [POF NG](/) ensures that your financial statements are 100% verifiable by the embassy, helping you [avoid common mistakes](/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it) that lead to visa rejection. For specific details about the Canadian mission in Nigeria, visit the official [High Commission of Canada in Nigeria](https://www.international.gc.ca/country-pays/nigeria/) website. You can also learn more about global migration trends from organizations like the [International Organization for Migration](https://www.iom.int/).
 
 Conclusion: Your Key to a Successful Interview
 ----------------------------------------------

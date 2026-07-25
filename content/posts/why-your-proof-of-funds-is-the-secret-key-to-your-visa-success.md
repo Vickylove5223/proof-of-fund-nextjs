@@ -40,7 +40,7 @@ The "believability" of your account is key. 7 million, a consular officer will a
 
 Your income must logically support the cost of your trip. If your salary can't cover the flight ticket, you need a solid explanation or a specialized financial structure.
 
-_Related: [Learn more about Proof of Funds for Study Visas](/guides/ultimate-guide-to-proof-of-funds-for-student-visas-how-to-avoid-costly-mistakes)_
+_Related: [Learn more about Proof of Funds for Study Visas](/ultimate-guide-to-proof-of-funds-for-student-visas-how-to-avoid-costly-mistakes)_
 
 The Danger of the Exchange Rate Fluctuations
 --------------------------------------------

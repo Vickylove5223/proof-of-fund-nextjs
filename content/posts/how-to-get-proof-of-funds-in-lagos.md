@@ -47,7 +47,7 @@ You simply pay a small service fee for the arrangement, saving you the stress of
 
 ### How Does the Online POF Process Work?
 
-We've made the process incredibly straightforward. Here’s a simple breakdown of [how it works](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide):
+We've made the process incredibly straightforward. Here’s a simple breakdown of [how it works](/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide):
 
 1.  **Tell Us What You Need:** You contact us with the amount required by your school or embassy and the duration the funds need to be shown.
 2.  **Provide Basic Documents:** We will ask for a few simple documents to get started.
@@ -58,7 +58,7 @@ We've made the process incredibly straightforward. Here’s a simple breakdown o
 
 The requirements are minimal and designed to make the process quick. Typically, all you need is a valid ID (like a Passport or NIN), your contact details, and the document specifying your visa or school's financial requirement.
 
-You can see a full breakdown of the [POF requirements](/guides/learn-about-proof-of-funds-requirements-in-nigeria) on our website.
+You can see a full breakdown of the [POF requirements](/learn-about-proof-of-funds-requirements-in-nigeria) on our website.
 
 \[IMAGE\_2\]
 
@@ -89,7 +89,7 @@ When choosing a provider, trust and reliability are key. Based on customer satis
 *   **Verifund Africa:** Handles proof of funds for both individuals and small businesses.
 *   **SureFund Nigeria:** Known for flexible short-term funding and verification letters.
 
-For more options, you can check out a comprehensive list of the [10 best proof of funds providers in Nigeria](/guides/10-best-proof-of-funds-providers-in-nigeria).
+For more options, you can check out a comprehensive list of the [10 best proof of funds providers in Nigeria](/10-best-proof-of-funds-providers-in-nigeria).
 
 \[IMAGE\_3\]
 

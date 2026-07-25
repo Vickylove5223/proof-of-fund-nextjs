@@ -32,7 +32,7 @@ Basic care-assistant roles are the hardest to sponsor now; qualified clinical ro
 
 ## The Money You Must Show
 
-The Health and Care Worker route uses the same maintenance rule as the wider Skilled Worker visa: **£1,270 held for 28 consecutive days**, unless your sponsor certifies maintenance on your Certificate of Sponsorship. The full mechanics — the one-day-dip trap, naira-account buffers, and the sponsor-certification shortcut — are in our dedicated guide to the [UK Skilled Worker £1,270 maintenance rule](/guides/uk-skilled-worker-visa-maintenance-funds-1270-rule-from-nigeria).
+The Health and Care Worker route uses the same maintenance rule as the wider Skilled Worker visa: **£1,270 held for 28 consecutive days**, unless your sponsor certifies maintenance on your Certificate of Sponsorship. The full mechanics — the one-day-dip trap, naira-account buffers, and the sponsor-certification shortcut — are in our dedicated guide to the [UK Skilled Worker £1,270 maintenance rule](/uk-skilled-worker-visa-maintenance-funds-1270-rule-from-nigeria).
 
 Applicants switching in-country who have held UK leave for 12+ months are exempt from showing maintenance entirely.
 
@@ -42,8 +42,8 @@ Applicants switching in-country who have held UK leave for 12+ months are exempt
 
 1. **Verify the sponsor before you pay anyone anything.** Licence revocations mid-application are the horror story of this route. No legitimate employer charges you for a CoS — paying for sponsorship is both a scam indicator and a rule breach.
 2. **Sequence your registrations.** For nursing: IELTS/OET → CBT → CoS → visa → OSCE in the UK. Each stage has its own costs — budget ₦4m–₦8m for the full journey.
-3. **Keep your maintenance funds clean.** The same [funds-parking rules](/guides/funds-parking-why-large-unexplained-deposits-get-nigerian-visas-refused) apply to worker files: seasoned funds, documented sources, a [recognised bank](/guides/top-3-banks-for-visa-proof-of-funds-in-nigeria-and-how-to-get-pof-without-personal-cash).
-4. **If the UK door stays narrow, compare doors.** Health workers are on shortage lists across [other destinations easier than the UK in 2026](/guides/10-visa-routes-that-got-easier-for-nigerians-in-2026) — Germany, Finland, and New Zealand actively recruit.
+3. **Keep your maintenance funds clean.** The same [funds-parking rules](/funds-parking-why-large-unexplained-deposits-get-nigerian-visas-refused) apply to worker files: seasoned funds, documented sources, a [recognised bank](/top-3-banks-for-visa-proof-of-funds-in-nigeria-and-how-to-get-pof-without-personal-cash).
+4. **If the UK door stays narrow, compare doors.** Health workers are on shortage lists across [other destinations easier than the UK in 2026](/10-visa-routes-that-got-easier-for-nigerians-in-2026) — Germany, Finland, and New Zealand actively recruit.
 
 ## Get the Financial Side Handled
 

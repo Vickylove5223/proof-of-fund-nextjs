@@ -24,7 +24,7 @@ What is Proof of Funds and Why is it Crucial? ----------------------------------
 
 Proof of Funds is official documentation, like a bank statement or letter, that shows you have sufficient money to cover your tuition, living expenses, and travel costs. au/visas/getting-a-visa/visa-listing/student-500/financial-capacity) require this to ensure you won't become a financial burden during your stay.
 
-Essentially, it’s your ticket to proving financial stability. Understanding [how Proof of Funds works](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) is the first step toward a successful application.
+Essentially, it’s your ticket to proving financial stability. Understanding [how Proof of Funds works](/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) is the first step toward a successful application.
 
 Using a specialized agent can simplify this process, especially if you don't have the required amount readily available in your personal account.
 
@@ -63,7 +63,7 @@ Davcrest Consult is another well-regarded name in the industry. They offer a ran
 
 They are known for their professionalism and experience in handling various types of visa applications.
 
-Clients often choose Davcrest for its established reputation and reliability. While their process might take slightly longer than others, their attention to detail ensures that all documentation is compliant with embassy requirements, helping you [avoid common mistakes that lead to rejection](/guides/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it).
+Clients often choose Davcrest for its established reputation and reliability. While their process might take slightly longer than others, their attention to detail ensures that all documentation is compliant with embassy requirements, helping you [avoid common mistakes that lead to rejection](/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it).
 
 ### 3 Veri Funds
 

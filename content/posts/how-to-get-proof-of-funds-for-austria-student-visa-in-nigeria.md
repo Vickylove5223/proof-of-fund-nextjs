@@ -81,7 +81,7 @@ This is where a professional service can provide a solution.
 
 At POF NG, we connect you with trusted financial partners who can help you meet the embassy’s requirements. Our service ensures you get authentic, verifiable financial documents that comply with Austrian visa standards.
 
-To understand more about this process, you can [learn how Proof of Funds works in Nigeria](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) through our detailed guide.
+To understand more about this process, you can [learn how Proof of Funds works in Nigeria](/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) through our detailed guide.
 
 \[IMAGE: A Nigerian student looking confident while reviewing their visa application documents with a financial advisor.\]
 
@@ -95,7 +95,7 @@ A visa rejection can be heartbreaking, and POF issues are a common cause. Here a
 *   **Inauthentic Documents:** Never use fake or altered bank statements. Embassies have strict verification processes.
 *   **Unclear Source of Funds:** Be prepared to explain where the money came from (e.g., salary, sale of property, educational savings).
 
-Understanding these pitfalls is the first step to avoiding them. You can read more about [why visa applications get rejected because of POF](/guides/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it) and how to prevent it.
+Understanding these pitfalls is the first step to avoiding them. You can read more about [why visa applications get rejected because of POF](/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it) and how to prevent it.
 
 \[IMAGE: A close-up of a visa application document with a red 'rejected' stamp, highlighting common mistakes to avoid.\]
 

@@ -25,7 +25,7 @@ This is arguably the most popular pathway for young Nigerians. The UK is home to
 
 The process generally involves securing admission into a UK institution, receiving a Confirmation of Acceptance for Studies (CAS), and then applying for a Student Visa.
 
-A critical part of this application is proving you have enough money to pay for your course fees and living expenses. This is known as [Proof of Funds (POF)](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide).
+A critical part of this application is proving you have enough money to pay for your course fees and living expenses. This is known as [Proof of Funds (POF)](/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide).
 
 Under the UK's student visa rules, these funds must be held for a specific period, typically 28 consecutive days. Failing to meet this requirement is a common reason for visa refusal.
 
@@ -74,7 +74,7 @@ This is where we come in. At POF NG, we specialize in helping applicants secure 
 
 We connect you with trusted financial partners who can ensure your bank statements meet the strict requirements set by UKVI. We understand the rules, the timing, and what the embassy looks for, taking the stress and uncertainty out of the process.
 
-Don’t let a simple documentation error derail your dream. You can learn more about [common POF mistakes and how to avoid them](/guides/common-mistakes-in-28-day-proof-of-funds-for-uk-visas-and-how-to-avoid-them) on our blog.
+Don’t let a simple documentation error derail your dream. You can learn more about [common POF mistakes and how to avoid them](/common-mistakes-in-28-day-proof-of-funds-for-uk-visas-and-how-to-avoid-them) on our blog.
 
 Conclusion: Your UK Dream is Within Reach
 -----------------------------------------

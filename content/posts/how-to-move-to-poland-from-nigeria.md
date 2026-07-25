@@ -59,7 +59,7 @@ While specific requirements can vary, here is a general checklist:
 Proving Financial Stability: The Proof of Funds (POF) Hurdle
 ------------------------------------------------------------
 
-One of the most important requirements for a Polish visa is proving you have enough money to support yourself. This is known as [Proof of Sufficient Funds (POF)](/guides/what-is-proof-of-sufficient-funds-in-nigeria).
+One of the most important requirements for a Polish visa is proving you have enough money to support yourself. This is known as [Proof of Sufficient Funds (POF)](/what-is-proof-of-sufficient-funds-in-nigeria).
 
 The Polish authorities need assurance that you won’t become a financial burden on their state.
 

@@ -23,7 +23,7 @@ Whether you’re JAPAing for study, work, or family reasons, you’ll need a POF
 
 ### **Here is the List of Banks That You can Use for Proof of Funds in Nigeria**
 
-Keep in mind that the interest rates may vary slightly depending on the bank and you can't directly get funds from any of the banks as they don't provide Proof of Fund themselves, but you can indirectly fund  the banks account through a finance or micro finance, or enterprise businesses, [learn more here](/guides/how-to-get-proof-of-funds-in-nigeria-a-complete-guide)
+Keep in mind that the interest rates may vary slightly depending on the bank and you can't directly get funds from any of the banks as they don't provide Proof of Fund themselves, but you can indirectly fund  the banks account through a finance or micro finance, or enterprise businesses, [learn more here](/how-to-get-proof-of-funds-in-nigeria-a-complete-guide)
 
 Bank Name
 

@@ -34,7 +34,7 @@ It doesn't matter that the money is "real." What matters is whether it is **genu
 
 | Destination | How long funds should sit ("seasoning") |
 | --- | --- |
-| UK (student) | 28 consecutive days minimum — see the [28-day rule mistakes guide](/guides/common-mistakes-in-28-day-proof-of-funds-for-uk-visas-and-how-to-avoid-them) |
+| UK (student) | 28 consecutive days minimum — see the [28-day rule mistakes guide](/common-mistakes-in-28-day-proof-of-funds-for-uk-visas-and-how-to-avoid-them) |
 | Canada (study permit) | 4–6 months of history strongly preferred |
 | USA | No fixed rule, but 6-month statements are reviewed at interview |
 | Schengen | 3–6 months of consistent history |
@@ -45,16 +45,16 @@ It doesn't matter that the money is "real." What matters is whether it is **genu
 Large inflows are not automatically fatal — **undocumented** large inflows are. If you sold land, received a contract payment, got a gift from a parent, or liquidated an investment:
 
 1. **Keep the paper trail**: deed of sale, contract invoice, investment redemption letter, or a signed gift deed.
-2. **Write a source of funds letter** explaining each major credit. We have [templates and samples for source of funds explanations here](/guides/source-of-funds-explanation-for-pof-loan-nigeria-samples-templates-expert-tips-2026).
-3. **Match the narration**: ask the sender to use a clear transfer narration — our guide on the [12 best narrations for proof of funds](/guides/12-best-narration-for-proof-of-funds-in-nigeria) shows what works.
+2. **Write a source of funds letter** explaining each major credit. We have [templates and samples for source of funds explanations here](/source-of-funds-explanation-for-pof-loan-nigeria-samples-templates-expert-tips-2026).
+3. **Match the narration**: ask the sender to use a clear transfer narration — our guide on the [12 best narrations for proof of funds](/12-best-narration-for-proof-of-funds-in-nigeria) shows what works.
 4. **Let it season**: where possible, complete large transfers 3–6 months before applying.
-5. **Never backdate anything.** The [consequences of fake or backdated statements](/guides/consequences-of-fake-proof-of-funds-or-backdated-bank-statements-for-visa-applications-from-nigeria-2026) include 10-year bans.
+5. **Never backdate anything.** The [consequences of fake or backdated statements](/consequences-of-fake-proof-of-funds-or-backdated-bank-statements-for-visa-applications-from-nigeria-2026) include 10-year bans.
 
 ## What If You Simply Don't Have Time to Season Funds?
 
 This is exactly the problem professional proof-of-funds services exist to solve legitimately. Instead of parking borrowed cash into your personal account days before applying, a proper POF provider funds a top-tier bank account under a lien, builds compliant documentation (statements plus official bank letters), and where the timeline allows, creates aged history that matches embassy expectations.
 
-Learn how this works in our guide on [how proof of fund (POF) services work in Nigeria](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide), and compare options among the [10 best proof of funds providers in Nigeria](/guides/10-best-proof-of-funds-providers-in-nigeria).
+Learn how this works in our guide on [how proof of fund (POF) services work in Nigeria](/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide), and compare options among the [10 best proof of funds providers in Nigeria](/10-best-proof-of-funds-providers-in-nigeria).
 
 ## Key Takeaway
 

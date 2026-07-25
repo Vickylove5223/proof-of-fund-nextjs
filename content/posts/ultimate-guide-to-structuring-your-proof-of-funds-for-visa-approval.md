@@ -42,7 +42,7 @@ If your regular salary is ₦200,000 a month, and suddenly ₦15 million lands i
 
 Attach documentary evidence, such as land sale receipts, official gift deeds, or a deed of sale for a vehicle. Without proof, that lump sum will be your downfall.
 
-_Related: Learn more about how to strategically structure your accounts in our complete [Study Visa Proof of Funds Guide](/guides/ultimate-guide-to-proof-of-funds-for-student-visas-how-to-avoid-costly-mistakes)._
+_Related: Learn more about how to strategically structure your accounts in our complete [Study Visa Proof of Funds Guide](/ultimate-guide-to-proof-of-funds-for-student-visas-how-to-avoid-costly-mistakes)._
 
 3\. Self-Sponsorship vs.
 

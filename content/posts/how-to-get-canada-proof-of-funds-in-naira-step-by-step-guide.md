@@ -32,7 +32,7 @@ It’s not a payment to the government; it’s simply proof of your financial st
 
 This proof is a critical part of your application for study permits, Express Entry, and other immigration streams. It assures the visa officer that you won’t face financial hardship when you land.
 
-Understanding the [specific requirements](/guides/learn-about-proof-of-funds-requirements-in-nigeria) is the first step to success.
+Understanding the [specific requirements](/learn-about-proof-of-funds-requirements-in-nigeria) is the first step to success.
 
 How to Calculate Your Required Proof of Funds in Naira
 ------------------------------------------------------
@@ -85,7 +85,7 @@ This is where a trusted service like POF NG comes in. We understand the challeng
 
 Our service allows you to meet embassy requirements without tying up your personal capital. The funds are verifiable and valid for all visa and admission checks, ensuring your application process is smooth and stress-free.
 
-We help you get the [Proof of Funds for studying in Canada](/guides/get-proof-of-funds-for-studying-in-canada-easy-step-by-step-guide) the right way.
+We help you get the [Proof of Funds for studying in Canada](/get-proof-of-funds-for-studying-in-canada-easy-step-by-step-guide) the right way.
 
 ![A photorealistic image of a friendly, professional Nigerian consultant (representing POF NG) reassuringly explaining a document to a hopeful client. The document is a bank statement. The setting is a modern, bright office. The mood is supportive and trustworthy, illustrating how a service can help with the POF process.](/wp-content/uploads/2025/10/ai-generated-tclnf4dq93b.jpg)
 
@@ -99,7 +99,7 @@ A small mistake in your POF documentation can lead to a visa rejection. Here are
 *   **Not Meeting the Duration Requirement:** Some visa streams require the funds to be in your account for a specific period (e.g., 28 days for the UK). Ensure you meet this requirement.
 *   **Forgetting the Buffer:** Failing to account for currency fluctuations can leave you short of the required amount if the Naira weakens.
 
-Understanding these issues is key. You can learn more about [why visa applications get rejected because of POF](/guides/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it) and how to prevent it.
+Understanding these issues is key. You can learn more about [why visa applications get rejected because of POF](/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it) and how to prevent it.
 
 Navigating the Proof of Funds requirement for Canada is a crucial step in your journey. By following this guide, you can accurately calculate the amount you need in Naira and prepare your documents correctly.
 

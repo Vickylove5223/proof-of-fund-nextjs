@@ -42,7 +42,7 @@ We understand the urgency and precision required for these applications.
 
 Our service is designed for speed and reliability, with a typical turnaround time of 24 to 72 hours. We ensure that all documents are fully compliant with the standards of major embassies, including those of the UK, Canada, the USA, and Schengen countries.
 
-We pride ourselves on transparency, affordability, and providing expert support from start to finish. If you want to [learn how to get Proof of Funds in Nigeria](/guides/how-to-get-proof-of-fund-in-nigeria) the right way, we are your best partner.
+We pride ourselves on transparency, affordability, and providing expert support from start to finish. If you want to [learn how to get Proof of Funds in Nigeria](/how-to-get-proof-of-fund-in-nigeria) the right way, we are your best partner.
 
 ## 2 Davcrest Consult
 

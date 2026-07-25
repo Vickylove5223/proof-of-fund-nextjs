@@ -37,7 +37,7 @@ Key requirements include:
 
 Additionally, you must demonstrate that you have sufficient personal savings to support yourself upon arrival. This Proof of Funds (POF) is a non-negotiable part of your application.
 
-Getting your financial documents right is critical to [avoiding a visa refusal](/guides/12-way-on-how-to-avoid-uk-visa-refusal). uk/skilled-worker-visa).
+Getting your financial documents right is critical to [avoiding a visa refusal](/12-way-on-how-to-avoid-uk-visa-refusal). uk/skilled-worker-visa).
 
 2\. The Student Visa Route
 --------------------------

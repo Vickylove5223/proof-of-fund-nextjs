@@ -105,7 +105,7 @@ Whether you need a personal account, a sponsor's statement, or assistance with s
 
 You contact us with your purpose, we connect you with a trusted finance company, and you receive your official bank statement or letter quickly—often within 24 to 72 hours. Choosing POF NG means choosing peace of mind, reliability, and success.
 
-We help you avoid common mistakes, ensuring your financial proof is impeccable and acceptable. This is especially helpful if you're concerned about [why visa applications get rejected because of POF](/guides/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it).
+We help you avoid common mistakes, ensuring your financial proof is impeccable and acceptable. This is especially helpful if you're concerned about [why visa applications get rejected because of POF](/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it).
 
 [A bright, optimistic, photorealistic image. It depicts a hand (representing POF NG) extending an official, crisp 'Proof of Funds' document or bank letter to another hand (representing a relieved applicant, perhaps Nigerian).
 

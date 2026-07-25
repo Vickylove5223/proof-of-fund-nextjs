@@ -20,7 +20,7 @@ The UK refuses about a third of Nigerian visitor visa applications, and weak fin
 
 ## Why There Is No Official Minimum Amount
 
-Unlike the [UK student visa, which has fixed maintenance amounts](/guides/how-to-get-proof-of-funds-for-uk-student-visa-nigeria), the visitor visa is assessed on a simple question: *can this person comfortably afford this trip without working illegally or overstaying?*
+Unlike the [UK student visa, which has fixed maintenance amounts](/how-to-get-proof-of-funds-for-uk-student-visa-nigeria), the visitor visa is assessed on a simple question: *can this person comfortably afford this trip without working illegally or overstaying?*
 
 The visa officer weighs your declared trip cost against your income and savings. A good rule of thumb used by UK solicitors: **your available funds should be at least twice your total estimated trip cost**. If your two-week trip will cost £2,000 all-in, showing £4,000+ in genuinely-owned funds puts you in a strong position.
 
@@ -38,9 +38,9 @@ These are guidelines, not rules. What matters more than the raw figure is **prop
 ## What Your Bank Statement Must Show
 
 1. **3–6 months of consistent history.** Officers want to see your normal financial life — salary inflows, regular spending, a stable or growing balance.
-2. **No sudden large deposits.** A lump sum that appears days before you apply is called "funds parking" and it is one of the fastest routes to refusal. If a genuine large inflow exists (land sale, contract payment), document its source. Our guide on [source of funds explanations](/guides/source-of-funds-explanation-for-pof-loan-nigeria-samples-templates-expert-tips-2026) shows exactly how.
+2. **No sudden large deposits.** A lump sum that appears days before you apply is called "funds parking" and it is one of the fastest routes to refusal. If a genuine large inflow exists (land sale, contract payment), document its source. Our guide on [source of funds explanations](/source-of-funds-explanation-for-pof-loan-nigeria-samples-templates-expert-tips-2026) shows exactly how.
 3. **A balance that never crashes to zero.** Emptying the account right after printing the statement is checkable and disqualifying.
-4. **Your name, account number, and bank stamp.** Use a [bank that UK visa officers recognise and trust](/guides/list-of-banks-that-provide-proof-of-funds-in-nigeria) — GTBank, Zenith, Access, UBA, and First Bank statements are processed without friction.
+4. **Your name, account number, and bank stamp.** Use a [bank that UK visa officers recognise and trust](/list-of-banks-that-provide-proof-of-funds-in-nigeria) — GTBank, Zenith, Access, UBA, and First Bank statements are processed without friction.
 
 ## Can Someone Sponsor Your UK Visit?
 
@@ -54,7 +54,7 @@ Yes. A UK-based host or a relative can support your application, but you must in
 *   Applicant could not show ties that guarantee they will return
 *   Trip cost is unrealistic compared to income ("a ₦150k/month earner planning a £5,000 holiday")
 
-For a deeper dive into refusals and how to prevent them, read our guide on the [12 ways to avoid UK visa refusal](/guides/12-way-on-how-to-avoid-uk-visa-refusal).
+For a deeper dive into refusals and how to prevent them, read our guide on the [12 ways to avoid UK visa refusal](/12-way-on-how-to-avoid-uk-visa-refusal).
 
 ## Official Resources
 
@@ -62,6 +62,6 @@ Always cross-check requirements on the official [UK government Standard Visitor 
 
 ## Need Your Bank Statement to Be Visa-Ready?
 
-If your account balance doesn't yet reflect what your trip requires, don't gamble with a weak application — and never use [fake or backdated statements](/guides/consequences-of-fake-proof-of-funds-or-backdated-bank-statements-for-visa-applications-from-nigeria-2026), which lead to 10-year bans.
+If your account balance doesn't yet reflect what your trip requires, don't gamble with a weak application — and never use [fake or backdated statements](/consequences-of-fake-proof-of-funds-or-backdated-bank-statements-for-visa-applications-from-nigeria-2026), which lead to 10-year bans.
 
 At POF NG we legitimately fund and structure proof of funds in top Nigerian banks, with full documentation that stands up to UKVI verification. Use our [proof of funds calculator](/proof-of-fund-calculator) to see exactly how much you need, or message us on **Call/WhatsApp: 08103669924** for a free consultation.

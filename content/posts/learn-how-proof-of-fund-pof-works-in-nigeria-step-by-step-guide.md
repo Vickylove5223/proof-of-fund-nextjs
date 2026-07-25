@@ -154,13 +154,13 @@ The statement will show the full period during which the funds were present in y
 
 Many people make avoidable errors when applying for Proof of Funds, especially for UK visa applications and other international requirements. To help you navigate this process smoothly, we've compiled a detailed guide on the most common mistakes and how to avoid them.
 
-👉 **[Read: Common Mistakes in 28-Day Proof of Funds for UK Visas and How to Avoid Them](/guides/common-mistakes-in-28-day-proof-of-funds-for-uk-visas-and-how-to-avoid-them)**
+👉 **[Read: Common Mistakes in 28-Day Proof of Funds for UK Visas and How to Avoid Them](/common-mistakes-in-28-day-proof-of-funds-for-uk-visas-and-how-to-avoid-them)**
 
 ### Frequently Asked Questions About POF
 
 Still have questions? We've answered **37 of the most commonly asked questions** about UK visa proof of funds, covering everything from account types to documentation requirements.
 
-👉 **[Read: 37 Commonly Asked Questions About UK Visa Proof of Funds (With Answers)](/guides/37-commonly-asked-questions-about-uk-visa-proof-of-funds-with-answer)**
+👉 **[Read: 37 Commonly Asked Questions About UK Visa Proof of Funds (With Answers)](/37-commonly-asked-questions-about-uk-visa-proof-of-funds-with-answer)**
 
 ### Final Thoughts
 

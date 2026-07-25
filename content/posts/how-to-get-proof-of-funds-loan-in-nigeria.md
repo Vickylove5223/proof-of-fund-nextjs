@@ -52,7 +52,7 @@ We've streamlined our process to be as stress-free as possible. Here’s how you
 
 The first step is to reach out to our team. You’ll need to tell us the amount of money required, the currency, and the duration it needs to stay in the account.
 
-We will review your specific [embassy or school financial requirements](/guides/learn-about-proof-of-funds-requirements-in-nigeria) to ensure everything is perfect.
+We will review your specific [embassy or school financial requirements](/learn-about-proof-of-funds-requirements-in-nigeria) to ensure everything is perfect.
 
 ### Step 2: Submit Basic Documentation
 

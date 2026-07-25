@@ -85,7 +85,7 @@ Additionally, UKVI expects consistent currency presentations throughout all docu
 
 Moreover, compliance with both Nigerian banking regulations and UK visa requirements creates complex procedural demands. Consequently, specialized services offering proof of funds in 48 hours Nigeria become invaluable for urgent applications.
 
-For comprehensive guidance on Nigerian requirements, our detailed [list of banks that provide proof of funds in Nigeria](/guides/list-of-banks-that-provide-proof-of-funds-in-nigeria) offers valuable insights into local banking capabilities and limitations.
+For comprehensive guidance on Nigerian requirements, our detailed [list of banks that provide proof of funds in Nigeria](/list-of-banks-that-provide-proof-of-funds-in-nigeria) offers valuable insights into local banking capabilities and limitations.
 
 Rapid 48-Hour Proof of Funds Solution Explained
 -----------------------------------------------
@@ -194,7 +194,7 @@ Client testimonial excerpt: "I never thought it would be possible to get proof o
 
 Every document was perfect, and the process was completely transparent."
 
-For more detailed guidance on the proof of funds process, our comprehensive [step-by-step guide on how Proof of Fund works in Nigeria](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) provides valuable insights for prospective applicants.
+For more detailed guidance on the proof of funds process, our comprehensive [step-by-step guide on how Proof of Fund works in Nigeria](/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) provides valuable insights for prospective applicants.
 
 Maximizing Benefits with proofoffund.com.ng for Visa Applications
 -----------------------------------------------------------------

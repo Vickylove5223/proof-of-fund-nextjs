@@ -85,7 +85,7 @@ Many applications from Nigeria are rejected due to simple, avoidable mistakes in
 3.  **Unexplained Fund Sources:** The embassy wants to see where your money came from. It’s crucial to provide a clear narration for all major credits into your account.
 4.  **Missing Dependent Documents:** Forgetting to include a marriage or birth certificate can cause immediate delays or rejection.
 
-These mistakes can be costly and heartbreaking. We have seen firsthand [why visa applications get rejected because of POF](/guides/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it), and our service is designed to help you avoid them entirely.
+These mistakes can be costly and heartbreaking. We have seen firsthand [why visa applications get rejected because of POF](/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it), and our service is designed to help you avoid them entirely.
 
 How POF NG Offers a Reliable Solution
 -------------------------------------

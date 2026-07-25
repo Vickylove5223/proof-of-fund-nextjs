@@ -22,7 +22,7 @@ Most strong applications use **both documents together** to satisfy the *require
 
 ## Bank Statement: Your Financial Story
 
-A statement lists every transaction over a period (embassies typically want 3–6 months). It answers the officer's questions about your financial *behaviour*: How does money come in? Is the balance stable? Are there [suspicious sudden deposits](/guides/funds-parking-why-large-unexplained-deposits-get-nigerian-visas-refused)?
+A statement lists every transaction over a period (embassies typically want 3–6 months). It answers the officer's questions about your financial *behaviour*: How does money come in? Is the balance stable? Are there [suspicious sudden deposits](/funds-parking-why-large-unexplained-deposits-get-nigerian-visas-refused)?
 
 **Getting a visa-ready statement in Nigeria:**
 
@@ -48,13 +48,13 @@ Embassies value it because it is **hard to fake and easy to verify** — a one-c
 
 ## Proof of Funds: The Requirement Both Serve
 
-"Proof of funds" is the umbrella: the embassy wants credible evidence of **enough money, genuinely yours, available for this purpose**. Depending on the destination that evidence can be statements + letters, a [GIC certificate for Canada](/guides/canada-gic-proof-of-funds-nigeria-requirements-everything-you-need-to-know), a blocked account for Germany, [fixed deposit certificates](/guides/can-i-use-fixed-deposit-treasury-bills-or-mutual-funds-as-proof-of-funds), or a sponsor's documents. Our full explainer: [what is proof of sufficient funds in Nigeria](/guides/what-is-proof-of-sufficient-funds-in-nigeria).
+"Proof of funds" is the umbrella: the embassy wants credible evidence of **enough money, genuinely yours, available for this purpose**. Depending on the destination that evidence can be statements + letters, a [GIC certificate for Canada](/canada-gic-proof-of-funds-nigeria-requirements-everything-you-need-to-know), a blocked account for Germany, [fixed deposit certificates](/can-i-use-fixed-deposit-treasury-bills-or-mutual-funds-as-proof-of-funds), or a sponsor's documents. Our full explainer: [what is proof of sufficient funds in Nigeria](/what-is-proof-of-sufficient-funds-in-nigeria).
 
 ## Which Document Does Each Embassy Want?
 
 | Destination | Statement | Bank letter | Notes |
 | --- | --- | --- | --- |
-| UK | ✅ 28-day coverage | ✅ accepted alternative | Strict format rules; see the [28-day rule guide](/guides/common-mistakes-in-28-day-proof-of-funds-for-uk-visas-and-how-to-avoid-them) |
+| UK | ✅ 28-day coverage | ✅ accepted alternative | Strict format rules; see the [28-day rule guide](/common-mistakes-in-28-day-proof-of-funds-for-uk-visas-and-how-to-avoid-them) |
 | Canada | ✅ 6 months | ✅ expected | Letter should list all accounts, balances, averages |
 | USA | ✅ 6 months | ➕ helpful | Presented at interview, not uploaded |
 | Schengen | ✅ 3–6 months | ✅ often required | Attestation letter carries real weight |
@@ -66,7 +66,7 @@ Embassies value it because it is **hard to fake and easy to verify** — a one-c
 *   Statements older than the freshness window (28–31 days for the UK)
 *   Letter shows balance but statement history contradicts it
 *   Name spelling differs between passport, statement, and letter
-*   Using an institution embassies can't verify — [why microfinance banks sabotage applications](/guides/why-you-should-never-use-a-microfinance-bank-for-your-study-visa-proof-of-funds)
+*   Using an institution embassies can't verify — [why microfinance banks sabotage applications](/why-you-should-never-use-a-microfinance-bank-for-your-study-visa-proof-of-funds)
 
 ## Get the Full Package, Correctly Formatted
 

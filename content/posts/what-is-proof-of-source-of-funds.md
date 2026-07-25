@@ -60,7 +60,7 @@ Receiving money as a gift is common, especially for students. To prove this, you
 
 This letter should clearly state their relationship to you, the amount, and that it is a gift with no expectation of repayment. You will also need to show the source of \*their\* funds.
 
-For more details, it's wise to check the specific [proof of funds requirements](/guides/learn-about-proof-of-funds-requirements-in-nigeria) for your application.
+For more details, it's wise to check the specific [proof of funds requirements](/learn-about-proof-of-funds-requirements-in-nigeria) for your application.
 
 ### Investment Proceeds
 
@@ -82,7 +82,7 @@ While you are responsible for proving the source of your original funds, we spec
 
 At POF NG, we connect you with trusted financial partners who can temporarily place the required funds into your account. This provides you with an authentic, verifiable bank statement that meets embassy and school standards.
 
-Our process is fast, secure, and designed to help you successfully demonstrate your financial capacity. We guide you on [how to get Proof of Funds in Nigeria](/guides/how-to-get-proof-of-fund-in-nigeria) without the stress.
+Our process is fast, secure, and designed to help you successfully demonstrate your financial capacity. We guide you on [how to get Proof of Funds in Nigeria](/how-to-get-proof-of-fund-in-nigeria) without the stress.
 
 Our service ensures the bank statements and confirmation letters are 100% verifiable. When an embassy or institution checks, the funds will be confirmed, giving your application the credibility it needs.
 

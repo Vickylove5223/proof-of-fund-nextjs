@@ -66,7 +66,7 @@ Here are the best options:
 
 This is the gold standard. Using well-known banks like Globus, Fidelity, FCMB, Stanbic, First Bank, or UBA ensures your documents are professional, verifiable, and immediately accepted.
 
-Their statements meet international requirements set by embassies like those of the UK and Canada, which have very specific financial evidence rules. You can learn more about [why visa applications get rejected because of POF](/guides/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it) to better prepare.
+Their statements meet international requirements set by embassies like those of the UK and Canada, which have very specific financial evidence rules. You can learn more about [why visa applications get rejected because of POF](/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it) to better prepare.
 
 ### Fixed Deposits and Investment Statements
 

@@ -82,7 +82,7 @@ We connect you with reputable financial partners who can help you meet the embas
 
 This is a legitimate way to demonstrate financial capability when your funds are tied up in other ventures.
 
-You can find further details on [acceptable proof of funds](/guides/what-is-acceptable-proof-of-funds) on our blog. 
+You can find further details on [acceptable proof of funds](/what-is-acceptable-proof-of-funds) on our blog. 
 
 ## Strengthening Your Application Beyond Proof of Funds
 

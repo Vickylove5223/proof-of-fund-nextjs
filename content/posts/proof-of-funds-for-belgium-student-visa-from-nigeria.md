@@ -18,7 +18,7 @@ The interesting part is *how* you show it. Belgium gives you three formal routes
 
 ### 1. The blocked account (most reliable)
 
-Many Belgian universities let you **transfer the year's living funds to a university-managed account**, which pays you a monthly allowance after arrival. Like [Norway's system](/guides/proof-of-funds-for-nordic-countries-student-visas-from-nigeria) and the [Dutch transfer route](/guides/proof-of-funds-for-netherlands-student-visa-from-nigeria), this replaces statement scrutiny with a simple question: did the wire arrive? Start the CBN Form A process early — the mechanics mirror the [GIC wire from Nigeria](/guides/how-to-open-a-gic-account-from-nigeria-step-by-step).
+Many Belgian universities let you **transfer the year's living funds to a university-managed account**, which pays you a monthly allowance after arrival. Like [Norway's system](/proof-of-funds-for-nordic-countries-student-visas-from-nigeria) and the [Dutch transfer route](/proof-of-funds-for-netherlands-student-visa-from-nigeria), this replaces statement scrutiny with a simple question: did the wire arrive? Start the CBN Form A process early — the mechanics mirror the [GIC wire from Nigeria](/how-to-open-a-gic-account-from-nigeria-step-by-step).
 
 ### 2. The Annex 32 sponsor guarantee
 
@@ -36,7 +36,7 @@ Official awards covering the monthly norm substitute directly.
 *   Funds evidence via one of the three routes above
 *   Tuition payment proof
 *   Medical certificate and police clearance (both required for long-stay visas)
-*   Statements supporting the sponsor or transfer source — [verification applies to sponsor accounts too](/guides/how-do-embassies-verify-bank-statements-in-nigeria)
+*   Statements supporting the sponsor or transfer source — [verification applies to sponsor accounts too](/how-do-embassies-verify-bank-statements-in-nigeria)
 
 Applications route through VFS Global to the Belgian embassy; long-stay (D visa) processing takes 4–12 weeks. Official reference: [Belgian immigration office](https://dofi.ibz.be/en).
 
@@ -44,10 +44,10 @@ Applications route through VFS Global to the Belgian embassy; long-stay (D visa)
 
 1. **Annex 32 sponsors who don't clear the income threshold** — the guarantee is assessed, not accepted on goodwill; if your sponsor is borderline, use the blocked-account route instead
 2. **Late wires** — the university confirms receipt before your file completes; budget 2–4 weeks for the Nigerian FX leg
-3. **Undocumented sources** behind the transfer — the money's origin should survive a [source-of-funds review](/guides/source-of-funds-explanation-for-pof-loan-nigeria-samples-templates-expert-tips-2026)
+3. **Undocumented sources** behind the transfer — the money's origin should survive a [source-of-funds review](/source-of-funds-explanation-for-pof-loan-nigeria-samples-templates-expert-tips-2026)
 
 ## Belgium in Context
 
-Belgium's total cost profile lands near [Malta's](/guides/proof-of-funds-for-malta-student-visa-from-nigeria) with lower tuition, and the blocked-account option makes it one of the least statement-dependent files in Europe — a genuine advantage if your banking history is short. Compare across the [lowest-POF destinations](/guides/countries-with-the-lowest-proof-of-funds-requirements-for-student-visas-2026).
+Belgium's total cost profile lands near [Malta's](/proof-of-funds-for-malta-student-visa-from-nigeria) with lower tuition, and the blocked-account option makes it one of the least statement-dependent files in Europe — a genuine advantage if your banking history is short. Compare across the [lowest-POF destinations](/countries-with-the-lowest-proof-of-funds-requirements-for-student-visas-2026).
 
 POF NG prepares Belgium files both ways: transfer-ready funding with wire guidance, or sponsor documentation that clears the Annex 32 bar. **WhatsApp: 08103669924** — or size your year on the [proof of funds calculator](/proof-of-fund-calculator).

@@ -92,7 +92,7 @@ Don't let the visa officer find a red flag that you missed.
 
 Merge your financial documents in a logical, chronological order. Put your Letter of Explanation first, followed by the Bank Statement, Sponsor Letter, Pay Slips, and Identification.
 
-Make the visa officer's job easy! _Related: Read our comprehensive guide on [Proof of Funds for Study Visas](/guides/ultimate-guide-to-proof-of-funds-for-student-visas-how-to-avoid-costly-mistakes) to master your application._
+Make the visa officer's job easy! _Related: Read our comprehensive guide on [Proof of Funds for Study Visas](/ultimate-guide-to-proof-of-funds-for-student-visas-how-to-avoid-costly-mistakes) to master your application._
 
 What If You Don’t Have the Millions Required? We Can Help!
 

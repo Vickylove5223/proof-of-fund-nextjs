@@ -30,7 +30,7 @@ Anything else — including grandparents in most cases — fails. Official refer
 
 ## If a Parent Sponsors: The Exact Document Set
 
-*   Parent's bank statement or letter showing the full amount held for **28 consecutive days** (the same [28-day rule with all its traps](/guides/common-mistakes-in-28-day-proof-of-funds-for-uk-visas-and-how-to-avoid-them))
+*   Parent's bank statement or letter showing the full amount held for **28 consecutive days** (the same [28-day rule with all its traps](/common-mistakes-in-28-day-proof-of-funds-for-uk-visas-and-how-to-avoid-them))
 *   **Your birth certificate** (or adoption certificate) naming that parent — NPC-issued; an affidavit of birth is a weak substitute that triggers scrutiny
 *   **Letter of consent** signed by the parent confirming the funds are available for your studies
 *   If the account is in your mother's married name and your birth certificate shows her maiden name — add the marriage certificate
@@ -41,11 +41,11 @@ Miss any one of these and the application is refused on documentation, not on mo
 
 The rule limits *whose account* the money sits in — not where it originally came from. Families handle this legitimately in three ways:
 
-1. **Transfer to you, then wait.** Uncle transfers to *your* account; the 28-day clock starts after the transfer settles. Document the gift properly — a signed gift letter and clean narration, as covered in our [source of funds explanation templates](/guides/source-of-funds-explanation-for-pof-loan-nigeria-samples-templates-expert-tips-2026).
+1. **Transfer to you, then wait.** Uncle transfers to *your* account; the 28-day clock starts after the transfer settles. Document the gift properly — a signed gift letter and clean narration, as covered in our [source of funds explanation templates](/source-of-funds-explanation-for-pof-loan-nigeria-samples-templates-expert-tips-2026).
 2. **Transfer to your parent, then wait.** Same logic when your own account raises profile issues.
-3. **Route it early.** The clean version of both options is timing: move the money **2–3 months before applying**, so it seasons well past 28 days and doesn't look like [parked funds](/guides/funds-parking-why-large-unexplained-deposits-get-nigerian-visas-refused).
+3. **Route it early.** The clean version of both options is timing: move the money **2–3 months before applying**, so it seasons well past 28 days and doesn't look like [parked funds](/funds-parking-why-large-unexplained-deposits-get-nigerian-visas-refused).
 
-**What not to do:** leave it in the uncle's account with a "sponsorship letter." UKVI student rules make no provision for it. This is different from Canada — where [extended-family sponsorship is workable with the right documents](/guides/sponsor-bank-statement-for-canada-study-permit-nigeria-complete-requirements-tips) — and applicants who mix up the two systems pay for it with a refusal.
+**What not to do:** leave it in the uncle's account with a "sponsorship letter." UKVI student rules make no provision for it. This is different from Canada — where [extended-family sponsorship is workable with the right documents](/sponsor-bank-statement-for-canada-study-permit-nigeria-complete-requirements-tips) — and applicants who mix up the two systems pay for it with a refusal.
 
 ## Exceptions Worth Knowing
 
@@ -55,7 +55,7 @@ The rule limits *whose account* the money sits in — not where it originally ca
 
 ## Refused Because of the Wrong Sponsor? What Now
 
-A financial-documentation refusal is recoverable — the [right response to a UK refusal](/guides/12-way-on-how-to-avoid-uk-visa-refusal) is fixing the defect and reapplying, not appealing. Restructure the funds into an eligible account, run the 28 days cleanly, and reapply with a short cover letter addressing the previous refusal ground.
+A financial-documentation refusal is recoverable — the [right response to a UK refusal](/12-way-on-how-to-avoid-uk-visa-refusal) is fixing the defect and reapplying, not appealing. Restructure the funds into an eligible account, run the 28 days cleanly, and reapply with a short cover letter addressing the previous refusal ground.
 
 ## Get the Structure Right the First Time
 

@@ -18,9 +18,9 @@ The good news: loans remain a legitimate, embassy-accepted way to satisfy proof 
 
 Yes. Immigration authorities in the US, UK, and Canada all accept **education loans from regulated lenders** as financial evidence:
 
-*   **USA (F1):** a loan approval/sanction letter counts toward the I-20 amount and is standard at interview — pair it with the rest of your [F1 financial evidence](/guides/usa-f1-visa-proof-of-funds-nigeria-sponsor-letter-complete-guide)
-*   **UK (Student visa):** a loan letter from a regulated lender in your name satisfies maintenance — one of the few alternatives to the [28-day cash rule](/guides/common-mistakes-in-28-day-proof-of-funds-for-uk-visas-and-how-to-avoid-them)
-*   **Canada:** education loans are listed by IRCC as acceptable proof — they combine with the [other elements of a 2026 Canada file](/guides/canada-proof-of-funds-2026-new-amounts-in-naira-study-permit-express-entry)
+*   **USA (F1):** a loan approval/sanction letter counts toward the I-20 amount and is standard at interview — pair it with the rest of your [F1 financial evidence](/usa-f1-visa-proof-of-funds-nigeria-sponsor-letter-complete-guide)
+*   **UK (Student visa):** a loan letter from a regulated lender in your name satisfies maintenance — one of the few alternatives to the [28-day cash rule](/common-mistakes-in-28-day-proof-of-funds-for-uk-visas-and-how-to-avoid-them)
+*   **Canada:** education loans are listed by IRCC as acceptable proof — they combine with the [other elements of a 2026 Canada file](/canada-proof-of-funds-2026-new-amounts-in-naira-study-permit-express-entry)
 
 The loan must be **approved and documented** — a pending application proves nothing.
 
@@ -52,11 +52,11 @@ Nigerian bank education loans and the government student-loan scheme exist, but 
 ## The Three Timing Traps
 
 1. **Loan approval comes after admission.** You can't show a loan letter at application time for most lenders — sequence your timeline: admission → loan approval → visa file.
-2. **Partial coverage.** Loans often cover tuition but not the full living-cost requirement — the balance still needs [cash evidence with proper history](/guides/proof-of-funds-vs-bank-statement-vs-bank-reference-letter). A Canada file needs the **CAD $22,895** living component covered one way or another.
+2. **Partial coverage.** Loans often cover tuition but not the full living-cost requirement — the balance still needs [cash evidence with proper history](/proof-of-funds-vs-bank-statement-vs-bank-reference-letter). A Canada file needs the **CAD $22,895** living component covered one way or another.
 3. **Conditional approvals.** "Approved subject to visa" letters create a chicken-and-egg problem some embassies probe. Get the letter's conditions in writing and pair it with stronger cash evidence.
 
 ## Loan + POF: The Hybrid File That Works
 
-The strongest applications we see combine sources transparently: loan letter for tuition, documented personal/family funds for living costs, each with clean [source-of-funds documentation](/guides/source-of-funds-explanation-for-pof-loan-nigeria-samples-templates-expert-tips-2026). Where the cash side falls short or lacks history, that's the gap POF NG fills — legitimate funding in top banks, seasoned and documented to your embassy's rules, sized to complement your loan rather than duplicate it.
+The strongest applications we see combine sources transparently: loan letter for tuition, documented personal/family funds for living costs, each with clean [source-of-funds documentation](/source-of-funds-explanation-for-pof-loan-nigeria-samples-templates-expert-tips-2026). Where the cash side falls short or lacks history, that's the gap POF NG fills — legitimate funding in top banks, seasoned and documented to your embassy's rules, sized to complement your loan rather than duplicate it.
 
 **Message us on WhatsApp at 08103669924** with your destination, I-20/CAS amount, and loan status — we'll map the exact hybrid file. Or start with the [proof of funds calculator](/proof-of-fund-calculator) to see your remaining gap.

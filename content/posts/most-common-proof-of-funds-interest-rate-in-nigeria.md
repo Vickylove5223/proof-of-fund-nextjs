@@ -45,7 +45,7 @@ Their competitive pricing makes them a popular choice for students and individua
 
 2% or slightly higher. While the cost is more, many applicants trust these institutions due to their long-standing reputation.
 
-The choice between these tiers often comes down to a balance of cost and personal banking preference. For a comprehensive overview, you can explore this [list of banks that provide Proof of Funds in Nigeria](/guides/list-of-banks-that-provide-proof-of-funds-in-nigeria).
+The choice between these tiers often comes down to a balance of cost and personal banking preference. For a comprehensive overview, you can explore this [list of banks that provide Proof of Funds in Nigeria](/list-of-banks-that-provide-proof-of-funds-in-nigeria).
 
 Factors That Influence Your POF Rate
 ------------------------------------
@@ -58,10 +58,10 @@ The rate you are quoted isn't arbitrary. Several factors determine the final per
 
 Cost Breakdown by Provider (2026)
 
-These fees act as the effective "interest" or processing cost for borrowing the temporary funds needed to print a valid 6-month or 28-day bank statement. \[[1](https://edfinmfb.com/edfin-proof-of-fund), 2, [3](/guides/how-to-get-proof-of-funds-in-nigeria-a-complete-guide)\]
+These fees act as the effective "interest" or processing cost for borrowing the temporary funds needed to print a valid 6-month or 28-day bank statement. \[[1](https://edfinmfb.com/edfin-proof-of-fund), 2, [3](/how-to-get-proof-of-funds-in-nigeria-a-complete-guide)\]
 
 *   **Specialized POF Firms:** Rates typically range from **2.4% to 3.5%**. Some providers charge around **1.8%** for specific entry amounts or require upfront fees as low as **2.9%** for higher amounts (e.g., ₦30M+). \[[1](https://easifyfund.ng/), [2](https://www.facebook.com/groups/306837494102160/posts/1543872493731981/), [3](https://edfinmfb.com/edfin-proof-of-fund), 4\]
-*   **Commercial Banks (e.g., UBA, FirstBank, Access):** Standard POF loans usually range between **3.3% and 5.0% flat per month**, with existing customers occasionally receiving preferential rates. \[1, [2](/guides/how-to-get-proof-of-funds-in-nigeria-a-complete-guide)\]
+*   **Commercial Banks (e.g., UBA, FirstBank, Access):** Standard POF loans usually range between **3.3% and 5.0% flat per month**, with existing customers occasionally receiving preferential rates. \[1, [2](/how-to-get-proof-of-funds-in-nigeria-a-complete-guide)\]
 
 Why Use a Trusted Agent Like POF NG? ------------------------------------
 
@@ -71,7 +71,7 @@ Instead of you approaching multiple banks, we do the heavy lifting, working only
 
 Choosing POF NG means you get access to fast, secure, and embassy-acceptable documents without stress. html#financial), the UK, and the US, ensuring your application is compliant.
 
-Our goal is to connect you with the [cheapest Proof of Funds services](/guides/10-cheapest-proof-of-funds-pof-services-in-nigeria) without compromising on reliability.
+Our goal is to connect you with the [cheapest Proof of Funds services](/10-cheapest-proof-of-funds-pof-services-in-nigeria) without compromising on reliability.
 
 \[IMAGE\_3\]
 
