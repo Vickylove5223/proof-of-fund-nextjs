@@ -8,7 +8,7 @@ description: >-
   for your study permit application is Proof of Fun... | Call/WhatsApp:
   08103669924
 seo_title: How to Calculate Proof of Funds for Canada Student Visa
-image: /images/finance-1.png
+image: /wp-content/uploads/2025/09/93e330bb-c279-4fe2-a3e9-8da837d7f5ff.jpg
 ---
 If you are planning to study in Canada, one of the most important requirements for your study permit application is **Proof of Funds (POF)**. Many students get confused about how to calculate the exact amount they need to show in their bank statement.
 
@@ -73,7 +73,7 @@ The living expenses requirement increases if you are traveling with family membe
 ### Key Takeaways
 
 *   Proof of Funds = **Tuition Fees + Living Expenses**
-*   For 2025, living expenses for one student = **20,635 CAD**
+*   For 2026, living expenses for one student = **20,635 CAD**
 *   With tuition at **25,000 CAD**, your total POF is **45,635 CAD (~₦54.8 million)**
 *   If you have already paid part of your tuition, subtract it from the total
 *   Always check your admission letter for the exact tuition figure

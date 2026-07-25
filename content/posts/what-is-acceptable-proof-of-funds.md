@@ -8,7 +8,7 @@ description: >-
   journey. But before you can pack your bags, you'll face... | Call/WhatsApp:
   08103669924
 seo_title: What Is Acceptable Proof of Funds
-image: /images/finance-3.png
+image: /wp-content/uploads/2025/02/colleagues-studying-together-university-library_23-2148844695.jpg
 ---
 Planning to study, work, or immigrate to another country is an exciting journey. But before you can pack your bags, you'll face one of the most critical steps: the visa application.
 

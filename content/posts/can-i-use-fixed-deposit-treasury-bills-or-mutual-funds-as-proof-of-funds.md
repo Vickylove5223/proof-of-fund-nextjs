@@ -8,7 +8,7 @@ description: >-
   stocks, and crypto? It depends on the embassy. Country-by-country breakdown
   for Nigerian applicants. | Call/WhatsApp: 08103669924
 seo_title: 'Fixed Deposit, Treasury Bills, Mutual Funds as Proof of Funds Nigeria'
-image: /images/finance-2.png
+image: /wp-content/uploads/2025/09/application-form-information-employment-concept_53876-128011.jpg
 ---
 Your money is working for you — sitting in a fixed deposit at 18%, spread across treasury bills, or growing in a money-market fund. Then visa season arrives and the question hits: **do I have to liquidate everything into a savings account, or can my investments serve as proof of funds?**
 
@@ -46,10 +46,6 @@ Too volatile. A portfolio worth ₦20m today can be ₦14m at assessment. Office
 
 No embassy currently accepts crypto balances as proof of funds — unverifiable custody and volatility rule it out. Convert to naira/fiat, land it in your bank account, and document the source **early**, because large crypto-origin inflows attract exactly the scrutiny described in our [embassy verification guide](/how-do-embassies-verify-bank-statements-in-nigeria).
 
-### Land and property — INDIRECTLY
-
-Property is not liquid, but it can back your file two ways: as evidence of ties to Nigeria, or as the documented **source** of funds after a sale. Full details in our guide on [using real estate and land as proof of funds](/how-to-use-real-estate-and-land-as-proof-of-funds-for-your-visa).
-
 ## Quick Reference Table
 
 | Instrument | UK | Canada | USA | Schengen |
@@ -67,4 +63,4 @@ Break investments **strategically, not fearfully**: liquidate only the required 
 
 And if breaking your investments would cost you real returns, that is precisely when a structured POF service makes financial sense: your investments keep earning while compliant funds sit under lien in a top bank. Compare the [cost of professional POF](/cost-of-proof-of-funds-for-uk-canada-visa-from-nigeria-2026-complete-pricing-guide) against your interest penalty — the maths often favours keeping your money working.
 
-Talk it through with POF NG on **Call/WhatsApp: 08103669924**.
+Talk it through with [POF NG](/) on **Call/WhatsApp: 08103669924**.

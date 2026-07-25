@@ -8,7 +8,7 @@ description: >-
   university or college. But before you start packing... | Call/WhatsApp:
   08103669924
 seo_title: 14 Rules for a Bulletproof Canada Study Permit Proof of Funds
-image: /images/finance-1.png
+image: /wp-content/uploads/2025/09/54393b20-44c6-4db1-b806-49c19fe2185f.jpg
 ---
 Congratulations! You’ve finally received your admission letter to a Canadian university or college.
 

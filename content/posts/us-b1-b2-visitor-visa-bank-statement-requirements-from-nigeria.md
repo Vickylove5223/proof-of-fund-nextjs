@@ -8,7 +8,7 @@ description: >-
   Learn what consular officers check, how much to show, and interview tips that
   win approvals. | Call/WhatsApp: 08103669924
 seo_title: 'US B1/B2 Visa Bank Statement Requirements from Nigeria 2026'
-image: /images/finance-2.png
+image: /wp-content/uploads/2025/09/93e330bb-c279-4fe2-a3e9-8da837d7f5ff.jpg
 ---
 The United States B1/B2 visitor visa works differently from almost every other visa Nigerians apply for: **you usually do not submit your bank statement in advance — you bring it to the interview**. That surprises many applicants, and it changes how you should prepare.
 
@@ -62,4 +62,4 @@ Book appointments and confirm requirements through the official [US Travel Docs 
 
 ## Get Your Finances Interview-Ready
 
-A US interview rewards preparation. If your bank statement doesn't yet tell a convincing story, POF NG can help you structure legitimate, verifiable proof of funds in a top Nigerian bank — with the aged history consular officers expect. Check what you need with our [proof of funds calculator](/proof-of-fund-calculator), then reach us on **Call/WhatsApp: 08103669924**.
+A US interview rewards preparation. If your bank statement doesn't yet tell a convincing story, [POF NG](/) can help you structure legitimate, verifiable proof of funds in a top Nigerian bank — with the aged history consular officers expect. Check what you need with our [proof of funds calculator](/proof-of-fund-calculator), then reach us on **Call/WhatsApp: 08103669924**.

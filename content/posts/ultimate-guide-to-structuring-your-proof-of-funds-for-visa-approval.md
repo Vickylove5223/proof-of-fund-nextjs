@@ -12,7 +12,7 @@ description: >-
 seo_title: >-
   How to Build a Powerful Bank Statement for Your Visa Application:
   The Ultimate POF Strategy
-image: /images/finance-3.png
+image: /wp-content/uploads/2025/09/25ae7f4a-e9db-42af-95d8-f32cb793b7c8.jpg
 ---
 When applying for a visa—whether for Canada, the UK, or the USA—your bank statement is often the deciding factor between an approval and a rejection. It is more than just a list of numbers; it is a story of your financial stability and ties to your home country.
 

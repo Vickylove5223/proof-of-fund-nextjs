@@ -8,7 +8,7 @@ description: >-
   naira balances, when a domiciliary account helps, and the exchange-rate trap
   that refuses borderline files. | Call/WhatsApp: 08103669924
 seo_title: 'Domiciliary vs Naira Account for Proof of Funds — Which Is Better?'
-image: /images/finance-3.png
+image: /wp-content/uploads/2025/09/visa-application-composition-with-different-flags_23-2149117806.jpg
 ---
 It is one of the most-asked questions in every visa WhatsApp group: **"Should I show my money in dollars or naira?"** — usually followed by someone insisting embassies "respect dom accounts more."
 
@@ -57,4 +57,4 @@ Whichever account you use, get it from a bank whose statements verify instantly 
 
 ## Structure It Once, Correctly
 
-POF NG structures proof of funds in both naira and domiciliary accounts at top Nigerian banks — sized with the right buffer for your destination, seasoned for its rules, and documented for verification. Run your requirement through the [proof of funds calculator](/proof-of-fund-calculator) or message us on **Call/WhatsApp: 08103669924**.
+[POF NG](/) structures proof of funds in both naira and domiciliary accounts at top Nigerian banks — sized with the right buffer for your destination, seasoned for its rules, and documented for verification. Run your requirement through the [proof of funds calculator](/proof-of-fund-calculator) or message us on **Call/WhatsApp: 08103669924**.

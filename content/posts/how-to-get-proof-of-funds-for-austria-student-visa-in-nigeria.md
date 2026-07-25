@@ -8,7 +8,7 @@ description: >-
   Innsbruck? Austria offers world-class education and a rich... | Call/WhatsApp:
   08103669924
 seo_title: How to Get Proof of Funds for Austria Student Visa in Nigeria
-image: /images/finance-1.png
+image: /wp-content/uploads/2025/02/family-enjoying-their-winter-time-together_23-2149186294.jpg
 ---
 Dreaming of studying in the beautiful cities of Vienna, Salzburg, or Innsbruck? Austria offers world-class education and a rich cultural experience.
 

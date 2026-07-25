@@ -30,7 +30,11 @@ For study permit applications submitted (outside Quebec):
 *   **First-year tuition**: As stated in your Letter of Acceptance (LOA)
 *   **Return transportation**: Approximately CAD $1,000 – $2,000
 
-**Total typical requirement for a single student**: CAD $42,000 – $55,000+ depending on your program’s tuition. **GIC-Specific Amount**: Most students purchase a GIC covering at least the living expenses portion (CAD $22,895). You can combine GIC with other proofs such as tuition payment receipts, sponsor letters, or Nigerian bank statements. **Family Members**: Add approximately CAD $5,607 – $6,170 for each additional family member.
+**Total typical requirement for a single student**: CAD $42,000 – $55,000+ depending on your program’s tuition. 
+
+**GIC-Specific Amount**: Most students purchase a GIC covering at least the living expenses portion (CAD $22,895). You can combine GIC with other proofs such as tuition payment receipts, sponsor letters, or Nigerian bank statements. 
+
+**Family Members**: Add approximately CAD $5,607 – $6,170 for each additional family member.
 
 ### Is GIC Mandatory for Nigerian Students ?
 
@@ -68,7 +72,7 @@ If transferring funds for a full GIC is challenging, you can still meet IRCC exp
 *   Sponsor affidavits with supporting financial documents.
 *   Education loans or combination of sources.
 
-ng, we help Nigerian students create strong, verifiable bank statements in major Nigerian banks that complement or serve as reliable Proof of Funds when a direct GIC is not immediately feasible. Our funded accounts come with proper lien documentation and narrations that demonstrate legitimacy.
+At POF NG, we help Nigerian students create strong, verifiable bank statements in major Nigerian banks that complement or serve as reliable Proof of Funds when a direct GIC is not immediately feasible. Our funded accounts come with proper lien documentation and narrations that demonstrate legitimacy.
 
 [Chat with us on WhatsApp](https://wa.me/2348103669924) for a free, no-obligation consultation. Share your target amount, preferred bank, and application timeline — we will provide clear options and pricing.
 
@@ -94,7 +98,7 @@ Many successful applicants use a hybrid approach: partial GIC + strong Nigerian 
 
 ### Ready to Secure Reliable Proof of Funds for Your Canada Study Permit?
 
-ng, we have supported hundreds of Nigerian students with credible, CBN-compliant Proof of Funds for Canada and other destinations. Whether you need full funding for bank statements, guidance on GIC preparation, or a complete financial package, our team is ready to help.
+At POF NG, we have supported hundreds of Nigerian students with credible, CBN-compliant Proof of Funds for Canada and other destinations. Whether you need full funding for bank statements, guidance on GIC preparation, or a complete financial package, our team is ready to help.
 
 [Chat with us on WhatsApp](https://wa.me/2348103669924) for a free, no-obligation consultation. Share your target amount, preferred bank, and application timeline — we will provide clear options and pricing.
 

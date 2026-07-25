@@ -8,7 +8,7 @@ description: >-
   education, diverse culture, and post-graduation opport... | Call/WhatsApp:
   08103669924
 seo_title: 'Proof of Funds for Canada Study Permit from Nigeria: Updated Guide for 2026'
-image: /images/finance-3.png
+image: /wp-content/uploads/2025/09/application-form-information-employment-concept_53876-128011.jpg
 ---
 Dreaming of studying in Canada is an exciting first step. The world-class education, diverse culture, and post-graduation opportunities are major attractions for Nigerian students.
 

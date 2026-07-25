@@ -8,7 +8,7 @@ description: >-
   So why do Nigerians keep paying millions to agents? The real costs, the scam
   patterns, and how legitimate Gulf recruitment works. | Call/WhatsApp: 08103669924
 seo_title: 'Qatar & Saudi Arabia Work Visa Requirements for Nigerians 2026'
-image: /images/finance-1.png
+image: /wp-content/uploads/2025/02/tourist-carrying-baggage_23-2151747389.jpg
 ---
 Here is the most important sentence in this guide: **legitimate Qatar and Saudi Arabia work visas require no proof of funds from you — the employer sponsors the entire process.** No bank statement threshold, no maintenance funds, no 28-day rule.
 

@@ -12,7 +12,7 @@ description: >-
 seo_title: >-
   Canada Proof of Funds for Nigerians: 2026 Requirements, Naira Conversion &
   Expert Solutions
-image: /images/finance-2.png
+image: /wp-content/uploads/2025/09/application-form-information-employment-concept_53876-128011.jpg
 ---
 Planning your move to Canada from Nigeria is an exciting journey filled with dreams of new opportunities. However, one of the most critical steps that can feel overwhelming is the Proof of Funds (POF) requirement.
 
@@ -37,7 +37,7 @@ The amount you need depends entirely on the visa or immigration program you're a
 
 ### Proof of Funds for a Canadian Study Permit
 
-IRCC more than doubled the cost-of-living financial requirement for study permit applicants, effective September 2025. A single applicant must now show they have **CAD $22,895** in addition to their first year's tuition fees and travel costs.
+IRCC more than doubled the cost-of-living financial requirement for study permit applicants, effective September 2026. A single applicant must now show they have **CAD $22,895** in addition to their first year's tuition fees and travel costs.
 
 This increase reflects the rising cost of living in Canada and ensures that students can adequately support themselves during their studies.
 

@@ -13,7 +13,7 @@ description: >-
 seo_title: >-
   Cost of Proof of Funds for UK & Canada Visa from Nigeria 2026: Complete
   Pricing Guide
-image: /images/finance-2.png
+image: /wp-content/uploads/2025/09/93e330bb-c279-4fe2-a3e9-8da837d7f5ff.jpg
 ---
 \*\* Getting legitimate temporary funding for your bank statements can be the difference between visa approval and refusal, but understanding the pricing is crucial. ng gives you the best value.
 
@@ -33,7 +33,7 @@ Service fees are typically charged as a \*\*percentage of the funded amount per 
 *   Average: 3% – 3.5% per month
 *   Higher end: 4% – 5% per month (smaller amounts or certain banks)
 
-ng, we offer some of the \*\*most competitive rates\*\* in the market through our strong partnerships. Our pricing is transparent and tailored to your specific needs.
+At POF NG, we offer some of the \*\*most competitive rates\*\* in the market through our strong partnerships. Our pricing is transparent and tailored to your specific needs.
 
 ### Cost Examples for UK & Canada Visas
 
@@ -76,7 +76,7 @@ Many of our clients successfully secure UK and Canada visas after using our serv
 
 ### Ready to Get Affordable Temporary Proof of Funds?
 
-ng, we provide reliable, CBN-compliant temporary POF tailored for UK, Canada, and other destinations at the best possible rates. **Contact us today** via WhatsApp or our website for a free consultation and instant pricing quote.
+At POF NG, we provide reliable, CBN-compliant temporary POF tailored for UK, Canada, and other destinations at the best possible rates. **Contact us today** via WhatsApp or our website for a free consultation and instant pricing quote.
 
 Simply tell us:
 

@@ -8,7 +8,7 @@ description: >-
   gathered your documents, and are ready for a new... | Call/WhatsApp:
   08103669924
 seo_title: 'Proof of Funds for Canadian Immigration from Nigeria: A Comprehensive Guide'
-image: /images/finance-1.png
+image: /wp-content/uploads/2025/02/two-business-woman-cafe_1157-14528.jpg
 ---
 Moving to Canada is a dream for many Nigerians. You have filled out the forms, gathered your documents, and are ready for a new life.
 

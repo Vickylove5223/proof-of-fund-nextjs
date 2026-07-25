@@ -13,7 +13,7 @@ description: >-
 seo_title: >-
   Top 3 Banks for Visa Proof of Funds in Nigeria (And How to Get POF Without
   Personal Cash)
-image: /images/finance-2.png
+image: /wp-content/uploads/2025/09/9ddc6236-2387-4ec0-a148-cdfe2b95934a.jpg
 ---
 When applying for a travel visa—whether it is a student visa, a tourist visa, or a transit visa—your bank statement is the most critical document in your application. Embassies need concrete evidence that you can financially support yourself during your stay.
 
@@ -91,6 +91,6 @@ We have helped thousands of Nigerians successfully cross the Proof of Funds hurd
 
 ### Ready to Secure Your Proof of Funds Today?
 
-Our live support experts are on standby to analyze your specific visa requirements and provide the exact funds you need immediately. me/2348103669924)** Your visa approval is just one message away.
+Our live support experts are on standby to analyze your specific visa requirements and provide the exact funds you need immediately. [Chat with us on WhatsApp](https://wa.me/2348103669924) — your visa approval is just one message away.
 
 Reach out to us today, and let's get your bank statement ready for the embassy!

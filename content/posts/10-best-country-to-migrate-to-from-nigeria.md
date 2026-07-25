@@ -8,7 +8,7 @@ description: >-
   opportunities, a better quality of life, and global expo... | Call/WhatsApp:
   08103669924
 seo_title: Top 10 Countries to Migrate to From Nigeria in 2026
-image: /images/finance-1.png
+image: /wp-content/uploads/2025/02/colleagues-studying-together-university-library_23-2148844695.jpg
 ---
 Are you dreaming of moving abroad? You’re not alone.
 

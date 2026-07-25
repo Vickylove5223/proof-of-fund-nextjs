@@ -8,7 +8,7 @@ description: >-
   Technology  in Ghana is an exciting goal for many... | Call/WhatsApp:
   08103669924
 seo_title: How to Get Proof of Funds in Nigeria for Studying at KNUST
-image: /images/finance-2.png
+image: /wp-content/uploads/2025/02/tourist-carrying-baggage_23-2151747389.jpg
 ---
 Gaining admission into the prestigious Kwame Nkrumah University of Science and Technology (KNUST) in Ghana is an exciting goal for many Nigerian students. The university is renowned for its academic excellence and vibrant campus life.
 

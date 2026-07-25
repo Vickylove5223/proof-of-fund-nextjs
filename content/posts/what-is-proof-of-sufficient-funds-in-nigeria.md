@@ -14,7 +14,7 @@ Planning to travel, study, or immigrate abroad from Nigeria? ” This requiremen
 
 What exactly is it, and why is it so important for your application’s success?
 
-At POF NG, we help Nigerians navigate this process every day. We understand the requirements and have designed our services to make your journey smoother.
+At [POF NG](/), we help Nigerians navigate this process every day. We understand the requirements and have designed our services to make your journey smoother.
 
 > *"I was worried that using a third-party proof of funds would look suspicious to the embassy. But the team explained the legal framework and provided all the backing documents I needed. The visa officer checked the statement, and everything was 100% genuine. I'm typing this from my dorm room in Germany."* — **Emmanuel K., Lagos**
 

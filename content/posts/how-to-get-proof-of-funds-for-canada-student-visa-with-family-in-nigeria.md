@@ -12,7 +12,7 @@ description: >-
 seo_title: >-
   Securing Your Canadian Dream: Proof of Funds for Student Visa with Family
   (From Nigeria)
-image: /images/finance-1.png
+image: /wp-content/uploads/2025/02/two-business-woman-cafe_1157-14528.jpg
 ---
 Dreaming of studying in Canada is exciting. Planning to bring your family along makes that dream even bigger and more meaningful.
 
@@ -107,6 +107,6 @@ Getting Proof of Funds for a Canada student visa with your family is a detailed 
 
 If you need a reliable, stress-free way to meet the financial requirements, POF NG is here to help. We are Nigeria’s #1 trusted POF agent, dedicated to making your journey to Canada smoother and more successful.
 
-Ready to take the next step? [Contact POF NG](/)** for a free consultation and let’s secure your family’s future together.
+Ready to take the next step? [Contact POF NG](/) for a free consultation and let’s secure your family’s future together.
 
 Official immigration forums and resources are a good source.

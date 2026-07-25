@@ -7,7 +7,7 @@ description: |-
   Where Can You Get Proof of Funds in Nigeria?
   -------------------------------------------- | Call/WhatsApp: 08103669924
 seo_title: Where Can You Get Proof of Funds in Nigeria?
-image: /images/finance-2.png
+image: /wp-content/uploads/2025/02/two-business-woman-cafe_1157-14528.jpg
 ---
 Where Can You Get Proof of Funds in Nigeria? --------------------------------------------
 

@@ -8,7 +8,7 @@ description: >-
   B1/B2 applicants — with answer strategies for the money questions that decide
   approvals. | Call/WhatsApp: 08103669924
 seo_title: 'US Visa Interview Questions and Answers for Nigerians 2026'
-image: /images/finance-2.png
+image: /wp-content/uploads/2025/09/9ddc6236-2387-4ec0-a148-cdfe2b95934a.jpg
 ---
 US visa interviews in Lagos and Abuja last **two to four minutes**. In that window, a consular officer decides your case — often without opening a single document you brought. The questions are predictable; what separates approvals from 214(b) refusals is whether your answers hold together, especially on money.
 
@@ -62,6 +62,6 @@ Book and prepare through the official [US Travel Docs Nigeria portal](https://ww
 
 ## Walk In With Your Money Story Airtight
 
-You cannot rehearse your way past weak finances — but you can walk in with finances that answer every question before it's asked: right amount, seasoned history, documented sources, credible sponsor. That file is what POF NG builds.
+You cannot rehearse your way past weak finances — but you can walk in with finances that answer every question before it's asked: right amount, seasoned history, documented sources, credible sponsor. That file is what [POF NG](/) builds.
 
 Prepare your numbers with the [proof of funds calculator](/proof-of-fund-calculator), then message us on **Call/WhatsApp: 08103669924** to structure your file before you book that interview date.

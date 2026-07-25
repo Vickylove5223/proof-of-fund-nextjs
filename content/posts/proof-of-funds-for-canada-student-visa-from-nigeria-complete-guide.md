@@ -12,7 +12,7 @@ image: /wp-content/uploads/2025/11/ai-generated-24fk3psmxno-300x164.jpg
 ---
 Applying for a Canadian study permit from Nigeria has become increasingly competitive. With stricter financial scrutiny and high refusal rates for Nigerian applicants, having strong Proof of Funds (POF) is often the deciding factor between approval and refusal.
 
-At POF NG, we specialize in exactly this for Nigerian applicants heading to Canada. Our process:
+At [POF NG](/), we specialize in exactly this for Nigerian applicants heading to Canada. Our process:
 
 1.  Consultation & document submission.
 2.  Interest/payment for the service.
@@ -25,7 +25,7 @@ Tell us your target amount, preferred bank, and timeline — we’ll guide you o
 
 ### Latest Canada Study Permit Financial Requirements (2026)
 
-As of applications on or after September 1, 2025, IRCC updated the cost-of-living requirement. For provinces outside Quebec, a single student must show:
+As of applications on or after September 1, 2026, IRCC updated the cost-of-living requirement. For provinces outside Quebec, a single student must show:
 
 *   **Living expenses**: CAD $22,895 per year (for the applicant alone).
 *   **First-year tuition fees** (as stated in your Letter of Acceptance).
@@ -109,4 +109,4 @@ POF NG, we’ve helped hundreds of Nigerian students successfully meet Canada (a
 
 [Chat with us on WhatsApp](https://wa.me/2348103669924) for a free consultation. Tell us your target amount, preferred bank, and timeline — we’ll guide you on the best options for your Canada application.
 
-** Build credible Proof of Funds the smart way.
+Build credible Proof of Funds the smart way.

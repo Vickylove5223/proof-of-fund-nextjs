@@ -7,7 +7,7 @@ description: >-
   Japa to Brazil from Nigeria: Your Comprehensive Relocation Guide |
   Call/WhatsApp: 08103669924
 seo_title: 'Japa to Brazil from Nigeria: Your Comprehensive Relocation Guide'
-image: /images/finance-1.png
+image: /wp-content/uploads/2025/09/54393b20-44c6-4db1-b806-49c19fe2185f.jpg
 ---
 Japa to Brazil from Nigeria: Your Comprehensive Relocation Guide
 

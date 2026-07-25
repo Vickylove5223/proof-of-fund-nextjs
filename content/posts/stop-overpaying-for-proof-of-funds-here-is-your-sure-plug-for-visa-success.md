@@ -8,7 +8,7 @@ description: >-
   financial requirements? Whether you are a prospecti... | Call/WhatsApp:
   08103669924
 seo_title: 'Stop Overpaying for Proof of Funds: Here is Your Sure Plug for Visa Success.'
-image: /images/finance-2.png
+image: /wp-content/uploads/2025/09/54393b20-44c6-4db1-b806-49c19fe2185f.jpg
 ---
 Are you planning your "Japa" journey but feeling stuck because of the strict financial requirements? Whether you are a prospective student planning to travel out through the study route, a tourist looking to explore the world, or a professional traveling through the work route, your bank statement is the ultimate deciding factor.
 
@@ -28,7 +28,7 @@ Here are three reasons why POF NG is your ultimate plug for visa financial backi
 
 We understand that the cost of processing visas, paying tuition, and booking flights is already overwhelming. That is why we offer the absolute cheapest Proof of Funds rates in the market.
 
-6%**. No hidden charges, no crazy bank collateral—just affordable, verifiable funds.
+6%. No hidden charges, no crazy bank collateral—just affordable, verifiable funds.
 
 ### 2\. Flexible Split Disbursements
 

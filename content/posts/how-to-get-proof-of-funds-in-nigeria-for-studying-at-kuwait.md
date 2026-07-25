@@ -8,7 +8,7 @@ description: >-
   a unique blend of modern education and rich cultu... | Call/WhatsApp:
   08103669924
 seo_title: How to Get Proof of Funds in Nigeria for Studying at Kuwait
-image: /images/finance-2.png
+image: /wp-content/uploads/2025/02/two-business-woman-cafe_1157-14528.jpg
 ---
 Dreaming of pursuing your education in Kuwait? It’s an exciting goal, offering a unique blend of modern education and rich culture.
 

@@ -57,6 +57,6 @@ Nigerian bank education loans and the government student-loan scheme exist, but 
 
 ## Loan + POF: The Hybrid File That Works
 
-The strongest applications we see combine sources transparently: loan letter for tuition, documented personal/family funds for living costs, each with clean [source-of-funds documentation](/source-of-funds-explanation-for-pof-loan-nigeria-samples-templates-expert-tips-2026). Where the cash side falls short or lacks history, that's the gap POF NG fills — legitimate funding in top banks, seasoned and documented to your embassy's rules, sized to complement your loan rather than duplicate it.
+The strongest applications we see combine sources transparently: loan letter for tuition, documented personal/family funds for living costs, each with clean [source-of-funds documentation](/source-of-funds-explanation-for-pof-loan-nigeria-samples-templates-expert-tips-2026). Where the cash side falls short or lacks history, that's the gap [POF NG](/) fills — legitimate funding in top banks, seasoned and documented to your embassy's rules, sized to complement your loan rather than duplicate it.
 
 **Message us on WhatsApp at 08103669924** with your destination, I-20/CAS amount, and loan status — we'll map the exact hybrid file. Or start with the [proof of funds calculator](/proof-of-fund-calculator) to see your remaining gap.

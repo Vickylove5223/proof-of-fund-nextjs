@@ -8,7 +8,7 @@ description: >-
   picked your destination, prepared your documents, and a... | Call/WhatsApp:
   08103669924
 seo_title: Best Evidence of Sufficient Funds for Nigeria Visa (Proof of Fund)
-image: /images/finance-3.png
+image: /wp-content/uploads/2025/02/two-business-woman-cafe_1157-14528.jpg
 ---
 Planning to travel, study, or work abroad is an exciting journey. You've picked your destination, prepared your documents, and are ready for the next chapter.
 

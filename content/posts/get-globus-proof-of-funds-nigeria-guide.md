@@ -6,7 +6,7 @@ description: "\\IMAGE: A person holding a passport and visa application
   documents, representing the process of getting Globus Proof of funds in... |
   Call/WhatsApp: 08103669924"
 seo_title: "Get Globus Proof of Funds in Nigeria: Your Step-by-Step Guide"
-image: /images/finance-2.png
+image: /wp-content/uploads/2025/02/family-enjoying-their-winter-time-together_23-2149186294.jpg
 ---
 IMAGE: A person holding a passport and visa application documents, representing the process of getting Globus Proof of funds in Nigeria.
 

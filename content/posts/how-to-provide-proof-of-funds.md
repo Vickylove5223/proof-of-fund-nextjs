@@ -8,7 +8,7 @@ description: >-
   picked your destination, chosen your school, and prepar... | Call/WhatsApp:
   08103669924
 seo_title: How to Provide Proof of Funds
-image: /images/finance-3.png
+image: /wp-content/uploads/2025/02/tourist-carrying-baggage_23-2151747389.jpg
 ---
 Planning to study, work, or travel abroad is an exciting journey. You’ve picked your destination, chosen your school, and prepared your documents.
 

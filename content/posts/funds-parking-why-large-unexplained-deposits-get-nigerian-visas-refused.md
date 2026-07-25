@@ -8,7 +8,7 @@ description: >-
   "funds parking." Learn how to explain large deposits properly and keep your
   application safe. | Call/WhatsApp: 08103669924
 seo_title: 'Funds Parking: Large Unexplained Deposits and Visa Refusal Nigeria'
-image: /images/finance-3.png
+image: /wp-content/uploads/2025/02/colleagues-studying-together-university-library_23-2148844695.jpg
 ---
 You finally gathered the money for your visa application. A relative transferred ₦3 million, you moved ₦2 million from your business account, and your statement now shows a healthy balance. Two months later: **refused — "I am not satisfied the funds are genuinely available to you."**
 
@@ -60,4 +60,4 @@ Learn how this works in our guide on [how proof of fund (POF) services work in N
 
 Visa officers refuse what they cannot explain. Every naira in your statement should have a story your documents can tell without you in the room.
 
-If you want your finances structured properly the first time — with no parked funds and no red flags — talk to POF NG on **Call/WhatsApp: 08103669924**, or start with our [proof of funds calculator](/proof-of-fund-calculator) to see the amount your destination actually requires.
+If you want your finances structured properly the first time — with no parked funds and no red flags — talk to [POF NG](/) on **Call/WhatsApp: 08103669924**, or start with our [proof of funds calculator](/proof-of-fund-calculator) to see the amount your destination actually requires.

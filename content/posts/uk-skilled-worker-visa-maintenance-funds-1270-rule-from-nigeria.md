@@ -8,7 +8,7 @@ description: >-
   show £1,270 held for 28 days — or have your sponsor certify maintenance.
   Full 2026 guide. | Call/WhatsApp: 08103669924
 seo_title: 'UK Skilled Worker Visa £1,270 Maintenance Funds Nigeria 2026'
-image: /images/finance-1.png
+image: /wp-content/uploads/2025/02/family-enjoying-their-winter-time-together_23-2149186294.jpg
 ---
 You got the Certificate of Sponsorship. The job is real, the salary meets the threshold — and then your application stalls on a small financial detail nobody warned you about: **maintenance funds**.
 
@@ -35,7 +35,7 @@ Your UK employer ticks the box on your Certificate of Sponsorship confirming the
 
 The Health and Care Worker route uses the same £1,270 rule — but with two realities Nigerians must plan around:
 
-1. **Dependants are restricted.** Since the 2024–2025 rule changes, most new care workers cannot bring partners or children on dependant visas. Budget and plan on this basis.
+1. **Dependants are restricted.** Since the 2024–2026 rule changes, most new care workers cannot bring partners or children on dependant visas. Budget and plan on this basis.
 2. **Where dependants are still allowed** (other Skilled Worker occupations), each adds to the requirement: **£285 for a partner, £315 for the first child, £200 per additional child** — all subject to the same 28-day rule.
 
 | Who | Additional funds |
@@ -66,6 +66,6 @@ Official reference: the [GOV.UK Skilled Worker visa guidance](https://www.gov.uk
 
 ## Sorting Your Maintenance Funds Fast
 
-If your account can't hold ₦3m untouched for a month — or your start date won't wait for a restarted 28-day clock — POF NG can structure legitimate maintenance funds in a top Nigerian bank with the full 28-day history and documentation UKVI expects. It's the same service trusted for [UK student visa proof of funds](/48-hour-proof-of-funds-uk-student-visa), sized for worker files.
+If your account can't hold ₦3m untouched for a month — or your start date won't wait for a restarted 28-day clock — [POF NG](/) can structure legitimate maintenance funds in a top Nigerian bank with the full 28-day history and documentation UKVI expects. It's the same service trusted for [UK student visa proof of funds](/48-hour-proof-of-funds-uk-student-visa), sized for worker files.
 
 Message us on **Call/WhatsApp: 08103669924** — or estimate your requirement (with dependants) using the [proof of funds calculator](/proof-of-fund-calculator).

@@ -8,7 +8,7 @@ description: >-
   true for many Nigerian students. However, between y... | Call/WhatsApp:
   08103669924
 seo_title: 'Proof of Funds for UK Student Visa from Nigeria: The Ultimate Guide'
-image: /images/finance-3.png
+image: /wp-content/uploads/2025/09/93e330bb-c279-4fe2-a3e9-8da837d7f5ff.jpg
 ---
 Securing admission to a UK university is a massive achievement, a dream come true for many Nigerian students. However, between you and your studies in the UK stands one of the most critical steps: the visa application.
 

@@ -8,7 +8,7 @@ description: >-
   accepts funds in your name or your parent/legal guardian's — here's the rule
   and every workaround. | Call/WhatsApp: 08103669924
 seo_title: 'Who Can Sponsor UK Student Visa Proof of Funds — Parent Rule'
-image: /images/finance-1.png
+image: /wp-content/uploads/2025/09/application-form-information-employment-concept_53876-128011.jpg
 ---
 Here is a rule that refuses thousands of Nigerian student visa applications, and almost nobody explains it clearly:
 
@@ -59,6 +59,6 @@ A financial-documentation refusal is recoverable — the [right response to a UK
 
 ## Get the Structure Right the First Time
 
-The parent rule is unforgiving, but it is completely manageable with planning. POF NG structures UK-compliant proof of funds daily — in the applicant's or parent's name, correct amounts for your city and course, full 28-day seasoning, and the complete document set (consent letters, relationship evidence, bank letters).
+The parent rule is unforgiving, but it is completely manageable with planning. [POF NG](/) structures UK-compliant proof of funds daily — in the applicant's or parent's name, correct amounts for your city and course, full 28-day seasoning, and the complete document set (consent letters, relationship evidence, bank letters).
 
 Check your exact maintenance amount with the [proof of funds calculator](/proof-of-fund-calculator) or message us on **Call/WhatsApp: 08103669924**.

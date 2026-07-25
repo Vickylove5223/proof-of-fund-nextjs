@@ -6,7 +6,7 @@ description: "Facing a Canada embassy interview in Nigeria can feel like the
   final, most nerve-wracking step in your journey. After all the pa... |
   Call/WhatsApp: 08103669924"
 seo_title: "Nigeria Canada Embassy Interview: 10 Common Questions"
-image: /images/finance-1.png
+image: /wp-content/uploads/2025/02/family-enjoying-their-winter-time-together_23-2149186294.jpg
 ---
 Facing a Canada embassy interview in Nigeria can feel like the final, most nerve-wracking step in your journey. After all the paperwork and waiting, it all comes down to a short conversation.
 

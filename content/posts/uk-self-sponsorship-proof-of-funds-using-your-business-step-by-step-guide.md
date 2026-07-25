@@ -8,7 +8,7 @@ description: >-
   proof of funds for self-sponsorship? Does my busi... | Call/WhatsApp:
   08103669924
 seo_title: 'UK Self-Sponsorship Proof of Funds: Using Your Business Step-by-Step Guide'
-image: /images/finance-2.png
+image: /wp-content/uploads/2025/02/colleagues-studying-together-university-library_23-2148844695.jpg
 ---
 ### The Truth About Self-Sponsorship Proof of Funds Requirements
 

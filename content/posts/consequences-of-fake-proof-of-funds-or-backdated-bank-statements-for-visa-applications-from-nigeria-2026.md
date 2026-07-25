@@ -13,7 +13,7 @@ description: >-
 seo_title: >-
   Consequences of Fake Proof of Funds or Backdated Bank Statements for Visa
   Applications from Nigeria 2026
-image: /images/finance-1.png
+image: /wp-content/uploads/2025/09/54393b20-44c6-4db1-b806-49c19fe2185f.jpg
 ---
 Using fake Proof of Funds (POF), forged bank statements, or backdated accounts is one of the riskiest mistakes Nigerian visa applicants make. Embassies and visa sections have sophisticated detection methods.
 
@@ -80,7 +80,7 @@ Instead of risking everything with fake documents, use compliant temporary fundi
 *   Clear funding letters and Source of Funds explanations
 *   Transparent process that strengthens rather than risks your application
 
-At **POF NG**, we provide legitimate, verifiable Proof of Funds that thousands of Nigerians have used successfully for UK, Canada, and other destinations. If your problem is missing account *history*, the legal fix is building real history forward — often in as little as 28 days for UK routes. We explain exactly how in [why backdated statements fail and what works instead](/backdated-bank-statement-for-visa-in-nigeria-why-it-fails-and-what-works).
+At **[POF NG](/)**, we provide legitimate, verifiable Proof of Funds that thousands of Nigerians have used successfully for UK, Canada, and other destinations. If your problem is missing account *history*, the legal fix is building real history forward — often in as little as 28 days for UK routes. We explain exactly how in [why backdated statements fail and what works instead](/backdated-bank-statement-for-visa-in-nigeria-why-it-fails-and-what-works).
 
 ### Final Advice: Protect Your Future
 

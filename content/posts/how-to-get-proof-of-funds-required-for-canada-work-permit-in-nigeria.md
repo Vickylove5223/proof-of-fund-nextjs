@@ -8,7 +8,7 @@ description: >-
   You've perfected your CV, explored job opportunities, a... | Call/WhatsApp:
   08103669924
 seo_title: 'Proof of Funds for Canada Work Permit: A Nigerian Applicant''s Guide'
-image: /images/finance-1.png
+image: /wp-content/uploads/2025/09/25ae7f4a-e9db-42af-95d8-f32cb793b7c8.jpg
 ---
 Dreaming of working in Canada? It’s an exciting goal for many Nigerians.
 

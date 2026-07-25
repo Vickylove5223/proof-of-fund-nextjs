@@ -6,7 +6,7 @@ description: "Many people misunderstand what proof of funds  really means when
   applying for visas, especially from Nigeria and across Africa.... |
   Call/WhatsApp: 08103669924"
 seo_title: Why Visa Applications Get Rejected Because of POF (Learn How to Avoid It)
-image: /images/finance-1.png
+image: /wp-content/uploads/2025/09/54393b20-44c6-4db1-b806-49c19fe2185f.jpg
 ---
 Many people misunderstand what **proof of funds (POF)** really means when applying for visas, especially from Nigeria and across Africa. There’s a common belief that all you need is to show big money sitting in your account.
 
@@ -48,7 +48,7 @@ Migration is not something you wake up to do in one week. It requires **strategy
 
 ### How POF NG Guides You
 
-At POF NG, we guide applicants on how to prepare **clean, consistent, and convincing proof of funds**. Our approach is not about shortcuts — it’s about proper documentation and long-term planning.
+At [POF NG](/), we guide applicants on how to prepare **clean, consistent, and convincing proof of funds**. Our approach is not about shortcuts — it’s about proper documentation and long-term planning.
 
 We advise students and families to:
 
@@ -80,4 +80,22 @@ If you’re serious about getting your proof of funds today, let us work with yo
 
 ### Frequently Asked Questions on Proof of Funds
 
-**How much is the required POF for Canada via the study route?** Currently, students need to show at least **CAD 21,000 for living expenses** (for one year) plus **tuition fees**. This is higher than before when it was CAD 10,000. **Does work visa need POF?** Yes. Most work visa categories still require proof that you can support yourself before settling into employment. The required amount varies depending on the visa type. **Do we have to be making transactions in the POF account, or should it stay untouched?** Your account should show **regular inflow and outflow**. A dormant account with only one large deposit will raise suspicion. **If after submission of the application, can I withdraw the funds from my account?** Technically, once your application is submitted, the officer will assess your financial documents as of that date. However, it is advisable to keep the funds until a decision is made, in case of further checks. **Can I use a savings account from a mortgage bank?** It is better to use a **recognized commercial bank**. Mortgage banks are not commonly accepted unless they provide standard bank statements that immigration officers recognize. **Is it advisable to use investment plan for POF?** Yes, but only if it is liquid (easy to cash out) and you can provide supporting documents. Fixed investments may not be accepted as readily available funds. **Can one use his company proof of fund, and how many months bank statement is needed?** No, it’s better to use a **personal account**. Immigration officers want to see that the money is personally accessible. You generally need a **6-month statement**. **Is microfinance bank advisable (like Opay, MoneyPoint, etc.)?** Not recommended. Stick with major commercial banks for credibility and easier verification. **If I’m being invited, will they still ask for proof of fund since the invitation letter states accommodation is covered?** Yes. Even with an invitation letter, you may still need to show funds for **living expenses and personal upkeep**. **Do you people give study loan?** Fly Matters does not provide loans, but we guide students on how to structure their finances and prepare convincing proof of funds. **Please, I need guidance on how to apply.** We offer consultations, visa training, and courses to guide you step by step. You can reach out to Fly Matters to begin your process the right way.
+**How much is the required POF for Canada via the study route?** Currently, students need to show at least 
+
+**CAD 21,000 for living expenses** (for one year) plus **tuition fees**. This is higher than before when it was CAD 10,000. 
+
+**Does work visa need POF?** Yes. Most work visa categories still require proof that you can support yourself before settling into employment. The required amount varies depending on the visa type. **Do we have to be making transactions in the POF account, or should it stay untouched?** Your account should show **regular inflow and outflow**. A dormant account with only one large deposit will raise suspicion. **If after submission of the application, can I withdraw the funds from my account?** Technically, once your application is submitted, the officer will assess your financial documents as of that date. However, it is advisable to keep the funds until a decision is made, in case of further checks. 
+
+**Can I use a savings account from a mortgage bank?** It is better to use a **recognized commercial bank**. Mortgage banks are not commonly accepted unless they provide standard bank statements that immigration officers recognize. 
+
+**Is it advisable to use investment plan for POF?** Yes, but only if it is liquid (easy to cash out) and you can provide supporting documents. Fixed investments may not be accepted as readily available funds. **Can one use his company proof of fund, and how many months bank statement is needed?** No, it’s better to use a 
+
+**personal account**. Immigration officers want to see that the money is personally accessible. You generally need a 
+
+**6-month statement**. 
+
+**Is microfinance bank advisable (like Opay, MoneyPoint, etc.)?** Not recommended. Stick with major commercial banks for credibility and easier verification. **If I’m being invited, will they still ask for proof of fund since the invitation letter states accommodation is covered?** Yes. Even with an invitation letter, you may still need to show funds for **living expenses and personal upkeep**. 
+
+**Do you people give study loan?** Fly Matters does not provide loans, but we guide students on how to structure their finances and prepare convincing proof of funds. 
+
+**Please, I need guidance on how to apply.** We offer consultations, visa training, and courses to guide you step by step. You can reach out to Fly Matters to begin your process the right way.

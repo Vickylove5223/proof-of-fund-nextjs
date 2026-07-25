@@ -81,9 +81,9 @@ Your application will be refused. The balance must remain above the required thr
 
 #### Do UKVI accept microfinance or fintech banks like Opay or Moniepoint?
 
-No. It’s safer to use a traditional commercial bank licensed by the Central Bank.
+Yes, unlike some other countries, UKVI generally accepts statements from licensed Nigerian microfinance and fintech banks such as Opay or Moniepoint, provided the statement is official, clearly formatted, and shows the required 28-day history.
 
-Many embassies reject statements from microfinance or digital wallets.
+Acceptance still varies by embassy — for example, Canada's IRCC does not accept microfinance or fintech accounts, so it's safer to use a traditional commercial bank whenever your destination isn't confirmed to allow them.
 
 #### Can I backdate my account or borrow money temporarily?
 

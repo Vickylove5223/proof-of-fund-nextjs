@@ -13,9 +13,9 @@ description: >-
 seo_title: >-
   Why You Should NEVER Use a Microfinance Bank for Your Study Visa Proof of
   Funds
-image: /images/finance-1.png
+image: /wp-content/uploads/2025/09/93e330bb-c279-4fe2-a3e9-8da837d7f5ff.jpg
 ---
-"_ The short answer? ** While getting your documentation ready is stressful, using a microfinance bank can easily lead to a heartbreaking visa refusal.
+"_ The short answer? While getting your documentation ready is stressful, using a microfinance bank can easily lead to a heartbreaking visa refusal.
 
 In this post, we’ll explain exactly why visa officers reject statements from microfinance banks and what you must do instead to secure your study visa.
 

@@ -8,7 +8,7 @@ description: >-
   filled out countless forms, gathered documents, an... | Call/WhatsApp:
   08103669924
 seo_title: How to Get Proof of Funds in Nigeria for Embassy Interview
-image: /images/finance-2.png
+image: /wp-content/uploads/2025/02/colleagues-studying-together-university-library_23-2148844695.jpg
 ---
 Preparing for an embassy interview can be a nerve-wracking experience. You've filled out countless forms, gathered documents, and practiced your answers.
 
@@ -95,8 +95,14 @@ Unfortunately, many visa applications are rejected due to POF issues. Being awar
 The most frequent reasons include:
 
 **1\. Insufficient Funds:** The amount shown is less than the minimum required by the embassy.  
+
+
 **2\. Sudden Large Deposits:** A large sum of money appears without a clear explanation (also known as "fund parking").  
+
+
 **3\. Unverifiable Documents:** The embassy contacts the bank and cannot verify the funds or the statement.  
+
+
 **4\. Funds Not Held Long Enough:** For countries like the UK, the money hasn't been in the account for the mandatory 28-day period.
 
 [Contact POF NG](/) helps you avoid these issues entirely. We ensure your documents are authentic, verifiable, and meet the specific timeline requirements of your chosen embassy.

@@ -8,13 +8,13 @@ description: >-
   $15,263+ for Express Entry in 2026. See the new amounts converted to naira
   and how to meet them. | Call/WhatsApp: 08103669924
 seo_title: 'Canada Proof of Funds 2026: New Amounts in Naira (Updated)'
-image: /images/finance-2.png
+image: /wp-content/uploads/2025/09/25ae7f4a-e9db-42af-95d8-f32cb793b7c8.jpg
 ---
 If you are planning Canada in 2026, throw away every article quoting the old $10,000 requirement. **IRCC has more than doubled the study permit proof of funds to CAD $22,895**, and Express Entry settlement funds have risen again with the annual update. This post gives you the current figures, their naira equivalents, and exactly how to meet them from Nigeria.
 
 ## Study Permit Proof of Funds 2026
 
-Effective from September 2025 and applying to all 2026 applications, a single applicant (outside Quebec) must show:
+Effective from September 2026 and applying to all 2026 applications, a single applicant (outside Quebec) must show:
 
 *   **CAD $22,895** for first-year living expenses — roughly **₦26m – ₦29m** depending on the exchange rate
 *   **PLUS first-year tuition** (typically CAD $15,000 – $35,000)
@@ -62,4 +62,4 @@ What does **not** count: money that appeared last week, unverifiable investments
 
 The doubled study-permit requirement has priced out applicants who could scrape together ₦12m — but it has also cut refusal rates for well-prepared files. Officers now see fewer, stronger applications. Make yours one of them.
 
-POF NG structures Canada-compliant proof of funds — correct amounts, aged history, top banks, full documentation — for study permits, Express Entry, and family files. Message us on **Call/WhatsApp: 08103669924** or check your exact requirement with the [proof of funds calculator](/proof-of-fund-calculator).
+[POF NG](/) structures Canada-compliant proof of funds — correct amounts, aged history, top banks, full documentation — for study permits, Express Entry, and family files. Message us on **Call/WhatsApp: 08103669924** or check your exact requirement with the [proof of funds calculator](/proof-of-fund-calculator).

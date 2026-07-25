@@ -8,7 +8,7 @@ description: >-
   GTBank, Access, Zenith, UBA and First Bank — and how long each takes. The
   practical guide for visa applicants. | Call/WhatsApp: 08103669924
 seo_title: 'Stamped Bank Statement & Reference Letter Cost Nigeria: GTB, Access, Zenith'
-image: /images/finance-3.png
+image: /wp-content/uploads/2025/02/colleagues-studying-together-university-library_23-2148844695.jpg
 ---
 Small question, real stakes: your embassy checklist wants a **stamped statement** and maybe a **bank reference letter**, your appointment is next week, and you need to know what each bank charges and how long it takes.
 
@@ -54,6 +54,6 @@ For embassy purposes, stick to the majors — statements from tier-1 commercial 
 
 ## When the Documents Are Easy but the Balance Isn't
 
-Getting the stamp costs ₦5,000. Having six months of the *right balance* behind that stamp is the actual challenge — and that's what POF NG structures: legitimate funding in these same tier-1 banks, with the statements and reference letters included in the package.
+Getting the stamp costs ₦5,000. Having six months of the *right balance* behind that stamp is the actual challenge — and that's what [POF NG](/) structures: legitimate funding in these same tier-1 banks, with the statements and reference letters included in the package.
 
 **WhatsApp: 08103669924** — or start with the [proof of funds calculator](/proof-of-fund-calculator).

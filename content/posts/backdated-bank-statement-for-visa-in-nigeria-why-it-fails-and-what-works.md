@@ -8,7 +8,7 @@ description: >-
   directly with Nigerian banks — here is what actually happens, and the legal
   way to get the history you need. | Call/WhatsApp: 08103669924
 seo_title: 'Backdated Bank Statement for Visa Nigeria: Why It Fails + Legal Alternative'
-image: /wp-content/uploads/2025/09/Proof-of-Fund-in-Nigeria-1.webp
+image: /wp-content/uploads/2025/09/visa-application-composition-with-different-flags_23-2149117806.jpg
 ---
 If you are searching for a backdated bank statement for your visa application, you already know your problem: **the embassy wants months of account history, and you don't have it.** Maybe your money arrived recently. Maybe it sits in someone else's account. Maybe your real account tells the wrong story.
 
@@ -48,7 +48,7 @@ Here is what the backdating searcher actually needs — and how it's done legiti
 *   **Recent large deposits are workable** when the source is documented — a [source of funds explanation letter](/source-of-funds-explanation-for-pof-loan-nigeria-samples-templates-expert-tips-2026) turns a "suspicious" credit into an explained one.
 *   **Money in the wrong person's account** has legal fixes too — see [who can hold your funds for UK student visas](/who-can-sponsor-your-uk-student-visa-proof-of-funds) and the transfer-and-season approach.
 
-This is exactly what POF NG does: legitimate funding placed in top CBN-licensed banks (GTB, Zenith, Access, UBA) under lien, held for your full processing period, with official statements and bank letters that **pass verification because they are true**. Read [how the process works step by step](/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide).
+This is exactly what [POF NG](/) does: legitimate funding placed in top CBN-licensed banks (GTB, Zenith, Access, UBA) under lien, held for your full processing period, with official statements and bank letters that **pass verification because they are true**. Read [how the process works step by step](/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide).
 
 ## "But My Application Is Due Next Week"
 

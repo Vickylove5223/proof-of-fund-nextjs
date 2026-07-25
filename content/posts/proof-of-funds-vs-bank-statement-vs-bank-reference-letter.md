@@ -8,7 +8,7 @@ description: >-
   they are not the same thing. Learn what each document is, when you need
   which, and how to get them in Nigeria. | Call/WhatsApp: 08103669924
 seo_title: 'Proof of Funds vs Bank Statement vs Bank Letter — Difference Explained'
-image: /images/finance-3.png
+image: /wp-content/uploads/2025/02/family-enjoying-their-winter-time-together_23-2149186294.jpg
 ---
 Visa checklists throw three terms around as if everyone was born knowing them: *proof of funds*, *bank statement*, and *bank reference letter*. Applicants routinely submit one when the embassy wanted another — and get refused on "insufficient documentation" while having every naira required.
 
@@ -70,6 +70,6 @@ Embassies value it because it is **hard to fake and easy to verify** — a one-c
 
 ## Get the Full Package, Correctly Formatted
 
-Every POF NG file ships as a complete package: funding in a top commercial bank, official stamped statements covering the required history, and the attestation letters embassies expect — formatted for your specific destination.
+Every [POF NG](/) file ships as a complete package: funding in a top commercial bank, official stamped statements covering the required history, and the attestation letters embassies expect — formatted for your specific destination.
 
 Confirm your required amount with the [proof of funds calculator](/proof-of-fund-calculator), check your destination's rules on [see requirements](/see-requirements), or message us on **Call/WhatsApp: 08103669924**.

@@ -8,7 +8,7 @@ description: >-
   associated with the process? The "Japa" wave is real,... | Call/WhatsApp:
   08103669924
 seo_title: 5 Ways to Move Abroad Without Breaking the Bank
-image: /images/finance-3.png
+image: /wp-content/uploads/2025/09/25ae7f4a-e9db-42af-95d8-f32cb793b7c8.jpg
 ---
 Are you dreaming of migrating abroad but feel restricted by the high costs associated with the process? The "Japa" wave is real, but many Nigerians are held back because they believe moving to countries like the US, UK, Canada, or European nations requires tens of millions of Naira.
 
@@ -93,7 +93,7 @@ With the right planning, these European destinations are highly accessible.
 The Elephant in the Room: How to Show Proof of Funds When You Have No Assets
 ----------------------------------------------------------------------------
 
-Here is the reality check: Whether you get a cheap school in Switzerland, free tuition in Germany, or a standard admission in Canada, the Embassy has one strict rule. ** You will be asked to present a bank statement with millions of Naira showing you can cater for your living expenses.
+Here is the reality check: Whether you get a cheap school in Switzerland, free tuition in Germany, or a standard admission in Canada, the Embassy has one strict rule. You will be asked to present a bank statement with millions of Naira showing you can cater for your living expenses.
 
 What happens if you are a brilliant applicant, but your parents do not have N20,000,000 sitting idle in a bank account? Do you abandon your dreams?
 
@@ -114,6 +114,6 @@ Check out our [blog](/guides) to see success stories and more tips.
 
 ### Ready to Secure Your Visa? Talk to Us Today!
 
-Our live support experts are on standby to look at your specific country's requirements, calculate the exact exchange rate, and provide the funds you need right away. me/2348103669924) Your visa approval is closer than you think.
+Our live support experts are on standby to look at your specific country's requirements, calculate the exact exchange rate, and provide the funds you need right away. [Chat with us on WhatsApp](https://wa.me/2348103669924) Your visa approval is closer than you think.
 
 Send us a DM today, and let’s fund your dreams!

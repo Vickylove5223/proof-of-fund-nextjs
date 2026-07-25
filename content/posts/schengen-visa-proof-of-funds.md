@@ -6,7 +6,7 @@ description: "When applying for a Schengen visa, one of the most important
   requirements is your proof of funds . This financial requirement sh... |
   Call/WhatsApp: 08103669924"
 seo_title: "Schengen Visa Proof of Funds: How Much You Need and Mistakes to Avoid"
-image: /images/finance-2.png
+image: /wp-content/uploads/2025/02/two-business-woman-cafe_1157-14528.jpg
 ---
 When applying for a **Schengen visa**, one of the most important requirements is your **proof of funds (POF)**. This financial requirement shows that you can take care of yourself during your stay in Europe without becoming a financial burden.
 
@@ -83,4 +83,16 @@ By preparing your proof of funds correctly, you significantly increase your chan
 
 ### FAQs About Schengen Visa Proof of Funds
 
-**1 Can one use a joint account as proof of funds?** Yes, but you must provide documents proving you are a joint account holder and have access to the funds. **2 Can I use a sponsor’s account statement?** Yes, but sponsors are usually limited to **immediate family members** (parents, siblings, spouse). You’ll also need supporting documents like a sponsor’s letter and proof of relationship. **3 What if someone sponsored my travel, do I still need proof of funds?** Yes, even with a sponsor, embassies may still request your personal financial documents. A sponsor’s account alone is not always enough. **4 For a tourist visa, is it really €118 per day?** Yes, that’s the standard calculation for Spain and some other Schengen countries. Multiply **€118 by the number of days you plan to stay** to know your requirement. **5 What if the funds came from selling property?** That’s acceptable, but you must provide **supporting documents** (sales agreement, receipts, proof of ownership, transfer evidence). **6 Can ₦5 million take me to Spain for work?** No. For a work visa or even a tourist visa, ₦5 million is generally not enough. You need at least **₦15–₦20 million** depending on your purpose of travel and exchange rates.
+**1 Can one use a joint account as proof of funds?** Yes, but you must provide documents proving you are a joint account holder and have access to the funds. 
+
+**2 Can I use a sponsor’s account statement?** Yes, but sponsors are usually limited to 
+
+**immediate family members** (parents, siblings, spouse). You’ll also need supporting documents like a sponsor’s letter and proof of relationship. **3 What if someone sponsored my travel, do I still need proof of funds?** Yes, even with a sponsor, embassies may still request your personal financial documents. A sponsor’s account alone is not always enough. 
+
+**4 For a tourist visa, is it really €118 per day?** Yes, that’s the standard calculation for Spain and some other Schengen countries. Multiply **€118 by the number of days you plan to stay** to know your requirement. 
+
+**5 What if the funds came from selling property?** That’s acceptable, but you must provide 
+
+**supporting documents** (sales agreement, receipts, proof of ownership, transfer evidence). 
+
+**6 Can ₦5 million take me to Spain for work?** No. For a work visa or even a tourist visa, ₦5 million is generally not enough. You need at least **₦15–₦20 million** depending on your purpose of travel and exchange rates.

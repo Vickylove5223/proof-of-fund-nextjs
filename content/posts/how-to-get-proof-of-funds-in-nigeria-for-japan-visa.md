@@ -8,7 +8,7 @@ description: >-
   Kyoto, or the beautiful landscapes of Hokkaido? Japan... | Call/WhatsApp:
   08103669924
 seo_title: How to Get Proof of Funds in Nigeria for Japan Visa
-image: /images/finance-1.png
+image: /wp-content/uploads/2025/02/family-enjoying-their-winter-time-together_23-2149186294.jpg
 ---
 Dreaming of exploring the vibrant streets of Tokyo, the serene temples of Kyoto, or the beautiful landscapes of Hokkaido? Japan is a top destination for many Nigerians, but before you can pack your bags, you need to navigate the visa application process.
 

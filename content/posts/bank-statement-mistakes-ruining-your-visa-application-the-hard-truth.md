@@ -8,13 +8,13 @@ description: >-
   shocked when they receive a refusal for "insufficient... | Call/WhatsApp:
   08103669924
 seo_title: 'Bank Statement Mistakes Ruining Your Visa Application: The Hard Truth'
-image: /images/finance-1.png
+image: /wp-content/uploads/2025/02/family-enjoying-their-winter-time-together_23-2149186294.jpg
 ---
 Is your bank statement costing you your visa approval? Many applicants are shocked when they receive a refusal for "insufficient funds" despite having millions in their account.
 
 The truth is, visa officers don't just look at the final balance; they scrutinize every line, inflow, and outflow to ensure your story adds up.
 
-At **POF NG**, we see these mistakes every day. [Reach out to us on WhatsApp](https://wa.me/2348103669924) at an affordable rate to ensure your application is airtight.
+At **[POF NG](/)**, we see these mistakes every day. [Reach out to us on WhatsApp](https://wa.me/2348103669924) at an affordable rate to ensure your application is airtight.
 
 > *"One of our clients was so confused about whether to use a fixed deposit or a current account for their proof of funds. We provided expert consultation, set up the perfect account structure, and supplied the necessary funds. Their confidence was restored, and their visa was approved shortly after."*
 

@@ -8,7 +8,7 @@ description: >-
   The actual questions asked — course, university, finances, agents — with
   answer strategies that hold up. | Call/WhatsApp: 08103669924
 seo_title: 'UK Student Visa Credibility Interview Questions for Nigerians 2026'
-image: /images/finance-2.png
+image: /wp-content/uploads/2025/02/two-business-woman-cafe_1157-14528.jpg
 ---
 Unlike the US, the UK doesn't interview every student — which is exactly why the **credibility interview** catches Nigerians off guard. It arrives as a short-notice video call from UKVI, it feels informal, and it quietly decides borderline applications. Universities also run their own pre-CAS interviews that gate whether you get sponsored at all.
 
@@ -56,6 +56,6 @@ This is where your file and your mouth must match perfectly:
 
 ## The Interview Rewards Files Built Properly
 
-You cannot talk your way past finances that don't add up — but finances structured correctly answer half the interview for you. POF NG builds UK student files with the right holders, amounts, 28-day seasoning, and source documentation, so the money questions become your easiest section.
+You cannot talk your way past finances that don't add up — but finances structured correctly answer half the interview for you. [POF NG](/) builds UK student files with the right holders, amounts, 28-day seasoning, and source documentation, so the money questions become your easiest section.
 
 **WhatsApp: 08103669924** — or check your maintenance amount on the [proof of funds calculator](/proof-of-fund-calculator).

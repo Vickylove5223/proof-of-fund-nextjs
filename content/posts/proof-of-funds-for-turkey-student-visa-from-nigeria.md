@@ -8,7 +8,7 @@ description: >-
   $4,000–$7,000 covers a year including proof of funds. Requirements, the
   Türkiye Scholarships shortcut, and application steps. | Call/WhatsApp: 08103669924
 seo_title: 'Turkey Student Visa Proof of Funds from Nigeria 2026'
-image: /images/finance-2.png
+image: /wp-content/uploads/2025/09/93e330bb-c279-4fe2-a3e9-8da837d7f5ff.jpg
 ---
 On pure affordability, Türkiye beats almost every serious study destination open to Nigerians: public-university tuition from **$500–$1,500/year**, living costs of **$300–$500/month**, and no fixed national proof-of-funds threshold — the consulate simply wants credible evidence you can cover your declared costs.
 
@@ -49,4 +49,4 @@ Processing typically runs 2–8 weeks. Confirm current checklists with the Turki
 
 ## Build the File Once, Properly
 
-POF NG structures Türkiye files at their real size — modest amounts, but with the seasoned history and documentation that consulates everywhere expect. **WhatsApp: 08103669924**, or start with the [proof of funds calculator](/proof-of-fund-calculator).
+[POF NG](/) structures Türkiye files at their real size — modest amounts, but with the seasoned history and documentation that consulates everywhere expect. **WhatsApp: 08103669924**, or start with the [proof of funds calculator](/proof-of-fund-calculator).

@@ -8,7 +8,7 @@ description: >-
   prepare your documents, one of the most critical req... | Call/WhatsApp:
   08103669924
 seo_title: Most Common Proof of Funds Interest Rate in Nigeria
-image: /images/finance-3.png
+image: /wp-content/uploads/2025/02/colleagues-studying-together-university-library_23-2148844695.jpg
 ---
 Planning to study, work, or immigrate abroad is an exciting journey. As you prepare your documents, one of the most critical requirements you'll encounter is the Proof of Funds (POF).
 
@@ -18,7 +18,7 @@ Understanding the costs involved, often referred to as an "interest rate" or ser
 
 > *"I almost gave up on my dream of studying in Australia because the POF requirement was just too high. Then I discovered I could legally get a POF loan. They funded the exact amount I needed for my visa application, and my student visa was granted two weeks ago. Highly recommended!"* — **David O., Port Harcourt**
 
-2%** of the total amount required. 5% upwards for their service.
+2% of the total amount required, with specialized providers charging upward of 5% for their service.
 
 What Exactly is a POF "Interest Rate"? --------------------------------------
 

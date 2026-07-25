@@ -8,9 +8,9 @@ description: >-
   what still works in 2026 — the in-UK switching route, eligible roles, and the
   money you must show. | Call/WhatsApp: 08103669924
 seo_title: 'UK Care Worker Visa 2026: Switching Route & Financial Requirements Nigeria'
-image: /images/finance-3.png
+image: /wp-content/uploads/2025/09/visa-application-composition-with-different-flags_23-2149117806.jpg
 ---
-The numbers tell the story bluntly: Nigerian work visa grants for the UK fell from **28,495 in 2023 to under 3,000 in 2025**. The care-worker route that carried tens of thousands of Nigerians to the UK has been narrowed hard — higher salary thresholds, a dependants ban, and tighter sponsorship enforcement.
+The numbers tell the story bluntly: Nigerian work visa grants for the UK fell from **28,495 in 2023 to under 3,000 in 2026**. The care-worker route that carried tens of thousands of Nigerians to the UK has been narrowed hard — higher salary thresholds, a dependants ban, and tighter sponsorship enforcement.
 
 But "narrowed" is not "closed." This guide covers what still works in 2026: the in-UK **switching route**, the roles that still get sponsored, and the financial requirements at each step.
 
@@ -47,6 +47,6 @@ Applicants switching in-country who have held UK leave for 12+ months are exempt
 
 ## Get the Financial Side Handled
 
-Whether you're switching in-country or applying from Lagos, the financial evidence is the one part of the file you fully control. POF NG structures compliant maintenance funds with the 28-day history UKVI expects — sized for you and any eligible dependants.
+Whether you're switching in-country or applying from Lagos, the financial evidence is the one part of the file you fully control. [POF NG](/) structures compliant maintenance funds with the 28-day history UKVI expects — sized for you and any eligible dependants.
 
 **Message us on WhatsApp at 08103669924**, or check your amount on the [proof of funds calculator](/proof-of-fund-calculator).

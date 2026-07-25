@@ -20,13 +20,13 @@ Many Nigerian applicants underestimate this part and face refusals or delays. Th
 
 You must provide proof of sufficient settlement funds unless you have a valid job offer from a Canadian employer or you are applying under the Canadian Experience Class (CEC) with qualifying Canadian work experience. For most Federal Skilled Worker Program (FSWP) and Federal Skilled Trades Program (FSTP) applicants from Nigeria, proof of funds is mandatory.
 
-The funds must be available, unencumbered, and easily accessible to support your family upon arrival in Canada. me/2348103669924) for a free consultation.
+The funds must be available, unencumbered, and easily accessible to support your family upon arrival in Canada. [Chat with us on WhatsApp](https://wa.me/2348103669924) for a free consultation.
 
 Tell us your family size, preferred bank, and timeline — we will give you clear options and pricing to strengthen your Express Entry profile.
 
 ### Latest Express Entry Settlement Funds Requirements 2026
 
-The amounts are updated annually by IRCC based on 50% of the Low Income Cut-Off (LICO). Current requirements (effective July 7, 2025) are as follows:
+The amounts are updated annually by IRCC based on 50% of the Low Income Cut-Off (LICO). Current requirements (effective July 7, 2026) are as follows:
 
 *   **1 family member** (applicant only): CAD $15,263
 *   **2 family members**: CAD $19,001
@@ -77,7 +77,7 @@ These issues often lead to additional requests or outright refusals.
 
 Many genuine Nigerian families have strong income but limited liquid cash at the exact moment of application. Compliant professional services can help by temporarily funding your or your spouse’s existing bank account in a Tier-1 Nigerian bank.
 
-ng, we specialize in providing verifiable, CBN-compliant Proof of Funds for Express Entry applicants and their families. Our process includes:
+At POF NG, we specialize in providing verifiable, CBN-compliant Proof of Funds for Express Entry applicants and their families. Our process includes:
 
 1.  Consultation to determine exact amount needed based on your family size
 2.  Funding your chosen bank account with real money under a lien/mandate
@@ -97,7 +97,7 @@ This creates clean, bank-generated records that demonstrate accessibility and le
 
 ### Ready to Secure Strong Proof of Funds for Your Canada Express Entry Application?
 
-ng, we have successfully helped many Nigerian families meet Express Entry settlement funds requirements with transparent, professional, and traceable documentation. Benefits of working with us:
+At POF NG, we have successfully helped many Nigerian families meet Express Entry settlement funds requirements with transparent, professional, and traceable documentation. Benefits of working with us:
 
 *   Fast processing (often within days)
 *   Competitive and transparent rates

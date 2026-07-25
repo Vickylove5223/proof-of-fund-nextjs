@@ -8,7 +8,7 @@ description: >-
   is exactly how the UK, Canada, and US verify bank statements and what makes
   verification fail. | Call/WhatsApp: 08103669924
 seo_title: 'How Embassies Verify Bank Statements in Nigeria 2026'
-image: /wp-content/uploads/2025/09/Proof-of-Fund-in-Nigeria-1.webp
+image: /wp-content/uploads/2025/02/tourist-carrying-baggage_23-2151747389.jpg
 ---
 One question every applicant quietly asks: **"Will the embassy actually check my bank statement?"**
 
@@ -64,4 +64,4 @@ Even without contacting your bank, officers cross-check your statement against y
 
 Embassies don't refuse applications because applicants are poor — they refuse them because the financial story doesn't verify. Genuine funds, in a recognised bank, with a clean paper trail, held for the full processing window: that combination passes verification every time.
 
-POF NG structures exactly that. Our funding sits in top banks accepted by UKVI and IRCC, stays in place under lien for your entire processing period, and comes with the official letters verification desks expect. See what your destination requires with the [proof of funds calculator](/proof-of-fund-calculator) or talk to us on **Call/WhatsApp: 08103669924**.
+[POF NG](/) structures exactly that. Our funding sits in top banks accepted by UKVI and IRCC, stays in place under lien for your entire processing period, and comes with the official letters verification desks expect. See what your destination requires with the [proof of funds calculator](/proof-of-fund-calculator) or talk to us on **Call/WhatsApp: 08103669924**.

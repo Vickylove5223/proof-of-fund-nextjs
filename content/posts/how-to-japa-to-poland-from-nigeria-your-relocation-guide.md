@@ -8,7 +8,7 @@ description: >-
   Nigerians are choosing Poland for new opportunitie... | Call/WhatsApp:
   08103669924
 seo_title: 'How to JAPA to Poland from Nigeria: Your Relocation Guide'
-image: /images/finance-1.png
+image: /wp-content/uploads/2025/09/visa-application-composition-with-different-flags_23-2149117806.jpg
 ---
 Are you thinking about moving to Poland from Nigeria? You are not alone.
 

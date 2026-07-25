@@ -81,4 +81,4 @@ A letter is a claim; the attachments are the evidence. Officers test three thing
 
 Sometimes the letter is perfect and the money is the issue — the sponsor's balance is too small, too new, or in the wrong shape. That's a structuring problem, and it has legal solutions: transferred-and-seasoned funds, documented gifts, or professionally structured proof of funds in the applicant's or an eligible sponsor's name.
 
-**Message POF NG on WhatsApp at 08103669924** with your destination and sponsor situation — we'll tell you which structure your embassy accepts and set it up with full documentation. Check your required amount first with the [proof of funds calculator](/proof-of-fund-calculator).
+**Message [POF NG](/) on WhatsApp at 08103669924** with your destination and sponsor situation — we'll tell you which structure your embassy accepts and set it up with full documentation. Check your required amount first with the [proof of funds calculator](/proof-of-fund-calculator).

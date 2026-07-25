@@ -7,7 +7,7 @@ description: >-
   !London's Big Ben and Westminster Bridge at sunset, representing a destination
   for Nigerians moving to the UK. | Call/WhatsApp: 08103669924
 seo_title: 'How to Move to the UK from Nigeria: 5 Legitimate ''JAPA'' Pathways'
-image: /images/finance-1.png
+image: /wp-content/uploads/2025/02/two-business-woman-cafe_1157-14528.jpg
 ---
 ![London's Big Ben and Westminster Bridge at sunset, representing a destination for Nigerians moving to the UK.](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)
 

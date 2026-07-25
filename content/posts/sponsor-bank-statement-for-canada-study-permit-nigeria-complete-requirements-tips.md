@@ -84,7 +84,7 @@ If your sponsor has genuine funds but needs to show a stronger, more liquid bala
 *   Placement of funds under lien/mandate for the visa period.
 *   Full documentation including funding letters and narrations tailored for IRCC.
 
-ng, we specialize in supporting sponsor accounts for Canada study permits. We work only with CBN-licensed partners to create verifiable, bank-generated records that strengthen your application.
+At POF NG, we specialize in supporting sponsor accounts for Canada study permits. We work only with CBN-licensed partners to create verifiable, bank-generated records that strengthen your application.
 
 [Chat with us on WhatsApp](https://wa.me/2348103669924) for a free consultation. Share your sponsor details, required amount, and timeline — we will provide clear, tailored options.
 
@@ -99,7 +99,7 @@ ng, we specialize in supporting sponsor accounts for Canada study permits. We wo
 
 ### Ready to Submit a Strong Sponsor Package for Your Canada Study Permit?
 
-ng, we have helped hundreds of Nigerian students and their families prepare credible sponsor bank statements and complete financial packages for successful Canada study permit applications. Our services include:
+At POF NG, we have helped hundreds of Nigerian students and their families prepare credible sponsor bank statements and complete financial packages for successful Canada study permit applications. Our services include:
 
 *   Fast, transparent funding of sponsor accounts
 *   Customized documentation for IRCC

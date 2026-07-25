@@ -8,7 +8,7 @@ description: >-
   isn't, when you can withdraw, and how to turn a financial refusal into an
   approval on reapplication. | Call/WhatsApp: 08103669924
 seo_title: 'Is POF Money Refundable After Visa Refusal? Reapplication Guide'
-image: /images/finance-1.png
+image: /wp-content/uploads/2025/09/9ddc6236-2387-4ec0-a148-cdfe2b95934a.jpg
 ---
 A refusal letter lands and two questions hit at once: **"What happens to the money I showed?"** and **"When can I try again?"** Both have clear answers — and knowing them turns a painful refusal into a short detour instead of a dead end.
 
@@ -60,6 +60,6 @@ More prevention strategies in [why visa applications get rejected because of POF
 
 ## Turn the Refusal Around
 
-POF NG rebuilds refused files every week: we read the refusal ground, restructure the funding to cure it (right names, right amounts, right seasoning, right bank), and deliver the documentation package for the reapplication. Refusal-to-approval is our most common client journey.
+[POF NG](/) rebuilds refused files every week: we read the refusal ground, restructure the funding to cure it (right names, right amounts, right seasoning, right bank), and deliver the documentation package for the reapplication. Refusal-to-approval is our most common client journey.
 
 Send us your refusal letter on **Call/WhatsApp: 08103669924** for a free assessment — or start by rechecking your true requirement with the [proof of funds calculator](/proof-of-fund-calculator).

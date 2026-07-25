@@ -8,7 +8,7 @@ description: >-
   about what a 'Proof of Funds' document actually look... | Call/WhatsApp:
   08103669924
 seo_title: Proof of Funds in Nigeria Example
-image: /images/finance-3.png
+image: /wp-content/uploads/2025/02/colleagues-studying-together-university-library_23-2148844695.jpg
 ---
 Are you applying for a visa or school admission abroad and feeling confused about what a 'Proof of Funds' document actually looks like? You're not alone.
 

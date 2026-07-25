@@ -8,7 +8,7 @@ description: >-
   Express Entry  route or a Study Permit—is presenti... | Call/WhatsApp:
   08103669924
 seo_title: How to Use a Deed of Gift for Your Canada Visa Proof of Funds
-image: /images/finance-2.png
+image: /wp-content/uploads/2025/09/application-form-information-employment-concept_53876-128011.jpg
 ---
 One of the biggest hurdles for Nigerians moving to Canada—whether through the Express Entry (PR) route or a Study Permit—is presenting an acceptable **Proof of Funds (POF)**. The Canadian government wants to ensure you have enough money to settle down without becoming a liability.
 

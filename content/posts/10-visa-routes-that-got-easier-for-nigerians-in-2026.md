@@ -77,6 +77,6 @@ Two warnings: "easier" never means unverified — every route above still [check
 
 ## Whatever Route You Pick, the Money Must Be Right
 
-From Germany's blocked account to Canada's settlement funds, each route has a precise financial shape. POF NG structures compliant funds for every destination on this list — correct amounts, seasoned history, full documentation.
+From Germany's blocked account to Canada's settlement funds, each route has a precise financial shape. [POF NG](/) structures compliant funds for every destination on this list — correct amounts, seasoned history, full documentation.
 
 **Message us on WhatsApp at 08103669924** with your chosen route, or run the numbers on the [proof of funds calculator](/proof-of-fund-calculator).

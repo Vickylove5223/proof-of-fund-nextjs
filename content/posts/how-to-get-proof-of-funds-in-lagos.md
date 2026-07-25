@@ -7,7 +7,7 @@ description: |-
   How to Get Proof of Funds in Lagos
   ================================== | Call/WhatsApp: 08103669924
 seo_title: How to Get Proof of Funds in Lagos
-image: /images/finance-2.png
+image: /wp-content/uploads/2025/09/9ddc6236-2387-4ec0-a148-cdfe2b95934a.jpg
 ---
 How to Get Proof of Funds in Lagos
 ==================================

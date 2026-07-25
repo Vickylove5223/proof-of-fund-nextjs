@@ -8,7 +8,7 @@ description: >-
   comparison, the CBN Form A wire process, timelines, and what to do if your
   visa is refused. | Call/WhatsApp: 08103669924
 seo_title: 'How to Open a GIC Account from Nigeria 2026: Scotiabank, RBC, CIBC'
-image: /images/finance-2.png
+image: /wp-content/uploads/2025/02/family-enjoying-their-winter-time-together_23-2149186294.jpg
 ---
 You already know a GIC strengthens a Canada study permit application — our guides cover [why the GIC is a cheat code for approval](/understanding-the-gic-a-cheat-code-for-canadian-study-permit-approval) and the [overall requirements from Nigeria](/canada-gic-proof-of-funds-nigeria-requirements-everything-you-need-to-know). What nobody explains properly is the **mechanics**: which bank, which forms, how the money actually leaves Nigeria, and how long each step takes.
 

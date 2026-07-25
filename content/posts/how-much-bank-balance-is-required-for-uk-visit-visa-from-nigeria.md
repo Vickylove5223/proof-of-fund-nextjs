@@ -8,7 +8,7 @@ description: >-
   bank statement for a UK Standard Visitor visa from Nigeria, and the mistakes
   that cause refusals. | Call/WhatsApp: 08103669924
 seo_title: 'How Much Bank Balance Is Required for UK Visit Visa from Nigeria 2026'
-image: /images/finance-1.png
+image: /wp-content/uploads/2025/02/two-business-woman-cafe_1157-14528.jpg
 ---
 If you are applying for a UK Standard Visitor visa from Nigeria, the single question on your mind is probably this: **how much money do I need to show in my bank account?**
 
@@ -64,4 +64,4 @@ Always cross-check requirements on the official [UK government Standard Visitor 
 
 If your account balance doesn't yet reflect what your trip requires, don't gamble with a weak application — and never use [fake or backdated statements](/consequences-of-fake-proof-of-funds-or-backdated-bank-statements-for-visa-applications-from-nigeria-2026), which lead to 10-year bans.
 
-At POF NG we legitimately fund and structure proof of funds in top Nigerian banks, with full documentation that stands up to UKVI verification. Use our [proof of funds calculator](/proof-of-fund-calculator) to see exactly how much you need, or message us on **Call/WhatsApp: 08103669924** for a free consultation.
+At [POF NG](/) we legitimately fund and structure proof of funds in top Nigerian banks, with full documentation that stands up to UKVI verification. Use our [proof of funds calculator](/proof-of-fund-calculator) to see exactly how much you need, or message us on **Call/WhatsApp: 08103669924** for a free consultation.

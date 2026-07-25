@@ -8,7 +8,7 @@ description: >-
   picked your destination, prepared your documents, and a... | Call/WhatsApp:
   08103669924
 seo_title: How to Get Proof of Funds for Nigerian Visa
-image: /images/finance-1.png
+image: /wp-content/uploads/2025/09/54393b20-44c6-4db1-b806-49c19fe2185f.jpg
 ---
 Planning to study, work, or travel abroad is an exciting journey. You’ve picked your destination, prepared your documents, and are ready for a new adventure.
 
@@ -18,7 +18,7 @@ This is where many dreams get stuck. How can you show you have the required fund
 
 Fortunately, there is a straightforward, secure, and legitimate solution. We are here to guide you through it.
 
-To get proof of funds for a Nigerian visa, you can use a specialized service like POF NG. We connect you with a verified financial partner who temporarily places the required funds into your bank account.
+To get proof of funds for a Nigerian visa, you can use a specialized service like [POF NG](/). We connect you with a verified financial partner who temporarily places the required funds into your bank account.
 
 You then receive an official, verifiable bank statement to present to the embassy, simplifying the process without you needing to have the full cash amount yourself.
 

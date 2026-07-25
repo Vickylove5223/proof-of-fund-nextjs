@@ -5,7 +5,7 @@ export default function PostIntroCTA() {
   return (
     <div className="bg-[#2E1499]/5 border border-[#2E1499]/10 rounded-2xl p-6 md:p-8 mb-10 text-[#120E00]">
       <p className="text-lg leading-relaxed mb-4">
-        Every year, thousands of Nigerians require <strong>Proof of Fund (POF)</strong> for different purposes — from studying abroad, securing immigration visas, closing real estate deals, to winning business contracts and tenders.
+        Every year, thousands of Nigerians require <strong>Proof of Fund (POF)</strong> for different purposes — from studying abroad, securing immigration visas, to winning business contracts and tenders.
       </p>
       <p className="text-lg leading-relaxed mb-4">
         In all these cases, you must provide <strong>verifiable financial evidence</strong> that you have the required funds. But the process can be stressful, confusing, and time-sensitive.

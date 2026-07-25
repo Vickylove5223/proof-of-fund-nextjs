@@ -8,7 +8,7 @@ description: >-
   venture. But before you can pack your bags, you'll encou... | Call/WhatsApp:
   08103669924
 seo_title: 'Proof of Funds: Definition, Importance & How to Get Yours'
-image: /images/finance-1.png
+image: /wp-content/uploads/2025/09/25ae7f4a-e9db-42af-95d8-f32cb793b7c8.jpg
 ---
 Planning to study, work, or immigrate to another country is an exciting venture. But before you can pack your bags, you'll encounter a critical step in the application process: providing Proof of Funds (POF).
 

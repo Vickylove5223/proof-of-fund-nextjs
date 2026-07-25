@@ -12,7 +12,7 @@ description: >-
 seo_title: >-
   Proof of Funds for Dubai/UAE Visa from Nigeria: Requirements, Amount & Tips
   (2026)
-image: /images/finance-2.png
+image: /wp-content/uploads/2025/09/9ddc6236-2387-4ec0-a148-cdfe2b95934a.jpg
 ---
 Dubai is one of the most visited destinations by Nigerians — whether for tourism, business, shopping, or medical treatment. But before your visa gets approved, the UAE embassy needs to be confident you have enough money to take care of yourself during your stay.
 

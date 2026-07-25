@@ -48,4 +48,4 @@ This guide gives you the true timeline per destination, so you can plan backward
 
 **Start when you decide, not when you're asked.** The applicants who message us the day they choose a country get 6 months of genuine history and sail through. The ones who message us five days before a Schengen appointment get honesty: sometimes the right answer is moving the date. A four-week delay beats a refusal on your record every time — and [refusals cost real money](/do-i-get-my-pof-money-back-if-my-visa-is-refused).
 
-**Message POF NG on WhatsApp at 08103669924** with your destination and deadline — we'll tell you within the hour whether your timeline works and exactly what happens each week if it does.
+**Message [POF NG](/) on WhatsApp at 08103669924** with your destination and deadline — we'll tell you within the hour whether your timeline works and exactly what happens each week if it does.

@@ -8,7 +8,7 @@ description: >-
   month in proof of funds plus modest tuition. Requirements, documents, and how
   Nigerians apply in 2026. | Call/WhatsApp: 08103669924
 seo_title: 'Malta Student Visa Proof of Funds from Nigeria 2026'
-image: /images/finance-3.png
+image: /wp-content/uploads/2025/02/two-business-woman-cafe_1157-14528.jpg
 ---
 Malta rarely makes Nigerian japa lists — which is exactly why it deserves a look. It is a full **EU member where English is an official language**, university tuition is modest, and the financial bar sits far below the UK or Canada: roughly **€1,000 per month of stay** in demonstrated funds, plus tuition of €7,000–€12,000 for most programmes.
 
@@ -42,6 +42,6 @@ Malta sits mid-table among low-requirement destinations — costlier than [Polan
 
 ## Ready to Build Your Malta File?
 
-POF NG structures Malta-compliant funds — seasoned statements in top Nigerian banks, sponsor documentation, and attestation letters sized to your programme length.
+[POF NG](/) structures Malta-compliant funds — seasoned statements in top Nigerian banks, sponsor documentation, and attestation letters sized to your programme length.
 
 **WhatsApp: 08103669924** — or check your total on the [proof of funds calculator](/proof-of-fund-calculator).

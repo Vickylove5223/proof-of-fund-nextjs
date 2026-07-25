@@ -8,9 +8,9 @@ description: >-
   for 6 months. Full breakdown of the rules, the savings formula, and how
   Nigerian couples meet it. | Call/WhatsApp: 08103669924
 seo_title: 'UK Spouse Visa £29,000 Financial Requirement from Nigeria 2026'
-image: /images/finance-1.png
+image: /wp-content/uploads/2025/02/tourist-carrying-baggage_23-2151747389.jpg
 ---
-Joining your partner in the UK now runs through one of the toughest financial tests in the immigration system. Since April 2025, the minimum income requirement (MIR) for a UK spouse or partner visa is **£29,000 per year** — up from the old £18,600 — and it refuses more Nigerian family applications than any other single rule.
+Joining your partner in the UK now runs through one of the toughest financial tests in the immigration system. Since April 2026, the minimum income requirement (MIR) for a UK spouse or partner visa is **£29,000 per year** — up from the old £18,600 — and it refuses more Nigerian family applications than any other single rule.
 
 But here is what most couples don't know: **you don't need the income if you have the savings.** Cash savings of **£88,500 held for six months** fully replace the income requirement. This guide explains both routes, the formula behind that number, and the practical ways Nigerian couples structure it.
 
@@ -63,6 +63,6 @@ Also verify the evidence format: statements covering the full period, in the rig
 
 ## Structuring the Savings Route Properly
 
-£88,500 (roughly **₦190m+**) is a serious sum, and how it is held and evidenced decides the application. POF NG structures spouse-visa savings files for Nigerian couples: correct account names, six-month seasoning managed to the day, source-of-funds documentation, and statements formatted for UKVI. If your money is spread across investments, businesses, or family members, we'll map the legal route to a compliant file.
+£88,500 (roughly **₦190m+**) is a serious sum, and how it is held and evidenced decides the application. [POF NG](/) structures spouse-visa savings files for Nigerian couples: correct account names, six-month seasoning managed to the day, source-of-funds documentation, and statements formatted for UKVI. If your money is spread across investments, businesses, or family members, we'll map the legal route to a compliant file.
 
 **Message us on WhatsApp at 08103669924** with your partner's income situation and timeline for a free assessment — or start with the [proof of funds calculator](/proof-of-fund-calculator).

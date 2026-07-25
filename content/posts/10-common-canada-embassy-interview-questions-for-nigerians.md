@@ -8,7 +8,7 @@ description: >-
   achieving your dream of studying, working, or visiting Can... | Call/WhatsApp:
   08103669924
 seo_title: 10 Common Canada Embassy Interview Questions for Nigerians
-image: /images/finance-3.png
+image: /wp-content/uploads/2025/02/two-business-woman-cafe_1157-14528.jpg
 ---
 Securing an interview at the Canadian embassy is a major step towards achieving your dream of studying, working, or visiting Canada. For many Nigerians, this interview is the final hurdle.
 

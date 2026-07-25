@@ -8,7 +8,7 @@ description: >-
   it comes to the Proof of Funds  requirement. Many... | Call/WhatsApp:
   08103669924
 seo_title: 37 Commonly Asked Questions About UK Visa Proof of Funds (With Answer)
-image: /images/finance-3.png
+image: /wp-content/uploads/2025/09/9ddc6236-2387-4ec0-a148-cdfe2b95934a.jpg
 ---
 Applying for a UK student or visit visa can feel overwhelming, especially when it comes to the **Proof of Funds (POF) requirement**. Many Nigerian applicants worry about whether their account history, transactions, or sponsorship will affect their application.
 

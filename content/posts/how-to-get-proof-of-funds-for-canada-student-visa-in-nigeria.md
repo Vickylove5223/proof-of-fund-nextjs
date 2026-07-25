@@ -7,7 +7,7 @@ description: >-
   Proof of Funds for Canada Student Visa in Nigeria: A Comprehensive Guide |
   Call/WhatsApp: 08103669924
 seo_title: 'Proof of Funds for Canada Student Visa in Nigeria: A Comprehensive Guide'
-image: /images/finance-2.png
+image: /wp-content/uploads/2025/02/tourist-carrying-baggage_23-2151747389.jpg
 ---
 Proof of Funds for Canada Student Visa in Nigeria: A Comprehensive Guide
 
@@ -91,13 +91,13 @@ A Simple Checklist for Your POF Application
 
 To stay organized, use this checklist when preparing your financial documents:
 
-*   ✅ Your school’s official letter of acceptance.
-*   ✅ A document showing your first year’s tuition fee.
-*   ✅ Bank statements for the last 4-6 months.
-*   ✅ The bank’s name, address, and contact information on official letterhead.
-*   ✅ Account holder’s name and details.
-*   ✅ A letter of sponsorship (if applicable).
-*   ✅ Proof of relationship to your sponsor (e.g., birth certificate).
+*   Your school’s official letter of acceptance.
+*   A document showing your first year’s tuition fee.
+*   Bank statements for the last 4-6 months.
+*   The bank’s name, address, and contact information on official letterhead.
+*   Account holder’s name and details.
+*   A letter of sponsorship (if applicable).
+*   Proof of relationship to your sponsor (e.g., birth certificate).
 
 The Dos and Don’ts of Proof of Funds
 ------------------------------------

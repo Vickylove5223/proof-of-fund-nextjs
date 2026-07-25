@@ -8,7 +8,7 @@ description: "Dreaming of visiting Canada? From the breathtaking Niagara Falls
   Call/WhatsApp: 08103669924"
 seo_title: "Canada Visitor Visa: Your 2026 Guide to Proof of Funds for Nigerian
   Applicants"
-image: /images/finance-2.png
+image: /wp-content/uploads/2025/09/25ae7f4a-e9db-42af-95d8-f32cb793b7c8.jpg
 ---
 Dreaming of visiting Canada? From the breathtaking Niagara Falls to the vibrant cities of Toronto and Vancouver, Canada offers a wealth of experiences.
 

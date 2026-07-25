@@ -8,7 +8,7 @@ description: >-
   but state nominations, job seeker stays, and family members change that.
   Here is the real financial picture. | Call/WhatsApp: 08103669924
 seo_title: 'Australia & New Zealand Work Visa Proof of Funds from Nigeria 2026'
-image: /images/finance-1.png
+image: /wp-content/uploads/2025/09/54393b20-44c6-4db1-b806-49c19fe2185f.jpg
 ---
 Here's a surprise for applicants coming from UK-style rules: **Australia's main skilled visas have no formal proof-of-funds requirement, and neither does New Zealand's employer-sponsored work visa.** No £1,270-style maintenance test, no 28-day rule.
 
@@ -55,6 +55,6 @@ And when any of that money moves through your accounts before an application, th
 
 ## Structuring for the Southern Routes
 
-POF NG structures settlement-fund evidence for Australian state nominations and complete financial files for the student routes into both countries — correct amounts, verifiable banks, full documentation. If you're choosing between routes, our [comparison of who requires what](/countries-with-the-lowest-proof-of-funds-requirements-for-student-visas-2026) is the place to start.
+[POF NG](/) structures settlement-fund evidence for Australian state nominations and complete financial files for the student routes into both countries — correct amounts, verifiable banks, full documentation. If you're choosing between routes, our [comparison of who requires what](/countries-with-the-lowest-proof-of-funds-requirements-for-student-visas-2026) is the place to start.
 
 **Message us on WhatsApp at 08103669924**, or size your route on the [proof of funds calculator](/proof-of-fund-calculator).

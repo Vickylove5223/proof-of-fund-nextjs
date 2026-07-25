@@ -6,7 +6,7 @@ description: "Planning a trip to Nigeria, whether for tourism, business, or
   visiting family, involves careful preparation. One of the most cri... |
   Call/WhatsApp: 08103669924"
 seo_title: Best Evidence of Funds to Cover Stay in Nigeria (Bank Letter for Proof of Fund)
-image: /images/finance-2.png
+image: /wp-content/uploads/2025/02/tourist-carrying-baggage_23-2151747389.jpg
 ---
 Planning a trip to Nigeria, whether for tourism, business, or visiting family, involves careful preparation. One of the most critical documents you'll need is evidence that you can financially support yourself during your stay.
 
@@ -46,7 +46,11 @@ To be effective, your bank letter must contain specific information. We recommen
 Here is a template you can use as a reference when requesting your letter. Ensure your bank includes all these components.
 
 **Bank Name**  
+
+
 **Bank Address**  
+
+
 **Date**
 
 **To Whom It May Concern,**
@@ -56,9 +60,17 @@ This letter is to certify that **Your Full Name**, residing at **Your Address**,
 /Ms. **Your Last Name** holds the following account with us:
 
 **Account Holder:** Your Full Name  
+
+
 **Account Number:** Your Account Number  
+
+
 **Account Type:** e.g., Savings/Checking  
+
+
 **Date Account Opened:** Date  
+
+
 **Current Balance:** Amount and Currency, e.g., $15,000 USD
 
 This letter is issued at the request of our customer for their visa application purposes. The information provided is accurate and can be verified upon request.
@@ -67,8 +79,14 @@ Sincerely,
 
 **Bank Officer's Signature**  
 *Official Bank Stamp*  
+
+
 **Bank Officer's Name**  
+
+
 **Bank Officer's Title**  
+
+
 **Bank's Contact Number**
 
 ![Sample Bank Letter for Proof of Funds](/images/finance-1.png)

@@ -8,7 +8,7 @@ description: >-
   secured admission to your dream university abroad, prac... | Call/WhatsApp:
   08103669924
 seo_title: 'Proof of Funds: Why Microfinance Banks Could Sabotage Your Study Abroad Dreams'
-image: /images/finance-1.png
+image: /wp-content/uploads/2025/09/25ae7f4a-e9db-42af-95d8-f32cb793b7c8.jpg
 ---
 You’ve spent months, maybe even years, preparing for this moment. You’ve secured admission to your dream university abroad, practiced for the interview, and gathered all your documents.
 

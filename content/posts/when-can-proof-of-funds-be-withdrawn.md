@@ -8,7 +8,7 @@ description: >-
   financial requirements for your visa or school applic... | Call/WhatsApp:
   08103669924
 seo_title: When Can Proof of Funds Be Withdrawn?
-image: /images/finance-2.png
+image: /wp-content/uploads/2025/02/tourist-carrying-baggage_23-2151747389.jpg
 ---
 Using a Proof of Funds (POF) service is a popular and effective way to meet the financial requirements for your visa or school application. It’s a straightforward process, but one question often causes confusion and anxiety: "When can the funds be withdrawn?"
 
