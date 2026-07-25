@@ -11,6 +11,9 @@ export const metadata: Metadata = {
     template: '%s | Proof of Funds Nigeria'
   },
   description: 'We make it easy to meet financial requirements for visas, business, or education with fast processing (24-48 hours) and 100% verifiable proof of funds in Nigeria.',
+  alternates: {
+    canonical: '/',
+  },
   openGraph: {
     title: 'Proof of Funds Nigeria | 100% Verifiable',
     description: 'Get your proof of funds sorted in 24-48 hours. Fast, reliable, and verifiable for visa or business applications.',

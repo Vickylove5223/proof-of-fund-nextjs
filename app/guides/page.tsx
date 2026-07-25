@@ -6,6 +6,9 @@ import BlogListClient from './BlogListClient';
 export const metadata = {
   title: 'Insights & Updates | Proof of Funds Nigeria',
   description: 'Read the latest guides and tips on obtaining Proof of Funds for your visa applications.',
+  alternates: {
+    canonical: '/guides',
+  },
 };
 
 export default function BlogList() {

@@ -17,16 +17,48 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const { slug } = await params;
   try {
     const page = getPostBySlug(slug, 'pages');
+    const title = page.meta.seo_title || page.meta.title;
+    const description = page.meta.description || `Information about ${page.meta.title}`;
     return {
-      title: page.meta.seo_title ? `${page.meta.seo_title} | Proof of Funds Nigeria` : `${page.meta.title} | Proof of Funds Nigeria`,
-      description: page.meta.description || `Information about ${page.meta.title}`,
+      title: `${title} | Proof of Funds Nigeria`,
+      description,
+      alternates: { canonical: `/${slug}` },
+      openGraph: {
+        title,
+        description,
+        url: `/${slug}`,
+        type: 'website',
+        images: page.meta.image ? [{ url: page.meta.image }] : undefined,
+      },
+      twitter: {
+        card: 'summary_large_image',
+        title,
+        description,
+        images: page.meta.image ? [page.meta.image] : undefined,
+      },
     };
   } catch (e) {
     try {
       const post = getPostBySlug(slug, 'posts');
+      const title = post.meta.seo_title || post.meta.title;
+      const description = post.meta.description || `Read about ${post.meta.title}`;
       return {
-        title: post.meta.seo_title ? `${post.meta.seo_title} | Proof of Funds Nigeria` : `${post.meta.title} | Proof of Funds Nigeria`,
-        description: post.meta.description || `Read about ${post.meta.title}`,
+        title: `${title} | Proof of Funds Nigeria`,
+        description,
+        alternates: { canonical: `/${slug}` },
+        openGraph: {
+          title,
+          description,
+          url: `/${slug}`,
+          type: 'article',
+          images: post.meta.image ? [{ url: post.meta.image }] : undefined,
+        },
+        twitter: {
+          card: 'summary_large_image',
+          title,
+          description,
+          images: post.meta.image ? [post.meta.image] : undefined,
+        },
       };
     } catch (e2) {
       return { title: 'Page Not Found' };
@@ -77,8 +109,28 @@ function splitContentForMidCta(html: string): [string, string] {
 
 function PostView({ post, contentHtml, relatedPosts }: { post: any; contentHtml: string; relatedPosts: any[] }) {
   const [firstHalf, secondHalf] = splitContentForMidCta(contentHtml);
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: post.meta.title,
+    description: post.meta.description || post.meta.title,
+    image: post.meta.image ? [`https://proofoffund.com.ng${post.meta.image}`] : undefined,
+    author: { '@type': 'Person', name: 'Victoria Ajetomobi' },
+    publisher: {
+      '@type': 'Organization',
+      name: 'Proof of Funds Nigeria',
+      logo: { '@type': 'ImageObject', url: 'https://proofoffund.com.ng/logo.png' },
+    },
+    datePublished: post.meta.date,
+    dateModified: post.meta.date,
+    mainEntityOfPage: { '@type': 'WebPage', '@id': `https://proofoffund.com.ng/${post.slug}` },
+  };
   return (
     <div className="bg-[#F3F0FF] min-h-screen">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <section className="bg-[#2E1499] text-white pt-24 pb-20 px-6">
         <div className="max-w-3xl mx-auto text-center">
           <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight">
