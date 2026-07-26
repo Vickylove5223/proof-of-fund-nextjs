@@ -107,3 +107,11 @@ Don't let financial documentation stand between you and your dreams. At **[POF N
 **Contact us today** to request your proof of funds document and take the next step toward achieving your goals. _Have questions about proof of funds?
 
 Drop a comment below or reach out to our team for personalized assistance._
+
+### Official Resources
+
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)

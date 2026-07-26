@@ -47,3 +47,11 @@ Processing typically runs 2–8 weeks. Confirm current checklists with the Turki
 ## Build the File Once, Properly
 
 [POF NG](/) structures Türkiye files at their real size — modest amounts, but with the seasoned history and documentation that consulates everywhere expect. **WhatsApp: 08103669924**, or start with the [proof of funds calculator](/proof-of-fund-calculator).
+
+### Official Resources
+
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)

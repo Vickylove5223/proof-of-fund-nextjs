@@ -126,3 +126,11 @@ Securing a Proof of Funds in Nigeria doesn’t have to be a complicated or anxio
 By choosing a trusted partner, you are choosing peace of mind and a higher chance of success for your application.
 
 Ready to get started? [Contact POF NG](/) for a free consultation, and let us help you take the next step in your journey abroad.
+
+### Official Resources
+
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)

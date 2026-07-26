@@ -116,3 +116,11 @@ For many Nigerians, using a professional service is the key to meeting this cruc
 At POF NG, we are dedicated to making your journey abroad smoother. By connecting you with trusted financial partners, we provide fast, affordable, and fully verifiable Proof of Funds that gives your visa application the best chance of approval.
 
 Don't let financial documentation stand in your way — check the embassy's official guidelines and contact us to get started on your application with confidence.
+
+### Official Resources
+
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)

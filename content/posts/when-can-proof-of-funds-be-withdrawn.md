@@ -73,3 +73,11 @@ Any premature action puts your entire application at risk. The key is to be pati
 If you need reliable, verifiable, and stress-free Proof of Funds for your visa or school application, we are here to help. [Contact POF NG](/), we ensure your financial documentation is flawless from start to finish.
 
 Contact us today to get started on your journey abroad with confidence.
+
+### Official Resources
+
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)

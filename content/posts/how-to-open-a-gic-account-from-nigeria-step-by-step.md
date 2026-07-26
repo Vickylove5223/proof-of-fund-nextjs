@@ -59,3 +59,11 @@ The GIC is fully refundable on refusal: submit the refund request with your refu
 The GIC covers living costs — but your file still needs **first-year tuition evidence and often additional family funds**, with the 4–6 months of history IRCC likes. That's the part we structure: compliant funding and documentation that completes the GIC into a full, approvable file. And if raising the ₦28m+ wire is itself the obstacle, message us to discuss legitimate structuring options.
 
 **WhatsApp: 08103669924** — or size your full requirement with the [proof of funds calculator](/proof-of-fund-calculator).
+
+### Official Resources
+
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)

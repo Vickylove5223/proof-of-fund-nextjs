@@ -104,3 +104,10 @@ The financial proof requirement is often the biggest challenge, but it doesn’t
 
 Contact us today to get a free quote and let us help make your journey to Poland stress-free.
 
+### Official Resources
+
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)

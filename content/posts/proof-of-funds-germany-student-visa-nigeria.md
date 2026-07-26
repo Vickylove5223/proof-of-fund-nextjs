@@ -135,3 +135,12 @@ Ready to Get Your Germany Student Visa Proof of Funds? -------------------------
 Getting the right proof of funds is the difference between your Germany student visa being approved or rejected. POF NG can help you get up to ₦300 million in verified proof of funds within 24–48 hours — no collateral required.
 
 [Contact POF NG](/) to get started.
+
+### Official Resources
+
+- [Belgium Immigration Office](https://dofi.ibz.be/en)
+- [Study in Poland: Official portal](https://study.gov.pl/)
+- [Erasmus+ Programme](https://erasmus-plus.ec.europa.eu/)
+- [Schengen Visa Info: Means of subsistence](https://www.schengenvisainfo.com/schengen-visa-application-requirements/means-of-subsistence/)
+- [France-Visas: Official portal](https://france-visas.gouv.fr/en/)
+- [DAAD: Study in Germany](https://www.daad.de/en/)

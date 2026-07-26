@@ -66,3 +66,10 @@ Official reference: the [GOV.UK Skilled Worker visa guidance](https://www.gov.uk
 If your account can't hold ₦3m untouched for a month — or your start date won't wait for a restarted 28-day clock — [POF NG](/) can structure legitimate maintenance funds in a top Nigerian bank with the full 28-day history and documentation UKVI expects. It's the same service trusted for [UK student visa proof of funds](/48-hour-proof-of-funds-uk-student-visa), sized for worker files.
 
 Message us on **Call/WhatsApp: 08103669924** — or estimate your requirement (with dependants) using the [proof of funds calculator](/proof-of-fund-calculator).
+
+### Official Resources
+
+- [UK Government: Visas and immigration](https://www.gov.uk/browse/visas-immigration)
+- [UK Government: Standard Visitor visa](https://www.gov.uk/standard-visitor)
+- [UK Government: Register of licensed sponsors](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers)
+- [UK Government: Student visa finances](https://www.gov.uk/student-visa/money)

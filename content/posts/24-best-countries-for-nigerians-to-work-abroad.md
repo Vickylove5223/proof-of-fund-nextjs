@@ -606,3 +606,11 @@ The 24 countries outlined in this guide offer diverse opportunities across diffe
 Remember that the journey begins with proper preparation, including securing adequate Proof of Funds. Services like PON NG can help make this critical requirement more accessible and affordable, removing one of the major barriers to international migration.
 
 The key is to start now—research thoroughly, prepare meticulously, and take the first steps toward your international career. Thousands of Nigerians have successfully made this transition, and with proper planning and execution, you can join their ranks.
+
+### Official Resources
+
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)

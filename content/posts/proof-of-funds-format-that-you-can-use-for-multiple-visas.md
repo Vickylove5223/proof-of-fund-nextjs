@@ -62,3 +62,11 @@ We provide the funds and the guidance to ensure your bank statement looks profes
 _Disclaimer: POF NG provides financial documentation support. We are not a travel agency and do not issue visas.
 
 Always consult official embassy websites for the most current fee information._
+
+### Official Resources
+
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)

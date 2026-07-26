@@ -58,3 +58,11 @@ Learn how this works in our guide on [how proof of fund (POF) services work in N
 Visa officers refuse what they cannot explain. Every naira in your statement should have a story your documents can tell without you in the room.
 
 If you want your finances structured properly the first time — with no parked funds and no red flags — talk to [POF NG](/) on **Call/WhatsApp: 08103669924**, or start with our [proof of funds calculator](/proof-of-fund-calculator) to see the amount your destination actually requires.
+
+### Official Resources
+
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)

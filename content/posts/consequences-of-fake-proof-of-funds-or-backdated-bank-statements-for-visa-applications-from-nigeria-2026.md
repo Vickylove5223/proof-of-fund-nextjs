@@ -84,3 +84,11 @@ The short-term temptation of fake POF or backdated statements is never worth the
 **Message POF NG today on WhatsApp at 08103669924** for a free consultation. Tell us your destination, the amount required, and your timeline, and we will guide you on the legitimate options available for your specific situation. You can also estimate your requirement with the [proof of funds calculator](/proof-of-fund-calculator).
 
 Don’t gamble with your future. Choose credibility and increase your visa approval chances the right way.
+
+### Official Resources
+
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)

@@ -126,3 +126,11 @@ Visa applications are time-sensitive, and a single financial mistake can cost yo
 Our dedicated live support team is online right now, ready to analyze your specific visa requirements, calculate the exact exchange rate equivalent you need, and provide your Proof of Funds immediately. Don't let a lack of immediate cash hold you back.
 
 Send us a direct message today, and let's make your relocation dreams a reality!
+
+### Official Resources
+
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)

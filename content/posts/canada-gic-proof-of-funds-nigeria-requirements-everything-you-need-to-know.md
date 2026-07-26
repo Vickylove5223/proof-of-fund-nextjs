@@ -100,3 +100,12 @@ At POF NG, we have supported hundreds of Nigerian students with credible, CBN-co
 [Chat with us on WhatsApp](https://wa.me/2348103669924) for a free, no-obligation consultation. Share your target amount, preferred bank, and application timeline — we will provide clear options and pricing.
 
 Don’t let financial documentation become the reason for refusal. Build a strong, professional Proof of Funds the right way and increase your chances of Canada study visa approval.
+
+### Official Resources
+
+- [IRCC: Immigration and citizenship overview](https://www.canada.ca/en/immigration-refugees-citizenship.html)
+- [Global Affairs Canada: Nigeria](https://www.international.gc.ca/country-pays/nigeria/)
+- [Bank of Canada: Daily exchange rates](https://www.bankofcanada.ca/rates/exchange/)
+- [EduCanada: Study in Canada](https://www.educanada.ca/)
+- [IRCC: Proof of funds for Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html)
+- [IRCC: Study permit financial documents](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents.html)

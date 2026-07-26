@@ -48,3 +48,8 @@ The Gulf trade-off is speed and zero POF against no permanent-residence pathway.
 For Gulf **work** visas: mostly by telling you the truth — don't pay for proof of funds you don't need, and don't pay "agents" for visas employers provide free. For Gulf **visit and business** visas, and for the [Dubai/UAE routes](/proof-of-funds-for-dubai-uae-visa-from-nigeria) where statements do matter, we structure clean, verifiable files.
 
 **WhatsApp: 08103669924** — tell us the route you've been offered, and we'll tell you honestly whether money should be changing hands at all.
+
+### Official Resources
+
+- [VFS Global](https://www.vfsglobal.com/)
+- [World Bank: Nigeria overview](https://www.worldbank.org/)

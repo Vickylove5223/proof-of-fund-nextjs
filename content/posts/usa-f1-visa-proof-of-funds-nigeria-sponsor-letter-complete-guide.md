@@ -122,3 +122,11 @@ At POF NG, we have helped many Nigerian students build professional, embassy-fri
 *   Competitive rates
 
 **Contact us today** via WhatsApp or our website for a free consultation. Share your I-20 details, sponsor information, and preferred bank — we will provide tailored options and support for your F1 visa application. Don’t leave your US student visa to chance. Build a strong, well-documented financial case with professional help.
+
+### Official Resources
+
+- [U.S. Embassy Nigeria: Visas](https://ng.usembassy.gov/visas/)
+- [U.S. Travel Docs: Nigeria](https://www.ustraveldocs.com/ng/)
+- [U.S. Department of State: Student visa](https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html)
+- [U.S. Department of State: Visitor visa](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html)
+- [EducationUSA: Finance your studies](https://educationusa.state.gov/your-5-steps-us-study/finance-your-studies)

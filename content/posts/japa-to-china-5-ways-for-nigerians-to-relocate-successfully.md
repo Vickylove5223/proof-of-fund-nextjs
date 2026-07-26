@@ -89,3 +89,11 @@ The key to success lies in meticulous preparation, from securing the right invit
 Don't let the complexities of financial proof hold you back. By understanding these five pathways and ensuring your Proof of Funds is solid, you can turn your dream of moving to China into a reality.
 
 If you need assistance with [getting your financial documents in order](/how-to-get-proof-of-fund-in-nigeria), our team at POF NG is here to provide reliable and fast support for your journey.
+
+### Official Resources
+
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)

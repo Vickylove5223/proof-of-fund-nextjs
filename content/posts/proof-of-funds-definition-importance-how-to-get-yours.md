@@ -106,3 +106,11 @@ Conclusion: Secure Your Future with Confidence
 Proof of Funds is more than just a document; it's your ticket to demonstrating credibility and readiness for your international journey. Whether you use personal savings or leverage a professional service, the key is to ensure your documents are authentic, verifiable, and perfectly aligned with your application's requirements.
 
 By understanding what POF is and how to obtain it correctly, you can confidently navigate this crucial step and move closer to achieving your goals abroad. [Contact POF NG](/) can provide the peace of mind needed to succeed.
+
+### Official Resources
+
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)

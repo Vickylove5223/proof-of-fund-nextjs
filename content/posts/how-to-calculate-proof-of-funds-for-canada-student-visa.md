@@ -119,3 +119,12 @@ Living expenses increase with dependents:
 Showing the correct **Proof of Funds** is crucial for a successful Canada student visa application. Always calculate your total based on **tuition + living expenses**, convert it to your local currency, and ensure the amount reflects clearly in your bank statement before submitting your visa application.
 
 If you’re applying with your family or want updated amounts for multiple dependents, drop a comment below and I’ll provide the exact figures.
+
+### Official Resources
+
+- [IRCC: Proof of funds for Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html)
+- [IRCC: Study permit financial documents](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents.html)
+- [IRCC: Immigration and citizenship overview](https://www.canada.ca/en/immigration-refugees-citizenship.html)
+- [Global Affairs Canada: Nigeria](https://www.international.gc.ca/country-pays/nigeria/)
+- [Bank of Canada: Daily exchange rates](https://www.bankofcanada.ca/rates/exchange/)
+- [EduCanada: Study in Canada](https://www.educanada.ca/)

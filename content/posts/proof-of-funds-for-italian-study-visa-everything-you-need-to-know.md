@@ -76,3 +76,11 @@ We provide legitimate financial documentation and funds to ensure your bank stat
 _Disclaimer: POF NG provides financial support for visa documentation. We are not immigration lawyers.
 
 Always check the latest requirements on the official Italian Embassy or TLScontact website._
+
+### Official Resources
+
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)

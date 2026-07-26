@@ -117,3 +117,12 @@ If you need help meeting the financial requirement, don’t worry. POF NG is her
 We provide a safe, reliable, and easy way to get the proof of funds you need for your Canada immigration application.
 
 Ready to take the next step? [Contact POF NG](/) or contact us today to get started!
+
+### Official Resources
+
+- [IRCC: Proof of funds for Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html)
+- [IRCC: Study permit financial documents](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents.html)
+- [IRCC: Immigration and citizenship overview](https://www.canada.ca/en/immigration-refugees-citizenship.html)
+- [Global Affairs Canada: Nigeria](https://www.international.gc.ca/country-pays/nigeria/)
+- [Bank of Canada: Daily exchange rates](https://www.bankofcanada.ca/rates/exchange/)
+- [EduCanada: Study in Canada](https://www.educanada.ca/)

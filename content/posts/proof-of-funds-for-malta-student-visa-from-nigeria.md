@@ -42,3 +42,12 @@ Malta sits mid-table among low-requirement destinations — costlier than [Polan
 [POF NG](/) structures Malta-compliant funds — seasoned statements in top Nigerian banks, sponsor documentation, and attestation letters sized to your programme length.
 
 **WhatsApp: 08103669924** — or check your total on the [proof of funds calculator](/proof-of-fund-calculator).
+
+### Official Resources
+
+- [DAAD: Study in Germany](https://www.daad.de/en/)
+- [Belgium Immigration Office](https://dofi.ibz.be/en)
+- [Study in Poland: Official portal](https://study.gov.pl/)
+- [Erasmus+ Programme](https://erasmus-plus.ec.europa.eu/)
+- [Schengen Visa Info: Means of subsistence](https://www.schengenvisainfo.com/schengen-visa-application-requirements/means-of-subsistence/)
+- [France-Visas: Official portal](https://france-visas.gouv.fr/en/)

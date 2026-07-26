@@ -60,3 +60,11 @@ Conclusion
 The dream to "Japa" from Nigeria can be achieved through several legitimate pathways. Whether through skilled migration, studying abroad, securing a job offer, investing, or family sponsorship, each option has unique requirements and processes.
 
 The key to a successful journey is thorough research, careful planning, and preparing all necessary documents. By understanding these five ultimate ways, Nigerians can make informed decisions and take confident steps toward building a new life abroad.
+
+### Official Resources
+
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)

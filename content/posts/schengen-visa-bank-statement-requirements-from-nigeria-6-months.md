@@ -60,3 +60,12 @@ Spain, France, and Italy accept sponsored applications: the sponsor (in Nigeria 
 The shift from three to six months doubled the runway Nigerians need. If your account can't show six clean months yet, do not reach for shortcuts — European consulates [verify statements with Nigerian banks](/how-do-embassies-verify-bank-statements-in-nigeria), and a deception finding is shared across all Schengen states.
 
 [POF NG](/) builds compliant files the legal way: funding in top Nigerian banks, genuine history built forward, attestation letters included, sized to your destination's daily rates with the stability buffer consulates expect. **Message us on WhatsApp at 08103669924** with your destination and travel date, or start with the [proof of funds calculator](/proof-of-fund-calculator). For the broader picture, see our [Schengen visa proof of funds guide](/schengen-visa-proof-of-funds).
+
+### Official Resources
+
+- [France-Visas: Official portal](https://france-visas.gouv.fr/en/)
+- [DAAD: Study in Germany](https://www.daad.de/en/)
+- [Belgium Immigration Office](https://dofi.ibz.be/en)
+- [Study in Poland: Official portal](https://study.gov.pl/)
+- [Erasmus+ Programme](https://erasmus-plus.ec.europa.eu/)
+- [Schengen Visa Info: Means of subsistence](https://www.schengenvisainfo.com/schengen-visa-application-requirements/means-of-subsistence/)

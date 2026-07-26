@@ -62,3 +62,10 @@ Always cross-check requirements on the official [UK government Standard Visitor 
 If your account balance doesn't yet reflect what your trip requires, don't gamble with a weak application — and never use [fake or backdated statements](/consequences-of-fake-proof-of-funds-or-backdated-bank-statements-for-visa-applications-from-nigeria-2026), which lead to 10-year bans.
 
 At [POF NG](/) we legitimately fund and structure proof of funds in top Nigerian banks, with full documentation that stands up to UKVI verification. Use our [proof of funds calculator](/proof-of-fund-calculator) to see exactly how much you need, or message us on **Call/WhatsApp: 08103669924** for a free consultation.
+
+### Official Resources
+
+- [UK Government: Visas and immigration](https://www.gov.uk/browse/visas-immigration)
+- [UK Government: Skilled Worker visa costs](https://www.gov.uk/skilled-worker-visa/how-much-it-costs)
+- [UK Government: Register of licensed sponsors](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers)
+- [UK Government: Student visa finances](https://www.gov.uk/student-visa/money)

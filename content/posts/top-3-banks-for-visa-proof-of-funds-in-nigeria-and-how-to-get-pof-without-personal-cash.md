@@ -89,3 +89,11 @@ We have helped thousands of Nigerians successfully cross the Proof of Funds hurd
 Our live support experts are on standby to analyze your specific visa requirements and provide the exact funds you need immediately. [Chat with us on WhatsApp](https://wa.me/2348103669924) — your visa approval is just one message away.
 
 Reach out to us today, and let's get your bank statement ready for the embassy!
+
+### Official Resources
+
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)

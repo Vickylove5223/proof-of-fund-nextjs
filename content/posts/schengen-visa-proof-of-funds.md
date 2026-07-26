@@ -94,3 +94,12 @@ By preparing your proof of funds correctly, you significantly increase your chan
 **supporting documents** (sales agreement, receipts, proof of ownership, transfer evidence). 
 
 **6 Can ₦5 million take me to Spain for work?** No. For a work visa or even a tourist visa, ₦5 million is generally not enough. You need at least **₦15–₦20 million** depending on your purpose of travel and exchange rates.
+
+### Official Resources
+
+- [Belgium Immigration Office](https://dofi.ibz.be/en)
+- [Study in Poland: Official portal](https://study.gov.pl/)
+- [Erasmus+ Programme](https://erasmus-plus.ec.europa.eu/)
+- [Schengen Visa Info: Means of subsistence](https://www.schengenvisainfo.com/schengen-visa-application-requirements/means-of-subsistence/)
+- [France-Visas: Official portal](https://france-visas.gouv.fr/en/)
+- [DAAD: Study in Germany](https://www.daad.de/en/)

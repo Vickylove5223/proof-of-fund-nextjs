@@ -47,3 +47,10 @@ Applicants switching in-country who have held UK leave for 12+ months are exempt
 Whether you're switching in-country or applying from Lagos, the financial evidence is the one part of the file you fully control. [POF NG](/) structures compliant maintenance funds with the 28-day history UKVI expects — sized for you and any eligible dependants.
 
 **Message us on WhatsApp at 08103669924**, or check your amount on the [proof of funds calculator](/proof-of-fund-calculator).
+
+### Official Resources
+
+- [UK Government: Student visa finances](https://www.gov.uk/student-visa/money)
+- [UK Government: Visas and immigration](https://www.gov.uk/browse/visas-immigration)
+- [UK Government: Standard Visitor visa](https://www.gov.uk/standard-visitor)
+- [UK Government: Skilled Worker visa costs](https://www.gov.uk/skilled-worker-visa/how-much-it-costs)

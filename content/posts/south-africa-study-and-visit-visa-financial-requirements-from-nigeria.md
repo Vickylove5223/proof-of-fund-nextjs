@@ -47,3 +47,11 @@ Official reference: Department of Home Affairs and VFS South Africa (Nigeria).
 ## Structuring a South Africa File
 
 The amounts are modest by japa standards, but the procedural bar is high — clean, stamped, consistent statements from a tier-1 Nigerian bank, with every checklist line covered. That's precisely the file [POF NG](/) builds. **WhatsApp: 08103669924**, or estimate your total on the [proof of funds calculator](/proof-of-fund-calculator).
+
+### Official Resources
+
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)

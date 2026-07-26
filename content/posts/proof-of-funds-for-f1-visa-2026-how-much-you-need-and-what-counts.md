@@ -70,3 +70,9 @@ Meeting the high financial thresholds of US universities can be a massive hurdle
 _Disclaimer: POF NG provides financial documentation services. We are not immigration lawyers or university advisors.
 
 Always consult your school’s International Student Office for specific I-20 requirements._
+
+### Official Resources
+
+- [U.S. Embassy Nigeria: Visas](https://ng.usembassy.gov/visas/)
+- [U.S. Travel Docs: Nigeria](https://www.ustraveldocs.com/ng/)
+- [U.S. Department of State: Visitor visa](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html)

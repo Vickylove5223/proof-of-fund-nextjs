@@ -110,3 +110,11 @@ With us, you get:
 Securing a Proof of Funds loan in Nigeria is a smart, efficient, and affordable way to overcome one of the biggest obstacles in your study or travel journey. It is not a traditional debt but a powerful service that temporarily provides you with the financial standing required by international institutions.
 
 [Contact POF NG](/), you can navigate this requirement with confidence and focus on what truly matters—preparing for your exciting new chapter abroad. If you're ready to take the next step, contact us today, and let us help make your dreams a reality.
+
+### Official Resources
+
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)

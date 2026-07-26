@@ -117,3 +117,12 @@ Your Canadian study permit is within reach, and your financial statement shouldn
 Our dedicated live support team is online right now, ready to analyze your specific school fees, calculate the exact exchange rate, and provide you with the funds you need. Take action today.
 
 Send us a DM, secure your Proof of Funds, and get ready to fly!
+
+### Official Resources
+
+- [IRCC: Study permit financial documents](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents.html)
+- [IRCC: Immigration and citizenship overview](https://www.canada.ca/en/immigration-refugees-citizenship.html)
+- [Global Affairs Canada: Nigeria](https://www.international.gc.ca/country-pays/nigeria/)
+- [Bank of Canada: Daily exchange rates](https://www.bankofcanada.ca/rates/exchange/)
+- [EduCanada: Study in Canada](https://www.educanada.ca/)
+- [IRCC: Proof of funds for Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html)

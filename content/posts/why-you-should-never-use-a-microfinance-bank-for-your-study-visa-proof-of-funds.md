@@ -57,3 +57,10 @@ Ready to Get Started? Chat With Us Today!
 Your visa success is our priority. Let us handle the heavy lifting of your financial requirements so you can focus on packing your bags and preparing for your studies.
 
 **Chat with our live support. Our team is online and ready to attend to you right now:**
+
+### Official Resources
+
+- [XE: Currency converter](https://www.xe.com/)
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)

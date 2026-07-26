@@ -83,3 +83,11 @@ The key to success is thorough preparation, understanding the requirements for y
 By planning carefully and seeking the right support, you can turn your ambition into reality. If you need assistance with securing reliable and embassy-acceptable financial proof for your application, we are here to help.
 
 [Contact POF NG](/) to start your journey with confidence.
+
+### Official Resources
+
+- [UK Government: Visas and immigration](https://www.gov.uk/browse/visas-immigration)
+- [UK Government: Standard Visitor visa](https://www.gov.uk/standard-visitor)
+- [UK Government: Skilled Worker visa costs](https://www.gov.uk/skilled-worker-visa/how-much-it-costs)
+- [UK Government: Register of licensed sponsors](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers)
+- [UK Government: Student visa finances](https://www.gov.uk/student-visa/money)

@@ -72,3 +72,10 @@ We provide legitimate Proof of Funds support, helping you maintain the required 
 _Disclaimer: POF NG provides financial support for documentation purposes. We are not a travel agency.
 
 Always refer to the specific embassy requirements for your destination._
+
+### Official Resources
+
+- [XE: Currency converter](https://www.xe.com/)
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)

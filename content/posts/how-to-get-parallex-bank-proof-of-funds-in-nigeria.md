@@ -113,3 +113,11 @@ Ready to get started? Contact us today for a free consultation.
 *   **WhatsApp / Call:** +234 (insert your contact)
 
 Let us handle the financial proof so you can focus on your dreams of studying, working, or living abroad.
+
+### Official Resources
+
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)

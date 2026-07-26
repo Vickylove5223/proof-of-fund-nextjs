@@ -215,3 +215,11 @@ Let us help you avoid the drama and get a legit proof of funds instead!
 Ready to take the next step toward your JAPA dreams? Why stress over proof of funds when **POF NG** can handle it for you at an affordable rate?
 
 **Contact us today** and let’s make your dreams a reality!
+
+### Official Resources
+
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)

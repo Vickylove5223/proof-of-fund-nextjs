@@ -97,3 +97,11 @@ Ensuring your documentation is clear, legitimate, and complete will protect your
 Let us handle the complexities so you can focus on your journey ahead.
 
 Ready to secure your Proof of Funds with confidence? [Contact POF NG](/) and let our expert team guide you through a seamless and successful process.
+
+### Official Resources
+
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)

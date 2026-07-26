@@ -81,3 +81,11 @@ If you’ve been struggling with the heavy **proof of funds requirements** of co
 - A trusted agent can guide you
 
 With no POF requirements and ongoing admissions, this could be the **simplest way to start your study abroad journey** today.
+
+### Official Resources
+
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)

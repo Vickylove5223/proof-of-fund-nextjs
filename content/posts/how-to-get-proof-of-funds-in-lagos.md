@@ -110,3 +110,11 @@ At **POF NG**, we specialize in helping Nigerians navigate the POF process smoot
 _Questions about providing proof of funds? Our experts are ready to help.
 
 Reach out to POF NG for professional guidance tailored to your specific situation._
+
+### Official Resources
+
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)

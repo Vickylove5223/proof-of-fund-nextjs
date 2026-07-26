@@ -70,3 +70,11 @@ Embassies value it because it is **hard to fake and easy to verify** — a one-c
 Every [POF NG](/) file ships as a complete package: funding in a top commercial bank, official stamped statements covering the required history, and the attestation letters embassies expect — formatted for your specific destination.
 
 Confirm your required amount with the [proof of funds calculator](/proof-of-fund-calculator), check your destination's rules on [see requirements](/see-requirements), or message us on **Call/WhatsApp: 08103669924**.
+
+### Official Resources
+
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)

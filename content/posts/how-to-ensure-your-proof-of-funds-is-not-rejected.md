@@ -108,3 +108,11 @@ Remember, the goal is to leave no room for doubt in the visa officer’s mind.
 If you need assistance or want the peace of mind that comes with expert guidance, POF NG is here to help. We are Nigeria’s #1 trusted POF agent, dedicated to making your journey abroad a success.
 
 Contact us today to get your authentic, embassy-acceptable Proof of Funds without the stress.
+
+### Official Resources
+
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)

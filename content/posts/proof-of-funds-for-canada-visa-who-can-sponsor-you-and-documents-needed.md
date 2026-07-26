@@ -80,3 +80,11 @@ Don't let "insufficient funds" be the reason for a rejection.
 *   [Nigeria Bar Association - Find a Notary Public](https://nigerianbar.org.ng/)
 
 _Disclaimer: POF NG provides financial assistance for documentation purposes. We recommend consulting with a registered immigration expert for legal advice regarding your specific application._
+
+### Official Resources
+
+- [IRCC: Immigration and citizenship overview](https://www.canada.ca/en/immigration-refugees-citizenship.html)
+- [Global Affairs Canada: Nigeria](https://www.international.gc.ca/country-pays/nigeria/)
+- [Bank of Canada: Daily exchange rates](https://www.bankofcanada.ca/rates/exchange/)
+- [EduCanada: Study in Canada](https://www.educanada.ca/)
+- [IRCC: Study permit financial documents](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents.html)

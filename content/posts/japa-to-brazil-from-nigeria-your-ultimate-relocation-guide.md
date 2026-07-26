@@ -117,3 +117,8 @@ However, the most critical hurdle for many is the financial requirement.
 Don't let Proof of Funds stand in your way. POF NG is your trusted partner, dedicated to providing fast, reliable, and embassy-approved financial documentation.
 
 Let us handle the financial proof so you can focus on starting your exciting new chapter in Brazil. Contact us today to get started!
+
+### Official Resources
+
+- [VFS Global Brazil (Nigeria)](https://www.vfsglobal.com/brazil/nigeria/)
+- [Numbeo: Cost of living in Brazil](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Brazil)

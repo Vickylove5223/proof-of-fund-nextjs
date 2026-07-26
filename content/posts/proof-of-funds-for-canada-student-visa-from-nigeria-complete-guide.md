@@ -107,3 +107,12 @@ POF NG, we’ve helped hundreds of Nigerian students successfully meet Canada (a
 [Chat with us on WhatsApp](https://wa.me/2348103669924) for a free consultation. Tell us your target amount, preferred bank, and timeline — we’ll guide you on the best options for your Canada application.
 
 Build credible Proof of Funds the smart way.
+
+### Official Resources
+
+- [IRCC: Immigration and citizenship overview](https://www.canada.ca/en/immigration-refugees-citizenship.html)
+- [Global Affairs Canada: Nigeria](https://www.international.gc.ca/country-pays/nigeria/)
+- [Bank of Canada: Daily exchange rates](https://www.bankofcanada.ca/rates/exchange/)
+- [EduCanada: Study in Canada](https://www.educanada.ca/)
+- [IRCC: Proof of funds for Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html)
+- [IRCC: Study permit financial documents](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents.html)

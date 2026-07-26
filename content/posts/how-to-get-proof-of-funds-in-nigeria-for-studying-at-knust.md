@@ -89,3 +89,11 @@ By understanding the requirements, calculating the right amount, and using a rel
 We have helped countless Nigerian students achieve their dreams of studying abroad. Let us help you too.
 
 [Contact POF NG](/) today. Our team is ready to provide you with fast, secure, and affordable assistance.
+
+### Official Resources
+
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)

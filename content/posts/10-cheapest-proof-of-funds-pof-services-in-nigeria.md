@@ -65,3 +65,10 @@ Agents often use small upcoming non-commercial banks that are newer/emerging fin
 - If you don’t have urgency or strict embassy rules, going through big banks like GTB, Access etc. ensures trust—but expect higher cost and more paperwork.
 - If you want speed, low cost, and flexibility, non-bank providers and agents using newer banks through an agent is your best bet.
 
+### Official Resources
+
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)

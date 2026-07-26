@@ -55,3 +55,11 @@ Whichever account you use, get it from a bank whose statements verify instantly 
 ## Structure It Once, Correctly
 
 [POF NG](/) structures proof of funds in both naira and domiciliary accounts at top Nigerian banks — sized with the right buffer for your destination, seasoned for its rules, and documented for verification. Run your requirement through the [proof of funds calculator](/proof-of-fund-calculator) or message us on **Call/WhatsApp: 08103669924**.
+
+### Official Resources
+
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)

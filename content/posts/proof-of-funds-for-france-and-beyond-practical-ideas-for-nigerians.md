@@ -100,3 +100,10 @@ While specific large-scale "Nigerian Associations" are often regional, connectin
 _Disclaimer: POF NG provides financial support for documentation purposes. We are not a travel agency and cannot guarantee visa issuance.
 
 Always refer to the official embassy website for the most up-to-date requirements._
+
+### Official Resources
+
+- [DAAD: Study in Germany](https://www.daad.de/en/)
+- [Belgium Immigration Office](https://dofi.ibz.be/en)
+- [Study in Poland: Official portal](https://study.gov.pl/)
+- [Erasmus+ Programme](https://erasmus-plus.ec.europa.eu/)

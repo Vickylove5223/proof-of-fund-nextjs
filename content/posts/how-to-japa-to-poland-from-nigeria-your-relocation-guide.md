@@ -121,3 +121,11 @@ Remember to choose the right visa, gather your documents carefully, and pay spec
 With good planning, your 'JAPA' journey to Poland can be smooth and successful. If you need reliable and fast help with your Proof of Funds, we are here for you.
 
 [Contact POF NG](/) to get started with a trusted partner today.
+
+### Official Resources
+
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)

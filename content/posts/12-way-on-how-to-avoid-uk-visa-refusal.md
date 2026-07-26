@@ -147,3 +147,11 @@ This account represents money you plan to spend in the UK, not money to spend in
 Follow these instructions exactly, and you'll significantly improve your chances of UK visa approval. The process is straightforward when you pay attention to the details.
 
 _Remember: UK visa approval depends on demonstrating you have genuine funds available for your stay. Proof of funds is not just about having money—it's about showing you understand and can follow immigration requirements properly._
+
+### Official Resources
+
+- [UK Government: Register of licensed sponsors](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers)
+- [UK Government: Student visa finances](https://www.gov.uk/student-visa/money)
+- [UK Government: Visas and immigration](https://www.gov.uk/browse/visas-immigration)
+- [UK Government: Standard Visitor visa](https://www.gov.uk/standard-visitor)
+- [UK Government: Skilled Worker visa costs](https://www.gov.uk/skilled-worker-visa/how-much-it-costs)

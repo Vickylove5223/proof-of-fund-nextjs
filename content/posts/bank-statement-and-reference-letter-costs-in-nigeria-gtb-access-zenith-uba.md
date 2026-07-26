@@ -54,3 +54,11 @@ For embassy purposes, stick to the majors — statements from tier-1 commercial 
 Getting the stamp costs ₦5,000. Having six months of the *right balance* behind that stamp is the actual challenge — and that's what [POF NG](/) structures: legitimate funding in these same tier-1 banks, with the statements and reference letters included in the package.
 
 **WhatsApp: 08103669924** — or start with the [proof of funds calculator](/proof-of-fund-calculator).
+
+### Official Resources
+
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)

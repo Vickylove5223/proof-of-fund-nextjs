@@ -107,3 +107,11 @@ Traveling abroad for work from Nigeria is a multi-step process that requires car
 Remember, preparation is the key to a smooth and successful transition.
 
 Ready to tick Proof of Funds off your list without the hassle? [Contact POF NG](/), and let our experts provide the fast, reliable, and embassy-accepted solution you need.
+
+### Official Resources
+
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)

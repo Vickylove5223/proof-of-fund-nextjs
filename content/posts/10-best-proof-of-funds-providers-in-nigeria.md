@@ -95,3 +95,11 @@ Choosing the wrong provider could cost you **extra fees, delays, or even visa re
 Finding the right proof of funds provider in Nigeria can be challenging, especially with so many options and hidden costs. While companies like EdFin, Zidakredit, and Easify Fund are decent alternatives, **POF NG clearly stands as the most affordable, reliable, and embassy-accepted choice**.
 
 👉 If you want your **POF delivered fast, without stress, and at the best rate in Nigeria**, then **POF NG is your number one provider.**
+
+### Official Resources
+
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)

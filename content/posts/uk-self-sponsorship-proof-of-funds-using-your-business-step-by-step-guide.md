@@ -255,3 +255,11 @@ The specific requirements may vary based on your nationality, role, and circumst
 Whether you're planning self-sponsorship, need proof of funds, or have questions about business registration while on various visa types, the key is proper planning and understanding current requirements. Each situation is unique, so consider getting personalized advice from qualified immigration professionals.
 
 _This FAQ covers common questions about UK business visa and self-sponsorship routes. Requirements may change, so always verify current rules with official sources or qualified immigration advisers._
+
+### Official Resources
+
+- [UK Government: Standard Visitor visa](https://www.gov.uk/standard-visitor)
+- [UK Government: Skilled Worker visa costs](https://www.gov.uk/skilled-worker-visa/how-much-it-costs)
+- [UK Government: Register of licensed sponsors](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers)
+- [UK Government: Student visa finances](https://www.gov.uk/student-visa/money)
+- [UK Government: Visas and immigration](https://www.gov.uk/browse/visas-immigration)

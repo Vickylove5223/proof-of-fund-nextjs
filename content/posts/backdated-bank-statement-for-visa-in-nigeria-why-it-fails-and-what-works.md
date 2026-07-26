@@ -56,3 +56,11 @@ Tight timelines are the main reason people consider backdating — so know your 
 *   Sometimes the honest answer is that your date needs to move by four weeks — a delayed application beats a 10-year ban every time
 
 Every situation is different — the destination, the amount, the timeline, and where your money currently sits all change the right structure. **Message us on WhatsApp at 08103669924** with your destination and deadline, and we'll tell you honestly what's achievable and how — or start with the [proof of funds calculator](/proof-of-fund-calculator) to see your required amount.
+
+### Official Resources
+
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)

@@ -202,3 +202,11 @@ Agents help you process it by facilitating the funding into your account with th
 However, this varies depending on the specific requirement of your visa application, business transaction, or financial obligation.
 
 **Need Help? We're Just a Message Away.** 👉 **[Click here to chat with us on WhatsApp](https://wa.me/2348103669924)**
+
+### Official Resources
+
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)

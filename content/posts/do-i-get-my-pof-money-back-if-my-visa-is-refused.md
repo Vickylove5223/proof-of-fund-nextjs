@@ -60,3 +60,11 @@ More prevention strategies in [why visa applications get rejected because of POF
 [POF NG](/) rebuilds refused files every week: we read the refusal ground, restructure the funding to cure it (right names, right amounts, right seasoning, right bank), and deliver the documentation package for the reapplication. Refusal-to-approval is our most common client journey.
 
 Send us your refusal letter on **Call/WhatsApp: 08103669924** for a free assessment — or start by rechecking your true requirement with the [proof of funds calculator](/proof-of-fund-calculator).
+
+### Official Resources
+
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)

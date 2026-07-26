@@ -94,3 +94,11 @@ Our dedicated live support team is online and ready to analyze your specific vis
 👉 **[Click Here to Chat with POF NG Live Support on WhatsApp Now!](https://wa.me/2348103669924)**
 
 Let [**POF NG**](/) take the financial stress off your shoulders so you can focus on packing your bags. Send us a DM today!
+
+### Official Resources
+
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)

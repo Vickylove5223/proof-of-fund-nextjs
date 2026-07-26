@@ -106,3 +106,12 @@ The financial requirement, or Proof of Funds, is often the biggest hurdle, but i
 At POF NG, we specialize in making this crucial step simple and stress-free. We provide fast, reliable, and embassy-approved POF solutions to help you achieve your goal.
 
 Let us handle the financial proof, so you can focus on starting your exciting new chapter in Ireland.
+
+### Official Resources
+
+- [France-Visas: Official portal](https://france-visas.gouv.fr/en/)
+- [DAAD: Study in Germany](https://www.daad.de/en/)
+- [Belgium Immigration Office](https://dofi.ibz.be/en)
+- [Study in Poland: Official portal](https://study.gov.pl/)
+- [Erasmus+ Programme](https://erasmus-plus.ec.europa.eu/)
+- [Schengen Visa Info: Means of subsistence](https://www.schengenvisainfo.com/schengen-visa-application-requirements/means-of-subsistence/)

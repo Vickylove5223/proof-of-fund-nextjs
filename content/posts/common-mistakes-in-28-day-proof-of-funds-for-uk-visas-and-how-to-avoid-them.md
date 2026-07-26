@@ -98,3 +98,11 @@ Proof of Funds is one of the most common reasons UK visa applications get reject
 *   Showing genuine sources for your funds
 
 You can avoid unnecessary refusals and secure your UK visa.
+
+### Official Resources
+
+- [UK Government: Visas and immigration](https://www.gov.uk/browse/visas-immigration)
+- [UK Government: Standard Visitor visa](https://www.gov.uk/standard-visitor)
+- [UK Government: Skilled Worker visa costs](https://www.gov.uk/skilled-worker-visa/how-much-it-costs)
+- [UK Government: Register of licensed sponsors](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers)
+- [UK Government: Student visa finances](https://www.gov.uk/student-visa/money)

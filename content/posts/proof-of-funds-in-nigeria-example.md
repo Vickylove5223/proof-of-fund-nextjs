@@ -152,3 +152,11 @@ By understanding these examples, you are better prepared to meet the financial r
 If you need assistance securing a verifiable and embassy-approved Proof of Funds, our team at POF NG is here to help. We make the process fast, affordable, and stress-free, so you can focus on your travel plans.
 
 Contact us today for a free consultation!
+
+### Official Resources
+
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)

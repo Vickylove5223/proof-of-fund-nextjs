@@ -106,3 +106,9 @@ While the figures might seem substantial, this requirement is absolutely achieva
 Don't let financial documentation stand in your way of a brighter future. If you need a fast, reliable, and verifiable solution to meet your Proof of Funds requirement, our expert team at POF NG is here to help you succeed.
 
 [Contact POF NG](/) for a free consultation and let's make your journey to Canada a reality. We are dedicated to helping you navigate the complexities of the Canadian immigration process and achieve your goals. You can also estimate your exact requirement with our [proof of funds calculator](/proof-of-fund-calculator).
+
+### Official Resources
+
+- [IRCC: Study permit financial documents](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents.html)
+- [Global Affairs Canada: Nigeria](https://www.international.gc.ca/country-pays/nigeria/)
+- [EduCanada: Study in Canada](https://www.educanada.ca/)

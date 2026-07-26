@@ -87,3 +87,11 @@ Each of the companies listed offers a trusted path to obtaining the financial do
 At POF NG, we are dedicated to providing the most secure, fastest, and most affordable POF services in Nigeria. We guide you through every step, ensuring your documents are authentic, verifiable, and perfectly aligned with your specific needs.
 
 Ready to take the next step? [Contact POF NG](/) to get started today!
+
+### Official Resources
+
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)

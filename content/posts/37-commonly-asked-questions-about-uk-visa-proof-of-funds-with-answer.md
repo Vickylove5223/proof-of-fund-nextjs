@@ -174,3 +174,11 @@ If applying from Nigeria, yes. Unless you’re applying from another country, us
 Meeting the **UK visa proof of funds requirement** doesn’t have to be stressful. The key is making sure your account shows the right amount for at least 28 consecutive days, keeping light activity, and ensuring you use the correct sponsor documents if needed.
 
 Always calculate carefully using the official **tuition balance + living expenses** formula, add a small buffer, and avoid withdrawing money until your visa is approved. If you follow these guidelines, your proof of funds will not be an obstacle in your UK visa journey.
+
+### Official Resources
+
+- [UK Government: Register of licensed sponsors](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers)
+- [UK Government: Student visa finances](https://www.gov.uk/student-visa/money)
+- [UK Government: Visas and immigration](https://www.gov.uk/browse/visas-immigration)
+- [UK Government: Standard Visitor visa](https://www.gov.uk/standard-visitor)
+- [UK Government: Skilled Worker visa costs](https://www.gov.uk/skilled-worker-visa/how-much-it-costs)

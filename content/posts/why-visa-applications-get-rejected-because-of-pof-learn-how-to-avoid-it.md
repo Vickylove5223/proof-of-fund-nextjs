@@ -97,3 +97,11 @@ If you’re serious about getting your proof of funds today, let us work with yo
 **Do you people give study loan?** Fly Matters does not provide loans, but we guide students on how to structure their finances and prepare convincing proof of funds. 
 
 **Please, I need guidance on how to apply.** We offer consultations, visa training, and courses to guide you step by step. You can reach out to Fly Matters to begin your process the right way.
+
+### Official Resources
+
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)

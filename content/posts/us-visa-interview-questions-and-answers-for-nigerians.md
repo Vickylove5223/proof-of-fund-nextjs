@@ -62,3 +62,9 @@ Book and prepare through the official [US Travel Docs Nigeria portal](https://ww
 You cannot rehearse your way past weak finances — but you can walk in with finances that answer every question before it's asked: right amount, seasoned history, documented sources, credible sponsor. That file is what [POF NG](/) builds.
 
 Prepare your numbers with the [proof of funds calculator](/proof-of-fund-calculator), then message us on **Call/WhatsApp: 08103669924** to structure your file before you book that interview date.
+
+### Official Resources
+
+- [EducationUSA: Finance your studies](https://educationusa.state.gov/your-5-steps-us-study/finance-your-studies)
+- [U.S. Department of State: Student visa](https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html)
+- [U.S. Department of State: Visitor visa](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html)

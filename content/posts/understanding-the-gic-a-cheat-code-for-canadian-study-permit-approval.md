@@ -74,3 +74,11 @@ e the person is depositing the fund out of their own money to secure Canada visa
 _Disclaimer: POF NG provides financial support for documentation. We are not a bank or immigration legal firm.
 
 Please verify the current GIC amount on the official IRCC website as rates are subject to change._
+
+### Official Resources
+
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)

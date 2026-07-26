@@ -105,3 +105,11 @@ If you need a reliable, stress-free way to meet the financial requirements, POF 
 Ready to take the next step? [Contact POF NG](/) for a free consultation and let’s secure your family’s future together.
 
 Official immigration forums and resources are a good source.
+
+### Official Resources
+
+- [Global Affairs Canada: Nigeria](https://www.international.gc.ca/country-pays/nigeria/)
+- [Bank of Canada: Daily exchange rates](https://www.bankofcanada.ca/rates/exchange/)
+- [EduCanada: Study in Canada](https://www.educanada.ca/)
+- [IRCC: Proof of funds for Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html)
+- [IRCC: Study permit financial documents](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents.html)

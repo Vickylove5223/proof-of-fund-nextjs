@@ -104,3 +104,12 @@ Don’t let a lack of funds stand between you and your new life abroad. Overpayi
 Let the professionals handle your Proof of Funds safely and affordably. Our live support team is online right now, ready to listen to your specific case, calculate the exact exchange rate needed, and provide your funds immediately.
 
 Send us a DM today, and let’s get your bank statement ready for visa approval!
+
+### Official Resources
+
+- [EduCanada: Study in Canada](https://www.educanada.ca/)
+- [IRCC: Proof of funds for Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html)
+- [IRCC: Study permit financial documents](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents.html)
+- [IRCC: Immigration and citizenship overview](https://www.canada.ca/en/immigration-refugees-citizenship.html)
+- [Global Affairs Canada: Nigeria](https://www.international.gc.ca/country-pays/nigeria/)
+- [Bank of Canada: Daily exchange rates](https://www.bankofcanada.ca/rates/exchange/)

@@ -97,3 +97,11 @@ By choosing a reputable commercial bank or working with a trusted agent like POF
 Are you ready to get an embassy-compliant Proof of Funds without the stress? Contact **POF NG** today for a free consultation.
 
 We’ll connect you with reliable financial partners to ensure your visa application is built on a solid foundation. [Contact POF NG](/) to get started!
+
+### Official Resources
+
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)

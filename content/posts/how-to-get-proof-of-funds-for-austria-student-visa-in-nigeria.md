@@ -106,3 +106,11 @@ Check Austria's official immigration portal for guidance.
 Don’t let financial proof stand in the way of your educational goals. If you need assistance or have questions about securing your POF, we are here to help.
 
 [Contact POF NG](/) today for reliable and stress-free support on your journey to studying in Austria.
+
+### Official Resources
+
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)

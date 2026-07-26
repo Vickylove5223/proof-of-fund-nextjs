@@ -61,3 +61,12 @@ For how these stack against the rest of Europe, see [countries with the lowest p
 [POF NG](/) structures Nordic files from Nigeria: funds in your name with clean history for Finland and Sweden, and transfer-ready funding plus wire guidance for Norway and Denmark.
 
 **Message us on WhatsApp at 08103669924** with your country and intake — or size the requirement on the [proof of funds calculator](/proof-of-fund-calculator).
+
+### Official Resources
+
+- [Schengen Visa Info: Means of subsistence](https://www.schengenvisainfo.com/schengen-visa-application-requirements/means-of-subsistence/)
+- [France-Visas: Official portal](https://france-visas.gouv.fr/en/)
+- [DAAD: Study in Germany](https://www.daad.de/en/)
+- [Belgium Immigration Office](https://dofi.ibz.be/en)
+- [Study in Poland: Official portal](https://study.gov.pl/)
+- [Erasmus+ Programme](https://erasmus-plus.ec.europa.eu/)

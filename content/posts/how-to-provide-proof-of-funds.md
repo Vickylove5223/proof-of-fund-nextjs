@@ -104,3 +104,11 @@ If you find yourself unable to meet these requirements on your own, don't give u
 We provide a fast, reliable, and secure way to obtain embassy-acceptable Proof of Funds, removing the biggest obstacle between you and your goals.
 
 Ready to secure your visa without financial stress? [Contact POF NG](/) for a free consultation, and let us help you make your move abroad a success story.
+
+### Official Resources
+
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)

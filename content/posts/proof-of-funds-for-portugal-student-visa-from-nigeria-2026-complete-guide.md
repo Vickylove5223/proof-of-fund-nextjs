@@ -156,3 +156,12 @@ Why Portugal Is a Great Destination for Nigerian Students in 2026
 Ready to Get Your Proof of Funds for Portugal Student Visa? -----------------------------------------------------------
 
 At **POF NG**, we help Nigerian students get fast, fully verifiable proof of funds for Portugal and any other country's student visa — disbursed in 24–48 hours, with no collateral required. [Chat with us on WhatsApp](https://wa.me/2348103669924) to get started.
+
+### Official Resources
+
+- [Belgium Immigration Office](https://dofi.ibz.be/en)
+- [Study in Poland: Official portal](https://study.gov.pl/)
+- [Erasmus+ Programme](https://erasmus-plus.ec.europa.eu/)
+- [Schengen Visa Info: Means of subsistence](https://www.schengenvisainfo.com/schengen-visa-application-requirements/means-of-subsistence/)
+- [France-Visas: Official portal](https://france-visas.gouv.fr/en/)
+- [DAAD: Study in Germany](https://www.daad.de/en/)

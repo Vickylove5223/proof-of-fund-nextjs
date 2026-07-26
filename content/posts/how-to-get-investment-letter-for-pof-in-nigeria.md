@@ -72,3 +72,11 @@ Stop letting financial documentation stand in the way of your dreams. With our h
 Ready to get started? [Contact POF NG](/) through WhatsApp or fill out the request form on our website.
 
 Let's make your journey abroad a success!
+
+### Official Resources
+
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)

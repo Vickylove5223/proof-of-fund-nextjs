@@ -81,3 +81,11 @@ The key to success lies in thorough research, early preparation, and ensuring al
 By planning carefully, you can navigate the process and successfully begin your new chapter abroad.
 
 For those ready to explore global opportunities, you can start by researching some of the [best countries for Nigerians to work abroad](/24-best-countries-for-nigerians-to-work-abroad).
+
+### Official Resources
+
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)

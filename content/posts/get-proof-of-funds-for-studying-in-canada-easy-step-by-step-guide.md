@@ -83,3 +83,12 @@ By following these steps, you reduce the risk of being told by the visa officer 
 ### GIC (Guaranteed Investment Certificate)
 
 **How do I get GIC?** You can apply online through a Canadian bank such as Scotiabank, CIBC, RBC, or ICICI Bank. After approval, you deposit the required amount, and the bank provides you with the GIC certificate for your visa application.
+
+### Official Resources
+
+- [IRCC: Study permit financial documents](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents.html)
+- [IRCC: Immigration and citizenship overview](https://www.canada.ca/en/immigration-refugees-citizenship.html)
+- [Global Affairs Canada: Nigeria](https://www.international.gc.ca/country-pays/nigeria/)
+- [Bank of Canada: Daily exchange rates](https://www.bankofcanada.ca/rates/exchange/)
+- [EduCanada: Study in Canada](https://www.educanada.ca/)
+- [IRCC: Proof of funds for Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html)

@@ -104,3 +104,12 @@ At POF NG, we have successfully helped many Nigerian families meet Express Entry
 [Chat with us on WhatsApp](https://wa.me/2348103669924) for a free consultation. Tell us your family size, preferred bank, and timeline — we will give you clear options and pricing to strengthen your Express Entry profile.
 
 Don’t let proof of funds hold back your Canadian PR dream. Build credible, IRCC-compliant settlement funds the smart and legitimate way.
+
+### Official Resources
+
+- [Bank of Canada: Daily exchange rates](https://www.bankofcanada.ca/rates/exchange/)
+- [EduCanada: Study in Canada](https://www.educanada.ca/)
+- [IRCC: Proof of funds for Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html)
+- [IRCC: Study permit financial documents](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents.html)
+- [IRCC: Immigration and citizenship overview](https://www.canada.ca/en/immigration-refugees-citizenship.html)
+- [Global Affairs Canada: Nigeria](https://www.international.gc.ca/country-pays/nigeria/)

@@ -87,3 +87,11 @@ IMAGE: A smiling Nigerian student holding a visa and passport, excited about the
 Let us handle the financial complexities so you can focus on preparing for your new adventure. Our team is ready to provide you with a fast, reliable, and stress-free POF service.
 
 **[Contact POF NG today](/) through our website, WhatsApp, or email to get a free quote and begin your application.**
+
+### Official Resources
+
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)

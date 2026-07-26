@@ -120,3 +120,8 @@ By understanding the visa options, gathering the right documents, and preparing 
 Don't let the Proof of Funds requirement stand in your way. Let our team at POF NG handle the financial verification so you can focus on starting your new chapter in the beautiful and vibrant country of Brazil.
 
 Ready to take the first step? [Contact POF NG](/) today to get a free consultation and see how we can help make your japa plans a success.
+
+### Official Resources
+
+- [Numbeo: Cost of living in Brazil](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Brazil)
+- [VFS Global Brazil (Nigeria)](https://www.vfsglobal.com/brazil/nigeria/)

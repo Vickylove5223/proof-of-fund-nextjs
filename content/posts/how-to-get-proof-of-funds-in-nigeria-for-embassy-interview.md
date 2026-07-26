@@ -119,3 +119,11 @@ At POF NG, we are committed to making your application process smoother and more
 With our help, you can present a strong financial profile that meets and exceeds embassy standards. ng/) website.
 
 **Contact POF NG today to get a free quote and take the first step toward a successful visa application!**
+
+### Official Resources
+
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)

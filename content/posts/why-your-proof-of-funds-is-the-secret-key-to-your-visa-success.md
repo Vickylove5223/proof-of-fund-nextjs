@@ -79,3 +79,11 @@ Our live support team is ready to attend to your specific needs right now. We ca
 [**Ready to get started? Chat with us now!**](https://wa.me/2348103669924)
 
 Remember, anyone can travel abroad—you just need the right information and the right financial partner. Let **POF NG** be that partner for you.
+
+### Official Resources
+
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)

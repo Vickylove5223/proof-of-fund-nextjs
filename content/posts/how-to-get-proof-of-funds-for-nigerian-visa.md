@@ -105,3 +105,11 @@ By partnering with a trusted agent like POF NG, you can get legitimate, verifiab
 Don’t let financial documentation stand in the way of your dreams. We are here to provide the peace of mind and professional support you need for a successful application.
 
 **Contact POF NG today for a free consultation and let us help you take the next step in your journey. Visit our website at [/](/) or call/WhatsApp us to get started!**
+
+### Official Resources
+
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)

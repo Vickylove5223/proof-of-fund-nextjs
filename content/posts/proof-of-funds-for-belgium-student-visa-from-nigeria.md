@@ -48,3 +48,11 @@ Applications route through VFS Global to the Belgian embassy; long-stay (D visa)
 Belgium's total cost profile lands near [Malta's](/proof-of-funds-for-malta-student-visa-from-nigeria) with lower tuition, and the blocked-account option makes it one of the least statement-dependent files in Europe — a genuine advantage if your banking history is short. Compare across the [lowest-POF destinations](/countries-with-the-lowest-proof-of-funds-requirements-for-student-visas-2026).
 
 [POF NG](/) prepares Belgium files both ways: transfer-ready funding with wire guidance, or sponsor documentation that clears the Annex 32 bar. **WhatsApp: 08103669924** — or size your year on the [proof of funds calculator](/proof-of-fund-calculator).
+
+### Official Resources
+
+- [DAAD: Study in Germany](https://www.daad.de/en/)
+- [Study in Poland: Official portal](https://study.gov.pl/)
+- [Erasmus+ Programme](https://erasmus-plus.ec.europa.eu/)
+- [Schengen Visa Info: Means of subsistence](https://www.schengenvisainfo.com/schengen-visa-application-requirements/means-of-subsistence/)
+- [France-Visas: Official portal](https://france-visas.gouv.fr/en/)

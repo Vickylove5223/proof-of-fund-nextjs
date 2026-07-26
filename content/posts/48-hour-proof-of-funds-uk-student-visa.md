@@ -268,3 +268,11 @@ Moreover, our 48-hour emergency processing ensures you never miss critical appli
 ng's 48-hour proof-of-funds solution - applicants can overcome time and documentation hurdles. This real success story demonstrates how speed, expertise, and reliable processes ensure visa approval readiness.
 
 Partner with us for your urgent financial credibility needs and secure your UK student visa with confidence.
+
+### Official Resources
+
+- [UK Government: Skilled Worker visa costs](https://www.gov.uk/skilled-worker-visa/how-much-it-costs)
+- [UK Government: Register of licensed sponsors](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers)
+- [UK Government: Student visa finances](https://www.gov.uk/student-visa/money)
+- [UK Government: Visas and immigration](https://www.gov.uk/browse/visas-immigration)
+- [UK Government: Standard Visitor visa](https://www.gov.uk/standard-visitor)

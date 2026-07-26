@@ -105,3 +105,12 @@ Let us help you take the next step toward realizing your Canadian travel dreams.
 [Contact POF NG](/) today for a free consultation. Our team is dedicated to guiding you through the process and ensuring your financial proof is fully verifiable and meets embassy standards.
 
 Also, explore our resources on [other blog posts](/guides) about the Canada visitor visa application process.
+
+### Official Resources
+
+- [EduCanada: Study in Canada](https://www.educanada.ca/)
+- [IRCC: Proof of funds for Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html)
+- [IRCC: Study permit financial documents](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents.html)
+- [IRCC: Immigration and citizenship overview](https://www.canada.ca/en/immigration-refugees-citizenship.html)
+- [Global Affairs Canada: Nigeria](https://www.international.gc.ca/country-pays/nigeria/)
+- [Bank of Canada: Daily exchange rates](https://www.bankofcanada.ca/rates/exchange/)

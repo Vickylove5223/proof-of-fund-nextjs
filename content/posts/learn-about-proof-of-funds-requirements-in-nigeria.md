@@ -70,3 +70,11 @@ All you need to do is **get in touch with us**, and we’ll handle the rest. It
 Ready to take the next step toward your travel dreams? Why stress over proof of funds when **POF NG** can handle it for you at an affordable rate?
 
 **Contact us today** and let’s make your dreams a reality Your travel journey is just a click away!
+
+### Official Resources
+
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)

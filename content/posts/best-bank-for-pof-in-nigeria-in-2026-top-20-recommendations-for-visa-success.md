@@ -85,3 +85,11 @@ At POF NG, we make it simple to get credible POF in Nigeria’s best banks for y
 Tell us your target bank, amount needed, and destination — we’ll guide you on the fastest and most reliable option. Don’t leave your visa success to chance.
 
 Use one of the best banks for POF and give your application the professional edge it deserves.
+
+### Official Resources
+
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)

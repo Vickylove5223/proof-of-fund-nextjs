@@ -56,3 +56,11 @@ This is where your file and your mouth must match perfectly:
 You cannot talk your way past finances that don't add up — but finances structured correctly answer half the interview for you. [POF NG](/) builds UK student files with the right holders, amounts, 28-day seasoning, and source documentation, so the money questions become your easiest section.
 
 **WhatsApp: 08103669924** — or check your maintenance amount on the [proof of funds calculator](/proof-of-fund-calculator).
+
+### Official Resources
+
+- [UK Government: Register of licensed sponsors](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers)
+- [UK Government: Student visa finances](https://www.gov.uk/student-visa/money)
+- [UK Government: Visas and immigration](https://www.gov.uk/browse/visas-immigration)
+- [UK Government: Standard Visitor visa](https://www.gov.uk/standard-visitor)
+- [UK Government: Skilled Worker visa costs](https://www.gov.uk/skilled-worker-visa/how-much-it-costs)

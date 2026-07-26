@@ -119,3 +119,9 @@ Remember, the Proof of Funds requirement is a non-negotiable part of the process
 If you need assistance securing authentic, verifiable, and embassy-approved POF, we are here to help.
 
 Ready to take the next step? [Contact POF NG](/) today to get a free consultation and let us help make your journey to Australia smooth and successful.
+
+### Official Resources
+
+- [New Zealand Immigration](https://www.immigration.govt.nz/)
+- [Australia Department of Home Affairs](https://immi.homeaffairs.gov.au/)
+- [ImmiAccount portal](https://immi.homeaffairs.gov.au/help-support/tools/immiaccount)

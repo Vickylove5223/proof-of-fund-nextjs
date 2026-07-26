@@ -61,3 +61,11 @@ Break investments **strategically, not fearfully**: liquidate only the required 
 And if breaking your investments would cost you real returns, that is precisely when a structured POF service makes financial sense: your investments keep earning while compliant funds sit under lien in a top bank. Compare the [cost of professional POF](/cost-of-proof-of-funds-for-uk-canada-visa-from-nigeria-2026-complete-pricing-guide) against your interest penalty — the maths often favours keeping your money working.
 
 Talk it through with [POF NG](/) on **Call/WhatsApp: 08103669924**.
+
+### Official Resources
+
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)

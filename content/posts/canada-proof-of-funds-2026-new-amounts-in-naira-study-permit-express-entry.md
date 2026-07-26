@@ -60,3 +60,11 @@ What does **not** count: money that appeared last week, unverifiable investments
 The doubled study-permit requirement has priced out applicants who could scrape together ₦12m — but it has also cut refusal rates for well-prepared files. Officers now see fewer, stronger applications. Make yours one of them.
 
 [POF NG](/) structures Canada-compliant proof of funds — correct amounts, aged history, top banks, full documentation — for study permits, Express Entry, and family files. Message us on **Call/WhatsApp: 08103669924** or check your exact requirement with the [proof of funds calculator](/proof-of-fund-calculator).
+
+### Official Resources
+
+- [IRCC: Study permit financial documents](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents.html)
+- [IRCC: Immigration and citizenship overview](https://www.canada.ca/en/immigration-refugees-citizenship.html)
+- [Global Affairs Canada: Nigeria](https://www.international.gc.ca/country-pays/nigeria/)
+- [Bank of Canada: Daily exchange rates](https://www.bankofcanada.ca/rates/exchange/)
+- [EduCanada: Study in Canada](https://www.educanada.ca/)

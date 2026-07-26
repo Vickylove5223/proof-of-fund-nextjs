@@ -114,3 +114,11 @@ Check out our [blog](/guides) to see success stories and more tips.
 Our live support experts are on standby to look at your specific country's requirements, calculate the exact exchange rate, and provide the funds you need right away. [Chat with us on WhatsApp](https://wa.me/2348103669924) Your visa approval is closer than you think.
 
 Send us a DM today, and let’s fund your dreams!
+
+### Official Resources
+
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)

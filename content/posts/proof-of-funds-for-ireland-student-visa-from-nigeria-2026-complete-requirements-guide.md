@@ -107,3 +107,12 @@ At POF NG, we have helped many Nigerian students successfully meet Ireland’s f
 *   Competitive rates
 
 **Contact us today** via WhatsApp or our website for a free consultation. Tell us your course duration, tuition amount, preferred bank, and timeline — we will provide clear options and pricing tailored for your Ireland student visa application. Don’t risk refusal due to financial documentation. Build a professional and convincing Proof of Funds the right way and boost your chances of approval.
+
+### Official Resources
+
+- [France-Visas: Official portal](https://france-visas.gouv.fr/en/)
+- [DAAD: Study in Germany](https://www.daad.de/en/)
+- [Belgium Immigration Office](https://dofi.ibz.be/en)
+- [Study in Poland: Official portal](https://study.gov.pl/)
+- [Erasmus+ Programme](https://erasmus-plus.ec.europa.eu/)
+- [Schengen Visa Info: Means of subsistence](https://www.schengenvisainfo.com/schengen-visa-application-requirements/means-of-subsistence/)

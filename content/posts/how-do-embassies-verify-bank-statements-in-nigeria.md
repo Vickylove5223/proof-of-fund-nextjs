@@ -62,3 +62,11 @@ Even without contacting your bank, officers cross-check your statement against y
 Embassies don't refuse applications because applicants are poor — they refuse them because the financial story doesn't verify. Genuine funds, in a recognised bank, with a clean paper trail, held for the full processing window: that combination passes verification every time.
 
 [POF NG](/) structures exactly that. Our funding sits in top banks accepted by UKVI and IRCC, stays in place under lien for your entire processing period, and comes with the official letters verification desks expect. See what your destination requires with the [proof of funds calculator](/proof-of-fund-calculator) or talk to us on **Call/WhatsApp: 08103669924**.
+
+### Official Resources
+
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)

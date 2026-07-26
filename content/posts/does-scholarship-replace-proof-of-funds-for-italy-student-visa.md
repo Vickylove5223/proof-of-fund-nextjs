@@ -59,3 +59,12 @@ Scholarships are a great way to ease the financial burden of studying abroad, bu
 *   With a scholarship → Show enough for flights and initial expenses.
 
 Keeping your documents accurate and understanding the real requirements will save you from unnecessary **visa rejections**.
+
+### Official Resources
+
+- [Belgium Immigration Office](https://dofi.ibz.be/en)
+- [Study in Poland: Official portal](https://study.gov.pl/)
+- [Erasmus+ Programme](https://erasmus-plus.ec.europa.eu/)
+- [Schengen Visa Info: Means of subsistence](https://www.schengenvisainfo.com/schengen-visa-application-requirements/means-of-subsistence/)
+- [France-Visas: Official portal](https://france-visas.gouv.fr/en/)
+- [DAAD: Study in Germany](https://www.daad.de/en/)

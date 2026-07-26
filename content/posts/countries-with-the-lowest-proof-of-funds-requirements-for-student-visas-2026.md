@@ -75,3 +75,11 @@ Higher than the rest of this list but with a university-managed visa process and
 Whether your destination wants €6,000 or CAD $50,000, the file that gets approved is the one with genuine funds, in a recognised bank, with clean history and documentation. [POF NG](/) structures compliant proof of funds for every destination on this list — from Georgia to Canada.
 
 Run your destination through the [proof of funds calculator](/proof-of-fund-calculator), check the [visa requirements tool](/see-requirements), or message us on **Call/WhatsApp: 08103669924** for a free consultation.
+
+### Official Resources
+
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)

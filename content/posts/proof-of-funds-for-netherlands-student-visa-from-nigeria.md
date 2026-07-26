@@ -57,3 +57,12 @@ Netherlands sits in the middle of the European pack: more expensive than [German
 Whether you need the living-expense amount ready for transfer or a compliant statement for a university that accepts them, [POF NG](/) structures legitimate, verifiable funding for Netherlands applications — with guidance on the CBN transfer paperwork Nigerians hit at the last minute.
 
 Message us on **Call/WhatsApp: 08103669924** or run your numbers with the [proof of funds calculator](/proof-of-fund-calculator).
+
+### Official Resources
+
+- [Erasmus+ Programme](https://erasmus-plus.ec.europa.eu/)
+- [Schengen Visa Info: Means of subsistence](https://www.schengenvisainfo.com/schengen-visa-application-requirements/means-of-subsistence/)
+- [France-Visas: Official portal](https://france-visas.gouv.fr/en/)
+- [DAAD: Study in Germany](https://www.daad.de/en/)
+- [Belgium Immigration Office](https://dofi.ibz.be/en)
+- [Study in Poland: Official portal](https://study.gov.pl/)

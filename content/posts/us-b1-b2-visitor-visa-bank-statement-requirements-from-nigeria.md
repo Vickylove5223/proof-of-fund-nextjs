@@ -60,3 +60,9 @@ Book appointments and confirm requirements through the official [US Travel Docs 
 ## Get Your Finances Interview-Ready
 
 A US interview rewards preparation. If your bank statement doesn't yet tell a convincing story, [POF NG](/) can help you structure legitimate, verifiable proof of funds in a top Nigerian bank — with the aged history consular officers expect. Check what you need with our [proof of funds calculator](/proof-of-fund-calculator), then reach us on **Call/WhatsApp: 08103669924**.
+
+### Official Resources
+
+- [U.S. Department of State: Student visa](https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html)
+- [EducationUSA: Finance your studies](https://educationusa.state.gov/your-5-steps-us-study/finance-your-studies)
+- [U.S. Embassy Nigeria: Visas](https://ng.usembassy.gov/visas/)

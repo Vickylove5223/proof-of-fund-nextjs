@@ -99,3 +99,11 @@ Don't let financial documentation stand in the way of your dreams. If you need a
 We provide the peace of mind you need to focus on the next exciting chapter of your life.
 
 Ready to get started? [Contact POF NG](/) for a free consultation and let us make your application process smoother and stress-free.
+
+### Official Resources
+
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)

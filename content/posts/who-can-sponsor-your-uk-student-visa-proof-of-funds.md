@@ -59,3 +59,10 @@ A financial-documentation refusal is recoverable — the [right response to a UK
 The parent rule is unforgiving, but it is completely manageable with planning. [POF NG](/) structures UK-compliant proof of funds daily — in the applicant's or parent's name, correct amounts for your city and course, full 28-day seasoning, and the complete document set (consent letters, relationship evidence, bank letters).
 
 Check your exact maintenance amount with the [proof of funds calculator](/proof-of-fund-calculator) or message us on **Call/WhatsApp: 08103669924**.
+
+### Official Resources
+
+- [UK Government: Register of licensed sponsors](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers)
+- [UK Government: Visas and immigration](https://www.gov.uk/browse/visas-immigration)
+- [UK Government: Standard Visitor visa](https://www.gov.uk/standard-visitor)
+- [UK Government: Skilled Worker visa costs](https://www.gov.uk/skilled-worker-visa/how-much-it-costs)

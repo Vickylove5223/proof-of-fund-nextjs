@@ -117,3 +117,11 @@ Remember to pay close attention to the 28-day rule and avoid common pitfalls.
 If you need a reliable and lawful way to meet the financial threshold without tying up your family’s capital, POF NG is here to help. Let us handle the financial proof so you can focus on what really matters—preparing for your exciting academic journey in the UK.
 
 [Contact POF NG](/) to get started!
+
+### Official Resources
+
+- [UK Government: Student visa finances](https://www.gov.uk/student-visa/money)
+- [UK Government: Visas and immigration](https://www.gov.uk/browse/visas-immigration)
+- [UK Government: Standard Visitor visa](https://www.gov.uk/standard-visitor)
+- [UK Government: Skilled Worker visa costs](https://www.gov.uk/skilled-worker-visa/how-much-it-costs)
+- [UK Government: Register of licensed sponsors](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers)

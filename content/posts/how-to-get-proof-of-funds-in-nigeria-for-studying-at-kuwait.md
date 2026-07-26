@@ -120,3 +120,11 @@ You can either use personal savings or simplify the entire process by partnering
 At POF NG, we are committed to helping you succeed. We provide a reliable, fast, and stress-free way to meet the financial requirements for your visa.
 
 Let us handle the complexities of POF so you can focus on preparing for your exciting new chapter in Kuwait. Contact us today to get started!
+
+### Official Resources
+
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)

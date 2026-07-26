@@ -55,3 +55,8 @@ And when any of that money moves through your accounts before an application, th
 [POF NG](/) structures settlement-fund evidence for Australian state nominations and complete financial files for the student routes into both countries — correct amounts, verifiable banks, full documentation. If you're choosing between routes, our [comparison of who requires what](/countries-with-the-lowest-proof-of-funds-requirements-for-student-visas-2026) is the place to start.
 
 **Message us on WhatsApp at 08103669924**, or size your route on the [proof of funds calculator](/proof-of-fund-calculator).
+
+### Official Resources
+
+- [Australia Department of Home Affairs](https://immi.homeaffairs.gov.au/)
+- [ImmiAccount portal](https://immi.homeaffairs.gov.au/help-support/tools/immiaccount)

@@ -98,3 +98,8 @@ Final Thoughts
 Getting a Dubai/UAE visa from Nigeria requires strong financial documentation. A clean, consistent, stamped bank statement from a reputable Nigerian bank is your best tool.
 
 [Contact POF NG](/) and we'll help you get verified proof of funds quickly, discreetly, and affordably.
+
+### Official Resources
+
+- [VFS Global](https://www.vfsglobal.com/)
+- [World Bank: Nigeria overview](https://www.worldbank.org/)

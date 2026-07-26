@@ -105,3 +105,11 @@ Don’t risk your visa application with a weak explanation. Let our experienced 
 ng for a free consultation. Share your destination, amount needed, and situation — we will guide you with the right documents and explanations.
 
 Secure your visa with credible, well-explained Proof of Funds.
+
+### Official Resources
+
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)

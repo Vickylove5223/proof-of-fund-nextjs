@@ -122,3 +122,11 @@ However, if you face a shortfall, remember that you have options.
 Don't let financial proof be a barrier to your travel dreams. At POF NG, we provide a legitimate and stress-free path to obtaining the documents you need.
 
 Contact us today to learn how we can help you with your Proof of Funds requirements. [Contact POF NG](/) to get started.
+
+### Official Resources
+
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)

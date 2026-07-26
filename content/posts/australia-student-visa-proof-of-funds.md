@@ -113,3 +113,9 @@ At POF NG, we have helped numerous Nigerian students successfully meet Australia
 *   Competitive rates and quick turnaround
 
 **Contact us today** via WhatsApp or our website for a free consultation. Share your course details, tuition amount, whether you have family members, preferred bank, and timeline — we will provide clear options and pricing tailored for your Australia student visa application. Don’t risk refusal due to financial documentation. Build a professional and convincing Proof of Funds the right way and boost your chances of approval.
+
+### Official Resources
+
+- [ImmiAccount portal](https://immi.homeaffairs.gov.au/help-support/tools/immiaccount)
+- [New Zealand Immigration](https://www.immigration.govt.nz/)
+- [Australia Department of Home Affairs](https://immi.homeaffairs.gov.au/)

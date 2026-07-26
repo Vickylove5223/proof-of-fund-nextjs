@@ -88,3 +88,11 @@ If you need a fast, secure, and embassy-acceptable Proof of Funds, we are here t
 Visit our website to [get started with your Proof of Funds in Nigeria](/how-to-get-proof-of-fund-in-nigeria) today!
 
 ![travel visa requirements](/wp-content/uploads/2025/11/image-4.jpg)
+
+### Official Resources
+
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)

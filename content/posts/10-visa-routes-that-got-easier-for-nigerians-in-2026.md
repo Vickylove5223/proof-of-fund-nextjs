@@ -77,3 +77,11 @@ Two warnings: "easier" never means unverified — every route above still [check
 From Germany's blocked account to Canada's settlement funds, each route has a precise financial shape. [POF NG](/) structures compliant funds for every destination on this list — correct amounts, seasoned history, full documentation.
 
 **Message us on WhatsApp at 08103669924** with your chosen route, or run the numbers on the [proof of funds calculator](/proof-of-fund-calculator).
+
+### Official Resources
+
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)

@@ -102,3 +102,11 @@ Navigating the complexities of visa and school applications is challenging enoug
 The five companies we've highlighted are excellent starting points in your search.
 
 We recommend you review their services, compare their offerings, and [check specific visa requirements](/see-requirements) to find the partner that best aligns with your goals. gov/your-5-steps-us-study/finance-your-studies).
+
+### Official Resources
+
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)

@@ -102,3 +102,11 @@ While each route has unique criteria, solid financial proof is the universal key
 By understanding these five legitimate pathways and meticulously preparing your documentation, you can turn your 'JAPA' dream into a reality. If the Proof of Funds requirement seems like a roadblock, remember that help is available.
 
 Our team at POF NG is dedicated to helping you secure verifiable funds for your visa application. Let us handle the financial proof, so you can embark on your UK journey with confidence.
+
+### Official Resources
+
+- [UK Government: Skilled Worker visa costs](https://www.gov.uk/skilled-worker-visa/how-much-it-costs)
+- [UK Government: Register of licensed sponsors](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers)
+- [UK Government: Student visa finances](https://www.gov.uk/student-visa/money)
+- [UK Government: Visas and immigration](https://www.gov.uk/browse/visas-immigration)
+- [UK Government: Standard Visitor visa](https://www.gov.uk/standard-visitor)

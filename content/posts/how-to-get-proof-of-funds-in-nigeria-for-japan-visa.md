@@ -93,3 +93,11 @@ At POF NG, we are committed to making your travel dreams a reality. We offer a f
 Let us handle the complexities so you can focus on planning your amazing trip to Japan.
 
 **Contact POF NG today for a free consultation and get your verifiable Proof of Funds within 72 hours!**
+
+### Official Resources
+
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)

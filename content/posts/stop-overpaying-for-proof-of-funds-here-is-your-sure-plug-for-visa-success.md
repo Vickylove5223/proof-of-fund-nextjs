@@ -59,3 +59,11 @@ We are your sure plug for affordable, secure, and fast Proof of Funds. Stop stre
 Our live support team is online right now, ready to listen to your specific needs and provide an immediate solution.
 
 ### **Ready to get started? Send us a DM today! _Your visa approval is just one message away. Reach out to us now and let's make your relocation dream a reality!_**
+
+### Official Resources
+
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)

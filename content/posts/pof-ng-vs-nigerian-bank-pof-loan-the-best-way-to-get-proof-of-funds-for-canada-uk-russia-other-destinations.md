@@ -130,3 +130,12 @@ At POF NG, we offer the most reliable, transparent, and embassy-friendly POF sol
 [Chat with us on WhatsApp](https://wa.me/2348103669924) for a no-obligation consultation. Share your destination, required amount, and timeline — we will recommend the best package for your situation.
 
 Don’t risk visa refusal due to weak financial documentation. Choose the proven, efficient way to secure your Proof of Funds.
+
+### Official Resources
+
+- [Bank of Canada: Daily exchange rates](https://www.bankofcanada.ca/rates/exchange/)
+- [EduCanada: Study in Canada](https://www.educanada.ca/)
+- [IRCC: Proof of funds for Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html)
+- [IRCC: Study permit financial documents](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents.html)
+- [IRCC: Immigration and citizenship overview](https://www.canada.ca/en/immigration-refugees-citizenship.html)
+- [Global Affairs Canada: Nigeria](https://www.international.gc.ca/country-pays/nigeria/)

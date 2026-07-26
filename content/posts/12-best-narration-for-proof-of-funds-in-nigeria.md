@@ -86,3 +86,11 @@ Let us handle the complexities so you can focus on your journey ahead.
 Ready to get started? [Contact POF NG](/) for a free consultation and secure your Proof of Funds with confidence!
 
 For more information on how to get started,
+
+### Official Resources
+
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)

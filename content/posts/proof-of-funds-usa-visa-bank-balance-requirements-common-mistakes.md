@@ -118,3 +118,11 @@ Don't let the complexities of Proof of Funds hinder your American dream. We at P
 Ready to take the next step? [Contact POF NG](/) or contact us today to get your authentic Proof of Funds and move closer to your USA visa goal.
 
 Many applicants find independent immigration-resource guides helpful.
+
+### Official Resources
+
+- [EducationUSA: Finance your studies](https://educationusa.state.gov/your-5-steps-us-study/finance-your-studies)
+- [U.S. Embassy Nigeria: Visas](https://ng.usembassy.gov/visas/)
+- [U.S. Travel Docs: Nigeria](https://www.ustraveldocs.com/ng/)
+- [U.S. Department of State: Student visa](https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html)
+- [U.S. Department of State: Visitor visa](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html)

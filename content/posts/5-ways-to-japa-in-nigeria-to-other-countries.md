@@ -93,3 +93,11 @@ Conclusion
 The journey to 'Japa' from Nigeria is achievable through several legitimate pathways, from skilled work and study to entrepreneurship and family sponsorship. While each route has unique requirements, a solid financial standing demonstrated through proper Proof of Funds is almost always a critical factor for success.
 
 By understanding your options and preparing all necessary documentation—especially your financial proof—you can significantly increase your chances of a successful relocation. [Contact POF NG](/) can provide the support needed to turn your dream of moving abroad into a reality.
+
+### Official Resources
+
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)

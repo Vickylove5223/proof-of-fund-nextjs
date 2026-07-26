@@ -86,3 +86,11 @@ Obtaining a **valid Proof of Fund (POF)** in Nigeria is straightforward when you
 If you need a fast and affordable option, **POF NG** is one of the best agents to work with. They help Nigerians secure POF at **cheap interest rates**, making it easier to process visas, travel abroad, or close international deals.
 
 By following these options and tips, you can confidently prepare your financial documentation and move forward with your application successfully.
+
+### Official Resources
+
+- [Nigerian Bar Association](https://nigerianbar.org.ng/)
+- [XE: Currency converter](https://www.xe.com/)
+- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
+- [World Bank](https://www.worldbank.org/)
+- [IOM: International Organization for Migration](https://www.iom.int/)
