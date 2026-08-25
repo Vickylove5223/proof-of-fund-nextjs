@@ -22,6 +22,7 @@ export default function Navbar() {
         <div className="hidden md:flex items-center gap-8 text-sm font-medium text-slate-800">
           <Link href="/" className="hover:text-[#2E1499] transition-colors">Home</Link>
           <Link href="/see-requirements" className="hover:text-[#2E1499] transition-colors">POF Requirements</Link>
+          <Link href="/step-guides" className="hover:text-[#2E1499] transition-colors">STEP Guides</Link>
           <Link href="/guides" className="hover:text-[#2E1499] transition-colors">Insights & Updates</Link>
           <Link href="/proof-of-fund-calculator" className="hover:text-[#2E1499] transition-colors">POF Calculator</Link>
         </div>
@@ -51,6 +52,7 @@ export default function Navbar() {
         <div className="md:hidden absolute top-full left-0 w-full bg-white shadow-xl border-t border-slate-100 flex flex-col py-4 px-6 gap-6">
           <Link href="/" className="text-lg font-medium text-slate-800 hover:text-[#2E1499]" onClick={closeMenu}>Home</Link>
           <Link href="/see-requirements" className="text-lg font-medium text-slate-800 hover:text-[#2E1499]" onClick={closeMenu}>POF Requirements</Link>
+          <Link href="/step-guides" className="text-lg font-medium text-slate-800 hover:text-[#2E1499]" onClick={closeMenu}>STEP Guides</Link>
           <Link href="/guides" className="text-lg font-medium text-slate-800 hover:text-[#2E1499]" onClick={closeMenu}>Insights & Updates</Link>
           <Link href="/proof-of-fund-calculator" className="text-lg font-medium text-slate-800 hover:text-[#2E1499]" onClick={closeMenu}>POF Calculator</Link>
           

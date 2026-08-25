@@ -30,27 +30,60 @@ export default function RequirementsPage() {
           </p>
 
           <h3 className="text-2xl font-bold mb-4">Proof of Fund Requirements for Individuals</h3>
-          <p className="text-slate-700 mb-6">For individual applicants, the standard documentation required is detailed below:</p>
+          <p className="text-slate-700 mb-6">For individual applicants, you will need to complete the form below in full. Here is everything you will be asked for:</p>
 
-          <h4 className="font-bold text-lg mb-3">Applicant Details</h4>
+          <h4 className="font-bold text-lg mb-3">1. Personal Details</h4>
           <ul className="list-disc pl-6 space-y-2 text-slate-700 mb-8">
-            <li>International Passport</li>
-            <li>Admission Letter (if applicable)</li>
-            <li>BVN (Bank Verification Number)</li>
-            <li>NIN (National Identity Number)</li>
-            <li>Utility Bill</li>
-            <li>Passport Photograph</li>
-            <li>Employment Letter (if applicable)</li>
-            <li>Sponsor's ID (if sponsored)</li>
-            <li>Sponsor's Letter (if sponsored)</li>
+            <li>BVN</li>
+            <li>Title</li>
+            <li>Surname</li>
+            <li>First Name</li>
+            <li>Middle Name (optional)</li>
+            <li>Gender</li>
+            <li>Marital Status</li>
+            <li>Date of Birth</li>
+            <li>Country of Birth</li>
+            <li>Nationality</li>
+            <li>State of Origin</li>
+            <li>LGA of Origin</li>
+            <li>Mother's Maiden Name</li>
+            <li>Phone Number</li>
+            <li>Email</li>
+            <li>POF Amount Needed</li>
+            <li>Bank</li>
+            <li>Account Number</li>
+            <li>Occupation</li>
+            <li>Residential Address</li>
+            <li>State of Residence</li>
+            <li>City/Town</li>
+            <li>Nearest Bus Stop</li>
           </ul>
 
-          <h4 className="font-bold text-lg mb-3">Verification Data Details</h4>
+          <h4 className="font-bold text-lg mb-3">2. Next of Kin</h4>
           <ul className="list-disc pl-6 space-y-2 text-slate-700 mb-8">
-            <li>Account Name, Account Number, and Bank Branch details (if using a specific bank)</li>
-            <li>BVN</li>
+            <li>Title</li>
+            <li>Surname</li>
+            <li>First Name</li>
+            <li>Middle Name (optional)</li>
             <li>Date of Birth</li>
-            <li>Full Contact details (Phone number, Email address, and Residential Address)</li>
+            <li>Relationship</li>
+            <li>Gender</li>
+            <li>Phone Number</li>
+            <li>Email</li>
+            <li>Residential Address</li>
+            <li>Nearest Bus Stop</li>
+            <li>City/Town</li>
+            <li>State</li>
+            <li>LGA</li>
+          </ul>
+
+          <h4 className="font-bold text-lg mb-3">3. Documents to Upload</h4>
+          <ul className="list-disc pl-6 space-y-2 text-slate-700 mb-8">
+            <li>Valid ID (names must match your BVN)</li>
+            <li>Utility Bill (current)</li>
+            <li>Passport Photograph</li>
+            <li>Signature signed on plain paper</li>
+            <li>Proof of Travel — Admission Letter, Contract Letter, Visa, or other (optional, if applicable)</li>
           </ul>
 
           <h4 className="font-bold text-lg mb-3">How to Get Funds</h4>
