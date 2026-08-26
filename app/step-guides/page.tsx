@@ -4,6 +4,8 @@ import Link from 'next/link';
 import { useState } from 'react';
 import { ChevronRight, ChevronDown, Check, ArrowRight, CircleHelp, ExternalLink } from 'lucide-react';
 
+type FxCurrency = 'USD' | 'GBP' | 'EUR' | 'CAD' | 'AUD' | 'CHF' | 'NZD' | 'ZAR' | 'SEK' | 'CZK' | 'THB';
+
 type VisaType = {
   key: string;
   label: string;
@@ -13,7 +15,26 @@ type VisaType = {
   sourceName: string;
   sourceUrl: string;
   note?: string;
+  /** Only set where the amount is a single, unambiguous total (not "no fixed amount" / a sliding scale / an un-annualized monthly rate). */
+  totals?: { label: string; amount: number; currency: FxCurrency }[];
 };
+
+// NGN per 1 unit of currency. USD is the CBN official NAFEM rate; other currencies are
+// derived by multiplying their USD cross-rate (xe.com) by the same USD/NGN rate.
+const FX_RATES: Record<FxCurrency, number> = {
+  USD: 1347.5, // CBN official NAFEM rate — https://www.cbn.gov.ng/rates/exrate.html (24 Aug 2026)
+  GBP: 1838,   // 1 GBP ≈ $1.364 (xe.com, 25 Aug 2026) × 1,347.5
+  EUR: 1573,   // 1 EUR ≈ $1.167 × 1,347.5
+  CAD: 974,    // 1 CAD ≈ $0.723 × 1,347.5
+  AUD: 965,    // 1 AUD ≈ $0.716 × 1,347.5
+  CHF: 1679,   // 1 CHF ≈ $1.246 × 1,347.5
+  NZD: 805,    // 1 NZD ≈ $0.597 × 1,347.5
+  ZAR: 84.5,   // 1 ZAR ≈ $0.0627 × 1,347.5
+  SEK: 142,    // 1 SEK ≈ $0.1056 × 1,347.5
+  CZK: 65,     // 1 CZK ≈ $0.0485 × 1,347.5
+  THB: 41,     // 1 THB ≈ $0.0306 × 1,347.5
+};
+const FX_AS_OF = '25 August 2026';
 
 type Country = {
   code: string;
@@ -28,9 +49,9 @@ const countries: Country[] = [
     name: 'United Kingdom',
     flag: '🇬🇧',
     visaTypes: [
-      { key: 'uk-student', label: 'Student Visa', category: 'study', amount: '£1,529/month (London) · £1,171/month (outside London), up to 9 months', duration: '28 consecutive days, statement dated within 31 days of application', sourceName: 'GOV.UK — Student visa: money', sourceUrl: 'https://www.gov.uk/student-visa/money', note: 'Dependants: £845/mo (London) or £680/mo (outside), also capped at 9 months.' },
+      { key: 'uk-student', label: 'Student Visa', category: 'study', amount: '£1,529/month (London) · £1,171/month (outside London), up to 9 months', duration: '28 consecutive days, statement dated within 31 days of application', sourceName: 'GOV.UK — Student visa: money', sourceUrl: 'https://www.gov.uk/student-visa/money', note: 'Dependants: £845/mo (London) or £680/mo (outside), also capped at 9 months.', totals: [{ label: 'Total, 9 months (London)', amount: 1529 * 9, currency: 'GBP' }, { label: 'Total, 9 months (outside London)', amount: 1171 * 9, currency: 'GBP' }] },
       { key: 'uk-visitor', label: 'Standard Visitor Visa', category: 'visit', amount: 'No fixed amount published', duration: 'No fixed period — officer discretion (≈3 months of statements typically shown)', sourceName: 'GOV.UK — Standard visitor visa', sourceUrl: 'https://www.gov.uk/standard-visitor-visa', note: 'Immigration Rules Appendix V only requires showing you can support yourself and pay for your return journey — no numeric threshold.' },
-      { key: 'uk-worker', label: 'Skilled Worker Visa', category: 'immigration', amount: '£1,270', duration: '28 consecutive days', sourceName: 'GOV.UK — Skilled Worker visa', sourceUrl: 'https://www.gov.uk/skilled-worker-visa', note: 'Waived if your certificate of sponsorship confirms your employer will cover costs, or you’ve held a UK visa for 12+ months.' },
+      { key: 'uk-worker', label: 'Skilled Worker Visa', category: 'immigration', amount: '£1,270', duration: '28 consecutive days', sourceName: 'GOV.UK — Skilled Worker visa', sourceUrl: 'https://www.gov.uk/skilled-worker-visa', note: 'Waived if your certificate of sponsorship confirms your employer will cover costs, or you’ve held a UK visa for 12+ months.', totals: [{ label: 'Total', amount: 1270, currency: 'GBP' }] },
     ],
   },
   {
@@ -38,9 +59,9 @@ const countries: Country[] = [
     name: 'Canada',
     flag: '🇨🇦',
     visaTypes: [
-      { key: 'ca-study', label: 'Study Permit', category: 'study', amount: 'CAD $22,895/year (single applicant, outside Quebec)', duration: 'No fixed holding period — funds must be readily available (GIC, statement, loan or scholarship)', sourceName: 'IRCC — Financial requirements for a study permit', sourceUrl: 'https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/updates/2024-financial-study-permit.html', note: 'Effective 1 Sept 2025, up from CAD $20,635. Amount scales up per accompanying family member.' },
+      { key: 'ca-study', label: 'Study Permit', category: 'study', amount: 'CAD $22,895/year (single applicant, outside Quebec)', duration: 'No fixed holding period — funds must be readily available (GIC, statement, loan or scholarship)', sourceName: 'IRCC — Financial requirements for a study permit', sourceUrl: 'https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/updates/2024-financial-study-permit.html', note: 'Effective 1 Sept 2025, up from CAD $20,635. Amount scales up per accompanying family member.', totals: [{ label: 'Total (per year)', amount: 22895, currency: 'CAD' }] },
       { key: 'ca-visitor', label: 'Visitor Visa', category: 'visit', amount: 'No fixed amount published', duration: 'No fixed period — ≈3 months of statements commonly requested', sourceName: 'IRCC — Document checklist (IMM 5865)', sourceUrl: 'https://ircc.canada.ca/english/pdf/kits/forms/IMM5865E.pdf' },
-      { key: 'ca-express', label: 'Express Entry / PR', category: 'immigration', amount: 'CAD $15,263 (1 person, scales with family size)', duration: 'N/A — lump-sum, unencumbered funds, updated annually (50% of LICO)', sourceName: 'IRCC — Proof of funds (Express Entry)', sourceUrl: 'https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html', note: 'Exempt if you have a valid job offer or are invited under the Canadian Experience Class.' },
+      { key: 'ca-express', label: 'Express Entry / PR', category: 'immigration', amount: 'CAD $15,263 (1 person, scales with family size)', duration: 'N/A — lump-sum, unencumbered funds, updated annually (50% of LICO)', sourceName: 'IRCC — Proof of funds (Express Entry)', sourceUrl: 'https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html', note: 'Exempt if you have a valid job offer or are invited under the Canadian Experience Class.', totals: [{ label: 'Total (1 person)', amount: 15263, currency: 'CAD' }] },
     ],
   },
   {
@@ -50,7 +71,7 @@ const countries: Country[] = [
     visaTypes: [
       { key: 'us-student', label: 'F1 Student Visa', category: 'study', amount: 'Set by your school’s Form I-20 (tuition + ~1 year living costs)', duration: 'No fixed period — funds must be shown as "readily available"', sourceName: 'Study in the States (DHS/ICE)', sourceUrl: 'https://studyinthestates.dhs.gov/answer/what-is-evidence-of-financial-support', note: 'Acceptable evidence includes bank statements, sponsor letters, or scholarship letters.' },
       { key: 'us-visitor', label: 'B1/B2 Visitor Visa', category: 'visit', amount: 'No fixed amount published', duration: 'No fixed period — officer discretion, part of the 214(b) ties-to-home-country review', sourceName: 'U.S. Department of State — travel.state.gov', sourceUrl: 'https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html' },
-      { key: 'us-investor', label: 'Investor Visa (EB-5)', category: 'business', amount: '$1,050,000 standard, or $800,000 in a Targeted Employment Area', duration: 'N/A — investment capital, not a bank statement', sourceName: 'USCIS — EB-5 Immigrant Investor Program', sourceUrl: 'https://www.uscis.gov/working-in-the-united-states/permanent-workers/eb-5-immigrant-investor-program', note: 'Set by the EB-5 Reform and Integrity Act of 2022; verify current figure live before relying on it.' },
+      { key: 'us-investor', label: 'Investor Visa (EB-5)', category: 'business', amount: '$1,050,000 standard, or $800,000 in a Targeted Employment Area', duration: 'N/A — investment capital, not a bank statement', sourceName: 'USCIS — EB-5 Immigrant Investor Program', sourceUrl: 'https://www.uscis.gov/working-in-the-united-states/permanent-workers/eb-5-immigrant-investor-program', note: 'Set by the EB-5 Reform and Integrity Act of 2022; verify current figure live before relying on it.', totals: [{ label: 'Standard', amount: 1050000, currency: 'USD' }, { label: 'Targeted Employment Area', amount: 800000, currency: 'USD' }] },
     ],
   },
   {
@@ -75,7 +96,7 @@ const countries: Country[] = [
     name: 'Germany',
     flag: '🇩🇪',
     visaTypes: [
-      { key: 'de-student', label: 'Student Visa (Blocked Account)', category: 'study', amount: '€992/month (€11,904/year)', duration: 'Funds locked in a blocked account (Sperrkonto), released monthly', sourceName: 'German Federal Foreign Office (Auswärtiges Amt)', sourceUrl: 'https://www.auswaertiges-amt.de', note: 'Rate tracks the BAföG student-support rate and is reviewed roughly yearly — verify the current figure live.' },
+      { key: 'de-student', label: 'Student Visa (Blocked Account)', category: 'study', amount: '€992/month (€11,904/year)', duration: 'Funds locked in a blocked account (Sperrkonto), released monthly', sourceName: 'German Federal Foreign Office (Auswärtiges Amt)', sourceUrl: 'https://www.auswaertiges-amt.de', note: 'Rate tracks the BAföG student-support rate and is reviewed roughly yearly — verify the current figure live.', totals: [{ label: 'Total (per year)', amount: 11904, currency: 'EUR' }] },
       { key: 'de-visitor', label: 'Schengen Visit Visa', category: 'visit', amount: '≈€45–120/day (unverified against a live primary source)', duration: 'No fixed period', sourceName: 'Auswärtiges Amt', sourceUrl: 'https://www.auswaertiges-amt.de', note: 'Treat as indicative only until confirmed on the live consulate page.' },
     ],
   },
@@ -93,7 +114,7 @@ const countries: Country[] = [
     name: 'Italy',
     flag: '🇮🇹',
     visaTypes: [
-      { key: 'it-student', label: 'Student Visa', category: 'study', amount: '€10,179.85/year (2026/27–2027/28 academic years)', duration: 'Annual lump sum — no monthly breakdown given officially', sourceName: 'Italian Ministry of Foreign Affairs (MAECI)', sourceUrl: 'https://www.esteri.it/en/ministero/sportello_info/domandefrequenti/studiare-in-italia/' },
+      { key: 'it-student', label: 'Student Visa', category: 'study', amount: '€10,179.85/year (2026/27–2027/28 academic years)', duration: 'Annual lump sum — no monthly breakdown given officially', sourceName: 'Italian Ministry of Foreign Affairs (MAECI)', sourceUrl: 'https://www.esteri.it/en/ministero/sportello_info/domandefrequenti/studiare-in-italia/', totals: [{ label: 'Total (per year)', amount: 10179.85, currency: 'EUR' }] },
       { key: 'it-visitor', label: 'Schengen Visit Visa', category: 'visit', amount: '€269.60 flat for 1–5 days (€212.81 pp if traveling together); €44.93/day for 6–10 days; €51.64 + €36.67/day for 11–20 days', duration: 'N/A — official per-day sliding scale, not a monthly balance', sourceName: 'Italian MFA — Financial means required for entry', sourceUrl: 'https://www.esteri.it/en/servizi-opportunita/ingressosoggiornoinitalia/mezzi_finanziari/', note: 'Basis: Ministry of Interior Directive of 1 March 2000.' },
     ],
   },
@@ -102,7 +123,7 @@ const countries: Country[] = [
     name: 'Netherlands',
     flag: '🇳🇱',
     visaTypes: [
-      { key: 'nl-student', label: 'Student Visa', category: 'study', amount: '€1,130.77/month (HBO/university) or €928.58/month (secondary/MBO) — 2026 rate', duration: 'Must cover 12 months', sourceName: 'IND — Required amounts', sourceUrl: 'https://ind.nl/en/required-amounts-income-requirements', note: 'Revised every 1 January. Higher amount applies if the sponsor is a third party, not the student.' },
+      { key: 'nl-student', label: 'Student Visa', category: 'study', amount: '€1,130.77/month (HBO/university) or €928.58/month (secondary/MBO) — 2026 rate', duration: 'Must cover 12 months', sourceName: 'IND — Required amounts', sourceUrl: 'https://ind.nl/en/required-amounts-income-requirements', note: 'Revised every 1 January. Higher amount applies if the sponsor is a third party, not the student.', totals: [{ label: 'Total, 12 months (HBO/university)', amount: 1130.77 * 12, currency: 'EUR' }, { label: 'Total, 12 months (secondary/MBO)', amount: 928.58 * 12, currency: 'EUR' }] },
       { key: 'nl-visitor', label: 'Schengen Visit Visa', category: 'visit', amount: '≈€34–55/day (sources disagree, unverified)', duration: 'No fixed period', sourceName: 'IND (official)', sourceUrl: 'https://ind.nl' },
     ],
   },
@@ -129,7 +150,7 @@ const countries: Country[] = [
     name: 'Belgium',
     flag: '🇧🇪',
     visaTypes: [
-      { key: 'be-student', label: 'Student Visa', category: 'study', amount: '€1,062/month (2026/27), ≈€12,744/year', duration: 'Full academic year, via blocked account or financial guarantor', sourceName: 'Belgian Immigration Office (diplomatie.belgium.be)', sourceUrl: 'https://republiquedecoree.diplomatie.belgium.be/en/travel-belgium/visa-belgium/visa-long-stays-over-90-days/student-visa' },
+      { key: 'be-student', label: 'Student Visa', category: 'study', amount: '€1,062/month (2026/27), ≈€12,744/year', duration: 'Full academic year, via blocked account or financial guarantor', sourceName: 'Belgian Immigration Office (diplomatie.belgium.be)', sourceUrl: 'https://republiquedecoree.diplomatie.belgium.be/en/travel-belgium/visa-belgium/visa-long-stays-over-90-days/student-visa', totals: [{ label: 'Total (per year)', amount: 12744, currency: 'EUR' }] },
       { key: 'be-visitor', label: 'Schengen Visit Visa', category: 'visit', amount: '€45/day (staying with host/family) or €95/day (hotel)', duration: 'N/A — official per-day reference amount', sourceName: 'Belgian Immigration Office (IBZ) — Reference amounts', sourceUrl: 'https://dofi.ibz.be/en/themes/entry/border-control/entry-schengen-territory/reference-amounts-short-stay' },
     ],
   },
@@ -210,7 +231,7 @@ const countries: Country[] = [
     name: 'Czech Republic',
     flag: '🇨🇿',
     visaTypes: [
-      { key: 'cz-student', label: 'Student Visa', category: 'study', amount: '15× existential minimum (CZK 3,130) = CZK 46,950 base, +CZK 6,260 per extra month; e.g. CZK 115,810 for 12 months', duration: 'Formula-based, not a fixed lookback window', sourceName: 'Czech Ministry of Foreign Affairs', sourceUrl: 'https://mzv.gov.cz/jnp/en/information_for_aliens/supporting_documents_overview/financial_means.html', note: 'Under-18 applicants show half.' },
+      { key: 'cz-student', label: 'Student Visa', category: 'study', amount: '15× existential minimum (CZK 3,130) = CZK 46,950 base, +CZK 6,260 per extra month; e.g. CZK 115,810 for 12 months', duration: 'Formula-based, not a fixed lookback window', sourceName: 'Czech Ministry of Foreign Affairs', sourceUrl: 'https://mzv.gov.cz/jnp/en/information_for_aliens/supporting_documents_overview/financial_means.html', note: 'Under-18 applicants show half.', totals: [{ label: 'Total (12 months, example)', amount: 115810, currency: 'CZK' }] },
       { key: 'cz-visitor', label: 'Schengen Visit Visa', category: 'visit', amount: 'Not researched — no confirmed figure', duration: 'Not confirmed', sourceName: 'mzv.gov.cz (official)', sourceUrl: 'https://mzv.gov.cz' },
     ],
   },
@@ -246,7 +267,7 @@ const countries: Country[] = [
     name: 'Ireland',
     flag: '🇮🇪',
     visaTypes: [
-      { key: 'ie-student', label: 'Student Visa', category: 'study', amount: '€10,000 (courses of 1 year+) or €833/month (6–8 month courses)', duration: '6 months of statement history commonly expected in practice (not stated on the official finance page itself)', sourceName: 'Irish Immigration Service Delivery (INIS)', sourceUrl: 'https://www.irishimmigration.ie/reminder-on-student-finance-requirements-from-30-june-2025/', note: 'Effective 30 June 2025 — this is a recent change, verify live.' },
+      { key: 'ie-student', label: 'Student Visa', category: 'study', amount: '€10,000 (courses of 1 year+) or €833/month (6–8 month courses)', duration: '6 months of statement history commonly expected in practice (not stated on the official finance page itself)', sourceName: 'Irish Immigration Service Delivery (INIS)', sourceUrl: 'https://www.irishimmigration.ie/reminder-on-student-finance-requirements-from-30-june-2025/', note: 'Effective 30 June 2025 — this is a recent change, verify live.', totals: [{ label: 'Total (courses 1 year+)', amount: 10000, currency: 'EUR' }] },
       { key: 'ie-visitor', label: 'Visit Visa', category: 'visit', amount: 'No fixed amount published — general "sufficient funds" standard applies', duration: 'Not confirmed', sourceName: 'irishimmigration.ie (official)', sourceUrl: 'https://www.irishimmigration.ie' },
     ],
   },
@@ -255,7 +276,7 @@ const countries: Country[] = [
     name: 'New Zealand',
     flag: '🇳🇿',
     visaTypes: [
-      { key: 'nz-student', label: 'Student Visa', category: 'study', amount: 'NZD $20,000/year (programs 12 months+) or NZD $1,667/month (under 12 months)', duration: 'Not explicitly stated (commonly held ≈6 months, except approved loans/scholarships)', sourceName: 'Immigration New Zealand — Operations Manual', sourceUrl: 'https://www.immigration.govt.nz/opsmanual/76832.htm' },
+      { key: 'nz-student', label: 'Student Visa', category: 'study', amount: 'NZD $20,000/year (programs 12 months+) or NZD $1,667/month (under 12 months)', duration: 'Not explicitly stated (commonly held ≈6 months, except approved loans/scholarships)', sourceName: 'Immigration New Zealand — Operations Manual', sourceUrl: 'https://www.immigration.govt.nz/opsmanual/76832.htm', totals: [{ label: 'Total (per year, programs 12mo+)', amount: 20000, currency: 'NZD' }] },
       { key: 'nz-visitor', label: 'Visitor Visa', category: 'visit', amount: 'NZD $1,000/month, or NZD $400/month if accommodation is prepaid', duration: 'Not fixed in the manual', sourceName: 'Immigration New Zealand — Operations Manual', sourceUrl: 'https://www.immigration.govt.nz/opsmanual/76832.htm', note: 'Applicants pregnant and intending to give birth in NZ must show an additional NZD $9,000.' },
     ],
   },
@@ -346,7 +367,7 @@ const countries: Country[] = [
     flag: '🇿🇦',
     visaTypes: [
       { key: 'za-student', label: 'Study Visa', category: 'study', amount: 'No fixed rand figure — must show ability to cover tuition + living costs (bank statements, sponsor letter, or bursary award)', duration: 'Not officially fixed; proof must cover the full study duration', sourceName: 'Department of Home Affairs / South African Embassy', sourceUrl: 'https://www.dha.gov.za', note: 'Combined with proof of tuition/accommodation prepayment or sponsorship — no single official rand threshold found.' },
-      { key: 'za-visitor', label: 'Visitor Visa', category: 'visit', amount: 'R3,000 per person, per month of intended stay (e.g. ≈R9,000 for 3 months)', duration: '3 months of bank-certified statements', sourceName: 'Embassy of South Africa — Visitor’s Visa checklist', sourceUrl: 'https://www.saembassy.org/visas/civic_immigration/visitor_visa/port_of_entry_90days/' },
+      { key: 'za-visitor', label: 'Visitor Visa', category: 'visit', amount: 'R3,000 per person, per month of intended stay (e.g. ≈R9,000 for 3 months)', duration: '3 months of bank-certified statements', sourceName: 'Embassy of South Africa — Visitor’s Visa checklist', sourceUrl: 'https://www.saembassy.org/visas/civic_immigration/visitor_visa/port_of_entry_90days/', totals: [{ label: 'Example total (3 months)', amount: 9000, currency: 'ZAR' }] },
     ],
   },
   {
@@ -364,7 +385,7 @@ const countries: Country[] = [
     flag: '🇰🇪',
     visaTypes: [
       { key: 'ke-visitor', label: 'Visit Visa (eTA)', category: 'visit', amount: 'No fixed amount published', duration: 'Not officially specified', sourceName: 'Directorate of Immigration Services — eTA portal', sourceUrl: 'https://www.etakenya.go.ke' },
-      { key: 'ke-business', label: 'Business / Trade Permit (Class G)', category: 'business', amount: 'USD $100,000 minimum documented investment capital', duration: 'N/A — capital proof, not a bank-statement period', sourceName: 'Directorate of Immigration Services — Class G permit', sourceUrl: 'https://immigration.go.ke/class-g-specific-trade-business-or-consultancy/', note: 'This is a trade/consultancy work permit requirement, distinct from a short business-visit visa (which has no published figure).' },
+      { key: 'ke-business', label: 'Business / Trade Permit (Class G)', category: 'business', amount: 'USD $100,000 minimum documented investment capital', duration: 'N/A — capital proof, not a bank-statement period', sourceName: 'Directorate of Immigration Services — Class G permit', sourceUrl: 'https://immigration.go.ke/class-g-specific-trade-business-or-consultancy/', note: 'This is a trade/consultancy work permit requirement, distinct from a short business-visit visa (which has no published figure).', totals: [{ label: 'Minimum investment capital', amount: 100000, currency: 'USD' }] },
     ],
   },
   {
@@ -461,7 +482,7 @@ const countries: Country[] = [
     name: 'Thailand',
     flag: '🇹🇭',
     visaTypes: [
-      { key: 'th-visitor', label: 'Visit Visa', category: 'visit', amount: 'THB 20,000 per person / THB 40,000 per family (Tourist Visa); THB 10,000 / THB 20,000 for Visa-on-Arrival', duration: '3 months of bank statements showing the closing balance (or a sponsorship letter)', sourceName: 'Royal Thai Embassy / Thai Ministry of Interior notification', sourceUrl: 'https://www.mfa.go.th', note: 'Reinstated May 2025 — confirm at the specific Thai embassy/consulate serving Nigeria.' },
+      { key: 'th-visitor', label: 'Visit Visa', category: 'visit', amount: 'THB 20,000 per person / THB 40,000 per family (Tourist Visa); THB 10,000 / THB 20,000 for Visa-on-Arrival', duration: '3 months of bank statements showing the closing balance (or a sponsorship letter)', sourceName: 'Royal Thai Embassy / Thai Ministry of Interior notification', sourceUrl: 'https://www.mfa.go.th', note: 'Reinstated May 2025 — confirm at the specific Thai embassy/consulate serving Nigeria.', totals: [{ label: 'Tourist Visa (per person)', amount: 20000, currency: 'THB' }] },
     ],
   },
   {
@@ -507,6 +528,12 @@ const pofOptions: Record<VisaType['category'], {
 };
 
 const categoryOrder: VisaType['category'][] = ['study', 'visit', 'business', 'immigration'];
+
+function countryLabel(c: Country): string {
+  if (c.code === 'schengen') return 'EU';
+  if (c.code === 'other') return '—';
+  return c.code.toUpperCase();
+}
 
 export default function StepGuidesPage() {
   const [step, setStep] = useState(1);
@@ -573,7 +600,7 @@ export default function StepGuidesPage() {
               >
                 <option value="" disabled>Select a country</option>
                 {countries.map((c) => (
-                  <option key={c.code} value={c.code}>{c.flag} {c.name}</option>
+                  <option key={c.code} value={c.code}>{countryLabel(c)} — {c.name}</option>
                 ))}
               </select>
               <div className="absolute inset-y-0 right-0 flex items-center pr-4 pointer-events-none">
@@ -640,6 +667,22 @@ export default function StepGuidesPage() {
                   </a>
                 </span>
               </div>
+
+              {selectedVisa.totals && selectedVisa.totals.length > 0 && (
+                <div className="bg-[#F3F0FF] border border-[#2E1499]/10 rounded-xl p-6 mb-6">
+                  <p className="text-sm font-semibold text-[#2E1499] mb-3">Naira Equivalent (approximate)</p>
+                  <div className="space-y-1 mb-4">
+                    {selectedVisa.totals.map((t) => (
+                      <p key={t.label} className="text-base sm:text-lg font-bold text-slate-700">
+                        {t.label}: {t.currency} {t.amount.toLocaleString(undefined, { maximumFractionDigits: 2 })} ≈ ₦{Math.round(t.amount * FX_RATES[t.currency]).toLocaleString()}
+                      </p>
+                    ))}
+                  </div>
+                  <p className="text-xs text-slate-600 leading-relaxed">
+                    <strong>How this is calculated:</strong> total amount × exchange rate. USD figures use the CBN official NAFEM rate (₦1,347.5 = $1, {FX_AS_OF}). Other currencies are converted via their USD cross-rate (xe.com, {FX_AS_OF}) multiplied by that same USD/NGN rate — e.g. £1 ≈ $1.36 ≈ ₦{FX_RATES.GBP.toLocaleString()}. Exchange rates move daily, so treat this as an estimate, not a quote — ask our POF officer for today's rate.
+                  </p>
+                </div>
+              )}
 
               {selectedVisa.note && (
                 <div className="flex items-start gap-2 bg-[#e8f7fa] text-slate-700 text-sm p-4 rounded-lg mb-6 border border-blue-50">
@@ -709,6 +752,60 @@ export default function StepGuidesPage() {
             );
           })}
         </div>
+      </div>
+
+      {/* Full Country Reference Table */}
+      <div className="max-w-6xl mx-auto px-4 sm:px-6 mt-20">
+        <h2 className="text-2xl sm:text-3xl font-serif font-bold text-[#2E1499] mb-2 text-center">All Countries at a Glance</h2>
+        <p className="text-slate-600 text-center max-w-2xl mx-auto mb-10">
+          Every country and visa type covered above, with its required amount, bank statement duration, and official source in one table.
+        </p>
+
+        <div className="bg-white rounded-xl border border-slate-100 overflow-x-auto">
+          <table className="w-full text-left border-collapse min-w-[900px]">
+            <thead>
+              <tr className="border-b border-slate-200 bg-[#fcfafc]">
+                <th className="py-4 px-4 font-bold text-[#2E1499] text-sm whitespace-nowrap">Country</th>
+                <th className="py-4 px-4 font-bold text-[#2E1499] text-sm whitespace-nowrap">Visa Type</th>
+                <th className="py-4 px-4 font-bold text-[#2E1499] text-sm">Required Amount</th>
+                <th className="py-4 px-4 font-bold text-[#2E1499] text-sm">Bank Statement Duration</th>
+                <th className="py-4 px-4 font-bold text-[#2E1499] text-sm whitespace-nowrap">Source</th>
+              </tr>
+            </thead>
+            <tbody>
+              {countries.map((c) =>
+                c.visaTypes.map((v, i) => (
+                  <tr key={v.key} className="border-b border-slate-100 hover:bg-slate-50 transition-colors align-top">
+                    {i === 0 && (
+                      <td
+                        rowSpan={c.visaTypes.length}
+                        className="py-4 px-4 text-sm font-semibold text-slate-800 whitespace-nowrap align-top"
+                      >
+                        <span className="mr-1">{c.flag}</span>{c.name}
+                      </td>
+                    )}
+                    <td className="py-4 px-4 text-sm font-medium text-slate-700 whitespace-nowrap">{v.label}</td>
+                    <td className="py-4 px-4 text-sm text-slate-600 min-w-[220px]">{v.amount}</td>
+                    <td className="py-4 px-4 text-sm text-slate-600 min-w-[200px]">{v.duration}</td>
+                    <td className="py-4 px-4 text-sm whitespace-nowrap">
+                      <a
+                        href={v.sourceUrl}
+                        target="_blank"
+                        rel="noreferrer"
+                        className="text-blue-600 font-medium hover:underline inline-flex items-center gap-1"
+                      >
+                        {v.sourceName} <ExternalLink size={12} className="shrink-0" />
+                      </a>
+                    </td>
+                  </tr>
+                ))
+              )}
+            </tbody>
+          </table>
+        </div>
+        <p className="text-xs text-slate-500 text-center mt-4">
+          Figures change without notice. Where no fixed official amount exists, this is stated explicitly rather than estimated — confirm current requirements at the linked source and with our POF officer.
+        </p>
       </div>
 
       {/* How POF Works */}
