@@ -92,4 +92,4 @@ If you have any questions regarding these Terms and Conditions, please contact u
 
 *   Email: [info@proofoffund.com.ng](mailto:info@proofoffund.com.ng)
 *   Phone/WhatsApp: 08103669924
-*   Address: 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos
+*   Address: 6, Babatunde Jose Street, Off Ademola Adetokunbo V.I, Lagos

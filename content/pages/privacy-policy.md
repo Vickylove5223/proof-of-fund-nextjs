@@ -126,4 +126,4 @@ If you have any questions regarding this Privacy Policy, please contact us:
 
 *   Phone/WhatsApp: 08103669924
 
-*   Address: 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos
+*   Address: 6, Babatunde Jose Street, Off Ademola Adetokunbo V.I, Lagos
