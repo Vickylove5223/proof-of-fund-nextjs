@@ -114,9 +114,14 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             {/* Column 3: Address & Contact */}
             <div>
               <h3 className="text-xl font-bold font-serif mb-6 text-white/90">Address</h3>
-              <p className="text-white/80 leading-relaxed font-medium mb-6">
+              <p className="text-white/80 leading-relaxed font-medium mb-4">
                 6, Babatunde Jose Street<br />
                 Off Ademola Adetokunbo, V.I<br />
+                Lagos
+              </p>
+              <p className="text-white/80 leading-relaxed font-medium mb-6">
+                161C Raufu Taylor Close<br />
+                Off Idejo Street, Victoria Island<br />
                 Lagos
               </p>
               <p className="text-white/80 leading-relaxed font-medium mb-6">
