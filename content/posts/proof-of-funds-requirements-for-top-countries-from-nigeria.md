@@ -13,39 +13,48 @@ Whether you are applying for a study permit, a visitor visa, or a permanent resi
 > **Need a verifiable commercial bank statement to meet these requirements?** We provide secure funding up to ₦500 Million.
 > 📞 **Call:** [08103669924](tel:08103669924) | 💬 **WhatsApp:** [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
 
-### The 2026 Proof of Funds Requirement Table (By Visa Type)
+### The 2026 Proof of Funds Requirement Table (Total Required)
 
-Below is a comprehensive breakdown of the required living expenses for a single applicant, categorized by Country and Visa Type. It includes the required bank statement duration and the estimated Naira equivalent (Note: Naira equivalents fluctuate with FX rates; always confirm the current rate).
+Below is a comprehensive breakdown of the **TOTAL** estimated funds required for a single applicant. 
 
-| Country | Visa Type | Living Expenses Requirement | Required Bank Statement Duration | Estimated Amount in Naira |
+*For student visas, this total includes BOTH the mandatory living expenses AND an average estimated 1-year tuition balance. For visitor and PR visas, it reflects the standard lump sum expected by the embassy.*
+
+**Exchange Rates Used for Estimation:**
+*   **USD:** ₦1,600 / $1
+*   **GBP:** ₦2,100 / £1
+*   **EUR:** ₦1,750 / €1
+*   **CAD:** ₦1,200 / $1 CAD
+*   **AUD:** ₦1,100 / $1 AUD
+*   **SEK:** ₦150 / 1 SEK
+*   **ZAR:** ₦90 / 1 ZAR
+
+| Country | Visa Type | Total Estimated Requirement (Foreign Currency) | Required Bank Statement Duration | Total Estimated Amount in Naira |
 | :--- | :--- | :--- | :--- | :--- |
-| **Canada** | Study Permit | $20,635 CAD (1 Year) | 4 to 6 months | ₦24 Million |
-| **Canada** | Visitor Visa | ~$5,000 - $10,000 CAD | 4 to 6 months | ₦6 Million - ₦12 Million |
-| **Canada** | Express Entry (PR) | $14,690 CAD | Up-to-date at ITA | ₦17.5 Million |
-| **United Kingdom** | Student Visa (London) | £12,006 | 28 days (strictly maintained) | ₦25 Million |
-| **United Kingdom** | Student Visa (Outside London) | £9,207 | 28 days (strictly maintained) | ₦19.5 Million |
-| **United Kingdom** | Visit Visa | £3,000 - £5,000 | 3 to 6 months | ₦6.5 Million - ₦10.5 Million |
-| **United States** | F-1 Student Visa | $20,000 - $30,000 USD | 3 to 6 months | ₦30 Million - ₦45 Million |
-| **United States** | B1/B2 Visitor Visa | $5,000 - $10,000 USD | 3 to 6 months | ₦7.5 Million - ₦15 Million |
-| **Australia** | Student Visa | $29,710 AUD | 3 months minimum | ₦32 Million |
-| **Australia** | Visitor Visa | $5,000 - $10,000 AUD | 3 months minimum | ₦5.5 Million - ₦11 Million |
-| **Germany** | Student Visa | €11,208 (Blocked Account) | Upfront Deposit | ₦19 Million |
-| **Germany** | Schengen Visitor Visa | €3,000 - €5,000 | 3 to 6 months | ₦5 Million - ₦8.5 Million |
-| **Ireland** | Student Visa | €10,000 | 6 months | ₦17 Million |
-| **Sweden** | Student Visa | SEK 123,768 | 3 to 6 months | ₦18 Million |
-| **Netherlands**| Student Visa | €14,600 | 3 months | ₦24.5 Million |
-| **Finland** | Student Visa | €6,720 | 3 months | ₦11.5 Million |
-| **Poland** | Student Visa | €9,000 | 3 to 6 months | ₦15.5 Million |
-| **Cyprus** | Student Visa | €6,000 | 3 to 6 months | ₦10.5 Million |
-| **South Africa** | Student / Visit Visa | ZAR 60,000 | 3 months | ₦5 Million |
-
-*Important Note: For student visas, the amounts listed above are for living expenses only. You must ADD your first year of outstanding tuition to the figures above.*
+| **Canada** | Study Permit | ~$40,635 CAD *(Living + Avg Tuition)* | 4 to 6 months | ~₦48.7 Million |
+| **Canada** | Visitor Visa | ~$10,000 CAD | 4 to 6 months | ~₦12.0 Million |
+| **Canada** | Express Entry (PR) | $14,690 CAD | Up-to-date at ITA | ~₦17.6 Million |
+| **United Kingdom** | Student Visa (London) | ~£27,006 *(Living + Avg Tuition)* | 28 days (strictly maintained) | ~₦56.7 Million |
+| **United Kingdom** | Student Visa (Outside) | ~£24,207 *(Living + Avg Tuition)* | 28 days (strictly maintained) | ~₦50.8 Million |
+| **United Kingdom** | Visit Visa | ~£5,000 | 3 to 6 months | ~₦10.5 Million |
+| **United States** | F-1 Student Visa | ~$50,000 USD *(Living + Avg Tuition)* | 3 to 6 months | ~₦80.0 Million |
+| **United States** | B1/B2 Visitor Visa | ~$10,000 USD | 3 to 6 months | ~₦16.0 Million |
+| **Australia** | Student Visa | ~$59,710 AUD *(Living + Avg Tuition)* | 3 months minimum | ~₦65.6 Million |
+| **Australia** | Visitor Visa | ~$10,000 AUD | 3 months minimum | ~₦11.0 Million |
+| **Germany** | Student Visa | €11,208 *(Blocked Account, Free Tuition)* | Upfront Deposit | ~₦19.6 Million |
+| **Germany** | Schengen Visitor Visa | ~€5,000 | 3 to 6 months | ~₦8.7 Million |
+| **Ireland** | Student Visa | ~€25,000 *(Living + Avg Tuition)* | 6 months | ~₦43.7 Million |
+| **Sweden** | Student Visa | ~SEK 253,768 *(Living + Avg Tuition)* | 3 to 6 months | ~₦38.0 Million |
+| **Netherlands**| Student Visa | ~€29,600 *(Living + Avg Tuition)* | 3 months | ~₦51.8 Million |
+| **Finland** | Student Visa | ~€16,720 *(Living + Avg Tuition)* | 3 months | ~₦29.2 Million |
+| **Poland** | Student Visa | ~€12,500 *(Living + Avg Tuition)* | 3 to 6 months | ~₦21.8 Million |
+| **Cyprus** | Student Visa | ~€11,000 *(Living + Avg Tuition)* | 3 to 6 months | ~₦19.2 Million |
+| **South Africa** | Student / Visit Visa | ~ZAR 110,000 *(Living + Avg Tuition)* | 3 months | ~₦9.9 Million |
 
 ### Why the Duration of Your Statement Matters
 
 As you can see in the table, almost every country requires a **3 to 6-month statement**, except the UK, which enforces a strict 28-day rule for students. 
 
-This duration is how embassies spot "funds dumping." If you are applying to Canada (which requires a 4 to 6-month statement) and your account suddenly inflates by ₦24 Million just one week before your interview, the visa officer will instantly reject your application for financial misrepresentation. 
+This duration is how embassies spot "funds dumping." If you are applying to Canada (which requires a 4 to 6-month statement) and your account suddenly inflates by ₦48 Million just one week before your interview, the visa officer will instantly reject your application for financial misrepresentation. 
 
 To satisfy the duration rules, your funds must either:
 1. Mature naturally over the required timeframe.
