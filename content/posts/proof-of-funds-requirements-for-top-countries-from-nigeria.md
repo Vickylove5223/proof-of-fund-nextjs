@@ -1,9 +1,9 @@
 ---
-title: 'Complete Proof of Funds Requirements for Every Country & Visa Type from Nigeria'
+title: 'Amount Required for POF for different Visa type for Nigeria in 2026'
 slug: proof-of-funds-requirements-for-top-countries-from-nigeria
 type: post
 description: 'Discover the exact Proof of Funds requirements, bank statement duration, and Naira equivalents for studying, working, visiting, and family visas from Nigeria.'
-seo_title: 'Proof of Funds Requirements by Country & Visa Type (2026)'
+seo_title: 'Amount Required for POF for different Visa type for Nigeria in 2026'
 image: /wp-content/uploads/2025/09/application-form-information-employment-concept_53876-128011.jpg
 ---
 When planning your relocation or travel from Nigeria, understanding the exact financial requirement for your specific visa type is the most critical step. Embassies do not guess; they have strict, mathematical formulas for how much money you must show and exactly how long that money must sit in your account.
