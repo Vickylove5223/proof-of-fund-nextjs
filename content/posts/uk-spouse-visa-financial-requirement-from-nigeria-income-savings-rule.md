@@ -60,7 +60,7 @@ Also verify the evidence format: statements covering the full period, in the rig
 
 ## Structuring the Savings Route Properly
 
-£88,500 (roughly ₦190m+) is a serious sum, and how it is held and evidenced decides the application. [Proof of Fund NG](/) structures spouse-visa savings files for Nigerian couples: correct account names, six-month seasoning managed to the day, source-of-funds documentation, and statements formatted for UKVI. If your money is spread across investments, businesses, or family members, we'll map the legal route to a compliant file.
+£88,500 (roughly ₦190m+) is a serious sum, and how it is held and evidenced decides the application. [Proof of Fund NG](/) structures spouse-visa savings files for Nigerian couples: correct account names, six-month seasoning managed to the day, source-of-funds documentation, and statements formatted for [UKVI](https://www.gov.uk/government/organisations/uk-visas-and-immigration). If your money is spread across investments, businesses, or family members, we'll map the legal route to a compliant file.
 
 Message us on WhatsApp at 08103669924 with your partner's income situation and timeline for a free assessment — or start with the [proof of funds calculator](/proof-of-fund-calculator).
 

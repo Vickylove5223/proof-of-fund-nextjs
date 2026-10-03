@@ -63,7 +63,7 @@ Here are 12 clear and acceptable narrations to use for large deposits in your ac
   IFO stands for "In Favour Of." This is used when a third party makes a deposit into your account on behalf of someone else. For example, if a company pays a contractor through you. It provides clarity on the transaction flow.
 12. Rent
 
-  If you are a landlord, this narration is used for income from your properties. A tenancy agreement serves as excellent proof for this source of funds, which is accepted for applications like the Schengen visa.
+  If you are a landlord, this narration is used for income from your properties. A tenancy agreement serves as excellent proof for this source of funds, which is accepted for applications like the [Schengen visa](/schengen-visa-bank-statement-requirements-from-nigeria-6-months).
 
 ## How to Ensure Your Proof of Funds Is Accepted
 

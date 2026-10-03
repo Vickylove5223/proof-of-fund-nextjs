@@ -10,7 +10,7 @@ If you own land or a house in Nigeria, you might be wondering: "Can I use my rea
 
 This is one of the most frequently asked questions on Nigerian travel forums like Nairaland, and unfortunately, bad advice on this topic leads to thousands of visa refusals every year. 
 
-To satisfy strict embassies like the IRCC (Canada), UKVI (UK), and Schengen consulates, you must understand the vital difference between Proof of Funds (POF) and Home Ties.
+To satisfy strict embassies like the [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html) (Canada), [UKVI](https://www.gov.uk/government/organisations/uk-visas-and-immigration) (UK), and Schengen consulates, you must understand the vital difference between Proof of Funds (POF) and Home Ties.
 
 > Need Liquid Cash instead of a Property Document? We fund commercial bank accounts within 24 hours.
 >  Call: [08103669924](tel:08103669924) |  WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)

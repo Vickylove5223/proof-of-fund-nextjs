@@ -16,13 +16,13 @@ Many Nigerian applicants for Canadian study permits rely on family sponsors — 
 
 Don’t let weak financial documentation derail your Canadian study dream. Build a professional and convincing sponsor package the right way.
 
-> *"I was so stressed about my UK student visa because my bank statement wasn't ready. I thought my Japa dreams were over for the year. I reached out for proof of funds assistance, and within 48 hours, my financial documents were perfectly structured. My visa was approved last month, and I'm now studying in London! If you're struggling, don't give up—get the right help."* — Chidi A., Lagos
+> *"I was so stressed about my [UK student visa](/uk-student-visa-proof-of-funds-nigeria-28-day-rule) because my bank statement wasn't ready. I thought my Japa dreams were over for the year. I reached out for proof of funds assistance, and within 48 hours, my financial documents were perfectly structured. My visa was approved last month, and I'm now studying in London! If you're struggling, don't give up—get the right help."* — Chidi A., Lagos
 
 In this detailed guide, we explain exactly what [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html) expects from sponsor bank statements, how to prepare compelling sponsor documentation, common mistakes that lead to refusals, and legitimate ways to strengthen sponsor accounts when needed.
 
 ### Why Sponsor Bank Statements Matter for Nigerian Applicants
 
-IRCC requires you to show that you (or your sponsor) can cover tuition, living expenses, and return travel without depending on unauthorized work in Canada. For Nigerian students, who often face higher scrutiny, a well-prepared sponsor package can significantly improve approval chances.
+[IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html) requires you to show that you (or your sponsor) can cover tuition, living expenses, and return travel without depending on unauthorized work in Canada. For Nigerian students, who often face higher scrutiny, a well-prepared sponsor package can significantly improve approval chances.
 
 A sponsor bank statement proves the availability, stability, and accessibility of funds. It must be combined with other documents to clearly show the sponsor’s relationship to you and their commitment.
 
@@ -94,7 +94,7 @@ At Proof of Fund NG, we specialize in supporting sponsor accounts for Canada stu
 
 ### Ready to Submit a Strong Sponsor Package for Your Canada Study Permit?
 
-At Proof of Fund NG, we have helped hundreds of Nigerian students and their families prepare credible sponsor bank statements and complete financial packages for successful Canada study permit applications. Our services include:
+At Proof of Fund NG, we have helped hundreds of Nigerian students and their families prepare credible sponsor bank statements and complete financial packages for successful [Canada study permit](/proof-of-funds-for-canada-student-visa-from-nigeria-complete-guide) applications. Our services include:
 
 *   Fast, transparent funding of sponsor accounts
 *   Customized documentation for IRCC

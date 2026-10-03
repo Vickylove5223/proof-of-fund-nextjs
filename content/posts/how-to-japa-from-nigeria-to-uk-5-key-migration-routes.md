@@ -17,7 +17,7 @@ But navigating the complex immigration system can feel overwhelming. Where do yo
 
 At Proof of Fund NG, we help countless Nigerians take the first crucial step by securing their financial documentation. In this guide, we’ll break down the five most common and effective ways to JAPA from Nigeria to the UK, making your journey clearer and more achievable.
 
-> *"We had a client who was completely overwhelmed by the strict financial requirements for the Schengen visa. They had the personal cash but didn't know how to present it correctly. Our team audited their account, optimized their presentation, and within weeks, their visa was approved without a single query."*
+> *"We had a client who was completely overwhelmed by the strict financial requirements for the [Schengen visa](/schengen-visa-bank-statement-requirements-from-nigeria-6-months). They had the personal cash but didn't know how to present it correctly. Our team audited their account, optimized their presentation, and within weeks, their visa was approved without a single query."*
 
 ### 1\. The Student Visa Route
 This is arguably the most popular pathway for young Nigerians. The UK is home to some of the world’s most prestigious universities, and a UK degree is globally recognized.

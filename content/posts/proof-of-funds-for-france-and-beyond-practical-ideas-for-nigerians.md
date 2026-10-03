@@ -17,7 +17,7 @@ At [Proof of Fund NG](/), we understand that not everyone has the immediate cash
 
 ### Options for Your Proof of Funds
 
-> *"We recently helped a client who was worried about using a microfinance bank for their POF, having heard horror stories of rejections. We quickly transitioned them to a tier-1 commercial bank POF solution that the embassy trusts. Their application sailed through smoothly without any issues."*
+> *"We recently helped a client who was worried about using a [microfinance bank](/why-you-should-never-use-a-microfinance-bank-for-your-study-visa-proof-of-funds) for their POF, having heard horror stories of rejections. We quickly transitioned them to a tier-1 commercial bank POF solution that the embassy trusts. Their application sailed through smoothly without any issues."*
 
 > *"Finding a reliable proof of funds service in Nigeria is like looking for a needle in a haystack. I am so glad I trusted this team. They delivered on every single promise, and their WhatsApp support was incredibly patient with my endless questions. My visa success story started here."* — Joy M., Asaba
 

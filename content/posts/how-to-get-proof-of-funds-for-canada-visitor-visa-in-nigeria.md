@@ -21,7 +21,7 @@ While the Proof of Funds is a critical component, it shouldn’t discourage you 
 
 This guide will walk you through everything you need to know. To demonstrate proof of funds for a Canada visitor visa from Nigeria, you generally need to provide official financial documents that prove you can cover your trip expenses.
 
-Common examples include submitting 4-6 months of personal bank statements showing a consistent balance, a formal letter of sponsorship from a host or family member, or evidence of other liquid assets like investment statements. [Contact Proof of Fund NG](/) can assist in arranging verifiable funds to support your application, offering a compliant solution to meeting IRCC requirements.
+Common examples include submitting 4-6 months of personal bank statements showing a consistent balance, a formal letter of sponsorship from a host or family member, or evidence of other liquid assets like investment statements. [Contact Proof of Fund NG](/) can assist in arranging verifiable funds to support your application, offering a compliant solution to meeting [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html) requirements.
 
 ### Why is Proof of Funds Essential for a Canada Visitor Visa?
 When assessing your visitor visa application, IRCC aims to confirm two main points: your ability to financially support yourself during your stay in Canada and your intention to return to Nigeria at the end of your visit. Your Proof of Funds directly addresses the first point.

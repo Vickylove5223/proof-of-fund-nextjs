@@ -119,7 +119,7 @@ Living expenses increase with dependents:
 *   Student + 1 family member: about 25,000 CAD
 
 *   Student + 2 family members: about 31,000 CAD  
-    (Exact figures may change yearly, so always check IRCC updates.)
+    (Exact figures may change yearly, so always check [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html) updates.)
 
 ### Final Thoughts
 

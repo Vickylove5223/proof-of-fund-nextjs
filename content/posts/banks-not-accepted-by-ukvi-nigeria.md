@@ -6,7 +6,7 @@ description: 'Wondering if your bank is banned by the UK embassy? Learn which ba
 seo_title: 'Banks Not Accepted by UKVI in Nigeria (Microfinance Risk)'
 image: /wp-content/uploads/2025/02/colleagues-studying-together-university-library_23-2148844695.jpg
 ---
-One of the most devastating reasons for a UK visa refusal is submitting your Proof of Funds from the wrong financial institution. If you search for "banks not accepted by UKVI in Nigeria" or ask "does UKVI accept microfinance banks?", you will find hundreds of panicked applicants who lost their visa fees simply because of their choice of bank.
+One of the most devastating reasons for a UK visa refusal is submitting your Proof of Funds from the wrong financial institution. If you search for "banks not accepted by [UKVI](https://www.gov.uk/government/organisations/uk-visas-and-immigration) in Nigeria" or ask "does UKVI accept microfinance banks?", you will find hundreds of panicked applicants who lost their visa fees simply because of their choice of bank.
 
 The UK Visas and Immigration (UKVI) department is ruthless when it comes to financial verification. Here is what you need to know about banned banks, digital wallets, and the microfinance trap.
 
@@ -21,7 +21,7 @@ This means that while a bank might not be explicitly "banned," it can still be d
 
 ### Does UKVI Accept Microfinance Banks?
 
-Technically, some large, CBN-licensed microfinance banks are accepted, but in reality, using a microfinance bank for UKVI is a massive risk. 
+Technically, some large, CBN-licensed microfinance banks are accepted, but in reality, using a [microfinance bank](/why-you-should-never-use-a-microfinance-bank-for-your-study-visa-proof-of-funds) for UKVI is a massive risk. 
 
 Here is why UK visa officers frequently reject microfinance statements:
 1. Verification Failures: When the UK embassy emails a microfinance bank to verify a statement, they often receive no reply, or the reply takes weeks. If the UKVI cannot verify the funds, they refuse the visa.

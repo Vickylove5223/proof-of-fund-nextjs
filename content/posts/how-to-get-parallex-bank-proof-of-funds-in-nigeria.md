@@ -29,7 +29,7 @@ This guide will walk you through what Parallex Bank is and how our service can h
 \[IMAGE: A hopeful Nigerian individual holding a passport and visa application forms, with a laptop showing the Parallex Bank website in the background.\]
 
 ### Understanding Parallex Bank
-Parallex Bank is a fully licensed Nigerian commercial bank. It transitioned from a microfinance bank to a commercial bank, offering a wide range of financial services to individuals and businesses across the country.
+Parallex Bank is a fully licensed Nigerian commercial bank. It transitioned from a [microfinance bank](/why-you-should-never-use-a-microfinance-bank-for-your-study-visa-proof-of-funds) to a commercial bank, offering a wide range of financial services to individuals and businesses across the country.
 
 Because of its competitive services and customer-centric approach, many applicants find it to be a reliable choice for their financial documentation needs.
 

@@ -47,7 +47,7 @@ While specific requirements can vary, here is a general checklist:
 
 *   Valid Nigerian Passport: Must be valid for at least three months beyond your planned departure from Poland.
 *   Visa Application Form: Completed, printed, and signed.
-*   Biometric Photos: Two recent passport-sized photographs that meet Schengen visa photo requirements.
+*   Biometric Photos: Two recent passport-sized photographs that meet [Schengen visa](/schengen-visa-bank-statement-requirements-from-nigeria-6-months) photo requirements.
 *   Flight Itinerary: A reserved round-trip flight ticket.
 *   Travel Medical Insurance: Coverage of at least €30,000 for the entire duration of your stay.
 *   Proof of Accommodation: Hotel booking, rental agreement, or an invitation letter from your host in Poland.

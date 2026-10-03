@@ -23,7 +23,7 @@ Tell us your family size, preferred bank, and timeline — we will give you clea
 
 ### Latest Express Entry Settlement Funds Requirements 2026
 
-The amounts are updated annually by IRCC based on 50% of the Low Income Cut-Off (LICO). Current requirements (effective July 7, 2026) are as follows:
+The amounts are updated annually by [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html) based on 50% of the Low Income Cut-Off (LICO). Current requirements (effective July 7, 2026) are as follows:
 
 *   1 family member (applicant only): CAD $15,263
 *   2 family members: CAD $19,001

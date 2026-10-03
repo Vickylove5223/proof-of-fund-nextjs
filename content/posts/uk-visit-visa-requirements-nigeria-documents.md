@@ -15,7 +15,7 @@ If you are searching for the complete UK Visit Visa requirements in Nigeria, thi
 
 ### 1. Proof of Funds (The Most Critical Requirement)
 
-The UKVI wants to see that you can pay for your flights, hotels, and daily expenses without needing to work illegally in the UK. 
+The [UKVI](https://www.gov.uk/government/organisations/uk-visas-and-immigration) wants to see that you can pay for your flights, hotels, and daily expenses without needing to work illegally in the UK. 
 *   The Document: You need a 3-to-6-month bank statement from a recognized Tier-1 Commercial Bank.
 *   The Trap: If your account normally has ₦50,000 and suddenly shows ₦10 Million three days before your application, you will be refused. The funds must look natural, or be accompanied by a logical Letter of Explanation.
 

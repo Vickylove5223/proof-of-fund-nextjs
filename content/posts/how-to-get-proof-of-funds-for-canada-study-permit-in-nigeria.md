@@ -19,7 +19,7 @@ However, before you can pack your bags, you must cross a critical hurdle: provid
 
 This requirement often feels daunting, but it doesn’t have to be a barrier to your dreams. We understand the process inside and out, and we are here to guide you through every step.
 
-To get Proof of Funds for a Canada study permit in Nigeria, you must show Immigration, Refugees and Citizenship Canada (IRCC) that you have enough money to cover your first year’s tuition and living expenses. This is proven with documents like official bank statements, a Guaranteed Investment Certificate (GIC), scholarship letters, or a sponsor’s financial documents.
+To get Proof of Funds for a [Canada study permit](/proof-of-funds-for-canada-student-visa-from-nigeria-complete-guide) in Nigeria, you must show Immigration, Refugees and Citizenship Canada ([IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html)) that you have enough money to cover your first year’s tuition and living expenses. This is proven with documents like official bank statements, a Guaranteed Investment Certificate (GIC), scholarship letters, or a sponsor’s financial documents.
 
 [Contact Proof of Fund NG](/) can connect you with financial partners to help you meet this requirement lawfully and securely.
 

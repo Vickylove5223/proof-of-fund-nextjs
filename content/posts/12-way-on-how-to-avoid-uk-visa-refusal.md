@@ -37,7 +37,7 @@ Total Required: £20,000 (£10,000 balance + £10,000 living expenses)
 
 For Nigerian Applicants:
 
-1.  Go to Oanda.com (the official conversion site used by UK embassy)
+1.  Go to [Oanda](https://www.oanda.com/currency-converter/en/).com (the official conversion site used by UK embassy)
 2.  Convert £20,000 to Nigerian Naira
 3.  Example: £20,000 = ₦40,000,000 (rates vary)
 4.  Add extra buffer: ₦500,000 - ₦1,000,000 for safety

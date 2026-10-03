@@ -15,9 +15,9 @@ If you are about to submit your visa application for the UK, Canada, or the US, 
 
 ### Does the Embassy Accept an OPay Bank Statement?
 
-The short and blunt answer is NO. You should never use an OPay bank statement as your primary Proof of Funds for major international visas (like the UKVI or IRCC). 
+The short and blunt answer is NO. You should never use an OPay bank statement as your primary Proof of Funds for major international visas (like the [UKVI](https://www.gov.uk/government/organisations/uk-visas-and-immigration) or [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html)). 
 
-While OPay is fully licensed by the Central Bank of Nigeria (CBN) as a Mobile Money Operator, international embassies have entirely different requirements when assessing financial credibility. 
+While OPay is fully licensed by the [Central Bank of Nigeria](https://www.cbn.gov.ng/) (CBN) as a Mobile Money Operator, international embassies have entirely different requirements when assessing financial credibility. 
 
 Here is why submitting an OPay statement will likely result in a visa refusal:
 

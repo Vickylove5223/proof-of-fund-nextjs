@@ -31,7 +31,7 @@ Proof of Fund NG provides 100% verifiable bank statements from top commercial ba
 
 ### How to Get Your Proof of Funds using Zenith Bank
 
-1. Direct Deposit: If you already have the required funds, simply leave them in your Zenith Bank account for the required duration (e.g., 28 days for the UK, or up to 6 months for Canada).
+1. Direct Deposit: If you already have the required funds, simply leave them in your [Zenith Bank](/can-i-use-zenith-bank-for-proof-of-funds) account for the required duration (e.g., 28 days for the UK, or up to 6 months for Canada).
 2. Using a POF Service: If you don't have the liquid cash, you can use a verified Proof of Funds service like Proof of Fund NG. We work with finance partners to temporarily fund your Zenith Bank account securely so you can generate a legitimate, verifiable statement.
 
 > *"We help hundreds of applicants secure their visas by ensuring their bank statements meet all embassy requirements without fail."*

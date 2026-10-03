@@ -6,7 +6,7 @@ description: 'Preparing for a UKVI credibility interview? See the top financial 
 seo_title: 'UKVI Interview Nairaland (Financial Questions 2026)'
 image: /wp-content/uploads/2025/02/tourist-carrying-baggage_23-2151747389.jpg
 ---
-While many UK Student Visas are processed without an interview, the UK Visas and Immigration (UKVI) randomly selects applicants for a Credibility Interview. If you search for "UKVI interview Nairaland" or "Nairaland visa interview," you will find that these sessions are intense, and a single wrong answer can result in refusal.
+While many UK Student Visas are processed without an interview, the UK Visas and Immigration ([UKVI](https://www.gov.uk/government/organisations/uk-visas-and-immigration)) randomly selects applicants for a Credibility Interview. If you search for "UKVI interview Nairaland" or "Nairaland visa interview," you will find that these sessions are intense, and a single wrong answer can result in refusal.
 
 The most difficult part of the interview isn't answering questions about your university module; it's defending your Proof of Funds (POF). Here are the top financial questions asked by UKVI officers (as reported by Nigerian applicants on Nairaland) and how you should prepare for them.
 

@@ -17,7 +17,7 @@ To make things easier, we’ve compiled the most common questions and answers ab
 
 ### Can I use my sponsor's account please?
 
-> *"We recently helped a client who was worried about using a microfinance bank for their POF, having heard horror stories of rejections. We quickly transitioned them to a tier-1 commercial bank POF solution that the embassy trusts. Their application sailed through smoothly without any issues."*
+> *"We recently helped a client who was worried about using a [microfinance bank](/why-you-should-never-use-a-microfinance-bank-for-your-study-visa-proof-of-funds) for their POF, having heard horror stories of rejections. We quickly transitioned them to a tier-1 commercial bank POF solution that the embassy trusts. Their application sailed through smoothly without any issues."*
 
 > *"After two devastating visa refusals because of 'unclear source of funds', I knew I needed expert help. The team here didn't just give me the funds; they guided me on how to present a solid financial profile to the embassy. Third time's the charm—my visa was finally approved!"* — Blessing U., Enugu
 

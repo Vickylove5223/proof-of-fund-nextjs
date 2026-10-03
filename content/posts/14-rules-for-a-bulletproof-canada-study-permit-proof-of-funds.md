@@ -9,7 +9,7 @@ image: /wp-content/uploads/2025/09/54393b20-44c6-4db1-b806-49c19fe2185f.jpg
 ---
 Congratulations! You’ve finally received your admission letter to a Canadian university or college.
 
-But before you start packing your bags, you have to face the most notorious hurdle in the Canadian immigration process: Proof of Funds (POF). [Contact Proof of Fund NG](/), we’ve seen countless brilliant students get handed a heartbreak letter from the IRCC simply because their bank statements were poorly structured or lacked sufficient funds.
+But before you start packing your bags, you have to face the most notorious hurdle in the Canadian immigration process: Proof of Funds (POF). [Contact Proof of Fund NG](/), we’ve seen countless brilliant students get handed a heartbreak letter from the [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html) simply because their bank statements were poorly structured or lacked sufficient funds.
 
 ![Proof of Fund NG: Your Trusted Partner for Visa Funding. WhatsApp 08103669924](/wp-content/uploads/2025/09/54393b20-44c6-4db1-b806-49c19fe2185f.jpg)
 

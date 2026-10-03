@@ -8,7 +8,7 @@ image: /wp-content/uploads/2025/09/visa-application-composition-with-europe-amer
 ---
 Unlike the UK which enforces a very strict and inflexible "28-Day Rule," Canada’s immigration policies regarding Proof of Funds (POF) can seem a bit confusing. One of the most common questions Nigerian applicants ask is: "How long must POF stay in my account for a Canada Visa?"
 
-Whether you are applying for a Study Permit, Express Entry, or a Visitor Visa, understanding how the IRCC (Immigration, Refugees and Citizenship Canada) views your bank history is crucial for approval.
+Whether you are applying for a Study Permit, Express Entry, or a Visitor Visa, understanding how the [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html) (Immigration, Refugees and Citizenship Canada) views your bank history is crucial for approval.
 
 > Need properly structured Proof of Funds for your Canada Visa? We provide secure commercial bank funding to satisfy IRCC requirements.
 >  Call: [08103669924](tel:08103669924) |  WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)

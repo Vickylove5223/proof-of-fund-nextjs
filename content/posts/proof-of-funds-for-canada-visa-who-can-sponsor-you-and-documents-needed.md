@@ -17,9 +17,9 @@ At [Proof of Fund NG](/), we specialize in making this journey seamless for you.
 
 If you don't have the assets or personal money to deposit as Proof of Funds (POF), we can provide the necessary funds at an affordable rate to help you secure your visa.
 
-> *"We recently helped a client who was worried about using a microfinance bank for their POF, having heard horror stories of rejections. We quickly transitioned them to a tier-1 commercial bank POF solution that the embassy trusts. Their application sailed through smoothly without any issues."*
+> *"We recently helped a client who was worried about using a [microfinance bank](/why-you-should-never-use-a-microfinance-bank-for-your-study-visa-proof-of-funds) for their POF, having heard horror stories of rejections. We quickly transitioned them to a tier-1 commercial bank POF solution that the embassy trusts. Their application sailed through smoothly without any issues."*
 
-> *"I was so stressed about my UK student visa because my bank statement wasn't ready. I thought my Japa dreams were over for the year. I reached out for proof of funds assistance, and within 48 hours, my financial documents were perfectly structured. My visa was approved last month, and I'm now studying in London! If you're struggling, don't give up—get the right help."* — Chidi A., Lagos
+> *"I was so stressed about my [UK student visa](/uk-student-visa-proof-of-funds-nigeria-28-day-rule) because my bank statement wasn't ready. I thought my Japa dreams were over for the year. I reached out for proof of funds assistance, and within 48 hours, my financial documents were perfectly structured. My visa was approved last month, and I'm now studying in London! If you're struggling, don't give up—get the right help."* — Chidi A., Lagos
 
 ### Who Can Sponsor Your Canada Visa?
 
@@ -61,7 +61,7 @@ To avoid being flagged for "insufficient evidence," you must prepare the followi
 
 *   Unexplained Lump Sums: Sudden large deposits without a clear source are a major red flag for immigration officers.
 
-*   Unstable Balances: IRCC prefers accounts where the balance remains stable rather than moving up and down drastically.
+*   Unstable Balances: [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html) prefers accounts where the balance remains stable rather than moving up and down drastically.
 
 *   Unofficial Documents: Screenshots of WhatsApp chats or emails are not considered official proof of a relationship or sponsorship commitment.
 

@@ -21,7 +21,7 @@ Before you process any financial documents, here are the three biggest red flags
 
 #### 1. Avoid "PDF Editors" and Fake Agents
 The most common reason for visa rejection reported on Nairaland is the submission of forged documents. Many anonymous "agents" on the forum offer to generate POF for ridiculously low prices. What they actually do is edit a PDF bank statement with Photoshop. 
-*The Result:* When embassies like the IRCC or UKVI contact the bank to verify, the account does not exist. This results in an automatic denial and a devastating 10-year ban.
+*The Result:* When embassies like the [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html) or [UKVI](https://www.gov.uk/government/organisations/uk-visas-and-immigration) contact the bank to verify, the account does not exist. This results in an automatic denial and a devastating 10-year ban.
 
 #### 2. Be Careful with Unrecognized Microfinance Banks
 While some microfinance banks are licensed, Nairaland users consistently report that embassies heavily scrutinize or outright reject statements from unknown microfinance institutions. Top contributors strongly advise using Tier-1 Commercial Banks (like Globus, Parallex, or Zenith) for complete peace of mind.

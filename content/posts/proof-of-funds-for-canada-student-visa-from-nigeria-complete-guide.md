@@ -18,7 +18,7 @@ At [Proof of Fund NG](/), we specialize in exactly this for Nigerian applicants 
 
 We only partner with reliable institutions — no microfinance shortcuts. [Chat with us on WhatsApp](https://wa.me/2348103669924) for a free consultation.
 
-Tell us your target amount, preferred bank, and timeline — we’ll guide you on the best options for your Canada application. In this comprehensive guide, we break down the exact IRCC requirements for 2026, acceptable documents, common pitfalls, and practical solutions for Nigerians — including legitimate ways to strengthen your application quickly and compliantly.
+Tell us your target amount, preferred bank, and timeline — we’ll guide you on the best options for your Canada application. In this comprehensive guide, we break down the exact [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html) requirements for 2026, acceptable documents, common pitfalls, and practical solutions for Nigerians — including legitimate ways to strengthen your application quickly and compliantly.
 
 ### Latest Canada Study Permit Financial Requirements (2026)
 

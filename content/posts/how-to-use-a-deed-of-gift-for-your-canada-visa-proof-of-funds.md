@@ -9,7 +9,7 @@ image: /wp-content/uploads/2025/09/application-form-information-employment-conce
 ---
 One of the biggest hurdles for Nigerians moving to Canada—whether through the Express Entry (PR) route or a Study Permit—is presenting an acceptable Proof of Funds (POF). The Canadian government wants to ensure you have enough money to settle down without becoming a liability.
 
-But what happens if you do not have the entire required amount sitting in your bank account? If you are lucky enough to have a parent or close relative willing to help you out, the best way to present this money to the embassy is through a Deed of Gift.
+But what happens if you do not have the entire required amount sitting in your bank account? If you are lucky enough to have a parent or close relative willing to help you out, the best way to present this money to the embassy is through a [Deed of Gift](/how-to-use-a-deed-of-gift-for-your-canada-visa-proof-of-funds).
 
 ![Proof of Fund NG: Your Trusted Partner for Visa Funding. WhatsApp 08103669924](/wp-content/uploads/2025/09/visa-application-composition-with-europe-america-flag_23-2149117810.jpg)
 
@@ -28,7 +28,7 @@ A Gift Deed is one of the most effective ways to show POF because:
 
 ### Who Can Gift You This Money?
 
-Technically, anyone can give you a gift. However, to avoid heavy scrutiny and suspicion from the IRCC, the gift should ideally come from:
+Technically, anyone can give you a gift. However, to avoid heavy scrutiny and suspicion from the [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html), the gift should ideally come from:
 
 *   Your parents
 *   Your siblings

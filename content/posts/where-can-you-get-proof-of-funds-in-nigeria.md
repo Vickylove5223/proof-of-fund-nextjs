@@ -16,7 +16,7 @@ image: /wp-content/uploads/2025/02/two-business-woman-cafe_1157-14528.jpg
 
 So, you’ve received that long-awaited admission letter or are ready to apply for a visa to study, work, or travel abroad. Congratulations!
 
-> *"We recently helped a client who was worried about using a microfinance bank for their POF, having heard horror stories of rejections. We quickly transitioned them to a tier-1 commercial bank POF solution that the embassy trusts. Their application sailed through smoothly without any issues."*
+> *"We recently helped a client who was worried about using a [microfinance bank](/why-you-should-never-use-a-microfinance-bank-for-your-study-visa-proof-of-funds) for their POF, having heard horror stories of rejections. We quickly transitioned them to a tier-1 commercial bank POF solution that the embassy trusts. Their application sailed through smoothly without any issues."*
 
 > *"I almost gave up on my dream of studying in Australia because the POF requirement was just too high. Then I discovered I could legally get a POF loan. They funded the exact amount I needed for my visa application, and my student visa was granted two weeks ago. Highly recommended!"* — David O., Port Harcourt
 

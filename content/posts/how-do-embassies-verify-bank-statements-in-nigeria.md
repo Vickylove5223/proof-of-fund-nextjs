@@ -61,7 +61,7 @@ Even without contacting your bank, officers cross-check your statement against y
 
 Embassies don't refuse applications because applicants are poor — they refuse them because the financial story doesn't verify. Genuine funds, in a recognised bank, with a clean paper trail, held for the full processing window: that combination passes verification every time.
 
-[Proof of Fund NG](/) structures exactly that. Our funding sits in top banks accepted by UKVI and IRCC, stays in place under lien for your entire processing period, and comes with the official letters verification desks expect. See what your destination requires with the [proof of funds calculator](/proof-of-fund-calculator) or talk to us on Call/WhatsApp: 08103669924.
+[Proof of Fund NG](/) structures exactly that. Our funding sits in top banks accepted by [UKVI](https://www.gov.uk/government/organisations/uk-visas-and-immigration) and [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html), stays in place under lien for your entire processing period, and comes with the official letters verification desks expect. See what your destination requires with the [proof of funds calculator](/proof-of-fund-calculator) or talk to us on Call/WhatsApp: 08103669924.
 
 Prefer an in-person meeting?
 You can also visit us at our office:

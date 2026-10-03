@@ -63,7 +63,7 @@ This duration is how embassies spot "funds dumping." If you are applying to Cana
 
 To satisfy the duration rules, your funds must either:
 1. Mature naturally over the required timeframe.
-2. Be accompanied by a legally binding Deed of Gift explaining the sudden deposit.
+2. Be accompanied by a legally binding [Deed of Gift](/how-to-use-a-deed-of-gift-for-your-canada-visa-proof-of-funds) explaining the sudden deposit.
 3. Be managed through a structured, professional Proof of Funds service.
 
 ![Secure Embassy-Ready Bank Statements Fast! Call 08103669924](/wp-content/uploads/2025/09/visa-application-composition-with-europe-america-flag_23-2149117810.jpg)

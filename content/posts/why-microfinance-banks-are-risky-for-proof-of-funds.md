@@ -17,7 +17,7 @@ But there’s one small detail that could bring it all crashing down: your choic
 
 Many applicants, in a bid to save on costs or for convenience, turn to microfinance banks. Unfortunately, this can be a critical mistake that puts your entire study abroad journey at risk.
 
-> *"I was so stressed about my UK student visa because my bank statement wasn't ready. I thought my Japa dreams were over for the year. I reached out for proof of funds assistance, and within 48 hours, my financial documents were perfectly structured. My visa was approved last month, and I'm now studying in London! If you're struggling, don't give up—get the right help."* — Chidi A., Lagos
+> *"I was so stressed about my [UK student visa](/uk-student-visa-proof-of-funds-nigeria-28-day-rule) because my bank statement wasn't ready. I thought my Japa dreams were over for the year. I reached out for proof of funds assistance, and within 48 hours, my financial documents were perfectly structured. My visa was approved last month, and I'm now studying in London! If you're struggling, don't give up—get the right help."* — Chidi A., Lagos
 
 The wrong bank statement can raise immediate red flags for a visa officer, leading to tough questions and, ultimately, a rejection that could have been avoided.
 
@@ -29,7 +29,7 @@ Before we dive into the risks, it’s important to understand what microfinance 
 While they play a vital role in promoting financial inclusion, their operational scale, regulatory framework, and international recognition are vastly different from major commercial banks. This difference is precisely where the problem lies for visa applicants.
 
 ### The Red Flags: Why Visa Officers Distrust Microfinance Bank Statements
-When a visa officer reviews your application, their main goal is to confirm that you are a genuine student with sufficient, stable, and legitimate funds to support yourself. A statement from a microfinance bank can raise several red flags.
+When a visa officer reviews your application, their main goal is to confirm that you are a genuine student with sufficient, stable, and legitimate funds to support yourself. A statement from a [microfinance bank](/why-you-should-never-use-a-microfinance-bank-for-your-study-visa-proof-of-funds) can raise several red flags.
 
 ### 1\. Difficulty in Verification
 
@@ -100,7 +100,7 @@ You can also visit us at our office:
 
 ### Can I use Opay as proof of funds?
 
-No, you should not use OPay as proof of funds for major international visas. While OPay is a fantastic digital wallet for daily transactions in Nigeria, embassies like the IRCC and UKVI require statements from traditional, Tier-1 commercial banks. Digital wallets often face international verification challenges.
+No, you should not use OPay as proof of funds for major international visas. While OPay is a fantastic digital wallet for daily transactions in Nigeria, embassies like the [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html) and [UKVI](https://www.gov.uk/government/organisations/uk-visas-and-immigration) require statements from traditional, Tier-1 commercial banks. Digital wallets often face international verification challenges.
 
 ### Does the embassy accept an OPay bank statement?
 

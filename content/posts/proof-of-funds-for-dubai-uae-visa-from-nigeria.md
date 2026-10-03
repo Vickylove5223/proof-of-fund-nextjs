@@ -42,7 +42,7 @@ Always remember: the embassy looks at your _average balance over three to six mo
 *   For sponsored applicants: Sponsor's Emirates ID, residency permit copy, and a signed sponsorship letter.
 
 ### Which Nigerian Banks Are Best for UAE Visa Bank Statements?
-The UAE embassy accepts statements from all CBN-licensed commercial banks. The most trusted include GTBank, Zenith Bank, Access Bank, UBA, and First Bank.
+The UAE embassy accepts statements from all CBN-licensed commercial banks. The most trusted include GTBank, [Zenith Bank](/can-i-use-zenith-bank-for-proof-of-funds), Access Bank, UBA, and First Bank.
 
 Avoid microfinance banks and digital-only fintechs like OPay or PalmPay — the UAE embassy will not accept these.
 

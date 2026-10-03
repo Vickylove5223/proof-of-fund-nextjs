@@ -15,7 +15,7 @@ Before we even go into proof of funds, you need to understand that when coming t
 
 > *"A client came to us after losing money to a fake [proof of funds provider](/10-best-proof-of-funds-providers-in-nigeria) online. They were devastated and skeptical. We guaranteed a verifiable, embassy-approved POF directly from a commercial bank. When their visa was approved, they couldn't stop thanking us for turning their nightmare into a success story."*
 
-> *"I was so stressed about my UK student visa because my bank statement wasn't ready. I thought my Japa dreams were over for the year. I reached out for proof of funds assistance, and within 48 hours, my financial documents were perfectly structured. My visa was approved last month, and I'm now studying in London! If you're struggling, don't give up—get the right help."* — Chidi A., Lagos
+> *"I was so stressed about my [UK student visa](/uk-student-visa-proof-of-funds-nigeria-28-day-rule) because my bank statement wasn't ready. I thought my Japa dreams were over for the year. I reached out for proof of funds assistance, and within 48 hours, my financial documents were perfectly structured. My visa was approved last month, and I'm now studying in London! If you're struggling, don't give up—get the right help."* — Chidi A., Lagos
 
 ### Pay Your First Semester Fees
 
@@ -62,7 +62,7 @@ By following these steps, you reduce the risk of being told by the visa officer 
 
 ### Tuition & Refunds
 
-But what if I pay for the first semester and they don’t give me the visa, does the school refund? Yes, most schools refund tuition if your visa is refused, though they may deduct an administrative fee. However, always check your school’s refund policy before payment. What about schools with no refund policy, and eventually you don’t get the visa? If your school has a no-refund policy, you may not get your money back. That’s why it’s important to carefully read the admission and refund policy before paying. [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html) website says annual tuition fee is required, not just first semester. Can I possibly proceed with just first semester payment? While IRCC recommends showing annual tuition, many students successfully proceed with paying the first semester, provided they can show proof of sufficient funds for the rest.
+But what if I pay for the first semester and they don’t give me the visa, does the school refund? Yes, most schools refund tuition if your visa is refused, though they may deduct an administrative fee. However, always check your school’s refund policy before payment. What about schools with no refund policy, and eventually you don’t get the visa? If your school has a no-refund policy, you may not get your money back. That’s why it’s important to carefully read the admission and refund policy before paying. [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html) website says annual tuition fee is required, not just first semester. Can I possibly proceed with just first semester payment? While [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html) recommends showing annual tuition, many students successfully proceed with paying the first semester, provided they can show proof of sufficient funds for the rest.
 
 ### Proof of Funds (POF) & Accounts
 

@@ -40,7 +40,7 @@ Instead of microfinance banks, use commercial banks that embassies recognize glo
 
 *   GTBank (GTCO)
 *   First Bank of Nigeria
-*   Zenith Bank
+*   [Zenith Bank](/can-i-use-zenith-bank-for-proof-of-funds)
 *   UBA (United Bank for Africa)
 *   Other Tier 1, CBN-licensed commercial banks
 

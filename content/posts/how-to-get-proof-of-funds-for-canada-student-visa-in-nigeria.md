@@ -78,7 +78,7 @@ At Proof of Fund NG, we bridge this gap. We connect you with verified financial 
 
 Here’s how we make it simple:
 
-1.  You tell us the amount you need: Based on your tuition and IRCC guidelines.
+1.  You tell us the amount you need: Based on your tuition and [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html) guidelines.
 2.  We connect you to a trusted provider: Our partners arrange for the funds to be available.
 3.  You get verifiable documents: We provide you with authentic bank statements and letters that meet all embassy standards.
 4.  You apply with confidence: Your financial proof is 100% verifiable, ensuring a smooth visa process.

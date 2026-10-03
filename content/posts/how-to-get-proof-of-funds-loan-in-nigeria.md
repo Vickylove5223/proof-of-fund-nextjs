@@ -12,7 +12,7 @@ Are you planning to study, work, or immigrate abroad? If so, you’ve likely enc
 
 This requirement is often a major hurdle for many Nigerians, as it involves showing a significant amount of money in your bank account. But what if you don't have the required sum readily available?
 
-> *"One of our clients was so stressed about their UK student visa because their bank statement wasn't ready. They thought their dreams of studying abroad were over. They reached out to us for proof of funds assistance, and within 48 hours, their financial documents were perfectly structured. Their visa was approved last month, and they are now studying in London! Don't let financial requirements hold you back—get the right help today."*
+> *"One of our clients was so stressed about their [UK student visa](/uk-student-visa-proof-of-funds-nigeria-28-day-rule) because their bank statement wasn't ready. They thought their dreams of studying abroad were over. They reached out to us for proof of funds assistance, and within 48 hours, their financial documents were perfectly structured. Their visa was approved last month, and they are now studying in London! Don't let financial requirements hold you back—get the right help today."*
 
 This is where a Proof of Funds loan comes in.
 

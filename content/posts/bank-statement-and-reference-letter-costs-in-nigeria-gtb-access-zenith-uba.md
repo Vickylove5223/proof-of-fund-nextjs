@@ -19,7 +19,7 @@ Fees vary slightly by branch and account type — treat these as the ranges you'
 | --- | --- | --- | --- |
 | GTBank | ₦1,000 – ₦2,500 (often per year of history) | ₦2,000 – ₦5,000 | Same day – 2 days |
 | Access Bank | ₦1,000 – ₦3,000 | ₦2,000 – ₦5,000 | Same day – 3 days |
-| Zenith Bank | ₦1,000 – ₦2,500 | ₦2,000 – ₦5,000 | Same day – 2 days |
+| [Zenith Bank](/can-i-use-zenith-bank-for-proof-of-funds) | ₦1,000 – ₦2,500 | ₦2,000 – ₦5,000 | Same day – 2 days |
 | UBA | ₦1,000 – ₦2,500 | ₦2,000 – ₦5,000 | 1 – 3 days |
 | First Bank | ₦1,000 – ₦3,000 | ₦2,000 – ₦5,000 | 1 – 5 days |
 

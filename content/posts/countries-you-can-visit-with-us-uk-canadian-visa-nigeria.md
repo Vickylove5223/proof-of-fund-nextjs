@@ -18,7 +18,7 @@ Many countries believe that if the strict immigration officers of the US, UK, or
 If you hold a valid, multiple-entry US (B1/B2), UK (Standard Visitor), or Canadian (Visitor) visa, you can often enter the following countries without needing a separate embassy appointment:
 
 #### 1. The Americas & Caribbean
-*   Mexico: Any Nigerian with a valid US, UK, Canadian, or Schengen visa can visit Mexico visa-free for tourism.
+*   Mexico: Any Nigerian with a valid US, UK, Canadian, or [Schengen visa](/schengen-visa-bank-statement-requirements-from-nigeria-6-months) can visit Mexico visa-free for tourism.
 *   Costa Rica: Open to those with a multiple-entry US or Canadian visa.
 *   Panama: Grants access if you have a US, UK, Canadian, or EU visa that has been used at least once.
 *   Belize: Visa-free for US multiple-entry visa holders.

@@ -6,7 +6,7 @@ description: 'Wondering if Parallex Bank is accepted by UKVI for your UK Student
 seo_title: 'Is Parallex Bank Accepted by UKVI for Proof of Funds?'
 image: /wp-content/uploads/2025/02/two-business-woman-cafe_1157-14528.jpg
 ---
-If you are processing your Proof of Funds (POF) for a UK Student Visa or Skilled Worker Visa, you want to ensure your bank statement won't be rejected. One of the most frequently asked questions online is: "Is Parallex Bank accepted by UKVI?"
+If you are processing your Proof of Funds (POF) for a [UK Student Visa](/uk-student-visa-proof-of-funds-nigeria-28-day-rule) or Skilled Worker Visa, you want to ensure your bank statement won't be rejected. One of the most frequently asked questions online is: "Is Parallex Bank accepted by [UKVI](https://www.gov.uk/government/organisations/uk-visas-and-immigration)?"
 
 The short and definitive answer is YES. Parallex Bank is fully accepted and highly trusted by the UK Visas and Immigration (UKVI) department. 
 
@@ -17,7 +17,7 @@ Here is exactly why Parallex Bank is one of the best choices for your UK visa ap
 
 ### Why UKVI Accepts Parallex Bank
 
-Some applicants mistakenly confuse Parallex Bank with a microfinance institution. Parallex Bank transitioned into a fully licensed National Commercial Bank authorized by the Central Bank of Nigeria (CBN). 
+Some applicants mistakenly confuse Parallex Bank with a microfinance institution. Parallex Bank transitioned into a fully licensed National Commercial Bank authorized by the [Central Bank of Nigeria](https://www.cbn.gov.ng/) (CBN). 
 
 Because it operates with a full commercial banking license, the UKVI treats its bank statements with the exact same authority and trust as statements from Zenith, GTB, or First Bank. 
 

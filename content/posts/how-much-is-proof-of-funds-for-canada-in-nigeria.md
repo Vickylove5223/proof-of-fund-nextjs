@@ -23,7 +23,7 @@ Navigating this requirement can be stressful, but it doesn't have to be a barrie
 
 We'll also provide practical solutions and resources to help you navigate this crucial step in your immigration journey.
 
-As of 2026, the minimum proof of funds for a single student applicant (outside Quebec) is CAD $22,895 plus the first year of tuition fees. For a single skilled immigrant applying through Express Entry, the required amount is CAD $15,263. Keep in mind that these figures are updated by IRCC regularly, so always check the latest official requirements before applying.
+As of 2026, the minimum proof of funds for a single student applicant (outside Quebec) is CAD $22,895 plus the first year of tuition fees. For a single skilled immigrant applying through Express Entry, the required amount is CAD $15,263. Keep in mind that these figures are updated by [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html) regularly, so always check the latest official requirements before applying.
 
 ### Understanding Canada's Official Proof of Funds Figures
 Proof of Funds is your way of showing the Canadian government that you can financially support yourself and your family upon arrival. These funds are meant to cover your living expenses while you settle in and find a job.

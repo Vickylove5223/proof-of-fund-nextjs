@@ -12,7 +12,7 @@ But don’t worry. With the right preparation, you can walk into that interview 
 
 At Proof of Fund NG, we’ve helped countless applicants secure their financial documents, and we understand the importance of being ready for every stage.
 
-> *"We had a client who was completely overwhelmed by the strict financial requirements for the Schengen visa. They had the personal cash but didn't know how to present it correctly. Our team audited their account, optimized their presentation, and within weeks, their visa was approved without a single query."*
+> *"We had a client who was completely overwhelmed by the strict financial requirements for the [Schengen visa](/schengen-visa-bank-statement-requirements-from-nigeria-6-months). They had the personal cash but didn't know how to present it correctly. Our team audited their account, optimized their presentation, and within weeks, their visa was approved without a single query."*
 
 > *"I was worried that using a third-party proof of funds would look suspicious to the embassy. But the team explained the legal framework and provided all the backing documents I needed. The visa officer checked the statement, and everything was 100% genuine. I'm typing this from my dorm room in Germany."* — Emmanuel K., Lagos
 

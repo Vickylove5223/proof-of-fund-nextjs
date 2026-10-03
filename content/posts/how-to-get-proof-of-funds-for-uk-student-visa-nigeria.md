@@ -15,11 +15,11 @@ A key part of this process, and often the most daunting, is providing Proof of F
 
 
 
-The UK Visas and Immigration (UKVI) department needs to see that you can support yourself financially during your studies. Getting this right is non-negotiable, as a small mistake can lead to a visa refusal.
+The UK Visas and Immigration ([UKVI](https://www.gov.uk/government/organisations/uk-visas-and-immigration)) department needs to see that you can support yourself financially during your studies. Getting this right is non-negotiable, as a small mistake can lead to a visa refusal.
 
 But don’t worry, we’re here to break it down for you.
 
-To get Proof of Funds for a UK student visa in Nigeria, you must show you have enough money to cover your first year’s tuition fees plus a set amount for living expenses (£1,334 per month in London or £1,023 per month outside London for up to 9 months). This money must be held in an acceptable bank account for at least 28 consecutive days before your visa application date.
+To get Proof of Funds for a [UK student visa](/uk-student-visa-proof-of-funds-nigeria-28-day-rule) in Nigeria, you must show you have enough money to cover your first year’s tuition fees plus a set amount for living expenses (£1,334 per month in London or £1,023 per month outside London for up to 9 months). This money must be held in an acceptable bank account for at least 28 consecutive days before your visa application date.
 
 You can use personal bank statements, a letter from an official financial sponsor, or a loan letter, and services like Proof of Fund NG can help you meet these requirements lawfully and quickly.
 

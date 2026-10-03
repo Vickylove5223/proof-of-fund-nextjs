@@ -19,7 +19,7 @@ Many people worry about this step, but we are here to help. This guide will brea
 
 > *"A client came to us after losing money to a fake [proof of funds provider](/10-best-proof-of-funds-providers-in-nigeria) online. They were devastated and skeptical. We guaranteed a verifiable, embassy-approved POF directly from a commercial bank. When their visa was approved, they couldn't stop thanking us for turning their nightmare into a success story."*
 
-> *"Applying for my family's Schengen visa was a nightmare because I didn't have the required bulk cash sitting in my account. I was advised to use this POF service, and they completely sorted out my financial requirements legally and transparently. We are currently enjoying our summer vacation in France!"* — Amina Y., Kano
+> *"Applying for my family's [Schengen visa](/schengen-visa-bank-statement-requirements-from-nigeria-6-months) was a nightmare because I didn't have the required bulk cash sitting in my account. I was advised to use this POF service, and they completely sorted out my financial requirements legally and transparently. We are currently enjoying our summer vacation in France!"* — Amina Y., Kano
 
 To show proof of funds for Canada immigration in Nigeria, you must get an official letter and recent statements from your bank. These papers must show you have enough money to support yourself and your family.
 
@@ -59,7 +59,7 @@ Canada is very specific about the documents they accept. You cannot just show th
 ### Steps to Get Verifiable Proof of Funds in Nigeria
 Getting your proof of funds ready takes some planning. Follow these simple steps:
 
-1.  Know Your Amount: First, check the IRCC website to find out exactly how much money you need for your family size.
+1.  Know Your Amount: First, check the [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html) website to find out exactly how much money you need for your family size.
 2.  Gather Your Funds: Put all the money into one or two personal bank accounts in your name or your spouse’s name.
 3.  Keep it Stable: Let the money sit in the account for a few months if possible. Large, recent deposits need a clear explanation, like from the sale of a property or a gift deed.
 4.  Request Official Documents: Visit your bank and ask for an official proof of funds letter and your last six months of statements. Make sure they are properly signed and stamped.

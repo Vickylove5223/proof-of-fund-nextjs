@@ -77,7 +77,7 @@ e the person is depositing the fund out of their own money to secure Canada visa
 
 _Disclaimer: Proof of Fund NG provides financial support for documentation. We are not a bank or immigration legal firm.
 
-Please verify the current GIC amount on the official IRCC website as rates are subject to change._
+Please verify the current GIC amount on the official [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html) website as rates are subject to change._
 
 Prefer an in-person meeting?
 You can also visit us at our office:

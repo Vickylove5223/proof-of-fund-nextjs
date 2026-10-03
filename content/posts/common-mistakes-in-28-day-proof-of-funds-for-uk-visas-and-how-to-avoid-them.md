@@ -75,7 +75,7 @@ Your application will be refused. The balance must remain above the required thr
 
 #### Can I combine multiple accounts for Proof of Funds?
 
-Generally, no. UKVI prefers a single account showing the full required amount held for the full 28 days, since combining accounts makes it harder to verify a consistent balance.
+Generally, no. [UKVI](https://www.gov.uk/government/organisations/uk-visas-and-immigration) prefers a single account showing the full required amount held for the full 28 days, since combining accounts makes it harder to verify a consistent balance.
 
 #### Do UKVI accept microfinance or fintech banks like Opay or Moniepoint?
 

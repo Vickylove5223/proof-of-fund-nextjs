@@ -15,7 +15,7 @@ This requirement can feel daunting, but it doesn't have to be. The Japanese Emba
 
 > *"A client came to us after losing money to a fake [proof of funds provider](/10-best-proof-of-funds-providers-in-nigeria) online. They were devastated and skeptical. We guaranteed a verifiable, embassy-approved POF directly from a commercial bank. When their visa was approved, they couldn't stop thanking us for turning their nightmare into a success story."*
 
-> *"My Canada express entry application was almost ruined because of insufficient funds. A friend recommended this platform, and I honestly couldn't believe how smooth the process was. They helped me structure a verifiable POF that the embassy accepted without a single question. I just got my passport request!"* — Ngozi E., Abuja
+> *"My [Canada express entry](/proof-of-funds-for-canada-express-entry-2026) application was almost ruined because of insufficient funds. A friend recommended this platform, and I honestly couldn't believe how smooth the process was. They helped me structure a verifiable POF that the embassy accepted without a single question. I just got my passport request!"* — Ngozi E., Abuja
 
 At Proof of Fund NG, we help applicants like you meet this requirement every day, smoothly and securely.
 

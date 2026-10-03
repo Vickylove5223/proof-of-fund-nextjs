@@ -37,7 +37,7 @@ Let's walk through it step-by-step.
 
 ### Step 1: Find the Official [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html) Requirement in CAD
 
-The amount you need depends on your immigration program and the number of family members coming with you. For students, the minimum amount for living expenses (outside of Quebec) is currently set by IRCC.
+The amount you need depends on your immigration program and the number of family members coming with you. For students, the minimum amount for living expenses (outside of Quebec) is currently set by [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html).
 
 Check IRCC's official website for the most up-to-date figures, as they can change. For our example, let's use the requirement for a single student, which is $10,000 CAD for living expenses.
 

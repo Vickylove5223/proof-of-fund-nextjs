@@ -62,13 +62,13 @@ Important: Exchange rates fluctuate. Always calculate with a 10–15% buffer to 
 ### What Documents Count as Proof of Funds for Portugal Student Visa?
 The Portuguese Embassy in Nigeria accepts the following as valid proof of funds:
 
-1.  Personal Bank Statement — 3 to 6 months of recent bank statements from a reputable Nigerian commercial bank (GTBank, Access Bank, Zenith Bank, First Bank, UBA, etc.), showing a consistent balance that meets the minimum requirement.
-2.  Sponsor Bank Statement — If a parent or guardian is sponsoring you, their bank statements plus a notarised sponsorship letter or Deed of Gift are required.
+1.  Personal Bank Statement — 3 to 6 months of recent bank statements from a reputable Nigerian commercial bank (GTBank, Access Bank, [Zenith Bank](/can-i-use-zenith-bank-for-proof-of-funds), First Bank, UBA, etc.), showing a consistent balance that meets the minimum requirement.
+2.  Sponsor Bank Statement — If a parent or guardian is sponsoring you, their bank statements plus a notarised sponsorship letter or [Deed of Gift](/how-to-use-a-deed-of-gift-for-your-canada-visa-proof-of-funds) are required.
 3.  Scholarship or Grant Letter — A letter from your institution or scholarship body confirming the amount and coverage period. Note: scholarships rarely cover 100% of living costs, so a complementary bank statement is often still required.
 4.  Investment Certificate / Bank Reference Letter — A letter from your bank confirming the funds are available and accessible.
 5.  Fixed Deposit Certificate — Proof of a fixed deposit held at a licensed Nigerian commercial bank.
 
-Microfinance bank statements, fintech accounts (Opay, Palmpay, Kuda), or cryptocurrency holdings are not accepted.
+[Microfinance bank](/why-you-should-never-use-a-microfinance-bank-for-your-study-visa-proof-of-funds) statements, fintech accounts (Opay, Palmpay, Kuda), or cryptocurrency holdings are not accepted.
 
 ### Key Requirements the Portuguese Embassy Looks For
 *   Consistent balance — Funds must have been consistently maintained for at least 3 months. A sudden large deposit two weeks before your application is a red flag.

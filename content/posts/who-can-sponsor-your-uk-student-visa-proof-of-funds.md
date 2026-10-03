@@ -9,9 +9,9 @@ image: /wp-content/uploads/2025/09/application-form-information-employment-conce
 ---
 Here is a rule that refuses thousands of Nigerian student visa applications, and almost nobody explains it clearly:
 
-For a UK student visa, money can only be in your own name, your parent's name, or your legal guardian's name. Your uncle, aunt, brother, cousin, pastor, or family friend cannot hold your proof of funds — no matter how willing they are.
+For a [UK student visa](/uk-student-visa-proof-of-funds-nigeria-28-day-rule), money can only be in your own name, your parent's name, or your legal guardian's name. Your uncle, aunt, brother, cousin, pastor, or family friend cannot hold your proof of funds — no matter how willing they are.
 
-This is written into the UKVI Student route rules, and it catches Nigerian families constantly, because our real financial life is communal: an uncle abroad funds one child's education, an elder sibling funds another's. UKVI does not care. If the ₦30m sits in your brother's account, your application fails the maintenance requirement.
+This is written into the [UKVI](https://www.gov.uk/government/organisations/uk-visas-and-immigration) Student route rules, and it catches Nigerian families constantly, because our real financial life is communal: an uncle abroad funds one child's education, an elder sibling funds another's. UKVI does not care. If the ₦30m sits in your brother's account, your application fails the maintenance requirement.
 
 ## What the Rule Actually Says
 

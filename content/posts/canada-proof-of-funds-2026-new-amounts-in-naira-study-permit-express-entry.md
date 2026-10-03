@@ -7,7 +7,7 @@ description: '[IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.h
 seo_title: 'Canada Proof of Funds 2026: New Amounts in Naira (Updated)'
 image: /wp-content/uploads/2025/09/25ae7f4a-e9db-42af-95d8-f32cb793b7c8.jpg
 ---
-If you are planning Canada in 2026, throw away every article quoting the old $10,000 requirement. IRCC has more than doubled the study permit proof of funds to CAD $22,895, and Express Entry settlement funds have risen again with the annual update. This post gives you the current figures, their naira equivalents, and exactly how to meet them from Nigeria.
+If you are planning Canada in 2026, throw away every article quoting the old $10,000 requirement. [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html) has more than doubled the study permit proof of funds to CAD $22,895, and Express Entry settlement funds have risen again with the annual update. This post gives you the current figures, their naira equivalents, and exactly how to meet them from Nigeria.
 
 ## Study Permit Proof of Funds 2026
 

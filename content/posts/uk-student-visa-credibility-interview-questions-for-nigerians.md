@@ -7,7 +7,7 @@ description: '[UKVI](https://www.gov.uk/browse/visas-immigration) credibility in
 seo_title: 'UK Student Visa Credibility Interview Questions'
 image: /wp-content/uploads/2025/02/two-business-woman-cafe_1157-14528.jpg
 ---
-Unlike the US, the UK doesn't interview every student — which is exactly why the credibility interview catches Nigerians off guard. It arrives as a short-notice video call from UKVI, it feels informal, and it quietly decides borderline applications. Universities also run their own pre-CAS interviews that gate whether you get sponsored at all.
+Unlike the US, the UK doesn't interview every student — which is exactly why the credibility interview catches Nigerians off guard. It arrives as a short-notice video call from [UKVI](https://www.gov.uk/government/organisations/uk-visas-and-immigration), it feels informal, and it quietly decides borderline applications. Universities also run their own pre-CAS interviews that gate whether you get sponsored at all.
 
 The test has a name in the rules: are you a genuine student? Here are the questions that actually get asked, and how strong answers are built.
 

@@ -8,7 +8,7 @@ image: /wp-content/uploads/2025/09/visa-application-composition-with-europe-amer
 ---
 If you are applying for a Canadian Study Permit, Express Entry, or Visitor Visa from Nigeria, showing strong financial ties is non-negotiable. Many applicants ask: "Can I use a Fixed Deposit as Proof of Funds for Canada?"
 
-The short answer is yes, but it comes with a massive warning label. Using a fixed deposit incorrectly is one of the most frequent reasons the IRCC (Immigration, Refugees and Citizenship Canada) refuses visas for "insufficient liquidity." 
+The short answer is yes, but it comes with a massive warning label. Using a fixed deposit incorrectly is one of the most frequent reasons the [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html) (Immigration, Refugees and Citizenship Canada) refuses visas for "insufficient liquidity." 
 
 Here is exactly how the IRCC views fixed deposits and what you must do to ensure your visa is approved.
 

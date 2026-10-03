@@ -25,7 +25,7 @@ At [Proof of Fund NG](/), we see these mistakes every day. [Reach out to us on W
 
 #### 1\. Presenting Fake Bank Documents
 
-This is the fastest way to get a permanent ban from countries like the UK. Embassies frequently contact banks and even the Central Bank of Nigeria (CBN) to verify signatures, mandate cards, and account history.
+This is the fastest way to get a permanent ban from countries like the UK. Embassies frequently contact banks and even the [Central Bank of Nigeria](https://www.cbn.gov.ng/) (CBN) to verify signatures, mandate cards, and account history.
 
 If they find any discrepancies, your application is finished.
 

@@ -17,7 +17,7 @@ Unlike other destinations, Italy has specific requirements and a high level of s
 
 At [Proof of Fund NG](/), we understand the nuances of the Italian embassy's requirements. If you don't have the assets or personal money to deposit for your application, we provide [Proof of Funds services](/) at an affordable rate to help you secure your Italian study visa.
 
-> *"We had a client who was completely overwhelmed by the strict financial requirements for the Schengen visa. They had the personal cash but didn't know how to present it correctly. Our team audited their account, optimized their presentation, and within weeks, their visa was approved without a single query."*
+> *"We had a client who was completely overwhelmed by the strict financial requirements for the [Schengen visa](/schengen-visa-bank-statement-requirements-from-nigeria-6-months). They had the personal cash but didn't know how to present it correctly. Our team audited their account, optimized their presentation, and within weeks, their visa was approved without a single query."*
 
 > *"I almost gave up on my dream of studying in Australia because the POF requirement was just too high. Then I discovered I could legally get a POF loan. They funded the exact amount I needed for my visa application, and my student visa was granted two weeks ago. Highly recommended!"* — David O., Port Harcourt
 
@@ -55,7 +55,7 @@ If you are sponsoring yourself, you must provide a well-documented trail of how 
 
 *   Avoid Agency Accounts: It is strictly advised not to use shady agency accounts where you don't have control over the funds. The Italian embassy verifies documents thoroughly and can even write to the bank to confirm balances.
 
-*   Deed of Gift: If an uncle or relative is providing the money, they should transfer it to your parent’s account and back it up with a Deed of Gift. This makes the source of the funds legitimate and transparent.
+*   [Deed of Gift](/how-to-use-a-deed-of-gift-for-your-canada-visa-proof-of-funds): If an uncle or relative is providing the money, they should transfer it to your parent’s account and back it up with a Deed of Gift. This makes the source of the funds legitimate and transparent.
 
 *   Authentication and Legalization: For married students or those using parents as ties, documents like marriage and birth certificates must be authenticated at the Ministry of Foreign Affairs and legalized.
 

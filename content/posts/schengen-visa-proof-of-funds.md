@@ -6,7 +6,7 @@ description: 'Applying for a Schengen visa? Proof of Funds is one of the most sc
 seo_title: 'Schengen Visa Proof of Funds: How Much You Need'
 image: /wp-content/uploads/2025/02/two-business-woman-cafe_1157-14528.jpg
 ---
-When applying for a Schengen visa, one of the most important requirements is your proof of funds (POF). This financial requirement shows that you can take care of yourself during your stay in Europe without becoming a financial burden.
+When applying for a [Schengen visa](/schengen-visa-bank-statement-requirements-from-nigeria-6-months), one of the most important requirements is your proof of funds (POF). This financial requirement shows that you can take care of yourself during your stay in Europe without becoming a financial burden.
 
 But many applicants get visa refusals not because they don’t have money, but because of how they present their proof of funds. This article breaks down the Schengen visa proof of funds requirement for Nigerians, what mistakes to avoid, and answers to common questions.
 

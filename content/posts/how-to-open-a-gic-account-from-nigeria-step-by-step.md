@@ -7,7 +7,7 @@ description: 'The exact steps to open and fund a Canadian student GIC from Niger
 seo_title: 'How to Open a GIC Account from Nigeria (2026)'
 image: /wp-content/uploads/2025/02/family-enjoying-their-winter-time-together_23-2149186294.jpg
 ---
-You already know a GIC strengthens a Canada study permit application — our guides cover [why the GIC is a cheat code for approval](/understanding-the-gic-a-cheat-code-for-canadian-study-permit-approval) and the [overall requirements from Nigeria](/canada-gic-proof-of-funds-nigeria-requirements-everything-you-need-to-know). What nobody explains properly is the mechanics: which bank, which forms, how the money actually leaves Nigeria, and how long each step takes.
+You already know a GIC strengthens a [Canada study permit](/proof-of-funds-for-canada-student-visa-from-nigeria-complete-guide) application — our guides cover [why the GIC is a cheat code for approval](/understanding-the-gic-a-cheat-code-for-canadian-study-permit-approval) and the [overall requirements from Nigeria](/canada-gic-proof-of-funds-nigeria-requirements-everything-you-need-to-know). What nobody explains properly is the mechanics: which bank, which forms, how the money actually leaves Nigeria, and how long each step takes.
 
 This is that guide.
 
@@ -56,7 +56,7 @@ The GIC is fully refundable on refusal: submit the refund request with your refu
 
 ## Where Proof of Fund NG Fits
 
-The GIC covers living costs — but your file still needs first-year tuition evidence and often additional family funds, with the 4–6 months of history IRCC likes. That's the part we structure: compliant funding and documentation that completes the GIC into a full, approvable file. And if raising the ₦28m+ wire is itself the obstacle, message us to discuss legitimate structuring options.
+The GIC covers living costs — but your file still needs first-year tuition evidence and often additional family funds, with the 4–6 months of history [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html) likes. That's the part we structure: compliant funding and documentation that completes the GIC into a full, approvable file. And if raising the ₦28m+ wire is itself the obstacle, message us to discuss legitimate structuring options.
 
 WhatsApp: 08103669924 — or size your full requirement with the [proof of funds calculator](/proof-of-fund-calculator).
 

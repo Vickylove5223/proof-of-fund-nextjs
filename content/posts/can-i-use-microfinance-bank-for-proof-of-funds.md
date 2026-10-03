@@ -35,7 +35,7 @@ Proof of Fund NG provides 100% verifiable bank statements from top commercial ba
 
 ### When Can You Use a Microfinance Bank?
 
-Despite the risks, there are specific countries and visa routes that are more flexible and *will* accept microfinance bank statements, provided the bank is fully licensed by the Central Bank of Nigeria (CBN) and the funds are verifiable. 
+Despite the risks, there are specific countries and visa routes that are more flexible and *will* accept [microfinance bank](/why-you-should-never-use-a-microfinance-bank-for-your-study-visa-proof-of-funds) statements, provided the bank is fully licensed by the [Central Bank of Nigeria](https://www.cbn.gov.ng/) (CBN) and the funds are verifiable. 
 
 If you are applying to a country that allows it, you must ensure your statement is perfectly narrated and well-documented. 
 

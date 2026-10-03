@@ -16,11 +16,11 @@ image: /wp-content/uploads/2025/02/family-enjoying-their-winter-time-together_23
 
 | Bank Name | Likely Rate Range | Processing Time | Collateral Required |
 | :--- | :--- | :--- | :--- |
-| Globus Bank | 2.4% - 2.6% | 24 - 48 hrs | None |
+| [Globus Bank](/globus-bank-proof-of-funds-nairaland) | 2.4% - 2.6% | 24 - 48 hrs | None |
 | Parallex Bank | 2.4% - 2.6% | 24 - 48 hrs | None |
 | Fidelity Bank | 3.3% - 3.7% | 24 - 48 hrs | None |
 | Providus Bank | 3.3% - 3.7% | 24 - 48 hrs | None |
-| Zenith Bank (New Acc) | 3.7% - 3.9% | 24 - 48 hrs | None |
+| [Zenith Bank](/can-i-use-zenith-bank-for-proof-of-funds) (New Acc) | 3.7% - 3.9% | 24 - 48 hrs | None |
 
 
 Are you worried that the high cost of showing Proof of Funds (POF) will stop your dream of studying abroad? It’s a common fear for many Nigerian students.

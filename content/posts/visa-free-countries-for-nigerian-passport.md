@@ -37,7 +37,7 @@ These countries allow you to fly in and simply pay a small fee at the airport fo
 
 While visiting Kenya or the Maldives is amazing for a quick vacation, these destinations are rarely the end goal for Nigerians looking to study, build a high-paying career, or relocate their families permanently. 
 
-If your true dream is to relocate to Canada, the UK, the United States, or the Schengen Area, you cannot escape the visa process. And the number one reason Nigerians are denied entry into those top-tier countries is a lack of verifiable Proof of Funds (POF).
+If your true dream is to relocate to Canada, the UK, the United States, or the [Schengen Area](https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/schengen-area_en), you cannot escape the visa process. And the number one reason Nigerians are denied entry into those top-tier countries is a lack of verifiable Proof of Funds (POF).
 
  Unlock the rest of the world!
 Proof of Fund NG provides the massive, verifiable bank statements you need to get approved for Canada, the UK, and Europe.

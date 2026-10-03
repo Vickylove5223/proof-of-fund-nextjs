@@ -20,7 +20,7 @@ image: /wp-content/uploads/2025/09/93e330bb-c279-4fe2-a3e9-8da837d7f5ff.jpg
 
 Temporary proof of funds means your account is funded by a licensed partner with real money. The funded portion is placed under a lien/mandate so it cannot be withdrawn during the visa processing period, while you receive full statements and supporting letters.
 
-This service is widely used for UK Student/Visitor visas (28-day rule) and Canada Study Permit/Express Entry applications.
+This service is widely used for UK Student/Visitor visas (28-day rule) and [Canada Study Permit](/proof-of-funds-for-canada-student-visa-from-nigeria-complete-guide)/Express Entry applications.
 
 ### Current Cost of Temporary POF in Nigeria (2026)
 
@@ -36,7 +36,7 @@ At Proof of Fund NG, we offer some of the \*\*most competitive rates\*\* in the 
 
 ### Cost Examples for UK & Canada Visas
 
-UK Student Visa (Typical Requirement: £10,000 – £20,000+ equivalent)
+[UK Student Visa](/uk-student-visa-proof-of-funds-nigeria-28-day-rule) (Typical Requirement: £10,000 – £20,000+ equivalent)
 
 *   ₦15 Million POF: ₦450,000 – ₦600,000 for 1 month
 *   ₦30 Million POF: ₦750,000 – ₦1,050,000 for 1 month

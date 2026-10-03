@@ -60,7 +60,7 @@ We can help you understand exactly [how our Proof of Funds service works](/learn
 
 Here’s how we help:
 
-1.  You tell us your needs: Let us know the amount required and for what purpose (e.g., UK student visa, US admission).
+1.  You tell us your needs: Let us know the amount required and for what purpose (e.g., [UK student visa](/uk-student-visa-proof-of-funds-nigeria-28-day-rule), US admission).
 2.  We connect you to a partner: We link you with a verified financial partner who can arrange for the funds to be placed in an account in your name.
 3.  You receive official documents: You get authentic bank statements and confirmation letters that meet all embassy standards.
 

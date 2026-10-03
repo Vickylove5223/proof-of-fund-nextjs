@@ -92,7 +92,7 @@ personal account. Immigration officers want to see that the money is personally 
 
 6-month statement. 
 
-Is microfinance bank advisable (like Opay, MoneyPoint, etc.)? Not recommended. Stick with major commercial banks for credibility and easier verification. If I’m being invited, will they still ask for proof of fund since the invitation letter states accommodation is covered? Yes. Even with an invitation letter, you may still need to show funds for living expenses and personal upkeep. 
+Is [microfinance bank](/why-you-should-never-use-a-microfinance-bank-for-your-study-visa-proof-of-funds) advisable (like Opay, MoneyPoint, etc.)? Not recommended. Stick with major commercial banks for credibility and easier verification. If I’m being invited, will they still ask for proof of fund since the invitation letter states accommodation is covered? Yes. Even with an invitation letter, you may still need to show funds for living expenses and personal upkeep. 
 
 Do you people give study loan? Fly Matters does not provide loans, but we guide students on how to structure their finances and prepare convincing proof of funds. 
 

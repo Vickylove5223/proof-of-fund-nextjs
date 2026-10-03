@@ -10,7 +10,7 @@ description: 'Thinking of using Opay or Kuda for your study visa Proof of Funds?
 seo_title: 'Never Use a Microfinance Bank for Study Visa POF'
 image: /wp-content/uploads/2025/09/93e330bb-c279-4fe2-a3e9-8da837d7f5ff.jpg
 ---
-"_ The short answer? While getting your documentation ready is stressful, using a microfinance bank can easily lead to a heartbreaking visa refusal.
+"_ The short answer? While getting your documentation ready is stressful, using a [microfinance bank](/why-you-should-never-use-a-microfinance-bank-for-your-study-visa-proof-of-funds) can easily lead to a heartbreaking visa refusal.
 
 In this post, we’ll explain exactly why visa officers reject statements from microfinance banks and what you must do instead to secure your study visa.
 
@@ -25,7 +25,7 @@ Recently, a viral video exposed the Global Case Management System (GCMS) notes o
 
 > _"Funds, proof: You have provided a bank statement from a microfinance institution and not from a commercial bank. As per the [Central Bank of Nigeria](https://www.cbn.gov.ng/), 'microfinance is about providing financial services to the poor who are traditionally not served by the conventional financial institutions'. Furthermore, Nigerian laws governing microfinance banks (MFBs) are restricted from engaging in foreign currency transactions/overseas transfers. Please provide proof of funds/bank statements from a commercial bank."_
 
-This single note proves that immigration officers actively research the financial institutions you use. Because MFBs are legally restricted by the Central Bank of Nigeria from handling foreign exchange (FX) and overseas transfers, presenting an MFB statement signals to the visa officer that you cannot easily transfer your tuition and living expenses abroad.
+This single note proves that immigration officers actively research the financial institutions you use. Because MFBs are legally restricted by the [Central Bank of Nigeria](https://www.cbn.gov.ng/) from handling foreign exchange (FX) and overseas transfers, presenting an MFB statement signals to the visa officer that you cannot easily transfer your tuition and living expenses abroad.
 
 ### Commercial Banks vs. Microfinance Banks for POF
 Even if you know someone who miraculously had their visa approved using a microfinance bank, it is a massive gamble. Why risk your tuition deposits, heavy application fees, and your future on a technicality?

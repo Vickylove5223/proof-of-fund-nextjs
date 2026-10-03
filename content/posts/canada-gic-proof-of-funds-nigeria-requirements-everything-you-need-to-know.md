@@ -15,7 +15,7 @@ In this guide, we explain the current Canada GIC requirements for Nigerian appli
 
 A Guaranteed Investment Certificate (GIC) is a secure investment product offered by participating Canadian banks. You deposit a lump sum, and the bank guarantees your principal plus interest.
 
-For study permit purposes, it proves you have dedicated funds specifically set aside for living expenses in Canada. IRCC views GIC as highly reliable because the money is held in Canada, reducing doubts about accessibility or source of funds.
+For study permit purposes, it proves you have dedicated funds specifically set aside for living expenses in Canada. [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html) views GIC as highly reliable because the money is held in Canada, reducing doubts about accessibility or source of funds.
 
 Even though it is no longer mandatory, officers often look favorably on applications that include a GIC. ![Don't Risk Visa Refusal - Get Authentic Proof of Funds Today (08103669924)](/wp-content/uploads/2025/11/2d287143-7207-4096-9a11-be7c49121ca6-200x300.webp)
 

@@ -6,7 +6,7 @@ description: 'Using a sponsor for your Canada visa? Learn how a Gift Deed acts a
 seo_title: 'Gift Deed for Canada POF & Source of Funds Explanation'
 image: /wp-content/uploads/2025/02/tourist-carrying-baggage_23-2151747389.jpg
 ---
-One of the strictest checks performed by the IRCC (Immigration, Refugees and Citizenship Canada) is verifying the "Source of Funds." If a large sum of money suddenly appears in your bank account, the IRCC will suspect it is a temporary loan meant only to deceive them. 
+One of the strictest checks performed by the [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html) (Immigration, Refugees and Citizenship Canada) is verifying the "Source of Funds." If a large sum of money suddenly appears in your bank account, the IRCC will suspect it is a temporary loan meant only to deceive them. 
 
 If someone is sponsoring your travel (like a parent, spouse, or wealthy relative), you cannot just transfer the money into your account and print the statement. You must explain it using a legal Gift Deed.
 
@@ -33,7 +33,7 @@ A standard letter typed on your laptop and signed by your uncle is not sufficien
 
 ### Why You Need Real Liquid Cash
 
-Even with a flawless Gift Deed, if the money on your bank statement is sitting in a low-trust microfinance bank or you submitted an edited PDF, the IRCC will reject your application. The funds must be genuinely verifiable.
+Even with a flawless Gift Deed, if the money on your bank statement is sitting in a low-trust [microfinance bank](/why-you-should-never-use-a-microfinance-bank-for-your-study-visa-proof-of-funds) or you submitted an edited PDF, the IRCC will reject your application. The funds must be genuinely verifiable.
 
  Stop risking your visa approval with fake bank statements!
 Proof of Fund NG provides 100% verifiable bank statements from top commercial banks.

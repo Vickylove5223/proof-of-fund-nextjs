@@ -23,14 +23,14 @@ Because you are arriving in Canada with a valid, endorsed job offer, the governm
 
 To qualify for the AIP, you only need to show enough money to support yourself and your family for your first short period in Canada. This amount is tied to the Low Income Cut-Off (LICO) in Canada.
 
-*(Note: These figures are subject to IRCC updates, but they are consistently much lower than Express Entry)*:
+*(Note: These figures are subject to [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html) updates, but they are consistently much lower than Express Entry)*:
 
 *   1 Family Member (Single Applicant): Approx. $3,439 CAD
 *   2 Family Members: Approx. $4,281 CAD
 *   3 Family Members: Approx. $5,263 CAD
 *   4 Family Members: Approx. $6,391 CAD
 
-When converted to Naira (always check the current OANDA rates), a single applicant might only need around ₦4 Million to ₦4.5 Million. Compare this to Express Entry, which requires over $14,690 CAD (approx. ₦18+ Million) for a single applicant!
+When converted to Naira (always check the current [OANDA](https://www.oanda.com/currency-converter/en/) rates), a single applicant might only need around ₦4 Million to ₦4.5 Million. Compare this to Express Entry, which requires over $14,690 CAD (approx. ₦18+ Million) for a single applicant!
 
 ![Secure Embassy-Ready Bank Statements Fast! Call 08103669924](/wp-content/uploads/2025/02/family-enjoying-their-winter-time-together_23-2149186294.jpg)
 

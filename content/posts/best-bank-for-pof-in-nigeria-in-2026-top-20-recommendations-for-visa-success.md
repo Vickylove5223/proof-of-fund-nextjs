@@ -29,14 +29,14 @@ Based on visa success rates, embassy acceptance, international reputation, and r
 
 1.  Access Bank Plc — One of the most accepted for UK, Canada, and other visas. Excellent for new and existing accounts with fast processing.
 2.  Guaranty Trust Bank (GTBank) — Highly trusted with clean, professional statement formats. Very popular for study and visitor visas.
-3.  Zenith Bank — Premium branding and strong international recognition. Ideal for high-value POF and Express Entry.
+3.  [Zenith Bank](/can-i-use-zenith-bank-for-proof-of-funds) — Premium branding and strong international recognition. Ideal for high-value POF and Express Entry.
 4.  United Bank for Africa (UBA) — Strong pan-African presence. Great for family sponsorship and large amounts.
 5.  First Bank of Nigeria — One of the oldest banks with excellent reputation. Frequently recommended for POF.
 6.  Fidelity Bank Plc — Reliable statements and good embassy acceptance.
 7.  Stanbic IBTC Bank — Strong international backing and professional documentation.
 8.  Providus — Increasingly popular for visa-related POF.
 9.  Polaris Bank — Accepted in many applications with decent processing.
-10.  Globus Bank — Used successfully in several applications (check latest embassy feedback)
+10.  [Globus Bank](/globus-bank-proof-of-funds-nairaland) — Used successfully in several applications (check latest embassy feedback)
 11.  Parallex Bank — Used successfully in several applications (check latest embassy feedback)
 
 Strong Tip: Prioritize the top 8–10 banks (Access, GTB, Zenith, UBA, FirstBank, Fidelity, Stanbic IBTC) for the highest success rates.

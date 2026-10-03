@@ -34,7 +34,7 @@ The loan must be approved and documented — a pending application proves nothin
 
 ### GlobCred
 
-*   Loan structures explicitly recognised by [UKVI](https://www.gov.uk/browse/visas-immigration), IRCC, and US embassies for proof of funds
+*   Loan structures explicitly recognised by [UKVI](https://www.gov.uk/browse/visas-immigration), [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html), and US embassies for proof of funds
 *   Covers tuition and living costs; works with UK destinations MPower doesn't
 *   Details: [GlobCred Nigeria](https://globcred.money/nigeria-student-loan)
 

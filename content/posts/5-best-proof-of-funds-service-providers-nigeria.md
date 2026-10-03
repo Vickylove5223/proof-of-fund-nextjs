@@ -16,7 +16,7 @@ A rejection due to improper financial documentation is a setback no one wants.
 
 That's why we've analyzed the market to identify the most reliable partners for this crucial step. We evaluated companies based on their speed, authenticity, customer support, and success rates with major embassies.
 
-> *"I was so stressed about my UK student visa because my bank statement wasn't ready. I thought my Japa dreams were over for the year. I reached out for proof of funds assistance, and within 48 hours, my financial documents were perfectly structured. My visa was approved last month, and I'm now studying in London! If you're struggling, don't give up—get the right help."* — Chidi A., Lagos
+> *"I was so stressed about my [UK student visa](/uk-student-visa-proof-of-funds-nigeria-28-day-rule) because my bank statement wasn't ready. I thought my Japa dreams were over for the year. I reached out for proof of funds assistance, and within 48 hours, my financial documents were perfectly structured. My visa was approved last month, and I'm now studying in London! If you're struggling, don't give up—get the right help."* — Chidi A., Lagos
 
 Understanding [how Proof of Funds works](/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) is the first step toward a successful application.
 

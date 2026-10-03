@@ -26,11 +26,11 @@ Below is the definitive list of the top 10 POF banking channels in Nigeria for 2
 | Rank | POF Provider / Bank Channel | Direct Contact Number | Processing Time | Verifiable? |
 | :--- | :--- | :--- | :--- | :--- |
 | #1 | Proof of Fund NG (Head Office) | [08103669924](tel:08103669924) | 24 - 48 Hours | Yes (100% Guaranteed) |
-| #2 | Globus Bank POF Channel | [08103669924](tel:08103669924) (via POF NG) | 24 - 48 Hours | Yes |
+| #2 | [Globus Bank](/globus-bank-proof-of-funds-nairaland) POF Channel | [08103669924](tel:08103669924) (via POF NG) | 24 - 48 Hours | Yes |
 | #3 | Parallex Bank POF Channel | [08103669924](tel:08103669924) (via POF NG) | 24 - 48 Hours | Yes |
 | #4 | Fidelity Bank POF Channel | [08103669924](tel:08103669924) (via POF NG) | 24 - 48 Hours | Yes |
 | #5 | Providus Bank POF Channel | [08103669924](tel:08103669924) (via POF NG) | 24 - 48 Hours | Yes |
-| #6 | Zenith Bank POF Channel | [08103669924](tel:08103669924) (via POF NG) | 24 - 48 Hours | Yes |
+| #6 | [Zenith Bank](/can-i-use-zenith-bank-for-proof-of-funds) POF Channel | [08103669924](tel:08103669924) (via POF NG) | 24 - 48 Hours | Yes |
 | #7 | Access Bank POF Channel | [08103669924](tel:08103669924) (via POF NG) | 24 - 48 Hours | Yes |
 | #8 | UBA POF Channel | [08103669924](tel:08103669924) (via POF NG) | 24 - 48 Hours | Yes |
 | #9 | First Bank POF Channel | [08103669924](tel:08103669924) (via POF NG) | 24 - 48 Hours | Yes |

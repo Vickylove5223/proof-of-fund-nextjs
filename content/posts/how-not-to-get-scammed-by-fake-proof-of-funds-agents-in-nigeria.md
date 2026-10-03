@@ -8,7 +8,7 @@ image: /wp-content/uploads/2025/02/two-business-woman-cafe_1157-14528.jpg
 ---
 If you are searching for proof of funds services in Nigeria, you have probably realized that the internet—especially social media and Nairaland—is filled with "agents" offering incredibly cheap POF rates. 
 
-Unfortunately, the POF industry is heavily targeted by scammers. Using the wrong agent won't just cost you the fees you paid them; submitting a fake document to an embassy like the IRCC, UKVI, or US Consulate will result in a devastating 10-year ban for misrepresentation.
+Unfortunately, the POF industry is heavily targeted by scammers. Using the wrong agent won't just cost you the fees you paid them; submitting a fake document to an embassy like the [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html), [UKVI](https://www.gov.uk/government/organisations/uk-visas-and-immigration), or US Consulate will result in a devastating 10-year ban for misrepresentation.
 
 Here is exactly how to identify scammers and how not to get scammed by fake proof of funds agents in Nigeria.
 

@@ -78,7 +78,7 @@ Whether using your own funds or our service, ensuring document perfection is key
 
 ### Ensure Your Bank Statement is Clear and Official
 
-The Canadian visa office in Nigeria closely scrutinizes documents. Use a reputable bank such as GTBank or Globus Bank.
+The Canadian visa office in Nigeria closely scrutinizes documents. Use a reputable bank such as GTBank or [Globus Bank](/globus-bank-proof-of-funds-nairaland).
 
 It should clearly show the bank’s contact information, your name, address, and a detailed transaction history.
 

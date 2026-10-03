@@ -13,7 +13,7 @@ Here is the accurate answer: embassies accept both, and neither earns you extra 
 
 ## How Embassies Treat Naira Balances
 
-Every embassy converts your balance to its own currency at the assessment date — [UKVI](https://www.gov.uk/browse/visas-immigration) uses published OANDA rates, [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html) uses standard conversion, and Schengen posts convert to euros. A naira statement is not a weakness; officers in Lagos and Abuja read naira statements all day.
+Every embassy converts your balance to its own currency at the assessment date — [UKVI](https://www.gov.uk/browse/visas-immigration) uses published [OANDA](https://www.oanda.com/currency-converter/en/) rates, [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html) uses standard conversion, and Schengen posts convert to euros. A naira statement is not a weakness; officers in Lagos and Abuja read naira statements all day.
 
 The trap is volatility: if you hold exactly the required amount in naira and the naira slides 8% between application and assessment, your file now shows *less than the requirement* — and the refusal is mechanical. This bites hardest on fixed-threshold routes like the [UK's £1,270 Skilled Worker maintenance](/uk-skilled-worker-visa-maintenance-funds-1270-rule-from-nigeria) and UK student maintenance, where the balance must clear the line every single day of the 28-day window at the prevailing conversion.
 

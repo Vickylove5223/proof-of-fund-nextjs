@@ -60,7 +60,7 @@ Visa-free or visa-on-arrival for Nigerians, growing tech scenes, and no POF hurd
 | Route | Job offer needed? | Funds to show |
 | --- | --- | --- |
 | Germany Opportunity Card | No | ~€13,092 |
-| Canada Express Entry | No | CAD $15,263+ |
+| [Canada Express Entry](/proof-of-funds-for-canada-express-entry-2026) | No | CAD $15,263+ |
 | Portugal Job Seeker | No | ~€2,610 |
 | Finland work | Yes (fast) | Minimal |
 | NZ Green List | Yes | Minimal |

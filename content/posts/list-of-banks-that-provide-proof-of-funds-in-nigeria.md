@@ -100,7 +100,7 @@ New & Existing Bank Account
 
 2–5 business days
 
-Globus Bank Limited
+[Globus Bank](/globus-bank-proof-of-funds-nairaland) Limited
 
 New & Existing Bank Account
 
@@ -166,7 +166,7 @@ New & Existing Bank Account
 
 2–4 business days
 
-Zenith Bank Plc
+[Zenith Bank](/can-i-use-zenith-bank-for-proof-of-funds) Plc
 
 New & Existing Bank Account
 
@@ -223,4 +223,4 @@ You can also visit us at our office:
 
 ### Which bank in Nigeria is best for proof of funds?
 
-The best bank in Nigeria for proof of funds is a Tier-1 commercial bank that offers swift international verification. Globus Bank, Parallex Bank, Zenith Bank, and Fidelity Bank are currently considered the best because their statements are universally accepted by the UKVI, IRCC, and Schengen embassies without credibility issues.
+The best bank in Nigeria for proof of funds is a Tier-1 commercial bank that offers swift international verification. Globus Bank, Parallex Bank, Zenith Bank, and Fidelity Bank are currently considered the best because their statements are universally accepted by the [UKVI](https://www.gov.uk/government/organisations/uk-visas-and-immigration), [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html), and Schengen embassies without credibility issues.
