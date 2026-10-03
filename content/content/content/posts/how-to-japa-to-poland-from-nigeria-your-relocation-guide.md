@@ -79,7 +79,7 @@ Many visas are rejected because the POF is not correct.
 
 This document proves your financial stability. It tells the embassy you will not become a burden on their country.
 
-Getting this right is key to getting your visa approved. If you need help with this, we at POF NG are experts.
+Getting this right is key to getting your visa approved. If you need help with this, we at Proof of Fund NG are experts.
 
 We connect you with trusted financial partners to provide the documents you need. You can [learn how Proof of Funds works](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) on our website.
 

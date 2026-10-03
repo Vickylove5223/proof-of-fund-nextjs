@@ -64,7 +64,7 @@ Before anything else, visit the official [Australian Department of Home Affairs 
 
 This step can make or break your application, especially for a student visa. Proof of Funds is a document that shows you have enough money to cover your expenses. The Australian government needs assurance that you won't face financial hardship.
 
-Gathering a large sum of money can be challenging. This is where we come in. At POF NG, we connect you with reliable finance companies that provide verified and authentic Proof of Funds documents. Our service is designed to be fast, secure, and fully compliant with Australian embassy standards. We help you understand exactly [how Proof of Funds works](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide), taking the stress out of the process.
+Gathering a large sum of money can be challenging. This is where we come in. At Proof of Fund NG, we connect you with reliable finance companies that provide verified and authentic Proof of Funds documents. Our service is designed to be fast, secure, and fully compliant with Australian embassy standards. We help you understand exactly [how Proof of Funds works](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide), taking the stress out of the process.
 
 You don't need to have the full amount yourself. We connect you with a financial partner who can temporarily place the funds or provide the necessary bank statements. This makes meeting visa requirements much more accessible and ensures your application is strong.
 
@@ -86,4 +86,4 @@ Ready to Start Your Journey?
 
 The path to Japa to Australia from Nigeria is a journey of careful planning and preparation. From choosing the right visa to gathering your documents, every step is important. One of the most significant hurdles is the financial requirement, but it doesn't have to be a barrier.
 
-At [POF NG](http://afrikamombraids.local/), we specialize in providing fast, reliable, and embassy-accepted Proof of Funds to help you achieve your dream. We handle the complexities of financial verification so you can focus on the other aspects of your application. Contact us today to get started on your stress-free journey to Australia.
+At [Proof of Fund NG](http://afrikamombraids.local/), we specialize in providing fast, reliable, and embassy-accepted Proof of Funds to help you achieve your dream. We handle the complexities of financial verification so you can focus on the other aspects of your application. Contact us today to get started on your stress-free journey to Australia.

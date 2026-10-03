@@ -20,7 +20,7 @@ When you submit your bank statement for a visa or school application, every deta
 
 The wrong narration can raise red flags for consular officers, leading to questions or even outright rejection. Getting it right is crucial for a smooth application process.
 
-At POF NG, we've seen how simple mistakes can cause major delays. That's why we’ve compiled this guide to the 12 best and most acceptable narrations for your Proof of Funds (POF) in Nigeria.
+At Proof of Fund NG, we've seen how simple mistakes can cause major delays. That's why we’ve compiled this guide to the 12 best and most acceptable narrations for your Proof of Funds (POF) in Nigeria.
 
 Using the right description tells a clear and believable story about your financial standing.
 
@@ -73,7 +73,7 @@ Choosing the right narration is just one part of the process. Your entire financ
 
 If you need to show a specific amount for a certain duration but don't have it readily available, securing the funds can be challenging.
 
-This is where we can help. POF NG connects you with verified financial partners who can provide the required funds for your bank account.
+This is where we can help. Proof of Fund NG connects you with verified financial partners who can provide the required funds for your bank account.
 
 S. gov/education-culture/study-usa/) and is fully verifiable.
 
@@ -84,7 +84,7 @@ Not sure how much you need? Use our handy [POF Calculator](/guides/proof-of-fund
 Get Your Verifiable Proof of Funds Today
 ----------------------------------------
 
-If you need a reliable and stress-free way to meet your financial proof requirements, POF NG is here to help. We provide fast, authentic, and embassy-accepted Proof of Funds services to clients across Nigeria.
+If you need a reliable and stress-free way to meet your financial proof requirements, Proof of Fund NG is here to help. We provide fast, authentic, and embassy-accepted Proof of Funds services to clients across Nigeria.
 
 Let us handle the complexities so you can focus on your journey ahead.
 

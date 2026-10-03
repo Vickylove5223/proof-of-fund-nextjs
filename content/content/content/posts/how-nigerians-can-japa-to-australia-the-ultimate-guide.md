@@ -24,7 +24,7 @@ The dream of moving abroad, or “Japa” as it’s popularly known in Nigeria, 
 
 But how do you transform this ambition into a reality? The journey from Nigeria to Australia requires careful planning and a clear understanding of the visa process.
 
-At POF NG, we have successfully guided countless Nigerians through one of the most critical parts of this journey: securing their Proof of Funds. In this comprehensive guide, we will break down the exact steps on how to Japa to Australia, making the process clearer and more achievable for you.
+At Proof of Fund NG, we have successfully guided countless Nigerians through one of the most critical parts of this journey: securing their Proof of Funds. In this comprehensive guide, we will break down the exact steps on how to Japa to Australia, making the process clearer and more achievable for you.
 
 \[IMAGE\_1\]
 
@@ -107,13 +107,13 @@ For skilled visas, you may need to show settlement funds.
 
 Simply having the money is not enough; it must be presented correctly in an acceptable format, such as an official bank statement showing a consistent history. This verification process is strict.
 
-Using a reliable service like POF NG ensures your documentation is authentic and meets all guidelines, preventing devastating last-minute complications with your application.
+Using a reliable service like Proof of Fund NG ensures your documentation is authentic and meets all guidelines, preventing devastating last-minute complications with your application.
 
 Conclusion: Your Australian Dream is Within Reach
 -------------------------------------------------
 
 Moving to Australia from Nigeria is a significant undertaking, but with the right information and preparation, it is entirely achievable. By choosing the correct visa pathway, carefully preparing your documents, and ensuring your financial capacity is properly demonstrated, you can navigate the process successfully.
 
-Don’t let the Proof of Funds requirement be a barrier to your goals. Our team at POF NG is dedicated to providing the support you need for a smooth and successful visa application.
+Don’t let the Proof of Funds requirement be a barrier to your goals. Our team at Proof of Fund NG is dedicated to providing the support you need for a smooth and successful visa application.
 
 If you’re ready to take the next step, let us help you [get started with your POF application](/guides/how-to-get-proof-of-fund-in-nigeria) today.

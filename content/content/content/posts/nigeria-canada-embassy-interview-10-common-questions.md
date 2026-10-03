@@ -21,7 +21,7 @@ Facing a Canada embassy interview in Nigeria can feel like the final, most nerve
 
 But don’t worry. With the right preparation, you can walk into that interview room with confidence.
 
-At POF NG, we’ve helped countless applicants secure their financial documents, and we understand the importance of being ready for every stage.
+At Proof of Fund NG, we’ve helped countless applicants secure their financial documents, and we understand the importance of being ready for every stage.
 
 This guide breaks down the 10 most common questions asked during a Canada interview at the embassy for Nigerians. We’ll provide insights into what the visa officer is really asking and how you can frame your answers for success.
 

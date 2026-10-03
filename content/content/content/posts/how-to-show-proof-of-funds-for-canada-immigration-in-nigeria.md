@@ -88,7 +88,7 @@ This is a common challenge for many applicants in Nigeria. Saving up the full se
 
 You might have the money in assets like land, or you might be short of the required total. So, what can you do?
 
-This is where a trusted service like POF NG can help. int/) and the specific needs of Canadian immigration.
+This is where a trusted service like Proof of Fund NG can help. int/) and the specific needs of Canadian immigration.
 
 We connect you with verified financial partners who can help you meet the proof of funds requirement legally and safely. You don’t have to put your dream on hold.
 
@@ -107,10 +107,10 @@ Remember, you cannot use funds from other family members like parents or sibling
 
 ![Couple Planning](image7.jpg)
 
-How POF NG Makes It Easy and Safe
+How Proof of Fund NG Makes It Easy and Safe
 ---------------------------------
 
-Getting your proof of funds doesn’t have to be stressful. At POF NG, we make it simple.
+Getting your proof of funds doesn’t have to be stressful. At Proof of Fund NG, we make it simple.
 
 We are the top-rated proof of funds agent in Nigeria because we focus on trust and reliability.
 
@@ -135,7 +135,7 @@ Showing proof of funds is a serious step, but it is not impossible. By understan
 
 Remember to be honest and provide clear, official proof.
 
-If you need help meeting the financial requirement, don’t worry. POF NG is here to support you.
+If you need help meeting the financial requirement, don’t worry. Proof of Fund NG is here to support you.
 
 We provide a safe, reliable, and easy way to get the proof of funds you need for your Canada immigration application.
 

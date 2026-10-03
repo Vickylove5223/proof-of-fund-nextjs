@@ -66,14 +66,14 @@ While walking into a bank to request a POF sounds straightforward, the reality f
 
 Furthermore, paying a 5% upfront charge to a bank for temporary liquidity can be incredibly expensive and rigid. What if you have your admission letter, your flight itinerary, and your visa interview date, but you simply **do not have the asset or personal money** to deposit as your Proof of Funds?
 
-The POF NG Solution: We Provide the Funds for You
+The Proof of Fund NG Solution: We Provide the Funds for You
 -------------------------------------------------
 
-You do not need to abandon your travel dreams or sell off your family properties just to show a bank balance. This is exactly why [**POF NG**](/guides/services) exists.
+You do not need to abandon your travel dreams or sell off your family properties just to show a bank balance. This is exactly why [**Proof of Fund NG**](/guides/services) exists.
 
 If you don’t have the millions required to deposit as Proof of Funds, **we can provide the money for you at a highly affordable rate.**
 
-### Why Choose POF NG Over Traditional Bank Hassles?
+### Why Choose Proof of Fund NG Over Traditional Bank Hassles?
 
 *   **We Provide the Liquidity:** We will fund your account with the exact amount required by the embassy (US, UK, Canada, Australia, etc.) so your statement reflects the necessary closing balance naturally.
 *   **More Affordable Rates:** We offer highly competitive and flexible rates that are often far more accommodating than the strict 5% commercial bank charges.
@@ -87,7 +87,7 @@ Don't Let Lack of Funds Stop Your Migration Dreams
 
 Visa applications are time-sensitive. A delay of just three days can cost you your school admission or your travel window.
 
-Don't waste time negotiating with rigid bank managers if you don't have the assets to back up your request. Let **POF NG** do the heavy financial lifting for you.
+Don't waste time negotiating with rigid bank managers if you don't have the assets to back up your request. Let **Proof of Fund NG** do the heavy financial lifting for you.
 
 We have helped thousands of Nigerians successfully cross the Proof of Funds hurdle, and we are ready to help you next.
 

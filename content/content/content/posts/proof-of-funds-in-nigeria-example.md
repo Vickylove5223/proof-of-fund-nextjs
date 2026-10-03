@@ -135,7 +135,7 @@ Acceptable sources include:
 How to Get a Verifiable Proof of Funds Without Stress
 -----------------------------------------------------
 
-What if you don't have the required amount readily available in your account? This is a common challenge, and it's where we at POF NG come in.
+What if you don't have the required amount readily available in your account? This is a common challenge, and it's where we at Proof of Fund NG come in.
 
 We connect you with verified financial partners who can help arrange the necessary funds in your account temporarily. This service is legitimate, secure, and designed to meet embassy standards.
 
@@ -159,6 +159,6 @@ Having a clear and acceptable Proof of Funds is a critical step in your journey 
 
 By understanding these examples, you are better prepared to meet the financial requirements of your application.
 
-If you need assistance securing a verifiable and embassy-approved Proof of Funds, our team at POF NG is here to help. We make the process fast, affordable, and stress-free, so you can focus on your travel plans.
+If you need assistance securing a verifiable and embassy-approved Proof of Funds, our team at Proof of Fund NG is here to help. We make the process fast, affordable, and stress-free, so you can focus on your travel plans.
 
 Contact us today for a free consultation!

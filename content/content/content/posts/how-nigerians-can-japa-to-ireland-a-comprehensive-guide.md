@@ -63,7 +63,7 @@ Whether you are applying for a study or work visa, demonstrating sufficient fina
 
 The Irish embassy needs to see that you can fund your stay without becoming a burden on the state. This is done through a document called Proof of Funds (POF).
 
-Sourcing a large sum of money and keeping it in your account for the required period can be difficult. That’s where we, at POF NG, come in.
+Sourcing a large sum of money and keeping it in your account for the required period can be difficult. That’s where we, at Proof of Fund NG, come in.
 
 We connect you with trusted financial partners who can help you meet these requirements seamlessly. local/) that is accepted by the Irish embassy.
 
@@ -86,7 +86,7 @@ This includes your international passport, letter of acceptance from a school, o
 
 ### 3\. Secure Your Proof of Funds
 
-This is a critical step. Contact us at POF NG to arrange for your verifiable financial documents.
+This is a critical step. Contact us at Proof of Fund NG to arrange for your verifiable financial documents.
 
 We can help you understand exactly [how Proof of Funds works](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) to ensure you're fully prepared.
 
@@ -113,6 +113,6 @@ Moving to Ireland from Nigeria is a life-changing decision that requires careful
 
 The financial requirement, or Proof of Funds, is often the biggest hurdle, but it doesn't have to be.
 
-At POF NG, we specialize in making this crucial step simple and stress-free. We provide fast, reliable, and embassy-approved POF solutions to help you achieve your goal.
+At Proof of Fund NG, we specialize in making this crucial step simple and stress-free. We provide fast, reliable, and embassy-approved POF solutions to help you achieve your goal.
 
 Let us handle the financial proof, so you can focus on starting your exciting new chapter in Ireland.

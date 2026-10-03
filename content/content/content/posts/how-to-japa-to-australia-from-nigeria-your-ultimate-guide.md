@@ -20,7 +20,7 @@ The dream to "Japa" is on the minds of many Nigerians, and Australia stands out 
 
 But how do you turn this dream into a reality? The journey can seem complex, but with the right information and preparation, it is entirely achievable.
 
-At POF NG, we've guided countless individuals through one of the most critical steps of their visa application: securing Proof of Funds. In this guide, we'll break down the process of how to Japa to Australia from Nigeria, focusing on the key pathways and requirements you need to know.
+At Proof of Fund NG, we've guided countless individuals through one of the most critical steps of their visa application: securing Proof of Funds. In this guide, we'll break down the process of how to Japa to Australia from Nigeria, focusing on the key pathways and requirements you need to know.
 
 Understanding the Main Pathways to Australia
 --------------------------------------------
@@ -62,7 +62,7 @@ This can be a significant amount of money to have sitting in an account.
 
 This is where many applicants face a major hurdle. Sourcing a large sum of money and keeping it in your account for the required period can be difficult.
 
-That’s why we created POF NG. We connect you with trusted financial partners who can help you meet these requirements without stress.
+That’s why we created Proof of Fund NG. We connect you with trusted financial partners who can help you meet these requirements without stress.
 
 We provide authentic, verifiable bank statements and confirmation letters that are accepted by the Australian embassy.
 
@@ -85,7 +85,7 @@ com/). Each visa has a specific checklist, so follow it carefully.
 
 This is a make-or-break step. Before you even think of applying, ensure your financial documentation is in order.
 
-If you need assistance, this is the perfect time to contact us at POF NG. We ensure your POF is 100% verifiable and meets all embassy requirements, helping you avoid common rejection pitfalls.
+If you need assistance, this is the perfect time to contact us at Proof of Fund NG. We ensure your POF is 100% verifiable and meets all embassy requirements, helping you avoid common rejection pitfalls.
 
 ### Step 4: Lodge Your Application
 
@@ -102,7 +102,7 @@ The process of how to Japa to Australia from Nigeria requires careful planning a
 
 However, the Proof of Funds requirement is often the most significant challenge.
 
-int/) highlighting the complexities of global mobility, having reliable support is key. We at POF NG are here to handle the financial proof aspect for you, ensuring it’s one less thing you have to worry about.
+int/) highlighting the complexities of global mobility, having reliable support is key. We at Proof of Fund NG are here to handle the financial proof aspect for you, ensuring it’s one less thing you have to worry about.
 
 Let us help you present a strong, successful application so you can focus on starting your new life in Australia.
 

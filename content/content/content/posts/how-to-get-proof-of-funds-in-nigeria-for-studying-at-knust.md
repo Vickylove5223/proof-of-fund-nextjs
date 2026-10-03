@@ -23,7 +23,7 @@ However, before you can pack your bags for Kumasi, there's a critical financial 
 
 This requirement can often feel confusing and stressful, but it doesn't have to be a roadblock. We are here to guide you through the entire process, making it simple and straightforward.
 
-To get Proof of Funds in Nigeria for studying at KNUST, you must present a valid bank statement or an official letter from a financial institution showing you have sufficient funds to cover your tuition fees and living expenses for at least one academic year. You can use personal savings, a sponsor's account, or a specialized service like POF NG that helps you meet this requirement quickly and securely.
+To get Proof of Funds in Nigeria for studying at KNUST, you must present a valid bank statement or an official letter from a financial institution showing you have sufficient funds to cover your tuition fees and living expenses for at least one academic year. You can use personal savings, a sponsor's account, or a specialized service like Proof of Fund NG that helps you meet this requirement quickly and securely.
 
 Understanding KNUST's Proof of Funds Requirement
 ------------------------------------------------
@@ -73,7 +73,7 @@ A Simpler, Faster Way: Using a Proof of Funds Service
 
 What if you don't have the full amount available in one lump sum? Or what if you need the documents urgently?
 
-This is where we, at POF NG, come in. We specialize in helping students like you get authentic and verifiable Proof of Funds without the usual stress.
+This is where we, at Proof of Fund NG, come in. We specialize in helping students like you get authentic and verifiable Proof of Funds without the usual stress.
 
 Our service connects you with trusted financial partners who can help you meet the requirement. gh/).
 
@@ -88,7 +88,7 @@ Beyond just showing the money, authenticity is key. KNUST will verify the docume
 
 Ensure that any academic credentials you provide from Nigeria are recognized. ng/).
 
-Using a trusted agent like POF NG guarantees that your financial documents are verifiable and will pass any checks from the university or embassy. We handle the complexities so you can focus on preparing for your academic journey.
+Using a trusted agent like Proof of Fund NG guarantees that your financial documents are verifiable and will pass any checks from the university or embassy. We handle the complexities so you can focus on preparing for your academic journey.
 
 Ready to Start Your KNUST Journey? ----------------------------------
 

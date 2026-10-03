@@ -77,7 +77,7 @@ Many genuine students don’t have the full amount readily available in liquid c
 *   **Funded Bank Accounts via Licensed Partners**: Reputable providers work with CBN-licensed finance houses and major banks to temporarily fund your existing (or new) account with real money. The POF portion is placed under a lien/mandate (you can’t withdraw it during the required period), but the account remains yours for statements and visa purposes.
 *   Fast processing (often 24–48 hours).
 *   Full documentation (bank statements, funding letters with narrations).
-*   Support for high amounts (up to ₦50M–300M+ depending on provider).
+*   Support for high amounts (up to ₦500M–300M+ depending on provider).
 
 This approach is widely used for UK, Canada, and other visas because it creates verifiable, bank-generated records that satisfy embassy checks when done transparently. At [proofoffund.com.ng,](http://proofoffund.com.ng) we specialize in exactly this for Nigerian applicants heading to Canada. Our process:
 

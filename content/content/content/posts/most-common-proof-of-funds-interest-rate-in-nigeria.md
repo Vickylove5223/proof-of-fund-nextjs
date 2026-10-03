@@ -58,7 +58,7 @@ The rate you are quoted isn't arbitrary. Several factors determine the final per
 
 *   **The Amount Required:** The total value of the funds you need to show is the primary factor. The service fee is a direct percentage of this amount.
 *   **The Duration:** How long do the funds need to remain in the account? Most visa applications, like for the [UK student visa](https://www.gov.uk/student-visa/money), require funds to be held for at least 28 days. Longer durations may sometimes attract a slightly higher fee.
-*   **The Service Provider:** Working directly with a bank can be different from using a specialized agent. At POF NG, we connect you with our network of verified finance companies to help you find the most competitive rates available, ensuring you don't overpay.
+*   **The Service Provider:** Working directly with a bank can be different from using a specialized agent. At Proof of Fund NG, we connect you with our network of verified finance companies to help you find the most competitive rates available, ensuring you don't overpay.
 
 Cost Breakdown by Provider (2026)
 
@@ -67,13 +67,13 @@ These fees act as the effective "interest" or processing cost for borrowing the 
 *   **Specialized POF Firms:** Rates typically range from **2.4% to 3.5%**. Some providers charge around **1.8%** for specific entry amounts or require upfront fees as low as **2.9%** for higher amounts (e.g., ₦30M+). \[[1](https://easifyfund.ng/), [2](https://www.facebook.com/groups/306837494102160/posts/1543872493731981/), [3](https://edfinmfb.com/edfin-proof-of-fund), [4](https://thecoreegroup.com/proof-of-funds-2/)\]
 *   **Commercial Banks (e.g., UBA, FirstBank, Access):** Standard POF loans usually range between **3.3% and 5.0% flat per month**, with existing customers occasionally receiving preferential rates. \[[1](https://thecoreegroup.com/proof-of-funds-2/), [2](/guides/proof-of-funds-in-nigeria)\]
 
-Why Use a Trusted Agent Like POF NG? ------------------------------------
+Why Use a Trusted Agent Like Proof of Fund NG? ------------------------------------
 
 Navigating the world of Proof of Funds can be confusing. That's where we come in.
 
 Instead of you approaching multiple banks, we do the heavy lifting. ng/) to ensure every document we facilitate is authentic and verifiable.
 
-Choosing POF NG means you get access to fast, secure, and embassy-acceptable documents without stress. html#financial), the UK, and the US, ensuring your application is compliant.
+Choosing Proof of Fund NG means you get access to fast, secure, and embassy-acceptable documents without stress. html#financial), the UK, and the US, ensuring your application is compliant.
 
 Our goal is to connect you with the [cheapest Proof of Funds services](/guides/10-cheapest-proof-of-funds-pof-services-in-nigeria) without compromising on reliability.
 

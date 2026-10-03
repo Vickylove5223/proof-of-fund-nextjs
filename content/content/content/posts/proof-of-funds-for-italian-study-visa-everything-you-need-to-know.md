@@ -20,7 +20,7 @@ Are you a Nigerian student dreaming of studying in Italy? One of the most critic
 
 Unlike other destinations, Italy has specific requirements and a high level of scrutiny when it comes to financial documentation.
 
-At **POF NG**, we understand the nuances of the Italian embassy's requirements. If you don't have the assets or personal money to deposit for your application, we provide [Proof of Funds services](/guides/services) at an affordable rate to help you secure your Italian study visa.
+At **Proof of Fund NG**, we understand the nuances of the Italian embassy's requirements. If you don't have the assets or personal money to deposit for your application, we provide [Proof of Funds services](/guides/services) at an affordable rate to help you secure your Italian study visa.
 
 ### **Key Requirements for Italian Study Visa POF**
 
@@ -64,7 +64,7 @@ If you are sponsoring yourself, you must provide a well-documented trail of how 
 
 ### **Don’t Let Financial Barriers Stop Your Italian Dream**
 
-Building a six-month bank statement that satisfies Italian consular officers is a marathon. If you are short on time or funds, **POF NG** is here to support you.
+Building a six-month bank statement that satisfies Italian consular officers is a marathon. If you are short on time or funds, **Proof of Fund NG** is here to support you.
 
 We provide legitimate financial documentation and funds to ensure your bank statement is robust and ready for the TLS contact or embassy appointment.
 
@@ -78,6 +78,6 @@ We provide legitimate financial documentation and funds to ensure your bank stat
 
 *   [TLScontact Nigeria - Visa Application Center](https://it.tlscontact.com/ng/abj/index.php)
 
-_Disclaimer: POF NG provides financial support for visa documentation. We are not immigration lawyers.
+_Disclaimer: Proof of Fund NG provides financial support for visa documentation. We are not immigration lawyers.
 
 Always check the latest requirements on the official Italian Embassy or TLScontact website._

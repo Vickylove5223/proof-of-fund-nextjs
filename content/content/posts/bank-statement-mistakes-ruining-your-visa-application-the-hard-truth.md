@@ -13,7 +13,7 @@ image: /images/finance-1.png
 
 Is your bank statement costing you your visa approval? Many applicants are shocked when they receive a refusal for "insufficient funds" despite having millions in their account. The truth is, visa officers don't just look at the final balance; they scrutinize every line, inflow, and outflow to ensure your story adds up.
 
-At **POF NG**, we see these mistakes every day. If you don't have the assets or personal money to build a clean, long-term bank statement, we can provide legitimate [Proof of Funds services](https://wa.me/2348103669924) at an affordable rate to ensure your application is airtight.
+At **Proof of Fund NG**, we see these mistakes every day. If you don't have the assets or personal money to build a clean, long-term bank statement, we can provide legitimate [Proof of Funds services](https://wa.me/2348103669924) at an affordable rate to ensure your application is airtight.
 
 ### **Top Bank Statement Mistakes to Avoid**
 
@@ -46,9 +46,9 @@ For entrepreneurs, a huge balance in a corporate bank account does not automatic
 *   **Keep a Healthy Buffer:** Your closing balance should ideally be 1.5x to 2x the estimated cost of your trip to show that you won't be broke after the vacation.
     
 
-### **Don't Risk a Visa Refusal—Let POF NG Help**
+### **Don't Risk a Visa Refusal—Let Proof of Fund NG Help**
 
-Navigating the complex world of bank statements and IRCC/Embassy requirements is stressful. If you are struggling to build a bank statement that proves you can afford your trip, **POF NG** can help.
+Navigating the complex world of bank statements and IRCC/Embassy requirements is stressful. If you are struggling to build a bank statement that proves you can afford your trip, **Proof of Fund NG** can help.
 
 We provide legitimate Proof of Funds support, helping you maintain the required balance in your account throughout the processing period at an affordable rate.
 
@@ -63,4 +63,4 @@ We provide legitimate Proof of Funds support, helping you maintain the required 
 *   [UK Government Guide on Financial Evidence for Visas](https://www.gov.uk/guidance/financial-evidence-for-sponsored-or-endorsed-work-visas)
     
 
-_Disclaimer: POF NG provides financial support for documentation purposes. We are not a travel agency. Always refer to the specific embassy requirements for your destination._
+_Disclaimer: Proof of Fund NG provides financial support for documentation purposes. We are not a travel agency. Always refer to the specific embassy requirements for your destination._

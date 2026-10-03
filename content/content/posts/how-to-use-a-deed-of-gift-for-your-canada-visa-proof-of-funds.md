@@ -11,7 +11,7 @@ seo_title: How to Use a Deed of Gift for Your Canada Visa Proof of Funds
 image: /images/finance-2.png
 ---
 
-One of the biggest hurdles for Nigerians moving to Canada—whether through the Express Entry (PR) route or a Study Permit—is presenting an acceptable **Proof of Funds (POF)**. The Canadian government wants to ensure you have enough money to settle down without becoming a liability. But what happens if you do not have the entire required amount sitting in your bank account? If you are lucky enough to have a parent or close relative willing to help you out, the best way to present this money to the embassy is through a **Deed of Gift**. In this post, we at [**POF NG**](http://afrikamombraids.local/) will break down everything you need to know about using a Deed of Gift for your visa application.
+One of the biggest hurdles for Nigerians moving to Canada—whether through the Express Entry (PR) route or a Study Permit—is presenting an acceptable **Proof of Funds (POF)**. The Canadian government wants to ensure you have enough money to settle down without becoming a liability. But what happens if you do not have the entire required amount sitting in your bank account? If you are lucky enough to have a parent or close relative willing to help you out, the best way to present this money to the embassy is through a **Deed of Gift**. In this post, we at [**Proof of Fund NG**](http://afrikamombraids.local/) will break down everything you need to know about using a Deed of Gift for your visa application.
 
 What is a Deed of Gift?
 -----------------------
@@ -84,9 +84,9 @@ _But wait—what if you do not have a wealthy relative or the personal money to 
 The Ultimate Solution: What If You Don't Have the Personal Cash or Assets?
 --------------------------------------------------------------------------
 
-We know the reality. The exchange rate is high, and raising tens of millions of Naira for your visa application is incredibly difficult. You have the skills, you have the admission or the PR invite, but you **do not have a wealthy uncle to write you a Deed of Gift.** You do not have cars to sell or personal cash to lock away for months. Do you abandon your "Japa" dreams? Absolutely not! At [**POF NG**](/guides/services), we are your sure plug for visa financial backing. **If you don't have the assets or personal money to deposit as POF, we can provide the exact money for you at a highly affordable rate.**
+We know the reality. The exchange rate is high, and raising tens of millions of Naira for your visa application is incredibly difficult. You have the skills, you have the admission or the PR invite, but you **do not have a wealthy uncle to write you a Deed of Gift.** You do not have cars to sell or personal cash to lock away for months. Do you abandon your "Japa" dreams? Absolutely not! At [**Proof of Fund NG**](/guides/services), we are your sure plug for visa financial backing. **If you don't have the assets or personal money to deposit as POF, we can provide the exact money for you at a highly affordable rate.**
 
-### How POF NG Can Help You:
+### How Proof of Fund NG Can Help You:
 
 *   **We Provide the Liquidity:** We fund your account with the exact millions needed to meet the IRCC (or UK/US) standard.
 *   **No Collateral Needed:** You don't need to submit property documents to us. We have a seamless, applicant-friendly process.

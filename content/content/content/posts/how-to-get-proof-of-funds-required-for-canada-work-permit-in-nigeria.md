@@ -24,7 +24,7 @@ Understanding POF is key for a successful application. While not all work permit
 
 Misunderstanding can lead to delays or rejection. This guide clarifies the process.
 
-To demonstrate Proof of Funds for a Canadian work permit from Nigeria, provide official bank statements confirming you have sufficient funds to support yourself upon arrival. If you lack the required amount, consider a trusted service like POF NG.
+To demonstrate Proof of Funds for a Canadian work permit from Nigeria, provide official bank statements confirming you have sufficient funds to support yourself upon arrival. If you lack the required amount, consider a trusted service like Proof of Fund NG.
 
 We connect you with financial partners who offer authentic, verifiable bank statements meeting Canadian immigration standards, quickly and securely.
 
@@ -77,7 +77,7 @@ Gathering several million Naira and maintaining it in your account for months ca
 
 This hurdle prevents many qualified Nigerians from pursuing their Canadian dream.
 
-This is where POF NG comes in. We understand this challenge.
+This is where Proof of Fund NG comes in. We understand this challenge.
 
 As Nigeria's No. 1 trusted POF agent, we connect you with reliable finance companies that provide verified and authentic Proof of Funds documents.
 
@@ -100,7 +100,7 @@ It should clearly show the bank’s contact information, your name, address, and
 
 A sudden, unexplained large deposit raises red flags for immigration officials. They prefer consistent financial history.
 
-Explain significant inflows. At POF NG, we ensure proper narration, such as:
+Explain significant inflows. At Proof of Fund NG, we ensure proper narration, such as:
 
 *   Liquidation of Investment
 *   Sale of Property
@@ -111,7 +111,7 @@ Explain significant inflows. At POF NG, we ensure proper narration, such as:
 
 The temptation to use fake documents is high, but consequences are severe, including a multi-year ban from Canada. It's never worth the risk.
 
-Using a legitimate agent like POF NG ensures authentic documents from registered financial institutions. Every document we facilitate is 100% verifiable.
+Using a legitimate agent like Proof of Fund NG ensures authentic documents from registered financial institutions. Every document we facilitate is 100% verifiable.
 
 com/) on financial documents.
 

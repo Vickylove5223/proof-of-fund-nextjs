@@ -26,7 +26,7 @@ However, one of the most critical steps in making this happen is proving you hav
 
 Many talented Nigerian students face challenges at this stage, not because they aren’t capable, but because the financial proof can be complex. But don’t worry, we are here to guide you through every step.
 
-To get Proof of Funds for a Canada student visa with your family from Nigeria, you must show you have enough money to cover your first year’s tuition, your own living expenses (CAD $10,000), plus additional funds for each family member: CAD $4,000 for your spouse and CAD $3,000 for each dependent child. You can present this through bank statements, investment portfolios, or by using a trusted service like POF NG to secure a verifiable statement that meets embassy requirements.
+To get Proof of Funds for a Canada student visa with your family from Nigeria, you must show you have enough money to cover your first year’s tuition, your own living expenses (CAD $10,000), plus additional funds for each family member: CAD $4,000 for your spouse and CAD $3,000 for each dependent child. You can present this through bank statements, investment portfolios, or by using a trusted service like Proof of Fund NG to secure a verifiable statement that meets embassy requirements.
 
 ![Family planning their move to Canada](image1.jpg)
 
@@ -65,7 +65,7 @@ Let’s imagine you are a student heading to a Canadian college with your spouse
 
 **Total Required Proof of Funds:** CAD $38,000
 
-You would need to show a verifiable balance of at least CAD $38,000 in your bank account or investment portfolio. You can use an online tool like the [POF NG Calculator](/guides/proof-of-fund-calculator) to estimate the amount in Naira.
+You would need to show a verifiable balance of at least CAD $38,000 in your bank account or investment portfolio. You can use an online tool like the [Proof of Fund NG Calculator](/guides/proof-of-fund-calculator) to estimate the amount in Naira.
 
 ![Family looking at financial documents](image3.jpg)
 
@@ -99,16 +99,16 @@ Many applications from Nigeria are rejected due to simple, avoidable mistakes in
 
 These mistakes can be costly and heartbreaking. We have seen firsthand [why visa applications get rejected because of POF](/guides/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it), and our service is designed to help you avoid them entirely.
 
-![POF NG helps you secure your funds](image5.jpg)
+![Proof of Fund NG helps you secure your funds](image5.jpg)
 
-How POF NG Offers a Reliable Solution
+How Proof of Fund NG Offers a Reliable Solution
 -------------------------------------
 
 What if you don’t have the full amount sitting in your account for months? Or what if you’re worried about making a mistake with documentation?
 
 This is where we come in.
 
-At POF NG, we connect you with trusted financial partners who can provide a verifiable and authentic Proof of Funds statement for your visa application. The funds are placed in an account in your name, and you receive official bank documents that meet all the requirements of the Canadian embassy.
+At Proof of Fund NG, we connect you with trusted financial partners who can provide a verifiable and authentic Proof of Funds statement for your visa application. The funds are placed in an account in your name, and you receive official bank documents that meet all the requirements of the Canadian embassy.
 
 Our process is simple, fast, and secure. We ensure your POF is 100% verifiable, helping you avoid the common pitfalls of sudden deposits or insufficient funds.
 
@@ -121,7 +121,7 @@ Conclusion: Secure Your Family’s Canadian Dream
 
 Getting Proof of Funds for a Canada student visa with your family is a detailed process, but it’s completely achievable. By accurately calculating the total amount, gathering all the necessary documents for yourself and your dependents, and presenting a clear financial history, you can build a strong application.
 
-If you need a reliable, stress-free way to meet the financial requirements, POF NG is here to help. We are Nigeria’s #1 trusted POF agent, dedicated to making your journey to Canada smoother and more successful.
+If you need a reliable, stress-free way to meet the financial requirements, Proof of Fund NG is here to help. We are Nigeria’s #1 trusted POF agent, dedicated to making your journey to Canada smoother and more successful.
 
 Ready to take the next step? local/)** for a free consultation and let’s secure your family’s future together.
 

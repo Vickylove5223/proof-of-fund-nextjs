@@ -23,6 +23,21 @@ const nextConfig = {
         destination: '/guides',
         permanent: true,
       },
+      {
+        source: '/blog',
+        destination: '/guides',
+        permanent: true,
+      },
+      {
+        source: '/how-to-get-proof-of-funds',
+        destination: '/how-to-get-proof-of-fund-in-nigeria',
+        permanent: true,
+      },
+      {
+        source: '/how-to-get-proof-of-funds-in-nigeria',
+        destination: '/how-to-get-proof-of-fund-in-nigeria',
+        permanent: true,
+      },
     ];
   },
 };

@@ -78,7 +78,7 @@ We'll connect you with the best finance house offering the best rate for your PO
 
 Our partner finance house handle the process and ensure you receive a valid, verifiable POF.
 
-“I recommend POF NG to every JAPA citizen in Nigeria because they're the best Affordable and Straight forward Agent in Nigeria.” Ademoyla G. IT Experts
+“I recommend Proof of Fund NG to every JAPA citizen in Nigeria because they're the best Affordable and Straight forward Agent in Nigeria.” Ademoyla G. IT Experts
 
 #### Why People Keep Choosing Us
 

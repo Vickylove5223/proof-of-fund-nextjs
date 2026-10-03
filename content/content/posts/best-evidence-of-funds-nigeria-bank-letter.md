@@ -89,9 +89,9 @@ What if Your Current Balance Isn't Enough?
 
 Meeting the financial requirements for a visa can be challenging. Sometimes, your available funds may not reach the threshold required by the embassy, even if you can genuinely afford the trip. This is where a reliable service can make all the difference and prevent an unnecessary visa rejection.
 
-### How POF NG Provides a Reliable Solution
+### How Proof of Fund NG Provides a Reliable Solution
 
-At POF NG, we specialize in helping travelers like you meet their financial proof requirements without stress. We connect you with trusted financial partners who can provide authentic and verifiable Proof of Funds. The process is simple: funds are temporarily placed in an account, and you receive the official documentation needed for your application. You can [learn how Proof of Fund (POF) works](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) on our website.
+At Proof of Fund NG, we specialize in helping travelers like you meet their financial proof requirements without stress. We connect you with trusted financial partners who can provide authentic and verifiable Proof of Funds. The process is simple: funds are temporarily placed in an account, and you receive the official documentation needed for your application. You can [learn how Proof of Fund (POF) works](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) on our website.
 
 Our service is fast, secure, and accepted by embassies. We ensure that all documents are 100% verifiable, giving you the confidence you need for a successful application. You can also check general visa requirements on trusted platforms like the [IATA Travel Centre](https://www.iatatravelcentre.com/) to ensure you have all your documents in order.
 
@@ -102,4 +102,4 @@ Secure Your Travel Plans Today
 
 Securing the best evidence of funds for your stay in Nigeria is a non-negotiable step in your visa application. A well-prepared bank letter or a clear bank statement is your best tool. However, if you face a shortfall, remember that you have options.
 
-Don't let financial proof be a barrier to your travel dreams. At POF NG, we provide a legitimate and stress-free path to obtaining the documents you need. Contact us today to learn how we can help you with your Proof of Funds requirements. Visit [POF NG](http://afrikamombraids.local/) to get started.
+Don't let financial proof be a barrier to your travel dreams. At Proof of Fund NG, we provide a legitimate and stress-free path to obtaining the documents you need. Contact us today to learn how we can help you with your Proof of Funds requirements. Visit [Proof of Fund NG](http://afrikamombraids.local/) to get started.

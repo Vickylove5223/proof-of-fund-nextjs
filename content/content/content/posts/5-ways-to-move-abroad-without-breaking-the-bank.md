@@ -37,7 +37,7 @@ Some top countries offering free or highly subsidized tuition for international 
 *   **Czech Republic** (If you are willing to study in the Czech language)
 *   **Finland** (Offers free vocational schools and certain tuition-free programs)
 
-, Germany's Blocked Account requirement). If you don't have this bulk cash, read to the end to see how [POF NG](/guides/services) can help you.
+, Germany's Blocked Account requirement). If you don't have this bulk cash, read to the end to see how [Proof of Fund NG](/guides/services) can help you.
 
 2\. Take Advantage of International Student Loans
 -------------------------------------------------
@@ -101,7 +101,7 @@ Here is the reality check: Whether you get a cheap school in Switzerland, free t
 
 What happens if you are a brilliant applicant, but your parents do not have N20,000,000 sitting idle in a bank account? Do you abandon your dreams?
 
-**Absolutely not. This is exactly where POF NG steps in.**
+**Absolutely not. This is exactly where Proof of Fund NG steps in.**
 
 ### We Provide the Money So You Can Get Your Visa
 

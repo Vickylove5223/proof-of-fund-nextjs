@@ -20,7 +20,7 @@ The dream to ‘JAPA’—a popular Nigerian term for relocating abroad—is on 
 
 But navigating the complex immigration system can feel overwhelming. Where do you even begin?
 
-At POF NG, we help countless Nigerians take the first crucial step by securing their financial documentation. In this guide, we’ll break down the five most common and effective ways to JAPA from Nigeria to the UK, making your journey clearer and more achievable.
+At Proof of Fund NG, we help countless Nigerians take the first crucial step by securing their financial documentation. In this guide, we’ll break down the five most common and effective ways to JAPA from Nigeria to the UK, making your journey clearer and more achievable.
 
 1\. The Student Visa Route
 --------------------------
@@ -80,7 +80,7 @@ For most of these routes, especially the Student Visa, demonstrating sufficient 
 
 Unfortunately, many applications are rejected due to common mistakes with POF documentation.
 
-This is where we come in. At POF NG, we specialize in helping applicants secure authentic and verifiable Proof of Funds.
+This is where we come in. At Proof of Fund NG, we specialize in helping applicants secure authentic and verifiable Proof of Funds.
 
 We connect you with trusted financial partners who can ensure your bank statements meet the strict requirements set by UKVI. We understand the rules, the timing, and what the embassy looks for, taking the stress and uncertainty out of the process.
 

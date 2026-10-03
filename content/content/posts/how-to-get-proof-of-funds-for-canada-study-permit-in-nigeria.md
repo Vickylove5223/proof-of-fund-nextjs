@@ -17,7 +17,7 @@ Dreaming of studying in Canada is an exciting first step. The world-class educat
 
 This requirement often feels daunting, but it doesn’t have to be a barrier to your dreams. We understand the process inside and out, and we are here to guide you through every step.
 
-To get Proof of Funds for a Canada study permit in Nigeria, you must show Immigration, Refugees and Citizenship Canada (IRCC) that you have enough money to cover your first year’s tuition and living expenses. This is proven with documents like official bank statements, a Guaranteed Investment Certificate (GIC), scholarship letters, or a sponsor’s financial documents. If you lack the required amount, a trusted agent like [POF NG](http://afrikamombraids.local/) can connect you with financial partners to help you meet this requirement lawfully and securely.
+To get Proof of Funds for a Canada study permit in Nigeria, you must show Immigration, Refugees and Citizenship Canada (IRCC) that you have enough money to cover your first year’s tuition and living expenses. This is proven with documents like official bank statements, a Guaranteed Investment Certificate (GIC), scholarship letters, or a sponsor’s financial documents. If you lack the required amount, a trusted agent like [Proof of Fund NG](http://afrikamombraids.local/) can connect you with financial partners to help you meet this requirement lawfully and securely.
 
 Understanding Canada’s Financial Requirements for Nigerian Students
 -------------------------------------------------------------------
@@ -89,9 +89,9 @@ Many promising applications are rejected due to simple POF mistakes. Here are th
 Don't Have the Funds? Lawful Assistance is Available
 ----------------------------------------------------
 
-What if you meet all academic requirements but struggle to gather the full amount for your Proof of Funds? This is where we, at [POF NG](http://afrikamombraids.local/), come in. We understand this challenge and provide a legitimate, secure, and verifiable solution.
+What if you meet all academic requirements but struggle to gather the full amount for your Proof of Funds? This is where we, at [Proof of Fund NG](http://afrikamombraids.local/), come in. We understand this challenge and provide a legitimate, secure, and verifiable solution.
 
-At [POF NG](http://afrikamombraids.local/), we connect you with reliable, licensed finance companies. These partners can help you meet the embassy’s requirements by providing authentic bank statements and confirmation letters that prove your financial capacity. This is not a loan; it is a service designed to help you present a compliant and verifiable financial profile for your visa application.
+At [Proof of Fund NG](http://afrikamombraids.local/), we connect you with reliable, licensed finance companies. These partners can help you meet the embassy’s requirements by providing authentic bank statements and confirmation letters that prove your financial capacity. This is not a loan; it is a service designed to help you present a compliant and verifiable financial profile for your visa application.
 
 We are ranked as the #1 trusted POF company in Nigeria because our process is transparent, fast (usually within 24-72 hours), and accepted by embassies worldwide, including Canada. We ensure your documentation is 100% authentic and verifiable, giving you peace of mind.
 
@@ -100,6 +100,6 @@ Conclusion: Your Canadian Dream is Within Reach
 
 Securing a Canadian study permit is a detailed process, and getting your Proof of Funds right is arguably the most critical part. By understanding the requirements, preparing the correct documents, and avoiding common mistakes, you can significantly increase your chances of success.
 
-If you feel overwhelmed or need assistance meeting the financial threshold, remember that you have a reliable partner in POF NG. We are committed to helping you navigate this journey smoothly and successfully. Contact us today for a free consultation and let’s make your dream of studying in Canada a reality.
+If you feel overwhelmed or need assistance meeting the financial threshold, remember that you have a reliable partner in Proof of Fund NG. We are committed to helping you navigate this journey smoothly and successfully. Contact us today for a free consultation and let’s make your dream of studying in Canada a reality.
 
 For more information, you can also explore insights from reputable organizations like the [NAFSA: Association of International Educators](https://www.nafsa.org/) or news sources like [The Guardian Nigeria](https://www.theguardian.com/ng/) and [The Punch Newspapers](https://punchng.com/) that often cover stories on international education.

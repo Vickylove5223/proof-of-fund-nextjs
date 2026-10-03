@@ -103,9 +103,9 @@ Meeting the financial requirements for a visa can be challenging. Sometimes, you
 
 This is where a reliable service can make all the difference and prevent an unnecessary visa rejection.
 
-### How POF NG Provides a Reliable Solution
+### How Proof of Fund NG Provides a Reliable Solution
 
-At POF NG, we specialize in helping travelers like you meet their financial proof requirements without stress. We connect you with trusted financial partners who can provide authentic and verifiable Proof of Funds.
+At Proof of Fund NG, we specialize in helping travelers like you meet their financial proof requirements without stress. We connect you with trusted financial partners who can provide authentic and verifiable Proof of Funds.
 
 The process is simple: funds are temporarily placed in an account, and you receive the official documentation needed for your application. You can [learn how Proof of Fund (POF) works](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) on our website.
 
@@ -122,6 +122,6 @@ Securing the best evidence of funds for your stay in Nigeria is a non-negotiable
 
 However, if you face a shortfall, remember that you have options.
 
-Don't let financial proof be a barrier to your travel dreams. At POF NG, we provide a legitimate and stress-free path to obtaining the documents you need.
+Don't let financial proof be a barrier to your travel dreams. At Proof of Fund NG, we provide a legitimate and stress-free path to obtaining the documents you need.
 
 Contact us today to learn how we can help you with your Proof of Funds requirements. local/) to get started.

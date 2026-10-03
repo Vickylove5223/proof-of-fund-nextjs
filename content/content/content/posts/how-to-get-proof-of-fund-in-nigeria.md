@@ -37,7 +37,7 @@ There are different ways Nigerians can secure valid Proof of Fund documents. Bel
 
 ### 1\. Through Finance or Micro-Finance Banks
 
-This is one of the **fastest and most reliable** ways to obtain POF in Nigeria. By working with a **finance company through an agent such as POF NG**, you can access the funds needed for your application.
+This is one of the **fastest and most reliable** ways to obtain POF in Nigeria. By working with a **finance company through an agent such as Proof of Fund NG**, you can access the funds needed for your application.
 
 *   **How it works:** You request a temporary deposit of funds into your account from the finance institution. They provide you with an official bank statement or confirmation letter, which you can then present to embassies, schools, or business partners.
 *   **Pros:** Quick processing, widely accepted, flexible repayment options.
@@ -93,6 +93,6 @@ Investments and assets can also serve as Proof of Funds. If you have a solid fin
 
 Obtaining a **valid Proof of Fund (POF)** in Nigeria is straightforward when you know the right channels. Whether through **finance banks, fixed deposits, domiciliary accounts, sponsorship, or investments**, you must ensure that your POF is authentic and verifiable.
 
-If you need a fast and affordable option, **POF NG** is one of the best agents to work with. They help Nigerians secure POF at **cheap interest rates**, making it easier to process visas, travel abroad, or close international deals.
+If you need a fast and affordable option, **Proof of Fund NG** is one of the best agents to work with. They help Nigerians secure POF at **cheap interest rates**, making it easier to process visas, travel abroad, or close international deals.
 
 By following these options and tips, you can confidently prepare your financial documentation and move forward with your application successfully.

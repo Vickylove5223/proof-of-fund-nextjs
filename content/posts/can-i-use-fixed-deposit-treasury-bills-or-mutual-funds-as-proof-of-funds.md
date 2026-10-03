@@ -7,15 +7,15 @@ description: 'Fixed deposits usually count as proof of funds. Treasury bills, mu
 seo_title: 'Fixed Deposits, T-Bills & Mutual Funds as POF Nigeria'
 image: /wp-content/uploads/2025/09/application-form-information-employment-concept_53876-128011.jpg
 ---
-Your money is working for you — sitting in a fixed deposit at 18%, spread across treasury bills, or growing in a money-market fund. Then visa season arrives and the question hits: **do I have to liquidate everything into a savings account, or can my investments serve as proof of funds?**
+Your money is working for you — sitting in a fixed deposit at 18%, spread across treasury bills, or growing in a money-market fund. Then visa season arrives and the question hits: do I have to liquidate everything into a savings account, or can my investments serve as proof of funds?
 
-The short answer: **fixed deposits are widely accepted; treasury bills and money-market funds are accepted by some embassies with the right documentation; stocks and crypto are generally not counted.** The long answer — which embassy accepts what — is below, and it can save you from breaking an investment unnecessarily (or from a refusal for relying on the wrong instrument).
+The short answer: fixed deposits are widely accepted; treasury bills and money-market funds are accepted by some embassies with the right documentation; stocks and crypto are generally not counted. The long answer — which embassy accepts what — is below, and it can save you from breaking an investment unnecessarily (or from a refusal for relying on the wrong instrument).
 
 ## The Principle Every Embassy Applies
 
-Visa officers ask two questions about any asset: **is it liquid** (can you actually spend it on tuition and living costs?), and **is it verifiable** (can the institution confirm it exists and is yours?). The further an instrument sits from "cash in a commercial bank," the weaker it becomes as evidence.
+Visa officers ask two questions about any asset: is it liquid (can you actually spend it on tuition and living costs?), and is it verifiable (can the institution confirm it exists and is yours?). The further an instrument sits from "cash in a commercial bank," the weaker it becomes as evidence.
 
-![Reviewing investment documents](/wp-content/uploads/2025/09/Proof-of-Fund-in-Nigeria-1.webp)
+![Don't Risk Visa Refusal - Get Authentic Proof of Funds Today (08103669924)](/wp-content/uploads/2025/09/Proof-of-Fund-in-Nigeria-1.webp)
 
 ## Instrument by Instrument
 
@@ -29,7 +29,7 @@ Fixed/term deposits at commercial banks are accepted by the UK, Canada, USA, Aus
 
 ### Treasury bills — SOMETIMES
 
-Nigerian T-bills are verifiable and safe, but they are not bank balances. Canada and the US generally accept them as evidence of *available funds* when supported by a CSCS/investment statement and a bank letter confirming the redemption value. The UK's maintenance rules are stricter — money must be in **cash-equivalent form**, so T-bills should be liquidated into your account before the 28-day window starts.
+Nigerian T-bills are verifiable and safe, but they are not bank balances. Canada and the US generally accept them as evidence of *available funds* when supported by a CSCS/investment statement and a bank letter confirming the redemption value. The UK's maintenance rules are stricter — money must be in cash-equivalent form, so T-bills should be liquidated into your account before the 28-day window starts.
 
 ### Mutual funds and money-market funds — SOMETIMES
 
@@ -41,7 +41,7 @@ Too volatile. A portfolio worth ₦20m today can be ₦14m at assessment. Office
 
 ### Cryptocurrency — NO
 
-No embassy currently accepts crypto balances as proof of funds — unverifiable custody and volatility rule it out. Convert to naira/fiat, land it in your bank account, and document the source **early**, because large crypto-origin inflows attract exactly the scrutiny described in our [embassy verification guide](/how-do-embassies-verify-bank-statements-in-nigeria).
+No embassy currently accepts crypto balances as proof of funds — unverifiable custody and volatility rule it out. Convert to naira/fiat, land it in your bank account, and document the source early, because large crypto-origin inflows attract exactly the scrutiny described in our [embassy verification guide](/how-do-embassies-verify-bank-statements-in-nigeria).
 
 ## Quick Reference Table
 
@@ -56,16 +56,15 @@ No embassy currently accepts crypto balances as proof of funds — unverifiable 
 
 ## The Timing Play That Protects Your Interest
 
-Break investments **strategically, not fearfully**: liquidate only the required amount (check it with the [proof of funds calculator](/proof-of-fund-calculator)), move it early enough to satisfy seasoning rules — 28+ days for the UK, ideally 3–6 months for [Canada](/how-to-calculate-proof-of-funds-for-canada-student-visa) — and keep the redemption paperwork as your source-of-funds evidence.
+Break investments strategically, not fearfully: liquidate only the required amount (check it with the [proof of funds calculator](/proof-of-fund-calculator)), move it early enough to satisfy seasoning rules — 28+ days for the UK, ideally 3–6 months for [Canada](/how-to-calculate-proof-of-funds-for-canada-student-visa) — and keep the redemption paperwork as your source-of-funds evidence.
 
 And if breaking your investments would cost you real returns, that is precisely when a structured POF service makes financial sense: your investments keep earning while compliant funds sit under lien in a top bank. Compare the [cost of professional POF](/cost-of-proof-of-funds-for-uk-canada-visa-from-nigeria-2026-complete-pricing-guide) against your interest penalty — the maths often favours keeping your money working.
 
-Talk it through with [POF NG](/) on **Call/WhatsApp: 08103669924**.
+Talk it through with [Proof of Fund NG](/) on Call/WhatsApp: 08103669924.
 
-### Official Resources
 
-- [IOM: International Organization for Migration](https://www.iom.int/)
-- [Nigerian Bar Association](https://nigerianbar.org.ng/)
-- [XE: Currency converter](https://www.xe.com/)
-- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
-- [World Bank](https://www.worldbank.org/)
+
+---
+Prefer an in-person meeting?
+You can also visit us at our office:
+📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

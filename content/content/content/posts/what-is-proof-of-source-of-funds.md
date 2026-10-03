@@ -79,12 +79,12 @@ html#doc3), it also confirms that you can genuinely support yourself without rel
 
 An application can be quickly rejected if the source of funds is unclear, poorly documented, or seems suspicious. This is why getting it right is not just a suggestion—it's a necessity.
 
-How POF NG Helps You Meet Financial Requirements
+How Proof of Fund NG Helps You Meet Financial Requirements
 ------------------------------------------------
 
 While you are responsible for proving the source of your original funds, we specialize in helping you meet the Proof of Funds (POF) requirement itself. Sometimes, you may have assets that are not liquid, or you need to present a specific balance for a set period.
 
-At POF NG, we connect you with trusted financial partners who can temporarily place the required funds into your account. This provides you with an authentic, verifiable bank statement that meets embassy and school standards.
+At Proof of Fund NG, we connect you with trusted financial partners who can temporarily place the required funds into your account. This provides you with an authentic, verifiable bank statement that meets embassy and school standards.
 
 Our process is fast, secure, and designed to help you successfully demonstrate your financial capacity. We guide you on [how to get Proof of Funds in Nigeria](/guides/how-to-get-proof-of-fund-in-nigeria) without the stress.
 

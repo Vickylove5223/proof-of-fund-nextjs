@@ -38,9 +38,9 @@ Proof of funds is not about vibes. It is about **strategy and documentation**.
 
 Traveling abroad requires planning. Some successful applicants have been **planning their proof of funds for one or two years** before applying. When you see a family relocating to Canada, the UK, or Australia, you only celebrate their results. But what you don’t see is the process — the long-term preparation, the careful documentation, and the financial planning that went into their application. Migration is not something you wake up to do in one week. It requires **strategy from day one**.
 
-### How POF NG Guides You
+### How Proof of Fund NG Guides You
 
-At POF NG, we guide applicants on how to prepare **clean, consistent, and convincing proof of funds**. Our approach is not about shortcuts — it’s about proper documentation and long-term planning. We advise students and families to:
+At Proof of Fund NG, we guide applicants on how to prepare **clean, consistent, and convincing proof of funds**. Our approach is not about shortcuts — it’s about proper documentation and long-term planning. We advise students and families to:
 
 *   Start their proof of funds preparation as soon as they begin admission processing.
 *   Strategically plan financial flows to avoid last-minute red flags.
@@ -60,7 +60,7 @@ Migration is not just about showing money. It’s about:
 *   Having the right documentation
 *   Building a financial story that makes sense
 
-At POF NG, we want to be part of your journey. We guide Africans on how to **get POF right and migrate right**. If you’re serious about getting your proof of funds today, let us work with you. Contact us on Whtasapp.
+At Proof of Fund NG, we want to be part of your journey. We guide Africans on how to **get POF right and migrate right**. If you’re serious about getting your proof of funds today, let us work with you. Contact us on Whtasapp.
 
 ### Frequently Asked Questions on Proof of Funds
 

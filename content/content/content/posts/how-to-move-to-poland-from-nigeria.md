@@ -79,7 +79,7 @@ One of the most important requirements for a Polish visa is proving you have eno
 
 The Polish authorities need assurance that you won’t become a financial burden on their state.
 
-But what if you don’t have the required amount sitting in your account? This is where we, at POF NG, can help.
+But what if you don’t have the required amount sitting in your account? This is where we, at Proof of Fund NG, can help.
 
 We connect you with trusted financial partners who can provide authentic, verifiable POF documents that meet the embassy’s strict standards. Our process is fast, secure, and designed to ensure your application succeeds.
 

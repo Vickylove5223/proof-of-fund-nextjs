@@ -13,7 +13,7 @@ image: /images/finance-2.png
 
 Are you a Nigerian planning to study in Portugal and wondering about Proof of Funds (POF) requirements? Portugal has emerged as one of the most sought-after European study destinations for Nigerians in 2026, offering world-class universities, affordable living costs compared to the UK and Germany, and a pathway to EU residence. But before you pack your bags, you must meet one critical requirement: **Proof of Funds (POF)**.
 
-This guide covers everything Nigerian applicants need to know about proof of funds for a Portugal student visa (D4 Visa) in 2026 — how much is required, accepted documents, naira equivalents, and how POF NG can help you get funded fast.
+This guide covers everything Nigerian applicants need to know about proof of funds for a Portugal student visa (D4 Visa) in 2026 — how much is required, accepted documents, naira equivalents, and how Proof of Fund NG can help you get funded fast.
 
 What Is the Portugal Student Visa (D4 Visa)?
 --------------------------------------------
@@ -82,9 +82,9 @@ Key Requirements the Portuguese Embassy Looks For
 What If You Don't Have the Required Funds Personally?
 -----------------------------------------------------
 
-This is where **POF NG** comes in. Many Nigerians aspiring to study in Portugal don't have €10,440 sitting in their account. POF NG connects you with licensed Nigerian finance companies that can **fund your bank account with the required amount within 24–48 hours** — fully verifiable and acceptable by the Portuguese Embassy.
+This is where **Proof of Fund NG** comes in. Many Nigerians aspiring to study in Portugal don't have €10,440 sitting in their account. Proof of Fund NG connects you with licensed Nigerian finance companies that can **fund your bank account with the required amount within 24–48 hours** — fully verifiable and acceptable by the Portuguese Embassy.
 
-1.  Contact POF NG via WhatsApp.
+1.  Contact Proof of Fund NG via WhatsApp.
 2.  Share your visa destination and POF amount needed.
 3.  Our partner finance company funds your designated account (Zenith, GTBank, Access, First Bank, etc.).
 4.  The funds reflect within 24–48 hours.
@@ -121,11 +121,11 @@ The most trusted banks include Zenith Bank, GTBank, First Bank, Access Bank, UBA
 
 ### How quickly can I get POF for Portugal visa from Nigeria?
 
-Through POF NG, you can receive a funded account within **24–48 hours** — ideal for applicants who are close to their embassy appointment date.
+Through Proof of Fund NG, you can receive a funded account within **24–48 hours** — ideal for applicants who are close to their embassy appointment date.
 
 ### Is temporary proof of funds legal for Portugal visa?
 
-Using a POF loan or funded account from a licensed finance company is legal in Nigeria. What is illegal is forging or backdating statements. POF NG only works with CBN-regulated institutions, ensuring your documents are 100% authentic and verifiable.
+Using a POF loan or funded account from a licensed finance company is legal in Nigeria. What is illegal is forging or backdating statements. Proof of Fund NG only works with CBN-regulated institutions, ensuring your documents are 100% authentic and verifiable.
 
 Common Mistakes Nigerians Make with Portugal Student Visa POF
 -------------------------------------------------------------
@@ -148,4 +148,4 @@ Why Portugal Is a Great Destination for Nigerian Students in 2026
 Ready to Get Your Proof of Funds for Portugal Student Visa?
 -----------------------------------------------------------
 
-At **POF NG**, we help Nigerian students get fast, fully verifiable proof of funds for Portugal and any other country's student visa — disbursed in 24–48 hours, with no collateral required. [Chat with us on WhatsApp today](https://wa.me/2348103669924) to get started.
+At **Proof of Fund NG**, we help Nigerian students get fast, fully verifiable proof of funds for Portugal and any other country's student visa — disbursed in 24–48 hours, with no collateral required. [Chat with us on WhatsApp today](https://wa.me/2348103669924) to get started.

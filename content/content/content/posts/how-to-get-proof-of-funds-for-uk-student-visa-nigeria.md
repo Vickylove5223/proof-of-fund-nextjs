@@ -26,7 +26,7 @@ But don’t worry, we’re here to break it down for you.
 
 To get Proof of Funds for a UK student visa in Nigeria, you must show you have enough money to cover your first year’s tuition fees plus a set amount for living expenses (£1,334 per month in London or £1,023 per month outside London for up to 9 months). This money must be held in an acceptable bank account for at least 28 consecutive days before your visa application date.
 
-You can use personal bank statements, a letter from an official financial sponsor, or a loan letter, and services like POF NG can help you meet these requirements lawfully and quickly.
+You can use personal bank statements, a letter from an official financial sponsor, or a loan letter, and services like Proof of Fund NG can help you meet these requirements lawfully and quickly.
 
 ![UK Visa Application Process](image-of-uk-visa-application-process.jpg)
 
@@ -99,14 +99,14 @@ org/) for student information. com/) can provide the necessary statements, but m
 
 ![Common Reasons for Visa Rejection](image-of-common-reasons-for-visa-rejection.jpg)
 
-Need Help? How POF NG Offers a Lawful Solution
+Need Help? How Proof of Fund NG Offers a Lawful Solution
 ----------------------------------------------
 
-We know that gathering such a large sum of money and keeping it untouched for 28 days can be extremely difficult. This is where POF NG comes in.
+We know that gathering such a large sum of money and keeping it untouched for 28 days can be extremely difficult. This is where Proof of Fund NG comes in.
 
 We provide a legitimate, stress-free way to meet the UK student visa financial requirements.
 
-At POF NG, we connect you with trusted financial partners who can help arrange the required funds in your account. Our service is fast, secure, and fully compliant with embassy standards.
+At Proof of Fund NG, we connect you with trusted financial partners who can help arrange the required funds in your account. Our service is fast, secure, and fully compliant with embassy standards.
 
 We ensure your bank statements are authentic, verifiable, and formatted correctly to avoid any issues.
 
@@ -123,6 +123,6 @@ Getting your Proof of Funds for a UK student visa from Nigeria doesn’t have to
 
 Remember to pay close attention to the 28-day rule and avoid common pitfalls.
 
-If you need a reliable and lawful way to meet the financial threshold without tying up your family’s capital, POF NG is here to help. Let us handle the financial proof so you can focus on what really matters—preparing for your exciting academic journey in the UK.
+If you need a reliable and lawful way to meet the financial threshold without tying up your family’s capital, Proof of Fund NG is here to help. Let us handle the financial proof so you can focus on what really matters—preparing for your exciting academic journey in the UK.
 
 local/) to get started!

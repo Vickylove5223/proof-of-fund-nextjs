@@ -63,9 +63,9 @@ How to Get Acceptable Proof of Funds if You Don't Have It
 
 What if you don't have the required amount sitting in your bank account? This is a common challenge, but it doesn't have to be a roadblock.
 
-This is where a trusted agent like POF NG comes in.
+This is where a trusted agent like Proof of Fund NG comes in.
 
-At POF NG, we connect you with reliable finance companies that provide verified and authentic Proof of Funds. We understand the process can be complex, so we've made it simple and secure.
+At Proof of Fund NG, we connect you with reliable finance companies that provide verified and authentic Proof of Funds. We understand the process can be complex, so we've made it simple and secure.
 
 We can help you understand exactly [how our Proof of Funds service works](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) to make your application seamless.
 
@@ -88,7 +88,7 @@ As the No. 1 trusted POF company in Nigeria, we pride ourselves on our reliabili
 
 Here are some of the top providers in the country:
 
-*   **POF NG (Proof of Funds Nigeria)**
+*   **Proof of Fund NG (Proof of Funds Nigeria)**
 *   Davcrest Finance Ltd
 *   SwiftFunds NG
 *   Verifund Africa
@@ -103,7 +103,7 @@ Securing acceptable proof of funds is a non-negotiable step in your journey to s
 
 Whether you have the funds ready or need assistance, understanding what embassies officially recognize is the key to success.
 
-Don't let financial documentation stand in the way of your dreams. If you need a fast, secure, and embassy-acceptable POF solution, our team at POF NG is here to help.
+Don't let financial documentation stand in the way of your dreams. If you need a fast, secure, and embassy-acceptable POF solution, our team at Proof of Fund NG is here to help.
 
 We provide the peace of mind you need to focus on the next exciting chapter of your life.
 

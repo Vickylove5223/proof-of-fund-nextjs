@@ -63,7 +63,7 @@ Across most of these pathways, one requirement stands out: Proof of Funds. POF i
 
 ![Bank statement and documents being reviewed, representing the Proof of Funds requirement for visas](https://images.pexels.com/photos/720606/pexels-photo-720606.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-Meeting this requirement can be challenging. Many applicants struggle to gather the required amount in their personal accounts for the specified duration. This is a common reason [why visa applications get rejected](/guides/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it). Fortunately, services exist to assist with this process. Companies like POF NG connect applicants with licensed financial partners who can help arrange the necessary funds and provide verifiable, embassy-accepted documents. To better understand the mechanics, it’s helpful to [learn how Proof of Funds works in Nigeria](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) through a trusted agent.
+Meeting this requirement can be challenging. Many applicants struggle to gather the required amount in their personal accounts for the specified duration. This is a common reason [why visa applications get rejected](/guides/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it). Fortunately, services exist to assist with this process. Companies like Proof of Fund NG connect applicants with licensed financial partners who can help arrange the necessary funds and provide verifiable, embassy-accepted documents. To better understand the mechanics, it’s helpful to [learn how Proof of Funds works in Nigeria](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) through a trusted agent.
 
 Conclusion
 ----------

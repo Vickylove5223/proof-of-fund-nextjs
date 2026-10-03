@@ -61,4 +61,4 @@ Obtaining proof of funds in Nigeria doesn't have to be complicated. With proper 
 Ready to Get Your Proof of Funds?
 ---------------------------------
 
-Don't let financial documentation stand between you and your dreams. At **POF NG**, we specialize in helping Nigerians obtain quick, reliable proof of funds for any purpose. **Contact us today** to request your proof of funds document and take the next step toward achieving your goals. _Have questions about proof of funds? Drop a comment below or reach out to our team for personalized assistance._
+Don't let financial documentation stand between you and your dreams. At **Proof of Fund NG**, we specialize in helping Nigerians obtain quick, reliable proof of funds for any purpose. **Contact us today** to request your proof of funds document and take the next step toward achieving your goals. _Have questions about proof of funds? Drop a comment below or reach out to our team for personalized assistance._

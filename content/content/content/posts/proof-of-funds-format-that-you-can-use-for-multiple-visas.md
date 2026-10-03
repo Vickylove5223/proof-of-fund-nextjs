@@ -18,7 +18,7 @@ The definitive answer is that successfully handling proof of funds format that y
 
 Have you spent months building your Proof of Funds (POF) only to use it for a single visa application? Many applicants make the mistake of building a 6-month bank statement for one country, and if they get denied or decide to travel elsewhere, they start the entire process all over again.
 
-At **POF NG**, we believe in efficiency.
+At **Proof of Fund NG**, we believe in efficiency.
 
 Why build multiple statements when you can use one strong POF to secure multiple visas at the same time? If you don't have the personal funds to maintain this kind of statement, we can provide the [Proof of Funds you need](/guides/services) at an affordable rate.
 
@@ -54,7 +54,7 @@ Using one POF for multiple applications saves you months of waiting and the stre
 
 ### **Stop Wasting Time—Start Your Multi-Visa Journey Today**
 
-Building a statement that satisfies multiple world-class embassies requires precision. If you are worried about your current balance or don't have the assets to back up a multi-visa application, **POF NG** is here to help.
+Building a statement that satisfies multiple world-class embassies requires precision. If you are worried about your current balance or don't have the assets to back up a multi-visa application, **Proof of Fund NG** is here to help.
 
 We provide the funds and the guidance to ensure your bank statement looks professional and stands up to the scrutiny of any visa officer.
 
@@ -68,6 +68,6 @@ We provide the funds and the guidance to ensure your bank statement looks profes
 
 *   [Canada Visitor Visa Official Guide](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada.html)
 
-_Disclaimer: POF NG provides financial documentation support. We are not a travel agency and do not issue visas.
+_Disclaimer: Proof of Fund NG provides financial documentation support. We are not a travel agency and do not issue visas.
 
 Always consult official embassy websites for the most current fee information._

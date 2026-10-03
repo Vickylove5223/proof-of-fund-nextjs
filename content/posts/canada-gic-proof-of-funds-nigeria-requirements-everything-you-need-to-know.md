@@ -7,7 +7,7 @@ description: 'Nigerian students eyeing a 2026 Canadian study permit are asking a
 seo_title: 'Canada GIC Proof of Funds: Nigeria Requirements'
 image: /wp-content/uploads/2025/11/2d287143-7207-4096-9a11-be7c49121ca6-200x300.webp
 ---
-Many Nigerian students aiming for a Canadian study permit in 2026 are asking about the Guaranteed Investment Certificate (GIC) option. While the Student Direct Stream (SDS) has ended, a GIC remains one of the strongest and most trusted forms of proof of funds recognized by IRCC.
+Many Nigerian students aiming for a Canadian study permit in 2026 are asking about the Guaranteed Investment Certificate (GIC) option. While the Student Direct Stream (SDS) has ended, a GIC remains one of the strongest and most trusted forms of proof of funds recognized by [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html).
 
 In this guide, we explain the current Canada GIC requirements for Nigerian applicants, how it works, the benefits compared to regular bank statements, and practical ways to meet this requirement even if you don’t have the full amount readily available in liquid cash.
 
@@ -17,21 +17,21 @@ A Guaranteed Investment Certificate (GIC) is a secure investment product offered
 
 For study permit purposes, it proves you have dedicated funds specifically set aside for living expenses in Canada. IRCC views GIC as highly reliable because the money is held in Canada, reducing doubts about accessibility or source of funds.
 
-Even though it is no longer mandatory, officers often look favorably on applications that include a GIC. ![](/wp-content/uploads/2025/11/2d287143-7207-4096-9a11-be7c49121ca6-200x300.webp)
+Even though it is no longer mandatory, officers often look favorably on applications that include a GIC. ![Don't Risk Visa Refusal - Get Authentic Proof of Funds Today (08103669924)](/wp-content/uploads/2025/11/2d287143-7207-4096-9a11-be7c49121ca6-200x300.webp)
 
 ### Current Canada GIC / Proof of Funds Requirements 2026
 
 For study permit applications submitted (outside Quebec):
 
-*   **Living expenses (single student)**: CAD $22,895 per year
-*   **First-year tuition**: As stated in your Letter of Acceptance (LOA)
-*   **Return transportation**: Approximately CAD $1,000 – $2,000
+*   Living expenses (single student): CAD $22,895 per year
+*   First-year tuition: As stated in your Letter of Acceptance (LOA)
+*   Return transportation: Approximately CAD $1,000 – $2,000
 
-**Total typical requirement for a single student**: CAD $42,000 – $55,000+ depending on your program’s tuition. 
+Total typical requirement for a single student: CAD $42,000 – $55,000+ depending on your program’s tuition. 
 
-**GIC-Specific Amount**: Most students purchase a GIC covering at least the living expenses portion (CAD $22,895). You can combine GIC with other proofs such as tuition payment receipts, sponsor letters, or Nigerian bank statements. 
+GIC-Specific Amount: Most students purchase a GIC covering at least the living expenses portion (CAD $22,895). You can combine GIC with other proofs such as tuition payment receipts, sponsor letters, or Nigerian bank statements. 
 
-**Family Members**: Add approximately CAD $5,607 – $6,170 for each additional family member.
+Family Members: Add approximately CAD $5,607 – $6,170 for each additional family member.
 
 ### Is GIC Mandatory for Nigerian Students ?
 
@@ -69,11 +69,11 @@ If transferring funds for a full GIC is challenging, you can still meet IRCC exp
 *   Sponsor affidavits with supporting financial documents.
 *   Education loans or combination of sources.
 
-At POF NG, we help Nigerian students create strong, verifiable bank statements in major Nigerian banks that complement or serve as reliable Proof of Funds when a direct GIC is not immediately feasible. Our funded accounts come with proper lien documentation and narrations that demonstrate legitimacy.
+At Proof of Fund NG, we help Nigerian students create strong, verifiable bank statements in major Nigerian banks that complement or serve as reliable Proof of Funds when a direct GIC is not immediately feasible. Our funded accounts come with proper lien documentation and narrations that demonstrate legitimacy.
 
 [Chat with us on WhatsApp](https://wa.me/2348103669924) for a free, no-obligation consultation. Share your target amount, preferred bank, and application timeline — we will provide clear options and pricing.
 
-![](/wp-content/uploads/2025/11/2d287143-7207-4096-9a11-be7c49121ca6-200x300.webp)
+![Don't Risk Visa Refusal - Get Authentic Proof of Funds Today (08103669924)](/wp-content/uploads/2025/11/2d287143-7207-4096-9a11-be7c49121ca6-200x300.webp)
 
 ### Benefits of Using Professional POF Support Alongside GIC Strategy
 
@@ -95,17 +95,15 @@ Many successful applicants use a hybrid approach: partial GIC + strong Nigerian 
 
 ### Ready to Secure Reliable Proof of Funds for Your Canada Study Permit?
 
-At POF NG, we have supported hundreds of Nigerian students with credible, CBN-compliant Proof of Funds for Canada and other destinations. Whether you need full funding for bank statements, guidance on GIC preparation, or a complete financial package, our team is ready to help.
+At Proof of Fund NG, we have supported hundreds of Nigerian students with credible, CBN-compliant Proof of Funds for Canada and other destinations. Whether you need full funding for bank statements, guidance on GIC preparation, or a complete financial package, our team is ready to help.
 
 [Chat with us on WhatsApp](https://wa.me/2348103669924) for a free, no-obligation consultation. Share your target amount, preferred bank, and application timeline — we will provide clear options and pricing.
 
 Don’t let financial documentation become the reason for refusal. Build a strong, professional Proof of Funds the right way and increase your chances of Canada study visa approval.
 
-### Official Resources
 
-- [IRCC: Immigration and citizenship overview](https://www.canada.ca/en/immigration-refugees-citizenship.html)
-- [Global Affairs Canada: Nigeria](https://www.international.gc.ca/country-pays/nigeria/)
-- [Bank of Canada: Daily exchange rates](https://www.bankofcanada.ca/rates/exchange/)
-- [EduCanada: Study in Canada](https://www.educanada.ca/)
-- [IRCC: Proof of funds for Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html)
-- [IRCC: Study permit financial documents](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents.html)
+
+---
+Prefer an in-person meeting?
+You can also visit us at our office:
+📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

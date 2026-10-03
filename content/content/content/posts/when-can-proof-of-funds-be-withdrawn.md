@@ -20,7 +20,7 @@ Using a Proof of Funds (POF) service is a popular and effective way to meet the 
 
 The timing of this step is not just a minor detail—it's a critical factor that can determine the success or failure of your application.
 
-Getting this wrong can lead to an instant rejection, wasting your time, effort, and money. At POF NG, we want to ensure you navigate this process correctly.
+Getting this wrong can lead to an instant rejection, wasting your time, effort, and money. At Proof of Fund NG, we want to ensure you navigate this process correctly.
 
 Understanding the rules around the fund's duration is key to a smooth and successful application.
 
@@ -50,7 +50,7 @@ Here’s what can happen:
 The Correct Timeline for Fund Withdrawal
 ----------------------------------------
 
-To avoid any issues, it's essential to follow the correct procedure. At POF NG, we guide our clients through this timeline to ensure full compliance with embassy and school requirements.
+To avoid any issues, it's essential to follow the correct procedure. At Proof of Fund NG, we guide our clients through this timeline to ensure full compliance with embassy and school requirements.
 
 Here’s how it works:
 
@@ -67,7 +67,7 @@ Partner with an Expert You Can Trust
 
 Navigating visa and admission requirements can be complex. The rules around financial proof are strict, and there is no room for error.
 
-This is why partnering with a reliable agent like POF NG is so important. We don't just connect you with finance companies; we provide the guidance needed to ensure your application is successful.
+This is why partnering with a reliable agent like Proof of Fund NG is so important. We don't just connect you with finance companies; we provide the guidance needed to ensure your application is successful.
 
 We ensure that you understand the timeline and follow the rules precisely. S.
 

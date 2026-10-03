@@ -83,7 +83,7 @@ We know that gathering such a large sum of money can be challenging. For many st
 
 This is where a professional service can provide a solution.
 
-At POF NG, we connect you with trusted financial partners who can help you meet the embassy’s requirements. Our service ensures you get authentic, verifiable financial documents that comply with Austrian visa standards.
+At Proof of Fund NG, we connect you with trusted financial partners who can help you meet the embassy’s requirements. Our service ensures you get authentic, verifiable financial documents that comply with Austrian visa standards.
 
 To understand more about this process, you can [learn how Proof of Funds works in Nigeria](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) through our detailed guide.
 

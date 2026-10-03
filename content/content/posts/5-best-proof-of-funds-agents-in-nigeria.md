@@ -16,7 +16,7 @@ Planning to study, work, or immigrate abroad is an exciting journey, but it come
 
 That's why finding a trustworthy and efficient POF agent is essential. A reliable agent ensures your documents are authentic, verifiable, and meet the specific standards of embassies and universities. But with so many options available, how do you know who to trust? We've done the heavy lifting for you.
 
-Based on our extensive research into reliability, speed, and customer feedback, the 5 best proof of funds agents in Nigeria are POF NG, Davcrest Consult, Veri Funds, Glow Funds, and Easify Fund. These providers have demonstrated a strong track record of helping applicants successfully meet their financial requirements.
+Based on our extensive research into reliability, speed, and customer feedback, the 5 best proof of funds agents in Nigeria are Proof of Fund NG, Davcrest Consult, Veri Funds, Glow Funds, and Easify Fund. These providers have demonstrated a strong track record of helping applicants successfully meet their financial requirements.
 
 What is Proof of Funds and Why is it Crucial?
 ---------------------------------------------
@@ -40,13 +40,13 @@ The Top 5 Proof of Funds Agents in Nigeria
 
 Here is our breakdown of the best POF agents in Nigeria to help you make an informed decision for your travel or study plans.
 
-### 1\. POF NG
+### 1\. Proof of Fund NG
 
 ![Proofoffund software screenshot](https://images.unsplash.com/photo-1761625424632-c6adc86211d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyMjc4ODd8MHwxfHNlYXJjaHwxfHxQcm9vZm9mZnVuZCUyMGxvZ298ZW58MHwwfHx8MTc2MzM4MzEzNHww&ixlib=rb-4.1.0&q=80&w=1080) 
 
-POF NG consistently ranks at the top due to its excellent track record, speed, and robust verification process. They act as a bridge, connecting applicants with verified finance companies to secure authentic POF documents. Their service is widely accepted by major embassies, making them a go-to for students and travelers.
+Proof of Fund NG consistently ranks at the top due to its excellent track record, speed, and robust verification process. They act as a bridge, connecting applicants with verified finance companies to secure authentic POF documents. Their service is widely accepted by major embassies, making them a go-to for students and travelers.
 
-Their key strengths include a fast processing time (often within 24-72 hours), professional customer support, and a clear, straightforward process. During our research, we found numerous positive testimonials. One user, Chiamaka O. from Lagos, noted, _"The team at POF NG was incredibly helpful. They explained everything clearly, and I got my bank statement in two days. My Canadian study visa was approved without any issues."_
+Their key strengths include a fast processing time (often within 24-72 hours), professional customer support, and a clear, straightforward process. During our research, we found numerous positive testimonials. One user, Chiamaka O. from Lagos, noted, _"The team at Proof of Fund NG was incredibly helpful. They explained everything clearly, and I got my bank statement in two days. My Canadian study visa was approved without any issues."_
 
 ### 2\. Davcrest Consult
 

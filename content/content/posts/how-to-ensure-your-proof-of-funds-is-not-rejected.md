@@ -15,7 +15,7 @@ You’ve spent months planning your journey abroad, whether for studies, work, o
 
 ![Worried applicant looking at proof of funds document](IMAGE_1.jpg)
 
-At POF NG, we’ve seen it all. We understand the anxiety that comes with proving your financial capacity to an embassy or school. That’s why we’ve created this guide to help you navigate the process smoothly and ensure your application stands out for all the right reasons.
+At Proof of Fund NG, we’ve seen it all. We understand the anxiety that comes with proving your financial capacity to an embassy or school. That’s why we’ve created this guide to help you navigate the process smoothly and ensure your application stands out for all the right reasons.
 
 To ensure your Proof of Funds is not rejected, you must verify that all names are consistent, the account shows regular activity, the balance is legitimate and stable, signatures match your official ID, and the bank’s contact details are clear. Avoid sudden, unexplained large deposits and prepare supporting documents like payslips or tax records to prove the source of your funds.
 
@@ -71,12 +71,12 @@ Here’s what you should prepare to accompany your POF:
 *   **Asset Liquidation Documents:** If your funds came from selling an asset (like land or a car), provide the official sales agreement and proof of transfer.
 *   **Gift Deed:** If the funds were a gift from a sponsor (like a parent), a notarized gift deed is often required, along with your sponsor’s financial documents. This is a standard part of international Know Your Customer (KYC) procedures, a topic well-documented on platforms like [Wikipedia](https://www.wikipedia.org).
 
-Pre-Check Steps and How POF NG Can Help
+Pre-Check Steps and How Proof of Fund NG Can Help
 ---------------------------------------
 
-![POF NG logo and service offerings](IMAGE_7.jpg)
+![Proof of Fund NG logo and service offerings](IMAGE_7.jpg)
 
-Feeling overwhelmed? You don’t have to do this alone. The stakes are too high to leave anything to chance. At POF NG, we offer a pre-check and review service to ensure your documents are perfect before submission.
+Feeling overwhelmed? You don’t have to do this alone. The stakes are too high to leave anything to chance. At Proof of Fund NG, we offer a pre-check and review service to ensure your documents are perfect before submission.
 
 We connect you with reliable finance partners who can provide authentic, verifiable Proof of Funds that meets the strict requirements of embassies for countries like [Canada](https://www.canada.ca), the [UK](https://www.gov.uk), and the [USA](https://www.uscis.gov). Our service is designed to be fast, secure, and stress-free. We handle the complexities so you can focus on your travel plans.
 
@@ -85,4 +85,4 @@ Conclusion: Your Path to a Successful Application
 
 Ensuring your Proof of Funds is not rejected comes down to attention to detail, consistency, and transparency. By following the checklist and preparing strong supporting documents, you present a credible and trustworthy financial profile. Remember, the goal is to leave no room for doubt in the visa officer’s mind.
 
-If you need assistance or want the peace of mind that comes with expert guidance, POF NG is here to help. We are Nigeria’s #1 trusted POF agent, dedicated to making your journey abroad a success. Contact us today to get your authentic, embassy-acceptable Proof of Funds without the stress.
+If you need assistance or want the peace of mind that comes with expert guidance, Proof of Fund NG is here to help. We are Nigeria’s #1 trusted POF agent, dedicated to making your journey abroad a success. Contact us today to get your authentic, embassy-acceptable Proof of Funds without the stress.

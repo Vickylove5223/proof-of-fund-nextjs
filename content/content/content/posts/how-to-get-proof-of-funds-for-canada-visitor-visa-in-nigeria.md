@@ -84,18 +84,18 @@ rip Budget (2-Week Stay for One Person)
 
 ![Spreadsheet or table showing a detailed breakdown of a sample trip budget to Canada](https://images.unsplash.com/photo-1554260570-9379829ff583?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) Generally, having access to at least $4,500 – $6,000 CAD (or the Naira equivalent) per person for a typical short visit is advisable. Remember that these figures are approximate and can vary based on your individual spending habits and travel preferences. Check [XE.com](https://www.xe.com) for the latest exchange rates.
 
-Challenges for Nigerian Applicants and How POF NG Can Help
+Challenges for Nigerian Applicants and How Proof of Fund NG Can Help
 ----------------------------------------------------------
 
 We understand that maintaining substantial Naira balances in a bank account for extended periods may not be practical for everyone. Business owners, freelancers, and others often reinvest their capital.
 
-This can complicate the visa application process. At POF NG, we offer a solution.
+This can complicate the visa application process. At Proof of Fund NG, we offer a solution.
 
 We connect you with reputable financial partners who can help you meet the embassy’s financial requirements without requiring asset liquidation or business disruption. Our service is secure, straightforward, and designed for application success.
 
 ca/country-pays/nigeria/). This is a legitimate way to demonstrate financial capability when your funds are tied up in other ventures.
 
-You can find further details on [acceptable proof of funds](/guides/what-is-acceptable-proof-of-funds) on our blog. ![A person using a laptop with the POF NG website displayed on the screen](https://images.unsplash.com/photo-1507842246308-b23b12513fef?q=80&w=2090&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+You can find further details on [acceptable proof of funds](/guides/what-is-acceptable-proof-of-funds) on our blog. ![A person using a laptop with the Proof of Fund NG website displayed on the screen](https://images.unsplash.com/photo-1507842246308-b23b12513fef?q=80&w=2090&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 Strengthening Your Application Beyond Proof of Funds
 ----------------------------------------------------
@@ -116,7 +116,7 @@ Your Canadian Journey Awaits
 
 Obtaining a Canada visitor visa from Nigeria requires careful preparation, especially regarding your Proof of Funds. By fully understanding the requirements, providing accurate documentation, and demonstrating strong ties to Nigeria, you can significantly improve your chances of approval.
 
-If you have concerns about meeting the financial requirements, remember that help is available. Services like POF NG offer a legitimate and streamlined way to secure the verifiable documents you need.
+If you have concerns about meeting the financial requirements, remember that help is available. Services like Proof of Fund NG offer a legitimate and streamlined way to secure the verifiable documents you need.
 
 Let us help you take the next step toward realizing your Canadian travel dreams. Ready to begin?
 

@@ -84,7 +84,7 @@ Meeting this requirement can be challenging. Many applicants struggle to gather 
 
 This is a common reason [why visa applications get rejected](/guides/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it). Fortunately, services exist to assist with this process.
 
-Companies like POF NG connect applicants with licensed financial partners who can help arrange the necessary funds and provide verifiable, embassy-accepted documents. To better understand the mechanics, it’s helpful to [learn how Proof of Funds works in Nigeria](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) through a trusted agent.
+Companies like Proof of Fund NG connect applicants with licensed financial partners who can help arrange the necessary funds and provide verifiable, embassy-accepted documents. To better understand the mechanics, it’s helpful to [learn how Proof of Funds works in Nigeria](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) through a trusted agent.
 
 Conclusion
 ----------

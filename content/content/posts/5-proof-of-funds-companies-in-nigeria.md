@@ -16,16 +16,16 @@ Applying for a visa, seeking admission to a foreign university, or planning to i
 
 Fortunately, several companies in Nigeria specialize in providing this essential service, helping you meet these requirements without tying up your personal capital. These services are designed to be fast, reliable, and compliant with international standards.
 
-To help you navigate your options, we’ve compiled a list of 5 proof of funds companies in Nigeria. The top providers include POF NG, Davcrest Consult, Veri Funds, Glow Funds, and Easify Fund, each offering unique services to facilitate visa, immigration, and school applications.
+To help you navigate your options, we’ve compiled a list of 5 proof of funds companies in Nigeria. The top providers include Proof of Fund NG, Davcrest Consult, Veri Funds, Glow Funds, and Easify Fund, each offering unique services to facilitate visa, immigration, and school applications.
 
-1\. POF NG (Proof of Fund NG)
+1\. Proof of Fund NG (Proof of Fund NG)
 -----------------------------
 
 ![Proofoffund software screenshot](https://images.unsplash.com/photo-1761625424632-c6adc86211d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyMjc4ODd8MHwxfHNlYXJjaHwxfHxQcm9vZm9mZnVuZCUyMGxvZ298ZW58MHwwfHx8MTc2MzM4MzEzNHww&ixlib=rb-4.1.0&q=80&w=1080)
 
-POF NG positions itself as a leading agent in Nigeria, connecting applicants with verified finance companies. The company's primary goal is to provide authentic and verifiable POF documents for visa, school, or travel purposes. They emphasize a streamlined and secure process, ensuring that the documents meet the stringent requirements of embassies worldwide, including those for Canada, the UK, and the USA.
+Proof of Fund NG positions itself as a leading agent in Nigeria, connecting applicants with verified finance companies. The company's primary goal is to provide authentic and verifiable POF documents for visa, school, or travel purposes. They emphasize a streamlined and secure process, ensuring that the documents meet the stringent requirements of embassies worldwide, including those for Canada, the UK, and the USA.
 
-One of its key strengths is its quick turnaround time. POF NG claims to deliver proof of funds within 24 to 72 hours, which is a significant advantage for applicants facing tight deadlines. The service works by arranging for funds to be temporarily placed in an account, after which official bank statements and confirmation letters are issued. This process is presented as a legitimate way to demonstrate financial capacity for official verification.
+One of its key strengths is its quick turnaround time. Proof of Fund NG claims to deliver proof of funds within 24 to 72 hours, which is a significant advantage for applicants facing tight deadlines. The service works by arranging for funds to be temporarily placed in an account, after which official bank statements and confirmation letters are issued. This process is presented as a legitimate way to demonstrate financial capacity for official verification.
 
 ### Key Features:
 

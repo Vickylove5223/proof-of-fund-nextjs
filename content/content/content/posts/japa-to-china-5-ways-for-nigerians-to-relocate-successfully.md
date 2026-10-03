@@ -21,7 +21,7 @@ The dream of moving abroad, or 'japa' as it's popularly known in Nigeria, is oft
 
 With its booming economy and technological advancements, relocating to China can be a game-changing move. But how do you navigate the process successfully?
 
-At POF NG, we have guided countless individuals through their relocation journeys, and we understand the specific hurdles involved. The process requires careful planning, especially regarding financial documentation.
+At Proof of Fund NG, we have guided countless individuals through their relocation journeys, and we understand the specific hurdles involved. The process requires careful planning, especially regarding financial documentation.
 
 This guide breaks down the five primary ways for Nigerians to japa to China and how to prepare for a successful application.
 
@@ -98,4 +98,4 @@ The key to success lies in meticulous preparation, from securing the right invit
 
 Don't let the complexities of financial proof hold you back. By understanding these five pathways and ensuring your Proof of Funds is solid, you can turn your dream of moving to China into a reality.
 
-If you need assistance with [getting your financial documents in order](/guides/how-to-get-proof-of-fund-in-nigeria), our team at POF NG is here to provide reliable and fast support for your journey.
+If you need assistance with [getting your financial documents in order](/guides/how-to-get-proof-of-fund-in-nigeria), our team at Proof of Fund NG is here to provide reliable and fast support for your journey.

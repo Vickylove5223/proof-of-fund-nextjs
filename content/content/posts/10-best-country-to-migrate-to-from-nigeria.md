@@ -162,6 +162,6 @@ Ready to Make Your Move? Let Us Help
 
 Choosing your destination is the first exciting step. The next is navigating the application process, and one of the most critical hurdles is providing Proof of Funds. Embassies need to see that you have the financial capacity to settle in, and a mistake here can lead to instant rejection.
 
-At POF NG, we specialize in helping Nigerians secure authentic, verifiable Proof of Funds for visa, school, and travel applications. We connect you with trusted financial partners to ensure your documents are 100% compliant with embassy standards. Don’t let financial proof stand in the way of your dreams.
+At Proof of Fund NG, we specialize in helping Nigerians secure authentic, verifiable Proof of Funds for visa, school, and travel applications. We connect you with trusted financial partners to ensure your documents are 100% compliant with embassy standards. Don’t let financial proof stand in the way of your dreams.
 
-Contact us today at [POF NG](http://afrikamombraids.local/) to get a free consultation and start your journey with confidence.
+Contact us today at [Proof of Fund NG](http://afrikamombraids.local/) to get a free consultation and start your journey with confidence.

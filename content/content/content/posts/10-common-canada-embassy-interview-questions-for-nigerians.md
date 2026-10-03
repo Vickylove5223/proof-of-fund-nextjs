@@ -20,7 +20,7 @@ Securing an interview at the Canadian embassy is a major step towards achieving 
 
 While it can feel intimidating, proper preparation is the key to success. Understanding the questions you might face allows you to prepare thoughtful, honest, and confident answers.
 
-At POF NG, we help countless Nigerians secure their financial documentation, and we've seen what it takes to build a strong application. Based on our experience, we’ve compiled the 10 most common Canada embassy interview questions for Nigerians to help you walk into your interview feeling prepared and self-assured.
+At Proof of Fund NG, we help countless Nigerians secure their financial documentation, and we've seen what it takes to build a strong application. Based on our experience, we’ve compiled the 10 most common Canada embassy interview questions for Nigerians to help you walk into your interview feeling prepared and self-assured.
 
 1\. Why do you want to go to Canada?
 
@@ -59,7 +59,7 @@ This is one of the most critical questions in any Canada interview at the embass
 
 This is where your Proof of Funds (POF) comes in.
 
-**How to Answer:** Confidently explain your financial plan. Refer to your bank statements and other financial documents. If you need assistance, [getting your Proof of Funds for Canada](/guides/get-proof-of-funds-for-studying-in-canada-easy-step-by-step-guide) through a trusted agent like POF NG ensures your documents are authentic and verifiable, giving the officer confidence in your application.
+**How to Answer:** Confidently explain your financial plan. Refer to your bank statements and other financial documents. If you need assistance, [getting your Proof of Funds for Canada](/guides/get-proof-of-funds-for-studying-in-canada-easy-step-by-step-guide) through a trusted agent like Proof of Fund NG ensures your documents are authentic and verifiable, giving the officer confidence in your application.
 
 5\. What are your ties to Nigeria?
 
@@ -111,7 +111,7 @@ This is the moment of truth. The officer will want to see the bank statements an
 
 They must be clear, legitimate, and verifiable. Any doubt about the authenticity of your Proof of Funds can lead to a refusal.
 
-**How to Answer:** Have all your documents neatly organized and ready to present. Working with us at [POF NG](http://afrikamombraids.local/) ensures that your financial statements are 100% verifiable by the embassy, helping you [avoid common mistakes](/guides/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it) that lead to visa rejection. For specific details about the Canadian mission in Nigeria, visit the official [High Commission of Canada in Nigeria](https://www.international.gc.ca/country-pays/nigeria/) website. You can also learn more about global migration trends from organizations like the [International Organization for Migration](https://www.iom.int/).
+**How to Answer:** Have all your documents neatly organized and ready to present. Working with us at [Proof of Fund NG](http://afrikamombraids.local/) ensures that your financial statements are 100% verifiable by the embassy, helping you [avoid common mistakes](/guides/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it) that lead to visa rejection. For specific details about the Canadian mission in Nigeria, visit the official [High Commission of Canada in Nigeria](https://www.international.gc.ca/country-pays/nigeria/) website. You can also learn more about global migration trends from organizations like the [International Organization for Migration](https://www.iom.int/).
 
 Conclusion: Your Key to a Successful Interview
 ----------------------------------------------
@@ -120,6 +120,6 @@ A Canada embassy interview for Nigerians is a straightforward process when you a
 
 Your goal is to convince the visa officer that your intentions are genuine and that you have the financial capacity and strong ties to Nigeria to ensure your return.
 
-Ensuring your financial documents are in perfect order is one of the most important steps you can take. If you need reliable, fast, and embassy-approved Proof of Funds, our team at POF NG is here to help.
+Ensuring your financial documents are in perfect order is one of the most important steps you can take. If you need reliable, fast, and embassy-approved Proof of Funds, our team at Proof of Fund NG is here to help.
 
 Contact us today to make your Canadian dream a reality.

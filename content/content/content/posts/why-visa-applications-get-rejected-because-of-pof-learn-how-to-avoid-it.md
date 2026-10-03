@@ -55,9 +55,9 @@ When you see a family relocating to Canada, the UK, or Australia, you only celeb
 
 Migration is not something you wake up to do in one week. It requires **strategy from day one**.
 
-### How POF NG Guides You
+### How Proof of Fund NG Guides You
 
-At POF NG, we guide applicants on how to prepare **clean, consistent, and convincing proof of funds**. Our approach is not about shortcuts — it’s about proper documentation and long-term planning.
+At Proof of Fund NG, we guide applicants on how to prepare **clean, consistent, and convincing proof of funds**. Our approach is not about shortcuts — it’s about proper documentation and long-term planning.
 
 We advise students and families to:
 
@@ -83,7 +83,7 @@ Migration is not just about showing money. It’s about:
 *   Having the right documentation
 *   Building a financial story that makes sense
 
-At POF NG, we want to be part of your journey. We guide Africans on how to **get POF right and migrate right**.
+At Proof of Fund NG, we want to be part of your journey. We guide Africans on how to **get POF right and migrate right**.
 
 If you’re serious about getting your proof of funds today, let us work with you. Contact us on Whtasapp.
 

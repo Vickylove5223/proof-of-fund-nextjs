@@ -13,7 +13,7 @@ image: /wp-content/uploads/2025/11/2d287143-7207-4096-9a11-be7c49121ca6-200x300.
 
 Applying for a visa or admission to a foreign university is an exciting step, but it often comes with a major hurdle: providing Proof of Funds (POF). While a standard bank statement is common, an Investment Letter can be a much more powerful and convincing document. But how do you get one in Nigeria, especially if you don't have a large investment portfolio? Don't worry, we're here to help.
 
-At POF NG, we specialize in making this process simple, fast, and secure. This guide will walk you through everything you need to know about getting an Investment Certificate for your POF requirements.
+At Proof of Fund NG, we specialize in making this process simple, fast, and secure. This guide will walk you through everything you need to know about getting an Investment Certificate for your POF requirements.
 
 What Exactly is an Investment Certificate/Letter for Proof of Funds?
 --------------------------------------------------------------------
@@ -40,7 +40,7 @@ The Challenge: Getting an Investment Certificate in Nigeria
 
 For many Nigerians, obtaining an Investment Letter presents a significant challenge. You might not have a formal investment portfolio, or the process with traditional banks can be slow and filled with bureaucratic delays—time you don't have when application deadlines are looming.
 
-This is where POF NG comes in. We recognized this gap and created a solution designed for your success.
+This is where Proof of Fund NG comes in. We recognized this gap and created a solution designed for your success.
 
 How We Provide Your Investment Letter in 24 Hours
 -------------------------------------------------
@@ -61,7 +61,7 @@ We've simplified [how Proof of Funds works](/guides/learn-how-proof-of-fund-pof-
 Ready to Secure Your Application?
 ---------------------------------
 
-An Investment Letter for Proof of Funds can significantly strengthen your visa or admission application. It demonstrates financial stability and credibility, giving you an edge. While getting one through traditional means can be difficult, POF NG provides a fast, reliable, and affordable alternative.
+An Investment Letter for Proof of Funds can significantly strengthen your visa or admission application. It demonstrates financial stability and credibility, giving you an edge. While getting one through traditional means can be difficult, Proof of Fund NG provides a fast, reliable, and affordable alternative.
 
 Stop letting financial documentation stand in the way of your dreams. With our help, you can get the proof of funds you need in as little as 24 hours. For more financial insights, you can explore resources like [Investopedia](https://www.investopedia.com).
 

@@ -122,4 +122,4 @@ While each route has unique criteria, solid financial proof is the universal key
 
 By understanding these five legitimate pathways and meticulously preparing your documentation, you can turn your 'JAPA' dream into a reality. If the Proof of Funds requirement seems like a roadblock, remember that help is available.
 
-Our team at POF NG is dedicated to helping you secure verifiable funds for your visa application. Let us handle the financial proof, so you can embark on your UK journey with confidence.
+Our team at Proof of Fund NG is dedicated to helping you secure verifiable funds for your visa application. Let us handle the financial proof, so you can embark on your UK journey with confidence.

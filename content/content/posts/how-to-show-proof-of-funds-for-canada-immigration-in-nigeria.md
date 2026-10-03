@@ -77,7 +77,7 @@ What If You Don’t Have the Full Amount?
 
 This is a common challenge for many applicants in Nigeria. Saving up the full settlement fund can be difficult. You might have the money in assets like land, or you might be short of the required total. So, what can you do?
 
-This is where a trusted service like POF NG can help. We understand the rules set by global bodies like the [International Organization for Migration](https://www.iom.int/) and the specific needs of Canadian immigration. We connect you with verified financial partners who can help you meet the proof of funds requirement legally and safely. You don’t have to put your dream on hold. You can get the support you need to prepare a successful application.
+This is where a trusted service like Proof of Fund NG can help. We understand the rules set by global bodies like the [International Organization for Migration](https://www.iom.int/) and the specific needs of Canadian immigration. We connect you with verified financial partners who can help you meet the proof of funds requirement legally and safely. You don’t have to put your dream on hold. You can get the support you need to prepare a successful application.
 
 ![Financial Help](image6.jpg)
 
@@ -90,10 +90,10 @@ Remember, you cannot use funds from other family members like parents or sibling
 
 ![Couple Planning](image7.jpg)
 
-How POF NG Makes It Easy and Safe
+How Proof of Fund NG Makes It Easy and Safe
 ---------------------------------
 
-Getting your proof of funds doesn’t have to be stressful. At POF NG, we make it simple. We are the top-rated proof of funds agent in Nigeria because we focus on trust and reliability.
+Getting your proof of funds doesn’t have to be stressful. At Proof of Fund NG, we make it simple. We are the top-rated proof of funds agent in Nigeria because we focus on trust and reliability.
 
 Our process is clear:
 
@@ -112,6 +112,6 @@ Your Canadian Dream is Within Reach
 
 Showing proof of funds is a serious step, but it is not impossible. By understanding the rules, knowing how much you need, and getting the right documents, you can pass this stage with confidence. Remember to be honest and provide clear, official proof.
 
-If you need help meeting the financial requirement, don’t worry. POF NG is here to support you. We provide a safe, reliable, and easy way to get the proof of funds you need for your Canada immigration application.
+If you need help meeting the financial requirement, don’t worry. Proof of Fund NG is here to support you. We provide a safe, reliable, and easy way to get the proof of funds you need for your Canada immigration application.
 
-Ready to take the next step? Visit our website at [POF NG](http://afrikamombraids.local/) or contact us today to get started!
+Ready to take the next step? Visit our website at [Proof of Fund NG](http://afrikamombraids.local/) or contact us today to get started!

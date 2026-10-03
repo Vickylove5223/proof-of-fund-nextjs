@@ -21,7 +21,7 @@ The “Japa” wave is more than just a trend; it's a quest for new opportunitie
 
 With its growing economy, stunning landscapes, and welcoming atmosphere, Brazil could be the perfect destination for your next chapter.
 
-But how do you navigate the process of moving from Nigeria to Brazil? At POF NG, we guide people through one of the most critical steps of any relocation journey: financial documentation.
+But how do you navigate the process of moving from Nigeria to Brazil? At Proof of Fund NG, we guide people through one of the most critical steps of any relocation journey: financial documentation.
 
 This guide will walk you through the essential steps to make your Brazil dream a reality.
 
@@ -74,7 +74,7 @@ This is where Proof of Funds (POF) comes in.
 
 Getting a large sum of money to sit in your account can be difficult. That's where we come in.
 
-At POF NG, we connect you with trusted financial partners who can help you meet embassy requirements securely and legitimately. Our service ensures you get an authentic, verifiable bank statement that satisfies the embassy's criteria.
+At Proof of Fund NG, we connect you with trusted financial partners who can help you meet embassy requirements securely and legitimately. Our service ensures you get an authentic, verifiable bank statement that satisfies the embassy's criteria.
 
 If you're unsure [how to get Proof of Funds in Nigeria](/guides/how-to-get-proof-of-fund-in-nigeria), we make the process simple and stress-free.
 

@@ -27,7 +27,7 @@ This is where a Proof of Funds loan comes in.
 
 Many people believe a POF loan is a complex financial product, but it's actually a straightforward service designed to help you meet visa and admission requirements without tying up your capital. It's a solution that provides temporary access to the necessary funds for verification purposes.
 
-A Proof of Funds loan is a short-term facility provided by a specialized finance company, often through a trusted agent like us at POF NG. In this arrangement, the required funds are temporarily placed into your bank account to generate an authentic bank statement.
+A Proof of Funds loan is a short-term facility provided by a specialized finance company, often through a trusted agent like us at Proof of Fund NG. In this arrangement, the required funds are temporarily placed into your bank account to generate an authentic bank statement.
 
 You pay a service fee for this facility, which is a fraction of the total amount, and the funds are retrieved after the agreed period. It’s not a loan you spend, but a service to prove your financial capacity to embassies and schools.
 
@@ -44,7 +44,7 @@ Once your visa or application process is complete, the funds are withdrawn by th
 How a Proof of Funds Loan Works in Nigeria
 ------------------------------------------
 
-The process is designed to be simple, secure, and fast. At POF NG, we act as the bridge between you and reliable finance companies that provide these services.
+The process is designed to be simple, secure, and fast. At Proof of Fund NG, we act as the bridge between you and reliable finance companies that provide these services.
 
 We vet our partners to ensure they are licensed and that the funds they provide are 100% verifiable.
 
@@ -52,7 +52,7 @@ The core idea is to give you access to an authentic bank statement that reflects
 
 ![How to Get Proof of Funds Loan in Nigeria - Image 1](https://img.b2bpic.net/premium-photo/financial-advisors-review-portfolio-together-modern-office-setting_908344-218255.jpg)
 
-Step-by-Step Guide to Getting Your POF Loan with POF NG
+Step-by-Step Guide to Getting Your POF Loan with Proof of Fund NG
 -------------------------------------------------------
 
 We've streamlined our process to be as stress-free as possible. Here’s how you can get your Proof of Funds loan through us:
@@ -109,9 +109,9 @@ html).
 
 ![How to Get Proof of Funds Loan in Nigeria - Image 3](https://img.b2bpic.net/premium-photo/woman-holding-united-states-passport-outdoors-with-american-flag-background_1184450-2570.jpg)
 
-Why Use a Trusted Agent Like POF NG? ------------------------------------
+Why Use a Trusted Agent Like Proof of Fund NG? ------------------------------------
 
-While it's possible to approach finance companies directly, using a trusted agent like POF NG offers several key benefits. We provide a layer of security and assurance.
+While it's possible to approach finance companies directly, using a trusted agent like Proof of Fund NG offers several key benefits. We provide a layer of security and assurance.
 
 ng/).
 

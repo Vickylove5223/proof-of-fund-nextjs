@@ -82,7 +82,7 @@ The Australian government needs assurance that you won't face financial hardship
 
 Gathering a large sum of money can be challenging. This is where we come in.
 
-At POF NG, we connect you with reliable finance companies that provide verified and authentic Proof of Funds documents. Our service is designed to be fast, secure, and fully compliant with Australian embassy standards.
+At Proof of Fund NG, we connect you with reliable finance companies that provide verified and authentic Proof of Funds documents. Our service is designed to be fast, secure, and fully compliant with Australian embassy standards.
 
 We help you understand exactly [how Proof of Funds works](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide), taking the stress out of the process.
 

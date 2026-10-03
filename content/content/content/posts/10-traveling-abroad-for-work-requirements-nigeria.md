@@ -20,7 +20,7 @@ Securing a job abroad is an incredible achievement, opening doors to new culture
 
 Navigating these requirements can feel overwhelming, but with the right guidance, it becomes a manageable checklist.
 
-At POF NG, we help Nigerians streamline one of the most challenging parts of this process. In this guide, we’ll walk you through the 10 essential requirements you need to meet when traveling abroad for work from Nigeria.
+At Proof of Fund NG, we help Nigerians streamline one of the most challenging parts of this process. In this guide, we’ll walk you through the 10 essential requirements you need to meet when traveling abroad for work from Nigeria.
 
 The key requirements for Nigerians traveling abroad for work include a valid international passport, a work visa or permit, an official employment contract, verifiable Proof of Funds (POF), a police clearance certificate, a medical examination report, comprehensive travel insurance, pre-departure orientation, and a clear understanding of your tax obligations.
 
@@ -57,7 +57,7 @@ This letter is a cornerstone of your visa application.
 
 Embassies need to see that you can support yourself financially upon arrival before you receive your first paycheck. This is where [what Proof of Funds is](/guides/what-is-proof-of-sufficient-funds-in-nigeria) becomes critical.
 
-Gathering a large sum of money can be stressful and complicated. This is the exact problem we solve at POF NG.
+Gathering a large sum of money can be stressful and complicated. This is the exact problem we solve at Proof of Fund NG.
 
 Instead of tying up your capital or borrowing from family, we connect you with trusted financial partners to provide a verifiable and embassy-approved Proof of Funds. We help you [understand how the POF process works](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) and ensure it meets the specific requirements of your visa application, making your journey smoother and faster.
 
@@ -99,14 +99,14 @@ Proper [narration for your financial documentation](/guides/12-best-narration-fo
 
 You don’t always need to buy a flight ticket before your visa is approved, but you will need a flight reservation or itinerary. Similarly, you should have proof of your initial accommodation, whether it’s a temporary hotel booking or a letter from your employer confirming arrangements.
 
-How POF NG Can Simplify Your Journey
+How Proof of Fund NG Can Simplify Your Journey
 ------------------------------------
 
 Of all the requirements, Proof of Funds is often the biggest hurdle. It can delay applications and cause immense stress.
 
 That’s why we created a seamless solution. We are one of the [best Proof of Funds providers](/guides/5-best-proof-of-funds-service-providers-nigeria), dedicated to helping you succeed.
 
-With POF NG, the process of [getting your Proof of Funds](/guides/how-to-get-proof-of-fund-in-nigeria) is simple. We connect you with licensed financial institutions that provide authentic, verifiable documents in as little as 24-72 hours.
+With Proof of Fund NG, the process of [getting your Proof of Funds](/guides/how-to-get-proof-of-fund-in-nigeria) is simple. We connect you with licensed financial institutions that provide authentic, verifiable documents in as little as 24-72 hours.
 
 Your visa application is too important to leave to chance. Let us handle the financial proof so you can focus on preparing for your new career abroad.
 

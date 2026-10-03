@@ -68,7 +68,7 @@ No matter which visa you choose, the Brazilian embassy will require you to show 
 
 This step is where many applications get delayed or rejected.
 
-Gathering the required amount can be a huge challenge. That’s where we, at POF NG, come in.
+Gathering the required amount can be a huge challenge. That’s where we, at Proof of Fund NG, come in.
 
 We understand the struggle, and we’ve designed a service to make it easy. We connect you with trusted financial partners who can help you meet the embassy’s requirements without you having to tie up your personal capital.
 
@@ -128,6 +128,6 @@ Your Brazilian Dream is Within Reach
 
 Relocating from Nigeria to Brazil is an exciting adventure that is absolutely achievable with the right preparation. By understanding the visa options, planning your finances, and avoiding common mistakes, you can make your Japa journey a resounding success.
 
-The most critical step is often securing your Proof of Funds, and you don’t have to do it alone. At POF NG, we are dedicated to helping you overcome this obstacle smoothly and legitimately.
+The most critical step is often securing your Proof of Funds, and you don’t have to do it alone. At Proof of Fund NG, we are dedicated to helping you overcome this obstacle smoothly and legitimately.
 
 Ready to take the next step? local/) to get a free consultation and let us help you secure the authentic Proof of Funds you need for your Brazilian visa.

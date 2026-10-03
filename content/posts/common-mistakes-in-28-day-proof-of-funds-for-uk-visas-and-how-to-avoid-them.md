@@ -7,19 +7,19 @@ description: 'When applying for a UK visa, meeting the 28-day Proof of Funds rul
 seo_title: 'Common Mistakes in 28-Day UK Visa Proof of Funds'
 image: /wp-content/uploads/2025/02/two-business-woman-cafe_1157-14528.jpg
 ---
-When applying for a **UK visa**, one of the biggest hurdles is meeting the **Proof of Funds (POF) requirement**. Many applicants—even those who qualify financially—get rejected because of mistakes in preparing their **28-day bank statement**.
+When applying for a UK visa, one of the biggest hurdles is meeting the Proof of Funds (POF) requirement. Many applicants—even those who qualify financially—get rejected because of mistakes in preparing their 28-day bank statement.
 
-In this post, we’ll break down the **most common errors people make with 28-day Proof of Funds**, how they lead to **visa refusals**, and the correct way to prepare your documents.
+In this post, we’ll break down the most common errors people make with 28-day Proof of Funds, how they lead to visa refusals, and the correct way to prepare your documents.
 
 ### What Is the 28-Day Proof of Funds Rule?
 
-The UK immigration system requires that you **maintain a minimum amount of money in your bank account for 28 consecutive days** before submitting your visa application. This proves that you can cover:
+The UK immigration system requires that you maintain a minimum amount of money in your bank account for 28 consecutive days before submitting your visa application. This proves that you can cover:
 
 *   Tuition fees (if you’re a student)
 *   Living expenses (maintenance funds)
 *   Any dependent costs (if applying with family)
 
-If your balance drops below the required threshold—even for a single day—your application can be refused. ![](https://img.freepik.com/free-photo/visa-application-form-smartphone_23-2149117778.jpg?uid=R45719163&ga=GA1.1.1313607400.1731226079&semt=ais_hybrid&w=740&q=80)
+If your balance drops below the required threshold—even for a single day—your application can be refused. ![Proof of Fund NG | Process From Anywhere in Nigeria | Call 08103669924](https://img.freepik.com/free-photo/visa-application-form-smartphone_23-2149117778.jpg?uid=R45719163&ga=GA1.1.1313607400.1731226079&semt=ais_hybrid&w=740&q=80)
 
 ### Common Mistakes in UK Proof of Funds
 
@@ -31,7 +31,7 @@ Some applicants think depositing money a few days before applying is enough. The
 
 #### 2\. Using Bank Statements Older Than 31 Days
 
-By the time you submit, your statement might already be outdated. If your bank statement is more than 31 days old, UKVI will reject it.
+By the time you submit, your statement might already be outdated. If your bank statement is more than 31 days old, [UKVI](https://www.gov.uk/browse/visas-immigration) will reject it.
 
 #### 3\. Missing Bank Documentation
 
@@ -81,7 +81,7 @@ Generally, no. UKVI prefers a single account showing the full required amount he
 
 Yes, unlike some other countries, UKVI generally accepts statements from licensed Nigerian microfinance and fintech banks such as Opay or Moniepoint, provided the statement is official, clearly formatted, and shows the required 28-day history.
 
-Acceptance still varies by embassy — for example, Canada's IRCC does not accept microfinance or fintech accounts, so it's safer to use a traditional commercial bank whenever your destination isn't confirmed to allow them.
+Acceptance still varies by embassy — for example, Canada's [IRCC](https://www.canada.ca/en/immigration-refugees-citizenship.html) does not accept microfinance or fintech accounts, so it's safer to use a traditional commercial bank whenever your destination isn't confirmed to allow them.
 
 #### Can I backdate my account or borrow money temporarily?
 
@@ -99,10 +99,9 @@ Proof of Funds is one of the most common reasons UK visa applications get reject
 
 You can avoid unnecessary refusals and secure your UK visa.
 
-### Official Resources
 
-- [UK Government: Visas and immigration](https://www.gov.uk/browse/visas-immigration)
-- [UK Government: Standard Visitor visa](https://www.gov.uk/standard-visitor)
-- [UK Government: Skilled Worker visa costs](https://www.gov.uk/skilled-worker-visa/how-much-it-costs)
-- [UK Government: Register of licensed sponsors](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers)
-- [UK Government: Student visa finances](https://www.gov.uk/student-visa/money)
+
+---
+Prefer an in-person meeting?
+You can also visit us at our office:
+📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

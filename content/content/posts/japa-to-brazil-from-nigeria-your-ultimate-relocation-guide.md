@@ -14,7 +14,7 @@ Japa to Brazil from Nigeria: Your Comprehensive Relocation Guide
 
 The “Japa” wave isn't just about moving to Europe or North America. Many Nigerians are discovering the vibrant culture, growing economy, and welcoming atmosphere of South America, with Brazil topping the list. If you're wondering how to Japa to Brazil from Nigeria, you've come to the right place. This guide will walk you through the essential steps for a successful move.
 
-At POF NG, we understand that relocating can be complex, especially when it comes to financial requirements. We're here to simplify at least one major part of your journey. Let's get started!
+At Proof of Fund NG, we understand that relocating can be complex, especially when it comes to financial requirements. We're here to simplify at least one major part of your journey. Let's get started!
 
 ![Brazilian cityscape](image1.jpg)
 
@@ -55,7 +55,7 @@ Failure to provide adequate or verifiable POF is one of the top reasons for visa
 
 ![Proof of Funds document](image4.jpg)
 
-How POF NG Makes Your Brazil Japa Journey Smoother
+How Proof of Fund NG Makes Your Brazil Japa Journey Smoother
 --------------------------------------------------
 
 We know that gathering the required funds can be a major hurdle. That’s why our service exists. We connect you with verified financial partners who can help you meet the embassy's requirements without you having to liquidate assets or borrow from family.
@@ -89,9 +89,9 @@ For the most up-to-date list, always check the official website of the [Consulat
 
 ### Step 3: Secure Your Proof of Funds
 
-This is where we come in. Don't let financial proof be the obstacle that stops your dream. With POF NG, you can get verifiable funds for your visa application within 24-72 hours. We ensure the documentation meets all embassy requirements. To understand the mechanics behind this, you can read our guide on [how Proof of Funds works](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide).
+This is where we come in. Don't let financial proof be the obstacle that stops your dream. With Proof of Fund NG, you can get verifiable funds for your visa application within 24-72 hours. We ensure the documentation meets all embassy requirements. To understand the mechanics behind this, you can read our guide on [how Proof of Funds works](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide).
 
-![POF NG service illustration](image6.jpg)
+![Proof of Fund NG service illustration](image6.jpg)
 
 ### Step 4: Apply for Your Visa and Attend the Interview
 
@@ -108,4 +108,4 @@ Conclusion: Your Brazilian Dream is Within Reach
 
 The journey to Japa to Brazil from Nigeria requires careful planning and preparation. From choosing the right visa to gathering your documents, every step is important. However, the most critical hurdle for many is the financial requirement.
 
-Don't let Proof of Funds stand in your way. POF NG is your trusted partner, dedicated to providing fast, reliable, and embassy-approved financial documentation. Let us handle the financial proof so you can focus on starting your exciting new chapter in Brazil. Contact us today to get started!
+Don't let Proof of Funds stand in your way. Proof of Fund NG is your trusted partner, dedicated to providing fast, reliable, and embassy-approved financial documentation. Let us handle the financial proof so you can focus on starting your exciting new chapter in Brazil. Contact us today to get started!

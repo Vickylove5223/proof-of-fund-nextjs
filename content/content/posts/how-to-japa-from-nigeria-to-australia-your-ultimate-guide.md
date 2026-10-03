@@ -62,7 +62,7 @@ This is one of the most critical steps in your application. The Australian gover
 
 Failure to provide adequate POF is a major reason for visa refusals. The funds must be in an acceptable format, such as a bank statement, and must have a clear history. This is where many applicants face challenges. Are you worried about meeting this requirement? We can help.
 
-At POF NG, we specialize in connecting you with reliable finance partners to secure verifiable and embassy-accepted Proof of Funds. We understand the specific [proof of funds requirements](/guides/learn-about-proof-of-funds-requirements-in-nigeria) and ensure your documentation is perfect, preventing common mistakes that lead to rejection. Our process is fast, secure, and designed to give you peace of mind.
+At Proof of Fund NG, we specialize in connecting you with reliable finance partners to secure verifiable and embassy-accepted Proof of Funds. We understand the specific [proof of funds requirements](/guides/learn-about-proof-of-funds-requirements-in-nigeria) and ensure your documentation is perfect, preventing common mistakes that lead to rejection. Our process is fast, secure, and designed to give you peace of mind.
 
 ### Step 4: Apply for Your Student Visa
 
@@ -91,4 +91,4 @@ The journey to JAPA from Nigeria to Australia requires careful planning and atte
 
 Remember, the Proof of Funds requirement is a non-negotiable part of the process. Don’t let it become a barrier to your dreams. If you need assistance securing authentic, verifiable, and embassy-approved POF, we are here to help.
 
-Ready to take the next step? Visit [POF NG](http://afrikamombraids.local/) today to get a free consultation and let us help make your journey to Australia smooth and successful.
+Ready to take the next step? Visit [Proof of Fund NG](http://afrikamombraids.local/) today to get a free consultation and let us help make your journey to Australia smooth and successful.

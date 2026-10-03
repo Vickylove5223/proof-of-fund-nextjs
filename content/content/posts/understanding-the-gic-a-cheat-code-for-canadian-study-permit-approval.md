@@ -13,7 +13,7 @@ image: /images/finance-2.png
 
 One of the most common reasons for a Canadian study permit refusal is "finances." Often, visa officers from countries like Nigeria are skeptical about the availability and source of funds in a standard bank statement.
 
-To solve this, IRCC recommends the **Guaranteed Investment Certificate (GIC)**. At **POF NG**, we advocate for the GIC because it provides the ultimate proof that your living expenses are already in Canada and ready to be used. If you don't have the personal funds to secure a GIC, we can provide the necessary support at an affordable rate.
+To solve this, IRCC recommends the **Guaranteed Investment Certificate (GIC)**. At **Proof of Fund NG**, we advocate for the GIC because it provides the ultimate proof that your living expenses are already in Canada and ready to be used. If you don't have the personal funds to secure a GIC, we can provide the necessary support at an affordable rate.
 
 ### **What is a GIC and How Does It Work?**
 
@@ -59,7 +59,7 @@ A GIC eliminates the "lack of trust" factor. It shows the visa officer that your
 
 ### **Struggling to Raise the GIC Funds?**
 
-Raising over $20,000 CAD plus tuition is a massive financial burden. If you are serious about your Canadian studies but lack the liquid cash to lock into a GIC, **POF NG** can help.
+Raising over $20,000 CAD plus tuition is a massive financial burden. If you are serious about your Canadian studies but lack the liquid cash to lock into a GIC, **Proof of Fund NG** can help.
 
 We provide Proof of Funds services and financial assistance to ensure you have the required balance for your application into your naira account instead of GIC deposit to show you have the fund required for your visa type.
 
@@ -76,4 +76,4 @@ GIC deposit is for individudual and famiies that have the actually funds require
 *   [Official IRCC GIC Guidelines](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents.html%23financial-support)
     
 
-_Disclaimer: POF NG provides financial support for documentation. We are not a bank or immigration legal firm. Please verify the current GIC amount on the official IRCC website as rates are subject to change._
+_Disclaimer: Proof of Fund NG provides financial support for documentation. We are not a bank or immigration legal firm. Please verify the current GIC amount on the official IRCC website as rates are subject to change._

@@ -68,7 +68,7 @@ Proving Financial Stability: The Proof of Funds (POF) Hurdle
 
 One of the most important requirements for a Polish visa is proving you have enough money to support yourself. This is known as [Proof of Sufficient Funds (POF)](/guides/what-is-proof-of-sufficient-funds-in-nigeria). The Polish authorities need assurance that you won’t become a financial burden on their state.
 
-But what if you don’t have the required amount sitting in your account? This is where we, at POF NG, can help. We connect you with trusted financial partners who can provide authentic, verifiable POF documents that meet the embassy’s strict standards. Our process is fast, secure, and designed to ensure your application succeeds.
+But what if you don’t have the required amount sitting in your account? This is where we, at Proof of Fund NG, can help. We connect you with trusted financial partners who can provide authentic, verifiable POF documents that meet the embassy’s strict standards. Our process is fast, secure, and designed to ensure your application succeeds.
 
 ![Proof of Funds document](image6.jpg)
 
@@ -117,6 +117,6 @@ Ready to Make Your Move?
 
 Moving to Poland from Nigeria is an achievable goal with careful planning. From choosing your visa route to gathering your documents and settling in, each step brings you closer to your new life in Europe.
 
-The financial proof requirement is often the biggest challenge, but it doesn’t have to be a deal-breaker. At [POF NG](http://afrikamombraids.local/), we specialize in providing the support you need to confidently meet this requirement. Contact us today to get a free quote and let us help make your journey to Poland stress-free.
+The financial proof requirement is often the biggest challenge, but it doesn’t have to be a deal-breaker. At [Proof of Fund NG](http://afrikamombraids.local/), we specialize in providing the support you need to confidently meet this requirement. Contact us today to get a free quote and let us help make your journey to Poland stress-free.
 
 ![Happy Nigerian moving to Poland](image13.jpg)

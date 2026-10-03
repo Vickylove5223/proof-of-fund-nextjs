@@ -21,7 +21,7 @@ The “Japa” wave isn't just about moving to Europe or North America. Many Nig
 
 If you're wondering how to Japa to Brazil from Nigeria, you've come to the right place. This guide will walk you through the essential steps for a successful move.
 
-At POF NG, we understand that relocating can be complex, especially when it comes to financial requirements. We're here to simplify at least one major part of your journey.
+At Proof of Fund NG, we understand that relocating can be complex, especially when it comes to financial requirements. We're here to simplify at least one major part of your journey.
 
 Let's get started!
 
@@ -71,7 +71,7 @@ They want to be sure the money is genuinely yours to use.
 
 ![Proof of Funds document](image4.jpg)
 
-How POF NG Makes Your Brazil Japa Journey Smoother
+How Proof of Fund NG Makes Your Brazil Japa Journey Smoother
 --------------------------------------------------
 
 We know that gathering the required funds can be a major hurdle. That’s why our service exists.
@@ -113,11 +113,11 @@ br/en-us/).
 
 This is where we come in. Don't let financial proof be the obstacle that stops your dream.
 
-With POF NG, you can get verifiable funds for your visa application within 24-72 hours. We ensure the documentation meets all embassy requirements.
+With Proof of Fund NG, you can get verifiable funds for your visa application within 24-72 hours. We ensure the documentation meets all embassy requirements.
 
 To understand the mechanics behind this, you can read our guide on [how Proof of Funds works](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide).
 
-![POF NG service illustration](image6.jpg)
+![Proof of Fund NG service illustration](image6.jpg)
 
 ### Step 4: Apply for Your Visa and Attend the Interview
 
@@ -138,6 +138,6 @@ The journey to Japa to Brazil from Nigeria requires careful planning and prepara
 
 However, the most critical hurdle for many is the financial requirement.
 
-Don't let Proof of Funds stand in your way. POF NG is your trusted partner, dedicated to providing fast, reliable, and embassy-approved financial documentation.
+Don't let Proof of Funds stand in your way. Proof of Fund NG is your trusted partner, dedicated to providing fast, reliable, and embassy-approved financial documentation.
 
 Let us handle the financial proof so you can focus on starting your exciting new chapter in Brazil. Contact us today to get started!

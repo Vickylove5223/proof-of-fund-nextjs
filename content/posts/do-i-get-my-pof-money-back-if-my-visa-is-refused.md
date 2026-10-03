@@ -7,21 +7,21 @@ description: 'Visa refused — what happens to your proof of funds? What''s refu
 seo_title: 'Is POF Money Refundable After Visa Refusal?'
 image: /wp-content/uploads/2025/09/9ddc6236-2387-4ec0-a148-cdfe2b95934a.jpg
 ---
-A refusal letter lands and two questions hit at once: **"What happens to the money I showed?"** and **"When can I try again?"** Both have clear answers — and knowing them turns a painful refusal into a short detour instead of a dead end.
+A refusal letter lands and two questions hit at once: "What happens to the money I showed?" and "When can I try again?" Both have clear answers — and knowing them turns a painful refusal into a short detour instead of a dead end.
 
 ## First: Your Money Was Never "Paid" to Anyone
 
-Proof of funds is **evidence, not a fee**. Whether the visa is approved or refused, the money in your bank account remains yours. What varies is *when you can move it* and *what any service around it cost you*:
+Proof of funds is evidence, not a fee. Whether the visa is approved or refused, the money in your bank account remains yours. What varies is *when you can move it* and *what any service around it cost you*:
 
-*   **Your own savings:** yours throughout; after a refusal you can withdraw immediately — though hold off if you plan to reapply soon (more below)
-*   **GIC (Canada):** if refused, you apply to the bank (Scotiabank, RBC, CIBC) for a **full GIC refund** — standard process, refunded to the source account, usually within 4–8 weeks with your refusal letter as evidence
-*   **Germany blocked account:** refunded on presentation of the refusal letter, minus provider fees
-*   **POF service funding:** the funded amount was never yours to keep — what you spent is the **service fee**, which is generally non-refundable since the service (funding + documentation) was delivered. Reputable providers offer discounted re-runs for reapplications; see [how POF services work](/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) and the [current cost structure](/cost-of-proof-of-funds-for-uk-canada-visa-from-nigeria-2026-complete-pricing-guide)
-*   **Visa application fees:** not refundable after a decision, anywhere
+*   Your own savings: yours throughout; after a refusal you can withdraw immediately — though hold off if you plan to reapply soon (more below)
+*   GIC (Canada): if refused, you apply to the bank (Scotiabank, RBC, CIBC) for a full GIC refund — standard process, refunded to the source account, usually within 4–8 weeks with your refusal letter as evidence
+*   Germany blocked account: refunded on presentation of the refusal letter, minus provider fees
+*   POF service funding: the funded amount was never yours to keep — what you spent is the service fee, which is generally non-refundable since the service (funding + documentation) was delivered. Reputable providers offer discounted re-runs for reapplications; see [how POF services work](/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) and the [current cost structure](/cost-of-proof-of-funds-for-uk-canada-visa-from-nigeria-2026-complete-pricing-guide)
+*   Visa application fees: not refundable after a decision, anywhere
 
 For the timing rules on moving your own money safely, see [when can proof of funds be withdrawn](/when-can-proof-of-funds-be-withdrawn).
 
-![Reviewing a visa decision letter](/wp-content/uploads/2025/09/application-form-information-employment-concept_53876-128011.jpg)
+![Don't Risk Visa Refusal - Get Authentic Proof of Funds Today (08103669924)](/wp-content/uploads/2025/09/application-form-information-employment-concept_53876-128011.jpg)
 
 ## Decode the Refusal Before Touching Anything
 
@@ -37,13 +37,13 @@ Your refusal letter states the ground. Financial refusals come in flavours, and 
 
 ## How Soon Can You Reapply?
 
-**Immediately, in almost every case.** The UK, Canada, the US, and Schengen states have **no mandatory waiting period** after a standard refusal. The real constraint is readiness:
+Immediately, in almost every case. The UK, Canada, the US, and Schengen states have no mandatory waiting period after a standard refusal. The real constraint is readiness:
 
 *   If the defect was documentation, you can fix and refile within weeks
 *   If the defect was fund seasoning, your timeline is the seasoning window itself (28 days for the UK; ideally 3–6 months of history for Canada)
-*   A refusal for **deception** (fake documents) is different — that carries a 10-year ban for the UK and long inadmissibility elsewhere. This is why we say it loudly: never touch [fake or backdated statements](/consequences-of-fake-proof-of-funds-or-backdated-bank-statements-for-visa-applications-from-nigeria-2026)
+*   A refusal for deception (fake documents) is different — that carries a 10-year ban for the UK and long inadmissibility elsewhere. This is why we say it loudly: never touch [fake or backdated statements](/consequences-of-fake-proof-of-funds-or-backdated-bank-statements-for-visa-applications-from-nigeria-2026)
 
-**Does a refusal hurt the next application?** You must declare it, and the officer will read the previous ground. A reapplication that squarely fixes the stated defect — ideally with a short cover letter naming the previous refusal and showing what changed — is approved every day. What fails is resubmitting the same file and hoping for a different officer.
+Does a refusal hurt the next application? You must declare it, and the officer will read the previous ground. A reapplication that squarely fixes the stated defect — ideally with a short cover letter naming the previous refusal and showing what changed — is approved every day. What fails is resubmitting the same file and hoping for a different officer.
 
 ## The Reapplication Checklist
 
@@ -57,14 +57,13 @@ More prevention strategies in [why visa applications get rejected because of POF
 
 ## Turn the Refusal Around
 
-[POF NG](/) rebuilds refused files every week: we read the refusal ground, restructure the funding to cure it (right names, right amounts, right seasoning, right bank), and deliver the documentation package for the reapplication. Refusal-to-approval is our most common client journey.
+[Proof of Fund NG](/) rebuilds refused files every week: we read the refusal ground, restructure the funding to cure it (right names, right amounts, right seasoning, right bank), and deliver the documentation package for the reapplication. Refusal-to-approval is our most common client journey.
 
-Send us your refusal letter on **Call/WhatsApp: 08103669924** for a free assessment — or start by rechecking your true requirement with the [proof of funds calculator](/proof-of-fund-calculator).
+Send us your refusal letter on Call/WhatsApp: 08103669924 for a free assessment — or start by rechecking your true requirement with the [proof of funds calculator](/proof-of-fund-calculator).
 
-### Official Resources
 
-- [IOM: International Organization for Migration](https://www.iom.int/)
-- [Nigerian Bar Association](https://nigerianbar.org.ng/)
-- [XE: Currency converter](https://www.xe.com/)
-- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
-- [World Bank](https://www.worldbank.org/)
+
+---
+Prefer an in-person meeting?
+You can also visit us at our office:
+📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

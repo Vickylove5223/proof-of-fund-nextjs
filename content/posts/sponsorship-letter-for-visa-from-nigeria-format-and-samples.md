@@ -13,21 +13,21 @@ A sponsorship letter is often the weakest document in a Nigerian visa file — n
 
 Before drafting anything, confirm the destination's sponsor rules — this is the step that voids most letters:
 
-*   **UK student visas:** only **you, your parents, or a legal guardian** can hold the funds — an uncle's sponsorship letter cannot fix ineligible funds. Full rules in [who can sponsor your UK student visa](/who-can-sponsor-your-uk-student-visa-proof-of-funds).
-*   **UK visit visas:** flexible — any credible host/relative can support, but [you must still show personal funds and ties](/how-much-bank-balance-is-required-for-uk-visit-visa-from-nigeria).
-*   **Canada:** extended family sponsorship is workable with strong documentation — see the [sponsor bank statement requirements for Canada](/sponsor-bank-statement-for-canada-study-permit-nigeria-complete-requirements-tips).
-*   **USA:** any sponsor, but credibility is tested at interview; US-based sponsors should complete **Form I-134** alongside the letter — see the [F1 sponsor letter guide](/usa-f1-visa-proof-of-funds-nigeria-sponsor-letter-complete-guide).
-*   **Schengen:** France uses the *attestation d'accueil*, Spain the *carta de invitación* — official forms, not free-text letters, plus the sponsor's statements.
+*   UK student visas: only you, your parents, or a legal guardian can hold the funds — an uncle's sponsorship letter cannot fix ineligible funds. Full rules in [who can sponsor your UK student visa](/who-can-sponsor-your-uk-student-visa-proof-of-funds).
+*   UK visit visas: flexible — any credible host/relative can support, but [you must still show personal funds and ties](/how-much-bank-balance-is-required-for-uk-visit-visa-from-nigeria).
+*   Canada: extended family sponsorship is workable with strong documentation — see the [sponsor bank statement requirements for Canada](/sponsor-bank-statement-for-canada-study-permit-nigeria-complete-requirements-tips).
+*   USA: any sponsor, but credibility is tested at interview; US-based sponsors should complete Form I-134 alongside the letter — see the [F1 sponsor letter guide](/usa-f1-visa-proof-of-funds-nigeria-sponsor-letter-complete-guide).
+*   Schengen: France uses the *attestation d'accueil*, Spain the *carta de invitación* — official forms, not free-text letters, plus the sponsor's statements.
 
 ## Sponsorship Letter Format (Financial Support)
 
-> **[Sponsor's full name]**
+> [Sponsor's full name]
 > [Address] · [Phone] · [Email]
 > [Date]
 >
-> **To:** The Visa Officer, [Embassy/High Commission], [City]
+> To: The Visa Officer, [Embassy/High Commission], [City]
 >
-> **Re: Financial sponsorship of [Applicant's full name], passport no. [XXXXXXX]**
+> Re: Financial sponsorship of [Applicant's full name], passport no. [XXXXXXX]
 >
 > Dear Sir/Madam,
 >
@@ -41,9 +41,9 @@ Before drafting anything, confirm the destination's sponsor rules — this is th
 > [Signature]
 > [Full name]
 
-**Enclose with it:** sponsor's bank statements (6 months), bank reference letter, proof of income (employment letter/CAC documents), proof of relationship (birth/marriage certificates), and the sponsor's ID/passport data page.
+Enclose with it: sponsor's bank statements (6 months), bank reference letter, proof of income (employment letter/CAC documents), proof of relationship (birth/marriage certificates), and the sponsor's ID/passport data page.
 
-![Sponsor preparing supporting documents](/wp-content/uploads/2025/09/Proof-of-Fund-in-Nigeria-1.webp)
+![Proof of Fund NG: Your Trusted Partner for Visa Funding. WhatsApp 08103669924](/wp-content/uploads/2025/09/Proof-of-Fund-in-Nigeria-1.webp)
 
 ## Invitation Letter Format (Host Abroad)
 
@@ -62,9 +62,9 @@ Before drafting anything, confirm the destination's sponsor rules — this is th
 
 A letter is a claim; the attachments are the evidence. Officers test three things:
 
-1. **Capacity** — does the sponsor's income plausibly support the promise? A sponsor pledging ₦30m on a ₦400k salary triggers the same [genuineness analysis](/funds-parking-why-large-unexplained-deposits-get-nigerian-visas-refused) as any suspicious statement, and sponsor accounts get [verified with banks](/how-do-embassies-verify-bank-statements-in-nigeria) too.
-2. **Relationship** — documents beat assertions: birth certificates, marriage certificates, photos for hosts.
-3. **Consistency** — the letter's numbers must match the statements, the application form, and (for the US) the interview answers.
+1. Capacity — does the sponsor's income plausibly support the promise? A sponsor pledging ₦30m on a ₦400k salary triggers the same [genuineness analysis](/funds-parking-why-large-unexplained-deposits-get-nigerian-visas-refused) as any suspicious statement, and sponsor accounts get [verified with banks](/how-do-embassies-verify-bank-statements-in-nigeria) too.
+2. Relationship — documents beat assertions: birth certificates, marriage certificates, photos for hosts.
+3. Consistency — the letter's numbers must match the statements, the application form, and (for the US) the interview answers.
 
 ## Five Mistakes That Void Sponsorship Letters
 
@@ -78,12 +78,11 @@ A letter is a claim; the attachments are the evidence. Officers test three thing
 
 Sometimes the letter is perfect and the money is the issue — the sponsor's balance is too small, too new, or in the wrong shape. That's a structuring problem, and it has legal solutions: transferred-and-seasoned funds, documented gifts, or professionally structured proof of funds in the applicant's or an eligible sponsor's name.
 
-**Message [POF NG](/) on WhatsApp at 08103669924** with your destination and sponsor situation — we'll tell you which structure your embassy accepts and set it up with full documentation. Check your required amount first with the [proof of funds calculator](/proof-of-fund-calculator).
+Message [Proof of Fund NG](/) on WhatsApp at 08103669924 with your destination and sponsor situation — we'll tell you which structure your embassy accepts and set it up with full documentation. Check your required amount first with the [proof of funds calculator](/proof-of-fund-calculator).
 
-### Official Resources
 
-- [Central Bank of Nigeria](https://www.cbn.gov.ng/)
-- [World Bank](https://www.worldbank.org/)
-- [IOM: International Organization for Migration](https://www.iom.int/)
-- [Nigerian Bar Association](https://nigerianbar.org.ng/)
-- [XE: Currency converter](https://www.xe.com/)
+
+---
+Prefer an in-person meeting?
+You can also visit us at our office:
+📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

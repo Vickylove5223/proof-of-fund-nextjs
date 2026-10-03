@@ -84,7 +84,7 @@ This is where many applicants face challenges. Are you worried about meeting thi
 
 We can help.
 
-At POF NG, we specialize in connecting you with reliable finance partners to secure verifiable and embassy-accepted Proof of Funds. We understand the specific [proof of funds requirements](/guides/learn-about-proof-of-funds-requirements-in-nigeria) and ensure your documentation is perfect, preventing common mistakes that lead to rejection.
+At Proof of Fund NG, we specialize in connecting you with reliable finance partners to secure verifiable and embassy-accepted Proof of Funds. We understand the specific [proof of funds requirements](/guides/learn-about-proof-of-funds-requirements-in-nigeria) and ensure your documentation is perfect, preventing common mistakes that lead to rejection.
 
 Our process is fast, secure, and designed to give you peace of mind.
 

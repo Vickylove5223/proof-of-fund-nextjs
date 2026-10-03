@@ -173,7 +173,7 @@ Choosing your destination is the first exciting step. The next is navigating the
 
 Embassies need to see that you have the financial capacity to settle in, and a mistake here can lead to instant rejection.
 
-At POF NG, we specialize in helping Nigerians secure authentic, verifiable Proof of Funds for visa, school, and travel applications. We connect you with trusted financial partners to ensure your documents are 100% compliant with embassy standards.
+At Proof of Fund NG, we specialize in helping Nigerians secure authentic, verifiable Proof of Funds for visa, school, and travel applications. We connect you with trusted financial partners to ensure your documents are 100% compliant with embassy standards.
 
 Don’t let financial proof stand in the way of your dreams.
 

@@ -11,7 +11,7 @@ seo_title: 14 Rules for a Bulletproof Canada Study Permit Proof of Funds
 image: /images/finance-1.png
 ---
 
-Congratulations! You’ve finally received your admission letter to a Canadian university or college. But before you start packing your bags, you have to face the most notorious hurdle in the Canadian immigration process: **Proof of Funds (POF)**. At [**POF NG**](http://afrikamombraids.local/), we’ve seen countless brilliant students get handed a heartbreak letter from the IRCC simply because their bank statements were poorly structured or lacked sufficient funds. To help you avoid this, we have broken down the top rules you must follow when submitting your financial documents for a Canadian Study Permit. More importantly, if you have your admission but **do not have the millions of Naira required to sit in your account**, keep reading. We have a legitimate, affordable solution for you.
+Congratulations! You’ve finally received your admission letter to a Canadian university or college. But before you start packing your bags, you have to face the most notorious hurdle in the Canadian immigration process: **Proof of Funds (POF)**. At [**Proof of Fund NG**](http://afrikamombraids.local/), we’ve seen countless brilliant students get handed a heartbreak letter from the IRCC simply because their bank statements were poorly structured or lacked sufficient funds. To help you avoid this, we have broken down the top rules you must follow when submitting your financial documents for a Canadian Study Permit. More importantly, if you have your admission but **do not have the millions of Naira required to sit in your account**, keep reading. We have a legitimate, affordable solution for you.
 
 ### 1\. Calculate the Exact Amount Required
 
@@ -72,9 +72,9 @@ Merge your financial documents in a logical, chronological order. Put your Lette
 What If You Don’t Have the Millions Required? We Can Help!
 ----------------------------------------------------------
 
-Let’s be realistic. Knowing all these rules is great, but what happens if you have the admission, the passion, and the drive, but your family simply **does not have the ₦30 million to ₦50 million liquid cash** required to sit in a bank account for 6 months? Do you forfeit your admission? Do you give up on your Canadian dream? **Absolutely not. This is exactly why [POF NG](/guides/services) exists.** We bridge the gap for ambitious Nigerians who lack personal liquidity or assets. If you don't have the money to deposit as Proof of Funds, **we provide the funds for you at a highly affordable rate.**
+Let’s be realistic. Knowing all these rules is great, but what happens if you have the admission, the passion, and the drive, but your family simply **does not have the ₦30 million to ₦500 million liquid cash** required to sit in a bank account for 6 months? Do you forfeit your admission? Do you give up on your Canadian dream? **Absolutely not. This is exactly why [Proof of Fund NG](/guides/services) exists.** We bridge the gap for ambitious Nigerians who lack personal liquidity or assets. If you don't have the money to deposit as Proof of Funds, **we provide the funds for you at a highly affordable rate.**
 
-### Why Choose POF NG?
+### Why Choose Proof of Fund NG?
 
 *   **100% Verifiable Funds:** We provide real, legitimate liquidity that drops into your account and stays there for the required duration.
 *   **No Collateral Nightmares:** You don't need to surrender your landed properties or cars to us.
@@ -84,4 +84,4 @@ Let’s be realistic. Knowing all these rules is great, but what happens if you 
 Don't Let Lack of Cash Stop Your "Japa" Plans!
 ----------------------------------------------
 
-Your Canadian study permit is within reach, and your financial statement shouldn't be the reason you get denied. Let **POF NG** handle the financial heavy lifting so you can focus on preparing for your new life abroad. Our dedicated live support team is online right now, ready to analyze your specific school fees, calculate the exact exchange rate, and provide you with the funds you need. Take action today. Send us a DM, secure your Proof of Funds, and get ready to fly!
+Your Canadian study permit is within reach, and your financial statement shouldn't be the reason you get denied. Let **Proof of Fund NG** handle the financial heavy lifting so you can focus on preparing for your new life abroad. Our dedicated live support team is online right now, ready to analyze your specific school fees, calculate the exact exchange rate, and provide you with the funds you need. Take action today. Send us a DM, secure your Proof of Funds, and get ready to fly!

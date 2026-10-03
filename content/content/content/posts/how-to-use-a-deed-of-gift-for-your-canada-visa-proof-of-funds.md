@@ -97,11 +97,11 @@ We know the reality. The exchange rate is high, and raising tens of millions of 
 
 ** You do not have cars to sell or personal cash to lock away for months. Do you abandon your "Japa" dreams?
 
-Absolutely not! At [**POF NG**](/guides/services), we are your sure plug for visa financial backing.
+Absolutely not! At [**Proof of Fund NG**](/guides/services), we are your sure plug for visa financial backing.
 
 **If you don't have the assets or personal money to deposit as POF, we can provide the exact money for you at a highly affordable rate.**
 
-### How POF NG Can Help You:
+### How Proof of Fund NG Can Help You:
 
 *   **We Provide the Liquidity:** We fund your account with the exact millions needed to meet the IRCC (or UK/US) standard.
 *   **No Collateral Needed:** You don't need to submit property documents to us. We have a seamless, applicant-friendly process.

@@ -117,7 +117,7 @@ Conclusion: Your Canadian Dream is Within Reach
 
 Securing a Canadian study permit is a detailed process, and getting your Proof of Funds right is arguably the most critical part. By understanding the requirements, preparing the correct documents, and avoiding common mistakes, you can significantly increase your chances of success.
 
-If you feel overwhelmed or need assistance meeting the financial threshold, remember that you have a reliable partner in POF NG. We are committed to helping you navigate this journey smoothly and successfully.
+If you feel overwhelmed or need assistance meeting the financial threshold, remember that you have a reliable partner in Proof of Fund NG. We are committed to helping you navigate this journey smoothly and successfully.
 
 Contact us today for a free consultation and let’s make your dream of studying in Canada a reality.
 

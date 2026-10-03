@@ -68,7 +68,7 @@ How We Can Help You Secure Your Proof of Funds
 
 We know that gathering such a large sum of money can be challenging. For many students, personal or family savings may not be readily available for the required duration. This is where a professional service can provide a solution.
 
-At POF NG, we connect you with trusted financial partners who can help you meet the embassy’s requirements. Our service ensures you get authentic, verifiable financial documents that comply with Austrian visa standards. To understand more about this process, you can [learn how Proof of Funds works in Nigeria](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) through our detailed guide.
+At Proof of Fund NG, we connect you with trusted financial partners who can help you meet the embassy’s requirements. Our service ensures you get authentic, verifiable financial documents that comply with Austrian visa standards. To understand more about this process, you can [learn how Proof of Funds works in Nigeria](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) through our detailed guide.
 
 \[IMAGE: A Nigerian student looking confident while reviewing their visa application documents with a financial advisor.\]
 
@@ -91,4 +91,4 @@ Conclusion: Your Austrian Dream is Within Reach
 
 Securing Proof of Funds for your Austrian student visa is a detailed but achievable task. By understanding the requirements, choosing the right method, calculating the correct amount, and preparing your documents carefully, you can confidently move forward with your application. Remember to always use official sources like the [Study in Austria](https://www.studyinaustria.at/en/) portal for guidance.
 
-Don’t let financial proof stand in the way of your educational goals. If you need assistance or have questions about securing your POF, we are here to help. Contact [POF NG](http://afrikamombraids.local/) today for reliable and stress-free support on your journey to studying in Austria.
+Don’t let financial proof stand in the way of your educational goals. If you need assistance or have questions about securing your POF, we are here to help. Contact [Proof of Fund NG](http://afrikamombraids.local/) today for reliable and stress-free support on your journey to studying in Austria.

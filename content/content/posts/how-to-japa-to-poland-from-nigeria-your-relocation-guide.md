@@ -59,7 +59,7 @@ Here is a basic list of what you will likely need:
 
 You must show the embassy that you have enough money to support yourself in Poland. This is called Proof of Funds (POF). It is not just a suggestion. It is a must-have. Many visas are rejected because the POF is not correct.
 
-This document proves your financial stability. It tells the embassy you will not become a burden on their country. Getting this right is key to getting your visa approved. If you need help with this, we at POF NG are experts. We connect you with trusted financial partners to provide the documents you need. You can [learn how Proof of Funds works](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) on our website.
+This document proves your financial stability. It tells the embassy you will not become a burden on their country. Getting this right is key to getting your visa approved. If you need help with this, we at Proof of Fund NG are experts. We connect you with trusted financial partners to provide the documents you need. You can [learn how Proof of Funds works](/guides/learn-how-proof-of-fund-pof-works-in-nigeria-step-by-step-guide) on our website.
 
 \[IMAGE\_2\]
 
@@ -93,4 +93,4 @@ Your Journey to Poland Starts Now
 
 Moving to Poland from Nigeria is a big step, but it is very possible. By following these steps, you can make your dream a reality. Remember to choose the right visa, gather your documents carefully, and pay special attention to your Proof of Funds.
 
-With good planning, your 'JAPA' journey to Poland can be smooth and successful. If you need reliable and fast help with your Proof of Funds, we are here for you. Visit our website at [POF NG](http://afrikamombraids.local/) to get started with a trusted partner today.
+With good planning, your 'JAPA' journey to Poland can be smooth and successful. If you need reliable and fast help with your Proof of Funds, we are here for you. Visit our website at [Proof of Fund NG](http://afrikamombraids.local/) to get started with a trusted partner today.

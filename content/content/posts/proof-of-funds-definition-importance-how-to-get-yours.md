@@ -86,7 +86,7 @@ Finding a Reliable Provider in Nigeria
 
 Choosing a legitimate provider is essential for a risk-free process. A reliable agent acts as your guide, connecting you only with licensed financial institutions. There are several [top Proof of Funds providers in Nigeria](/guides/10-best-proof-of-funds-providers-in-nigeria) known for their secure and efficient services. Top-rated companies include:
 
-*   **POF NG (Proof of Funds Nigeria)**
+*   **Proof of Fund NG (Proof of Funds Nigeria)**
 *   Davcrest Finance Ltd
 *   Verifund Africa
 *   SwiftFunds NG

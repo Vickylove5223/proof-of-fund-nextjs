@@ -104,7 +104,7 @@ What If You Don’t Have the Millions Required? We Can Help!
 
 ----------------------------------------------------------
 
-Let’s be realistic. Knowing all these rules is great, but what happens if you have the admission, the passion, and the drive, but your family simply **does not have the ₦30 million to ₦50 million liquid cash** required to sit in a bank account for 6 months?
+Let’s be realistic. Knowing all these rules is great, but what happens if you have the admission, the passion, and the drive, but your family simply **does not have the ₦30 million to ₦500 million liquid cash** required to sit in a bank account for 6 months?
 
 Do you forfeit your admission? Do you give up on your Canadian dream?
 
@@ -112,7 +112,7 @@ Do you forfeit your admission? Do you give up on your Canadian dream?
 
 If you don't have the money to deposit as Proof of Funds, **we provide the funds for you at a highly affordable rate.**
 
-### Why Choose POF NG?
+### Why Choose Proof of Fund NG?
 
 *   **100% Verifiable Funds:** We provide real, legitimate liquidity that drops into your account and stays there for the required duration.
 *   **No Collateral Nightmares:** You don't need to surrender your landed properties or cars to us.
@@ -121,7 +121,7 @@ If you don't have the money to deposit as Proof of Funds, **we provide the funds
 
 Don't Let Lack of Cash Stop Your "Japa" Plans! ----------------------------------------------
 
-Your Canadian study permit is within reach, and your financial statement shouldn't be the reason you get denied. Let **POF NG** handle the financial heavy lifting so you can focus on preparing for your new life abroad.
+Your Canadian study permit is within reach, and your financial statement shouldn't be the reason you get denied. Let **Proof of Fund NG** handle the financial heavy lifting so you can focus on preparing for your new life abroad.
 
 Our dedicated live support team is online right now, ready to analyze your specific school fees, calculate the exact exchange rate, and provide you with the funds you need. Take action today.
 

@@ -80,7 +80,7 @@ This is one of the most critical steps in any visa application. The Brazilian em
 
 They want assurance that you won't become a public charge. An inadequate or unverifiable Proof of Funds is a major reason [why visa applications get rejected](/guides/why-visa-applications-get-rejected-because-of-pof-learn-how-to-avoid-it).
 
-But what if you don't have the entire required amount sitting in your account? This is where we at POF NG come in.
+But what if you don't have the entire required amount sitting in your account? This is where we at Proof of Fund NG come in.
 
 We connect you with trusted financial partners who can provide you with authentic, verifiable Proof of Funds documents. Our process is fast, secure, and accepted by embassies worldwide, including Brazil's.
 
@@ -96,10 +96,10 @@ The consular officer may want to interview you to verify the information in your
 
 If you're going for work, be ready to discuss your job. If you're a student, talk about your course and future goals.
 
-How POF NG Makes Your Brazil Dream a Reality
+How Proof of Fund NG Makes Your Brazil Dream a Reality
 --------------------------------------------
 
-Securing the right Proof of Funds can be stressful, but it doesn’t have to be. At POF NG, we've simplified the entire process.
+Securing the right Proof of Funds can be stressful, but it doesn’t have to be. At Proof of Fund NG, we've simplified the entire process.
 
 We understand the specific requirements of the Brazilian embassy and ensure your documentation is perfect.
 
@@ -124,6 +124,6 @@ Moving from Nigeria to Brazil is an achievable dream. It requires diligence, pro
 
 By understanding the visa options, gathering the right documents, and preparing for each step, you can successfully navigate the process.
 
-Don't let the Proof of Funds requirement stand in your way. Let our team at POF NG handle the financial verification so you can focus on starting your new chapter in the beautiful and vibrant country of Brazil.
+Don't let the Proof of Funds requirement stand in your way. Let our team at Proof of Fund NG handle the financial verification so you can focus on starting your new chapter in the beautiful and vibrant country of Brazil.
 
 Ready to take the first step? local/) today to get a free consultation and see how we can help make your japa plans a success.

@@ -12,7 +12,7 @@ image: >-
   https://images.pexels.com/photos/5563472/pexels-photo-5563472.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
 ---
 
-Facing a Canada embassy interview in Nigeria can feel like the final, most nerve-wracking step in your journey. After all the paperwork and waiting, it all comes down to a short conversation. But don’t worry. With the right preparation, you can walk into that interview room with confidence. At POF NG, we’ve helped countless applicants secure their financial documents, and we understand the importance of being ready for every stage.
+Facing a Canada embassy interview in Nigeria can feel like the final, most nerve-wracking step in your journey. After all the paperwork and waiting, it all comes down to a short conversation. But don’t worry. With the right preparation, you can walk into that interview room with confidence. At Proof of Fund NG, we’ve helped countless applicants secure their financial documents, and we understand the importance of being ready for every stage.
 
 This guide breaks down the 10 most common questions asked during a Canada interview at the embassy for Nigerians. We’ll provide insights into what the visa officer is really asking and how you can frame your answers for success.
 
@@ -90,4 +90,4 @@ Conclusion: Your Success is in the Preparation
 
 A Canada embassy interview for Nigerians is a straightforward process when you are well-prepared. The key is to be honest, consistent, and clear in your responses. Your goal is to paint a clear picture of your intentions and prove you meet all the requirements for the visa you’re applying for.
 
-A major part of this preparation is ensuring your financial documents are flawless. If you need assistance securing verifiable and embassy-approved Proof of Funds, we are here to help. Visit [POF NG](http://afrikamombraids.local/) to ensure your financial standing is perfectly presented, giving you one less thing to worry about on your big day.
+A major part of this preparation is ensuring your financial documents are flawless. If you need assistance securing verifiable and embassy-approved Proof of Funds, we are here to help. Visit [Proof of Fund NG](http://afrikamombraids.local/) to ensure your financial standing is perfectly presented, giving you one less thing to worry about on your big day.

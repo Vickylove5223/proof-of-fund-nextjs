@@ -18,7 +18,7 @@ The definitive answer is that successfully handling proof of funds for canada vi
 
 Are you feeling torn between sponsoring yourself or having a family member act as your sponsor for your Canadian visa? Choosing the right sponsor and gathering the correct documentation is one of the most critical steps in the application process.
 
-At **POF NG**, we specialize in making this journey seamless for you.
+At **Proof of Fund NG**, we specialize in making this journey seamless for you.
 
 If you don't have the assets or personal money to deposit as Proof of Funds (POF), we can provide the necessary funds at an affordable rate to help you secure your visa.
 
@@ -66,9 +66,9 @@ To avoid being flagged for "insufficient evidence," you must prepare the followi
 
 *   **Unofficial Documents:** Screenshots of WhatsApp chats or emails are not considered official proof of a relationship or sponsorship commitment.
 
-### **How POF NG Can Help You Succeed**
+### **How Proof of Fund NG Can Help You Succeed**
 
-Planning your bank statement should start at least four to five months before your application. If you find yourself short on funds or struggling to build a stable bank statement, **POF NG** is here to bridge the gap.
+Planning your bank statement should start at least four to five months before your application. If you find yourself short on funds or struggling to build a stable bank statement, **Proof of Fund NG** is here to bridge the gap.
 
 We provide legitimate Proof of Funds at an affordable rate, ensuring your application meets all IRCC requirements. Whether you need a boost to your existing funds or a complete POF solution, our team is ready to attend to you.
 
@@ -84,4 +84,4 @@ Don't let "insufficient funds" be the reason for a rejection.
 
 *   [Nigeria Bar Association - Find a Notary Public](https://nigerianbar.org.ng/)
 
-_Disclaimer: POF NG provides financial assistance for documentation purposes. We recommend consulting with a registered immigration expert for legal advice regarding your specific application._
+_Disclaimer: Proof of Fund NG provides financial assistance for documentation purposes. We recommend consulting with a registered immigration expert for legal advice regarding your specific application._
