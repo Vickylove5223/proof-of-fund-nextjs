@@ -11,7 +11,7 @@ Applying for a Standard Visitor Visa to the United Kingdom from Nigeria requires
 If you are searching for the complete UK Visit Visa requirements in Nigeria, this definitive checklist covers the exact documents you must prepare to ensure a successful application in 2026.
 
 > Need a strong Bank Statement for your UK Tourist Visa? We provide secure commercial bank funding to prove your financial stability.
-> 📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
+>  Call: [08103669924](tel:08103669924) |  WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
 
 ### 1. Proof of Funds (The Most Critical Requirement)
 
@@ -39,11 +39,9 @@ You need to clearly show what you plan to do in the UK.
 *   A valid Nigerian passport (with at least 6 months validity and a blank page).
 *   Any previous passports showing your travel history (which heavily boosts your credibility).
 
----
-🔥 The #1 reason for UK Visit Visa refusal is "Insufficient or Unverifiable Funds."
+ The #1 reason for UK Visit Visa refusal is "Insufficient or Unverifiable Funds."
 Secure a flawless, 100% verifiable bank statement with Proof of Fund NG.
-📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Message us now](https://wa.me/2348103669924)
----
+ Call: [08103669924](tel:08103669924) |  WhatsApp: [Message us now](https://wa.me/2348103669924)
 
 ### Perfect Your Financial Presentation with Proof of Fund NG
 
@@ -53,12 +51,11 @@ We provide temporary liquidity by depositing real, verifiable cash (from ₦3 Mi
 
 ### Ready to proceed?
 Call or WhatsApp us immediately to get your travel account funded:
-📞 Call us directly: [08103669924](tel:08103669924)  
-💬 Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
+ Call us directly: [08103669924](tel:08103669924)  
+ Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
 
 *Proof of Fund NG is your trusted partner for fast, secure, and hassle-free Proof of Funds in Nigeria.*
 
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

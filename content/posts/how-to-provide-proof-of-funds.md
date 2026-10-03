@@ -97,9 +97,6 @@ We provide a fast, reliable, and secure way to obtain embassy-acceptable Proof o
 
 Ready to secure your visa without financial stress? [Contact Proof of Fund NG](/) for a free consultation, and let us help you make your move abroad a success story.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

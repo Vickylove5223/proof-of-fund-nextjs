@@ -13,7 +13,7 @@ The good news is that the global education market has evolved. Many top-tier des
 Here is everything you need to know about navigating easy visa routes and avoiding the hidden financial traps that cause rejections.
 
 > Visa approvals depend heavily on your bank statement, not just IELTS. We provide secure commercial bank funding for student visas globally.
-> 📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
+>  Call: [08103669924](tel:08103669924) |  WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
 
 ### Can I Go to the UK Without IELTS on a Study Visa?
 Yes, absolutely! The United Kingdom is one of the easiest top-tier countries for Nigerians to access without an IELTS score. Most UK universities will waive the IELTS requirement if you have a WAEC or NECO certificate with a C6 or higher in English Language. Once the university issues your CAS (Confirmation of Acceptance for Studies) without requiring IELTS, the UKVI visa officer will not ask for it either.
@@ -37,11 +37,9 @@ Here is a critical warning: Many students focus entirely on escaping the IELTS e
 
 If you ask any immigration consultant, they will tell you that Proof of Funds (POF)—not language proficiency—is the #1 reason Nigerian student visas are denied. Even if a country gives visas "easily," their embassy will mercilessly reject you if your bank statement looks fraudulent, insufficient, or comes from an unverified microfinance bank.
 
----
-🔥 Don't let a bad bank statement ruin your easy visa process!
+ Don't let a bad bank statement ruin your easy visa process!
 Proof of Fund NG provides 100% verifiable bank statements from recognized commercial banks.
-📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Message us now](https://wa.me/2348103669924)
----
+ Call: [08103669924](tel:08103669924) |  WhatsApp: [Message us now](https://wa.me/2348103669924)
 
 ### Secure Your Visa with Proof of Fund NG
 
@@ -51,12 +49,11 @@ Proof of Fund NG guarantees that your financial documents will not be the reason
 
 ### Ready to proceed?
 Call or WhatsApp us immediately to secure your verifiable POF document:
-📞 Call us directly: [08103669924](tel:08103669924)  
-💬 Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
+ Call us directly: [08103669924](tel:08103669924)  
+ Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
 
 *Proof of Fund NG is your trusted partner for fast, secure, and hassle-free Proof of Funds in Nigeria.*
 
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

@@ -111,9 +111,6 @@ Reach out to Proof of Fund NG for professional guidance tailored to your specifi
 ### Local Services in Lagos
 For those specifically looking for proof of funds services in Lagos, visiting a physical office or working with a verified local agent can provide extra peace of mind before you make any commitments.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

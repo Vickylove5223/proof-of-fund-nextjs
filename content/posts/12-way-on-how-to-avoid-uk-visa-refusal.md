@@ -151,9 +151,6 @@ Follow these instructions exactly, and you'll significantly improve your chances
 
 _Remember: UK visa approval depends on demonstrating you have genuine funds available for your stay. Proof of funds is not just about having money—it's about showing you understand and can follow immigration requirements properly._
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

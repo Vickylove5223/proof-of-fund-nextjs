@@ -110,18 +110,13 @@ Here is the general consensus from top Nairaland travel threads regarding Globus
 
 Instead of guessing which online agent to trust from a Nairaland forum, go straight to the experts. Proof of Fund NG partners directly with Globus Bank to ensure your account is funded with real liquid cash in 24 hours.
 
----
-🔥 Stop risking your visa approval with insufficient funds or fake documents!
+ Stop risking your visa approval with insufficient funds or fake documents!
 Proof of Fund NG provides 100% verifiable Globus Bank statements.
-📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Message us now](https://wa.me/2348103669924)
----
+ Call: [08103669924](tel:08103669924) |  WhatsApp: [Message us now](https://wa.me/2348103669924)
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
 
 
 ### Is Globus Bank a strong bank?

@@ -112,9 +112,6 @@ Let us handle the financial documentation so you can focus on your move to Canad
 
 Ready to begin? Contact us today for a free consultation!
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

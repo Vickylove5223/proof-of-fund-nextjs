@@ -106,9 +106,6 @@ Contact us today for a free consultation and let’s make your dream of studying
 
 Follow reputable education-news sources that often cover stories on international education.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

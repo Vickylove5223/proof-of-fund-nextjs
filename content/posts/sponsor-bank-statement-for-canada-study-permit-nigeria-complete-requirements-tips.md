@@ -105,9 +105,6 @@ At Proof of Fund NG, we have helped hundreds of Nigerian students and their fami
 
 Don’t let weak financial documentation derail your Canadian study dream. Build a professional and convincing sponsor package the right way.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

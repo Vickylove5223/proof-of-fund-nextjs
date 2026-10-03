@@ -110,9 +110,6 @@ If you need a reliable and lawful way to meet the financial threshold without ty
 
 [Contact Proof of Fund NG](/) to get started!
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

@@ -52,9 +52,6 @@ Your visa success is our priority. Let us handle the heavy lifting of your finan
 
 Chat with our live support. Our team is online and ready to attend to you right now:
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

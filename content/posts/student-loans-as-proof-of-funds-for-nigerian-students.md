@@ -58,9 +58,6 @@ The strongest applications we see combine sources transparently: loan letter for
 
 Message us on WhatsApp at 08103669924 with your destination, I-20/CAS amount, and loan status — we'll map the exact hybrid file. Or start with the [proof of funds calculator](/proof-of-fund-calculator) to see your remaining gap.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

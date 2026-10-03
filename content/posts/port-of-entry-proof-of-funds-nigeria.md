@@ -29,10 +29,9 @@ The purpose of this scrutiny is straightforward: immigration authorities want to
 
 
 ---
-🔥 Stop risking your visa approval with insufficient funds!
+ Stop risking your visa approval with insufficient funds!
 Proof of Fund NG provides 100% verifiable bank statements from top commercial banks.
-📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Message us now](https://wa.me/2348103669924)
----
+ Call: [08103669924](tel:08103669924) |  WhatsApp: [Message us now](https://wa.me/2348103669924)
 
 ### Essential Documents for the Border
 
@@ -60,8 +59,8 @@ If you have spent your savings on flights and tuition, Proof of Fund NG provides
 
 When you use our Port of Entry funding service, we ensure your finances can withstand any level of border scrutiny through:
 
-*   📱 Digital Evidence: Access your verifiable account balances digitally on your mobile device for easy presentation at the airport.
-*   ⚡ Instant Verification: Real-time balance updates ensuring your account is ready exactly when the officer checks.
+*    Digital Evidence: Access your verifiable account balances digitally on your mobile device for easy presentation at the airport.
+*    Instant Verification: Real-time balance updates ensuring your account is ready exactly when the officer checks.
 *   Border Compliance: Full compliance with international immigration standards for financial verification at the border.
 
 Securing your POE funds with Proof of Fund NG guarantees:
@@ -86,13 +85,11 @@ Don't leave your entry to chance and risk being sent back on the next flight. Se
 
 ### Ready to proceed?
 Call or WhatsApp us immediately to get your account funded:
-📞 Call us directly: [08103669924](tel:08103669924)  
-💬 Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
+ Call us directly: [08103669924](tel:08103669924)  
+ Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
 
 *Proof of Fund NG is your trusted partner for fast, secure, and hassle-free Proof of Funds in Nigeria.*
 
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

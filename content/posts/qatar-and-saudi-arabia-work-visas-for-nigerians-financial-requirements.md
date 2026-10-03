@@ -49,9 +49,6 @@ For Gulf work visas: mostly by telling you the truth — don't pay for proof of 
 
 WhatsApp: 08103669924 — tell us the route you've been offered, and we'll tell you honestly whether money should be changing hands at all.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

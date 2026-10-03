@@ -97,9 +97,6 @@ The financial proof requirement is often the biggest challenge, but it doesn’t
 
 Contact us today to get a free quote and let us help make your journey to Poland stress-free.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

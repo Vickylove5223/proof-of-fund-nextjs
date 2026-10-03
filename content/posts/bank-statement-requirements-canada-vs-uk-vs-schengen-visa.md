@@ -13,7 +13,7 @@ If you are gathering your Proof of Funds (POF), you must format your financial p
 Here is the ultimate comparison guide to ensure your documents pass the strict checks of each embassy.
 
 > Need an embassy-compliant bank statement for Canada, UK, or Europe? We provide tailored commercial bank funding in 24 hours.
-> 📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
+>  Call: [08103669924](tel:08103669924) |  WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
 
 ### 1. Canada (IRCC) Bank Statement Rules
 
@@ -42,11 +42,9 @@ Schengen embassies (France, Germany, Italy, etc.) are deeply concerned with dail
 
 Regardless of whether you are applying to Canada, the UK, or the Schengen zone, all three highly prefer Tier-1 Commercial Banks over microfinance institutions. 
 
----
-🔥 Don't let a formatting error ruin your visa!
+ Don't let a formatting error ruin your visa!
 Proof of Fund NG provides 100% verifiable bank statements tailored exactly to your embassy's rules.
-📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Message us now](https://wa.me/2348103669924)
----
+ Call: [08103669924](tel:08103669924) |  WhatsApp: [Message us now](https://wa.me/2348103669924)
 
 ### Get the Right Funding with Proof of Fund NG
 
@@ -56,12 +54,11 @@ If you need a 30-day untouched balance for the UK, we provide it. If you need 4-
 
 ### Ready to proceed?
 Call or WhatsApp us immediately to get your account funded correctly:
-📞 Call us directly: [08103669924](tel:08103669924)  
-💬 Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
+ Call us directly: [08103669924](tel:08103669924)  
+ Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
 
 *Proof of Fund NG is your trusted partner for fast, secure, and hassle-free Proof of Funds in Nigeria.*
 
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

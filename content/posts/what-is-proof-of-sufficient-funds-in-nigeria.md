@@ -84,9 +84,6 @@ Visit our website to [get started with your Proof of Funds in Nigeria](/how-to-g
 
 ![Don't Risk Visa Refusal - Get Authentic Proof of Funds Today (08103669924)](/wp-content/uploads/2025/11/image-4.jpg)
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

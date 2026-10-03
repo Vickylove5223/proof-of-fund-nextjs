@@ -104,9 +104,6 @@ Remember, preparation is key. When you're ready to handle the financial proof pa
 
 Check out the specific [visa requirements](/see-requirements) on our site and contact us to get started on your journey.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

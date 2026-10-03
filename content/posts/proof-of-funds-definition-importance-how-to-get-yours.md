@@ -101,9 +101,6 @@ Proof of Funds is more than just a document; it's your ticket to demonstrating c
 
 By understanding what POF is and how to obtain it correctly, you can confidently navigate this crucial step and move closer to achieving your goals abroad. [Contact Proof of Fund NG](/) can provide the peace of mind needed to succeed.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

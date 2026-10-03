@@ -129,8 +129,6 @@ At Proof of Fund NG, we specialize in helping Nigerians navigate the POF process
 
 Get started today – Contact our team for personalized POF assistance and increase your chances of approval.
 
----
-
 _Questions about providing proof of funds? Our experts are ready to help.
 
 Reach out to Proof of Fund NG for professional guidance tailored to your specific situation._
@@ -139,12 +137,9 @@ Reach out to Proof of Fund NG for professional guidance tailored to your specifi
 ### Finding the Best Deal
 While everyone wants the Cheapest proof of funds in Nigeria, remember that quality and verifiability should never be sacrificed for price. The providers listed here offer the best balance of affordability and reliability.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
 
 
 ### What is the cheapest proof of funds in Nigeria, Nairaland?

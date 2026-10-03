@@ -58,9 +58,6 @@ Whether you need the living-expense amount ready for transfer or a compliant sta
 
 Message us on Call/WhatsApp: 08103669924 or run your numbers with the [proof of funds calculator](/proof-of-fund-calculator).
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

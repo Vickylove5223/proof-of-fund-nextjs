@@ -15,7 +15,7 @@ You can obtain verifiable financial documentation through specialized proof of f
 
 
 > Need your Proof of Funds sorted in 24-48 hours? Skip the stress and contact Proof of Fund NG directly for fast, verifiable funding. 
-> 📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Chat with us instantly](https://wa.me/2348103669924)
+>  Call: [08103669924](tel:08103669924) |  WhatsApp: [Chat with us instantly](https://wa.me/2348103669924)
 
 ### Serving All of Nigeria (Process From Anywhere)
 
@@ -36,11 +36,9 @@ At Proof of Fund NG, we partner with top financial institutions to provide proof
 *   Supported Banks: We fund both new and existing accounts of reputable banks like Globus, Fidelity, Parallex, GTB, Access, UBA, and more.
 *   Timeline: We guarantee cash disbursement and documentation within 24 to 48 hours.
 
----
-🔥 Stop risking your visa approval with insufficient funds!
+ Stop risking your visa approval with insufficient funds!
 Proof of Fund NG provides 100% verifiable bank statements from top commercial banks.
-📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Message us now](https://wa.me/2348103669924)
----
+ Call: [08103669924](tel:08103669924) |  WhatsApp: [Message us now](https://wa.me/2348103669924)
 
 ### How the Process Works
 
@@ -66,12 +64,11 @@ The required amount changes depending on where you are going and what visa you a
 
 ### Ready to proceed?
 Call or WhatsApp us immediately to get your account funded:
-📞 Call us directly: [08103669924](tel:08103669924)  
-💬 Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
+ Call us directly: [08103669924](tel:08103669924)  
+ Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
 
 *Proof of Fund NG is your trusted partner for fast, secure, and hassle-free Proof of Funds in Nigeria.*
 
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

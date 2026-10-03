@@ -127,9 +127,6 @@ Getting the right proof of funds is the difference between your Germany student 
 
 [Contact Proof of Fund NG](/) to get started.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

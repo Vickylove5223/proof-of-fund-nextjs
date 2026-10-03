@@ -13,7 +13,7 @@ This is one of the most frequently asked questions on Nigerian travel forums lik
 To satisfy strict embassies like the IRCC (Canada), UKVI (UK), and Schengen consulates, you must understand the vital difference between Proof of Funds (POF) and Home Ties.
 
 > Need Liquid Cash instead of a Property Document? We fund commercial bank accounts within 24 hours.
-> 📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
+>  Call: [08103669924](tel:08103669924) |  WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
 
 ### What Real Estate Valuation Actually Does (Home Ties)
 
@@ -37,11 +37,9 @@ To guarantee visa approval, you need a two-pronged approach:
 1. Submit your Property Documents to prove strong economic ties to Nigeria (so they know you will return).
 2. Submit a Verifiable Bank Statement showing liquid cash to prove you can financially support yourself during your stay.
 
----
-🔥 Stop risking your visa approval with illiquid assets!
+ Stop risking your visa approval with illiquid assets!
 Proof of Fund NG provides 100% verifiable bank statements from top commercial banks.
-📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Message us now](https://wa.me/2348103669924)
----
+ Call: [08103669924](tel:08103669924) |  WhatsApp: [Message us now](https://wa.me/2348103669924)
 
 ### Get the Liquid Cash You Need
 
@@ -51,12 +49,11 @@ We process funding from ₦3 Million up to over ₦500 Million directly into Tie
 
 ### Ready to proceed?
 Call or WhatsApp us immediately to get your account funded correctly:
-📞 Call us directly: [08103669924](tel:08103669924)  
-💬 Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
+ Call us directly: [08103669924](tel:08103669924)  
+ Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
 
 *Proof of Fund NG is your trusted partner for fast, secure, and hassle-free Proof of Funds in Nigeria.*
 
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

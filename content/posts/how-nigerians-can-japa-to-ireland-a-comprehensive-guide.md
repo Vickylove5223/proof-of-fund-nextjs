@@ -98,9 +98,6 @@ At Proof of Fund NG, we specialize in making this crucial step simple and stress
 
 Let us handle the financial proof, so you can focus on starting your exciting new chapter in Ireland.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

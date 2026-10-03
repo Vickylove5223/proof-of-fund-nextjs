@@ -105,9 +105,6 @@ At Proof of Fund NG, we have successfully helped many Nigerian families meet Exp
 
 Don’t let proof of funds hold back your Canadian PR dream. Build credible, IRCC-compliant settlement funds the smart and legitimate way.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

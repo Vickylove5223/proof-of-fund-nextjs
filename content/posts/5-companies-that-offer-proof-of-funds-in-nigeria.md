@@ -92,9 +92,6 @@ Ready to take the next step? [Contact Proof of Fund NG](/) to get started today!
 ### Choosing Your Company
 Selecting the right Proof of funds company can make or break your travel dreams. Stick to the verified companies we have outlined to ensure a smooth, secure transaction.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

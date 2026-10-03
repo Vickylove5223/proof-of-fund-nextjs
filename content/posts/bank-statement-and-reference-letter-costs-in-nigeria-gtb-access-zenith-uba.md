@@ -59,9 +59,6 @@ WhatsApp: 08103669924 — or start with the [proof of funds calculator](/proof-o
 ### GTB Specifics
 For those specifically looking for GTB proof of funds, Guarantee Trust Bank remains one of the most widely accepted and recognized banks by foreign embassies, ensuring your application is viewed favorably.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

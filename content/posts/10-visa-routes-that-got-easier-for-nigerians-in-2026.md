@@ -78,9 +78,6 @@ From Germany's blocked account to Canada's settlement funds, each route has a pr
 
 Message us on WhatsApp at 08103669924 with your chosen route, or run the numbers on the [proof of funds calculator](/proof-of-fund-calculator).
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

@@ -116,9 +116,6 @@ At proofoffund.com.ng, we have helped numerous Nigerian students successfully me
 
 Contact us today via WhatsApp or our website for a free consultation. Share your course details, tuition amount, whether you have family members, preferred bank, and timeline — we will provide clear options and pricing tailored for your Australia student visa application. Don’t risk refusal due to financial documentation. Build a professional and convincing Proof of Funds the right way and boost your chances of approval.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

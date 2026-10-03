@@ -13,7 +13,7 @@ But sifting through forum threads to find accurate, up-to-date information on pe
 In this dedicated guide, we break down exactly why Globus Bank is highly recommended on Nairaland and how you can secure your verifiable statement through Proof of Fund NG in just 24 hours.
 
 > Ready to process your Globus Bank Proof of Funds? 
-> 📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
+>  Call: [08103669924](tel:08103669924) |  WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
 
 ### Why Nairaland Users Love Globus Bank for Visa Applications
 
@@ -33,11 +33,9 @@ While the advice to use Globus Bank is excellent, the Nairaland threads are unfo
 
 Do not fall for PDF editors. Fake agents will simply take a Globus Bank template, edit your name onto it using Photoshop, and charge you a low fee. When the embassy emails the bank to verify the account balance, the bank will deny its existence, resulting in an immediate visa denial and a multi-year ban.
 
----
-🔥 Stop risking your visa approval with fake documents!
+ Stop risking your visa approval with fake documents!
 Proof of Fund NG partners directly with Globus Bank to provide real, liquid cash deposits.
-📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Message us now](https://wa.me/2348103669924)
----
+ Call: [08103669924](tel:08103669924) |  WhatsApp: [Message us now](https://wa.me/2348103669924)
 
 ### How to Safely Get Globus Bank POF (The Right Way)
 
@@ -50,12 +48,11 @@ To guarantee your visa success, you must use a verified, physical agency. Here i
 
 ### Ready to proceed?
 Call or WhatsApp us immediately to get your Globus Bank account funded:
-📞 Call us directly: [08103669924](tel:08103669924)  
-💬 Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
+ Call us directly: [08103669924](tel:08103669924)  
+ Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
 
 *Proof of Fund NG is your trusted partner for fast, secure, and hassle-free Proof of Funds in Nigeria.*
 
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

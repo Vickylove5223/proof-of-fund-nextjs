@@ -92,9 +92,6 @@ Get transparent, effective, and affordable Proof of Funds with us.
 ### Pricing Discussions on Nairaland
 Many applicants search forums asking How much is proof of funds cost in nigeria nairaland. While prices fluctuate, the Proof of funds cost in nigeria nairaland discussions usually align with the standard market rates we have detailed above. Beware of rates that seem suspiciously low.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

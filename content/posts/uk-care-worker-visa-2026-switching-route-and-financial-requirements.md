@@ -48,9 +48,6 @@ Whether you're switching in-country or applying from Lagos, the financial eviden
 
 Message us on WhatsApp at 08103669924, or check your amount on the [proof of funds calculator](/proof-of-fund-calculator).
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

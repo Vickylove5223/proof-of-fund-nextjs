@@ -56,11 +56,9 @@ The most trusted advice shared across Nairaland for securing your POF safely is 
 2. Ensure the funds are 100% verifiable. 
 3. Use a verified agent like Proof of Fund NG who actually deposits real liquid cash into your account, allowing you to generate your statement directly from the bank itself.
 
----
-🔥 Stop risking your visa approval with insufficient funds or fake documents!
+ Stop risking your visa approval with insufficient funds or fake documents!
 Proof of Fund NG provides 100% verifiable bank statements from top commercial banks.
-📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Message us now](https://wa.me/2348103669924)
----
+ Call: [08103669924](tel:08103669924) |  WhatsApp: [Message us now](https://wa.me/2348103669924)
 
 ### Method 1: Using Your Own Funds
 
@@ -118,9 +116,6 @@ Contact us today to request your proof of funds document and take the next step 
 
 Drop a comment below or reach out to our team for personalized assistance._
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

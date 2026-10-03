@@ -142,9 +142,6 @@ If you need assistance securing a verifiable and embassy-approved Proof of Funds
 
 Contact us today for a free consultation!
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

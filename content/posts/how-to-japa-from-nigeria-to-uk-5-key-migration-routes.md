@@ -74,9 +74,6 @@ By planning carefully and seeking the right support, you can turn your ambition 
 
 [Contact Proof of Fund NG](/) to start your journey with confidence.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

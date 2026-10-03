@@ -108,9 +108,6 @@ Remember, preparation is the key to a smooth and successful transition.
 
 Ready to tick Proof of Funds off your list without the hassle? [Contact Proof of Fund NG](/), and let our experts provide the fast, reliable, and embassy-accepted solution you need.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

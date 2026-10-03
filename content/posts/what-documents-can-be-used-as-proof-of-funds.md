@@ -11,7 +11,7 @@ One of the most frequent reasons for visa denials across the UK, Canada, and the
 To guarantee your visa approval, you must submit financial documents that are 100% liquid, verifiable, and globally recognized. Here is the ultimate list of acceptable (and unacceptable) documents for your visa application.
 
 > Need a universally accepted Proof of Funds document? We provide secure commercial bank statements tailored for all embassies.
-> 📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
+>  Call: [08103669924](tel:08103669924) |  WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
 
 ### The Gold Standard: Documents You CAN Use
 
@@ -42,12 +42,9 @@ Many applicants make the devastating mistake of submitting the following documen
 *   Cryptocurrency Portfolios: Bitcoin and other crypto assets are too volatile and are not recognized as legal liquid tender by visa officers.
 *   Vehicle Papers: Owning a fleet of cars does not count as liquid cash.
 
----
-🔥 Stop risking your Visa with unacceptable documents!
+ Stop risking your Visa with unacceptable documents!
 Proof of Fund NG provides 100% verifiable bank statements from recognized commercial banks.
-📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Message us now](https://wa.me/2348103669924)
----
-
+ Call: [08103669924](tel:08103669924) |  WhatsApp: [Message us now](https://wa.me/2348103669924)
 
 ### Proof of Funds Example: What Should Your Bank Statement Look Like?
 If you are looking for a proof of funds example, the ultimate standard is a proof of funds bank statement from a recognized commercial bank. It must include:
@@ -73,12 +70,11 @@ We provide the "Gold Standard" document: a fully verifiable, liquid cash bank st
 
 ### Ready to proceed?
 Call or WhatsApp us immediately to secure your acceptable POF document:
-📞 Call us directly: [08103669924](tel:08103669924)  
-💬 Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
+ Call us directly: [08103669924](tel:08103669924)  
+ Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
 
 *Proof of Fund NG is your trusted partner for fast, secure, and hassle-free Proof of Funds in Nigeria.*
 
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

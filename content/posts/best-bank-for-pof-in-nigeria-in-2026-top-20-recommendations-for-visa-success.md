@@ -86,9 +86,6 @@ Tell us your target bank, amount needed, and destination — we’ll guide you o
 
 Use one of the best banks for POF and give your application the professional edge it deserves.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

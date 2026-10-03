@@ -57,9 +57,6 @@ Tight timelines are the main reason people consider backdating — so know your 
 
 Every situation is different — the destination, the amount, the timeline, and where your money currently sits all change the right structure. Message us on WhatsApp at 08103669924 with your destination and deadline, and we'll tell you honestly what's achievable and how — or start with the [proof of funds calculator](/proof-of-fund-calculator) to see your required amount.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

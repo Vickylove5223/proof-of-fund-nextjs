@@ -11,7 +11,7 @@ Securing an offer from a UK university is an incredible achievement, but the fin
 If you are researching UK student visa proof of funds Nigeria, the single most important concept you must understand is the 28-Day Rule. Failure to comply with this rule will result in an automatic visa refusal, regardless of how much money you have.
 
 > Need funds to cover your 28-Day UK Visa requirement? We provide secure, verifiable funding that sits in your account.
-> 📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
+>  Call: [08103669924](tel:08103669924) |  WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
 
 ### What is the 28-Day Rule?
 
@@ -41,11 +41,9 @@ Leaving ₦25 Million or more untouched in a bank account for a whole month is i
 
 This is exactly where Proof of Fund NG becomes your ultimate solution.
 
----
-🔥 Stop risking your UK Visa approval with fluctuating balances!
+ Stop risking your UK Visa approval with fluctuating balances!
 Proof of Fund NG provides 30-day untouched commercial bank statements.
-📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Message us now](https://wa.me/2348103669924)
----
+ Call: [08103669924](tel:08103669924) |  WhatsApp: [Message us now](https://wa.me/2348103669924)
 
 ### Why Use Proof of Fund NG for Your UK Visa?
 
@@ -57,12 +55,11 @@ We specialize in strictly compliant UK Visa POF funding.
 
 ### Ready to proceed?
 Call or WhatsApp us immediately to start your 28-day UK Visa funding cycle:
-📞 Call us directly: [08103669924](tel:08103669924)  
-💬 Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
+ Call us directly: [08103669924](tel:08103669924)  
+ Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
 
 *Proof of Fund NG is your trusted partner for fast, secure, and hassle-free Proof of Funds in Nigeria.*
 
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

@@ -130,9 +130,6 @@ By choosing a trusted partner, you are choosing peace of mind and a higher chanc
 
 Ready to get started? [Contact Proof of Fund NG](/) for a free consultation, and let us help you take the next step in your journey abroad.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

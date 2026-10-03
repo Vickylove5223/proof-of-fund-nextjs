@@ -59,9 +59,6 @@ Visa officers refuse what they cannot explain. Every naira in your statement sho
 
 If you want your finances structured properly the first time — with no parked funds and no red flags — talk to [Proof of Fund NG](/) on Call/WhatsApp: 08103669924, or start with our [proof of funds calculator](/proof-of-fund-calculator) to see the amount your destination actually requires.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

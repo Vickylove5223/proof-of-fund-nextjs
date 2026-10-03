@@ -13,7 +13,7 @@ The short answer is yes, but it comes with a massive warning label. Using a fixe
 Here is exactly how the IRCC views fixed deposits and what you must do to ensure your visa is approved.
 
 > Want to avoid IRCC rejection over locked funds? Get 100% liquid cash in a commercial bank account through Proof of Fund NG.
-> 📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Chat with us instantly](https://wa.me/2348103669924)
+>  Call: [08103669924](tel:08103669924) |  WhatsApp: [Chat with us instantly](https://wa.me/2348103669924)
 
 ### The IRCC "Liquidity" Rule
 
@@ -38,11 +38,9 @@ Why risk a complex fixed deposit explanation when the IRCC strongly prefers a st
 
 A standard bank statement from a recognized commercial bank leaves zero room for the visa officer to doubt your liquidity. It clearly shows the money is available right now.
 
----
-🔥 Stop risking your Canadian visa approval with locked fixed deposits!
+ Stop risking your Canadian visa approval with locked fixed deposits!
 Proof of Fund NG provides 100% liquid, verifiable bank statements from top commercial banks.
-📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Message us now](https://wa.me/2348103669924)
----
+ Call: [08103669924](tel:08103669924) |  WhatsApp: [Message us now](https://wa.me/2348103669924)
 
 ### How Proof of Fund NG Secures Your Canada Visa
 
@@ -54,12 +52,11 @@ Instead of battling your bank for specialized letters to prove your fixed deposi
 
 ### Ready to proceed?
 Call or WhatsApp us immediately to get your liquid account funded:
-📞 Call us directly: [08103669924](tel:08103669924)  
-💬 Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
+ Call us directly: [08103669924](tel:08103669924)  
+ Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
 
 *Proof of Fund NG is your trusted partner for fast, secure, and hassle-free Proof of Funds in Nigeria.*
 
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

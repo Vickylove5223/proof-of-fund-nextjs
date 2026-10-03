@@ -99,9 +99,6 @@ Proof of Funds is one of the most common reasons UK visa applications get reject
 
 You can avoid unnecessary refusals and secure your UK visa.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

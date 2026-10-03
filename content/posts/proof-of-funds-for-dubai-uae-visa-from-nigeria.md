@@ -91,9 +91,6 @@ Getting a Dubai/UAE visa from Nigeria requires strong financial documentation. A
 
 [Contact Proof of Fund NG](/) and we'll help you get verified proof of funds quickly, discreetly, and affordably.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

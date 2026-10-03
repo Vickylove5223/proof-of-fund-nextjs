@@ -80,9 +80,6 @@ We have helped countless Nigerian students achieve their dreams of studying abro
 
 [Contact Proof of Fund NG](/) today. Our team is ready to provide you with fast, secure, and affordable assistance.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

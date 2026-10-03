@@ -101,9 +101,6 @@ Don't let financial documentation stand in your way of a brighter future. If you
 
 [Contact Proof of Fund NG](/) for a free consultation and let's make your journey to Canada a reality. We are dedicated to helping you navigate the complexities of the Canadian immigration process and achieve your goals. You can also estimate your exact requirement with our [proof of funds calculator](/proof-of-fund-calculator).
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

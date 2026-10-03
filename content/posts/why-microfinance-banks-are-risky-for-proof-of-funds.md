@@ -93,12 +93,9 @@ Are you ready to get an embassy-compliant Proof of Funds without the stress? Con
 
 We’ll connect you with reliable financial partners to ensure your visa application is built on a solid foundation. [Contact Proof of Fund NG](/) to get started!
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
 
 
 ### Can I use Opay as proof of funds?

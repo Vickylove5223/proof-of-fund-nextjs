@@ -63,9 +63,6 @@ You cannot rehearse your way past weak finances — but you can walk in with fin
 
 Prepare your numbers with the [proof of funds calculator](/proof-of-fund-calculator), then message us on Call/WhatsApp: 08103669924 to structure your file before you book that interview date.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

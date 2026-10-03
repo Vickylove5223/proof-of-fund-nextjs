@@ -74,7 +74,7 @@ The living expenses requirement increases if you are traveling with family membe
 *   With 1 family member: higher
 *   With 2–3 family members: even higher
 
-👉 If you’re traveling with your spouse or children, you must add their living expenses to your tuition and show the total amount in your account.
+ If you’re traveling with your spouse or children, you must add their living expenses to your tuition and show the total amount in your account.
 
 ### Key Takeaways
 
@@ -127,9 +127,6 @@ Showing the correct Proof of Funds is crucial for a successful Canada student vi
 
 If you’re applying with your family or want updated amounts for multiple dependents, drop a comment below and I’ll provide the exact figures.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

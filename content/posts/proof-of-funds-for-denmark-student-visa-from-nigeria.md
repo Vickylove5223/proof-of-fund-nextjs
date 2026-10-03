@@ -13,7 +13,7 @@ Thousands of Nigerians search for the exact Proof of Funds for Denmark student v
 Here is your complete, updated guide on how much you need, what documents are accepted, and how to get your funds verified quickly.
 
 > Don't have the millions required for your Denmark visa? We provide secure commercial bank funding for Nigerian students.
-> 📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
+>  Call: [08103669924](tel:08103669924) |  WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
 
 ### How Much is the Proof of Funds for Denmark?
 
@@ -39,11 +39,9 @@ If your account normally holds ₦50,000 and suddenly shows ₦20 Million a week
 
 To prevent this, the funds must either mature naturally in the account over several months, or you must work with a professional Proof of Funds agency that understands how to legally structure the financial narrative.
 
----
-🔥 Stop risking your Denmark Student Visa!
+ Stop risking your Denmark Student Visa!
 Proof of Fund NG provides 100% verifiable bank statements from recognized commercial banks.
-📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Message us now](https://wa.me/2348103669924)
----
+ Call: [08103669924](tel:08103669924) |  WhatsApp: [Message us now](https://wa.me/2348103669924)
 
 ### How Proof of Fund NG Secures Your Denmark Visa
 
@@ -53,12 +51,11 @@ We provide the necessary liquidity by depositing real, verifiable cash (from ₦
 
 ### Ready to proceed?
 Call or WhatsApp us immediately to secure your verifiable POF document:
-📞 Call us directly: [08103669924](tel:08103669924)  
-💬 Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
+ Call us directly: [08103669924](tel:08103669924)  
+ Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
 
 *Proof of Fund NG is your trusted partner for fast, secure, and hassle-free Proof of Funds in Nigeria.*
 
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

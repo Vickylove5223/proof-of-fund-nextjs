@@ -113,9 +113,6 @@ If you need assistance securing authentic, verifiable, and embassy-approved POF,
 
 Ready to take the next step? [Contact Proof of Fund NG](/) today to get a free consultation and let us help make your journey to Australia smooth and successful.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

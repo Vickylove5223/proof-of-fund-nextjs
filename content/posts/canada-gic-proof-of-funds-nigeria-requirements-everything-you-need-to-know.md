@@ -101,9 +101,6 @@ At Proof of Fund NG, we have supported hundreds of Nigerian students with credib
 
 Don’t let financial documentation become the reason for refusal. Build a strong, professional Proof of Funds the right way and increase your chances of Canada study visa approval.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

@@ -11,7 +11,7 @@ Unlike the UK which enforces a very strict and inflexible "28-Day Rule," Canada�
 Whether you are applying for a Study Permit, Express Entry, or a Visitor Visa, understanding how the IRCC (Immigration, Refugees and Citizenship Canada) views your bank history is crucial for approval.
 
 > Need properly structured Proof of Funds for your Canada Visa? We provide secure commercial bank funding to satisfy IRCC requirements.
-> 📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
+>  Call: [08103669924](tel:08103669924) |  WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
 
 ### The 4-to-6 Months History Rule
 
@@ -39,20 +39,17 @@ If you receive a sudden deposit to cover your POF, you must attach a Letter of E
 2. Use a Professional POF Agency:
 By partnering with an agency like Proof of Fund NG, you can secure the necessary liquid funds exactly when you need them. We can fund your account, and our financial experts will guide you on how to properly document and explain the sudden deposit to the IRCC to avoid the "borrowed funds" suspicion.
 
----
-🔥 Stop guessing with IRCC requirements and risking your visa!
+ Stop guessing with IRCC requirements and risking your visa!
 Proof of Fund NG provides 100% verifiable bank statements from top commercial banks.
-📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Message us now](https://wa.me/2348103669924)
----
+ Call: [08103669924](tel:08103669924) |  WhatsApp: [Message us now](https://wa.me/2348103669924)
 
 ### Ready to proceed?
 Call or WhatsApp us immediately to get your account funded correctly:
-📞 Call us directly: [08103669924](tel:08103669924)  
-💬 Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
+ Call us directly: [08103669924](tel:08103669924)  
+ Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
 
 *Proof of Fund NG is your trusted partner for fast, secure, and hassle-free Proof of Funds in Nigeria.*
 
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

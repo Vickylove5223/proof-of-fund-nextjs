@@ -49,9 +49,6 @@ The dream to "Japa" from Nigeria can be achieved through several legitimate path
 
 The key to a successful journey is thorough research, careful planning, and preparing all necessary documents. By understanding these five ultimate ways, Nigerians can make informed decisions and take confident steps toward building a new life abroad.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

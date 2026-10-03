@@ -104,8 +104,6 @@ We recommend you do your final checks, ask questions, and perhaps [use a calcula
 ### Finding a Reliable Agent
 When searching for a proof of funds agent in Nigeria, reputation and reliability are everything. The agents listed above have proven track records of delivering verifiable statements that pass embassy scrutiny.
 
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

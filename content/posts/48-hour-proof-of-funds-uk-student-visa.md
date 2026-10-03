@@ -259,9 +259,6 @@ ng's 48-hour proof-of-funds solution - applicants can overcome time and document
 
 Partner with us for your urgent financial credibility needs and secure your UK student visa with confidence.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

@@ -48,9 +48,6 @@ Processing typically runs 2–8 weeks. Confirm current checklists with the Turki
 
 [Proof of Fund NG](/) structures Türkiye files at their real size — modest amounts, but with the seasoned history and documentation that consulates everywhere expect. WhatsApp: 08103669924, or start with the [proof of funds calculator](/proof-of-fund-calculator).
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

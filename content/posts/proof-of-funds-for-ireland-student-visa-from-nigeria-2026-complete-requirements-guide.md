@@ -112,9 +112,6 @@ At Proof of Fund NG, we have helped many Nigerian students successfully meet Ire
 
 Contact us today via WhatsApp or our website for a free consultation. Tell us your course duration, tuition amount, preferred bank, and timeline — we will provide clear options and pricing tailored for your Ireland student visa application. Don’t risk refusal due to financial documentation. Build a professional and convincing Proof of Funds the right way and boost your chances of approval.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

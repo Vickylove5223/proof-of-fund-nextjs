@@ -57,9 +57,6 @@ You cannot talk your way past finances that don't add up — but finances struct
 
 WhatsApp: 08103669924 — or check your maintenance amount on the [proof of funds calculator](/proof-of-fund-calculator).
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

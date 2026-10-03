@@ -11,7 +11,7 @@ When it comes to financial scrutiny, the UK Visas and Immigration (UKVI) departm
 If you are preparing for your application, understanding the specific UK visa bank statement requirements in Nigeria is critical. You cannot simply print a screenshot from your mobile banking app. The document must meet precise, uncompromising standards.
 
 > Need an embassy-compliant bank statement that passes UKVI checks? We provide secure commercial bank funding tailored for UK visas.
-> 📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
+>  Call: [08103669924](tel:08103669924) |  WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
 
 ### The Mandatory UKVI Bank Statement Checklist
 
@@ -38,11 +38,9 @@ The UKVI maintains an internal list of trusted financial institutions. If you us
 
 Always use Tier-1 Commercial Banks (like Globus, Parallex, Zenith, or Fidelity) to guarantee your statement carries the highest level of authority.
 
----
-🔥 Stop risking your UK Visa approval with poorly formatted statements!
+ Stop risking your UK Visa approval with poorly formatted statements!
 Proof of Fund NG provides 100% verifiable bank statements from top commercial banks.
-📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Message us now](https://wa.me/2348103669924)
----
+ Call: [08103669924](tel:08103669924) |  WhatsApp: [Message us now](https://wa.me/2348103669924)
 
 ### The Proof of Fund NG Solution
 
@@ -52,12 +50,11 @@ We process funding directly into recognized Tier-1 commercial banks. We leave th
 
 ### Ready to proceed?
 Call or WhatsApp us immediately to secure your UK Visa funding:
-📞 Call us directly: [08103669924](tel:08103669924)  
-💬 Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
+ Call us directly: [08103669924](tel:08103669924)  
+ Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
 
 *Proof of Fund NG is your trusted partner for fast, secure, and hassle-free Proof of Funds in Nigeria.*
 
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

@@ -84,9 +84,6 @@ Don't let the complexities of financial proof hold you back. By understanding th
 
 If you need assistance with [getting your financial documents in order](/how-to-get-proof-of-fund-in-nigeria), our team at Proof of Fund NG is here to provide reliable and fast support for your journey.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

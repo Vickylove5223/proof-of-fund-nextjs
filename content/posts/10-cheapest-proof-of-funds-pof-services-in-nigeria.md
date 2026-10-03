@@ -65,9 +65,6 @@ Agents often use small upcoming non-commercial banks that are newer/emerging fin
 - If you don’t have urgency or strict embassy rules, going through big banks like GTB, Access etc. ensures trust—but expect higher cost and more paperwork.
 - If you want speed, low cost, and flexibility, non-bank providers and agents using newer banks through an agent is your best bet.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

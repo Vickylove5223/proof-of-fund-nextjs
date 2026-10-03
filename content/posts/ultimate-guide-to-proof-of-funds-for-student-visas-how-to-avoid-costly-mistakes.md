@@ -80,13 +80,10 @@ Don't let a lack of immediate cash hold you back from your international study o
 
 Our dedicated live support team is online and ready to analyze your specific visa requirements and provide the funding you need.
 
-👉 [Click Here to Chat with Proof of Fund NG Live Support on WhatsApp Now!](https://wa.me/2348103669924)
+ [Click Here to Chat with Proof of Fund NG Live Support on WhatsApp Now!](https://wa.me/2348103669924)
 
 Let [Proof of Fund NG](/) take the financial stress off your shoulders so you can focus on packing your bags. Send us a DM today!
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

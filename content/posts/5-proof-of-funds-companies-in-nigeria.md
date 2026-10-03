@@ -114,7 +114,6 @@ When making your decision, consider factors like turnaround time, the reputation
 
 We recommend conducting your own due diligence and contacting a few providers to compare their services and fees. By selecting a reliable partner, you can confidently submit your application, knowing your financial documentation is authentic, verifiable, and compliant with all regulations.
 
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

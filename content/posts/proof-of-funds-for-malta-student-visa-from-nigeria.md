@@ -43,9 +43,6 @@ Malta sits mid-table among low-requirement destinations — costlier than [Polan
 
 WhatsApp: 08103669924 — or check your total on the [proof of funds calculator](/proof-of-fund-calculator).
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

@@ -75,9 +75,6 @@ _Disclaimer: Proof of Fund NG provides financial documentation services. We are 
 
 Always consult your school’s International Student Office for specific I-20 requirements._
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

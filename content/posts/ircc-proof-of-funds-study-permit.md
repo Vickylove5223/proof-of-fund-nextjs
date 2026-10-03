@@ -13,7 +13,7 @@ The Immigration, Refugees and Citizenship Canada (IRCC) requires absolute proof 
 Here is exactly what the IRCC demands for your study permit in 2026.
 
 > Struggling to meet the IRCC financial requirements? We provide 100% verifiable commercial bank funding.
-> 📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
+>  Call: [08103669924](tel:08103669924) |  WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
 
 ### How Much Does the IRCC Require for a Study Permit?
 
@@ -42,12 +42,9 @@ The most common and flexible method for Nigerians is a 4-to-6-month bank stateme
 1.  Using Microfinance Banks: The IRCC struggles to verify statements from digital wallets (like OPay) or small microfinance banks. Always use a recognized commercial bank.
 2.  Sudden Lump Sum Deposits: If your account normally holds ₦50,000 and suddenly shows ₦40 Million a week before your application, the IRCC will reject it as "borrowed funds" unless you provide a sworn Gift Deed or Letter of Explanation.
 
----
-🔥 Stop risking your Canada Study Permit!
+ Stop risking your Canada Study Permit!
 Proof of Fund NG provides 100% verifiable bank statements from IRCC-approved commercial banks.
-📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Message us now](https://wa.me/2348103669924)
----
-
+ Call: [08103669924](tel:08103669924) |  WhatsApp: [Message us now](https://wa.me/2348103669924)
 
 ### IRCC Living Expenses for International Students
 When calculating your POF, the IRCC living expenses for international students is the most critical component. For 2026, the IRCC has set the baseline living expense requirement for a single student at $20,635 CAD per year. This is entirely separate from your first-year tuition. You must prove you have this amount in liquid cash to avoid refusal.
@@ -79,12 +76,11 @@ We fund your commercial bank account with real, liquid cash that meets the IRCC'
 
 ### Ready to proceed?
 Call or WhatsApp us immediately to secure your IRCC-approved funding:
-📞 Call us directly: [08103669924](tel:08103669924)  
-💬 Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
+ Call us directly: [08103669924](tel:08103669924)  
+ Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
 
 *Proof of Fund NG is your trusted partner for fast, secure, and hassle-free Proof of Funds in Nigeria.*
 
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

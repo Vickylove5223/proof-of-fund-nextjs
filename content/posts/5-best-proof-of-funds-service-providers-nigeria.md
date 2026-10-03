@@ -111,9 +111,6 @@ We recommend you review their services, compare their offerings, and [check spec
 ### Getting the Right Help
 If you need professional Proof of funds assistance, do not hesitate to reach out to the providers listed. They offer expert guidance tailored to your specific visa requirements.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

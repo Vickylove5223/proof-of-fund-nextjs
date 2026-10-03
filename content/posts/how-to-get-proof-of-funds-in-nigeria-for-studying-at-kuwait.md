@@ -109,9 +109,6 @@ At Proof of Fund NG, we are committed to helping you succeed. We provide a relia
 
 Let us handle the complexities of POF so you can focus on preparing for your exciting new chapter in Kuwait. Contact us today to get started!
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

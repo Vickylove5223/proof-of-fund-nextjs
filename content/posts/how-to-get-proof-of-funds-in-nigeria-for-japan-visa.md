@@ -86,9 +86,6 @@ Let us handle the complexities so you can focus on planning your amazing trip to
 
 Contact Proof of Fund NG today for a free consultation and get your verifiable Proof of Funds within 72 hours!
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

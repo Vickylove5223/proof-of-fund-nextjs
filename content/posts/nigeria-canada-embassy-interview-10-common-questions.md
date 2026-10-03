@@ -119,7 +119,6 @@ A major part of this preparation is ensuring your financial documents are flawle
 
 [Contact Proof of Fund NG](/) to ensure your financial standing is perfectly presented, giving you one less thing to worry about on your big day.
 
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

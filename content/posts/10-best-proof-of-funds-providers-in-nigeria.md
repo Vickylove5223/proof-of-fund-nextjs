@@ -17,7 +17,7 @@ Because traditional banks like GTBank, Access Bank, and Zenith do not offer dire
 To help you avoid scammers and choose wisely, we’ve researched and compiled the ultimate list of proof of funds providers in Nigeria for 2026. Leading this list is [Proof of Fund NG](/), the country’s most trusted and affordable POF provider.
 
 > Need your Proof of Funds sorted in 24-48 hours? Skip the stress and contact Proof of Fund NG directly for fast, verifiable funding. 
-> 📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Chat with us instantly](https://wa.me/2348103669924)
+>  Call: [08103669924](tel:08103669924) |  WhatsApp: [Chat with us instantly](https://wa.me/2348103669924)
 
 ## 1. Proof of Fund NG – Best Overall [Proof of Funds Provider](/10-best-proof-of-funds-providers-in-nigeria) in Nigeria
 
@@ -29,11 +29,9 @@ If you want a reliable, affordable, and 100% embassy-accepted proof of funds, Pr
 - 24-48 Hour Turnaround: Time is critical for visa applications. Their digital infrastructure ensures your account is funded and statements are ready within 48 hours.
 - Physical Office & Trust: They maintain a physical headquarters in Lagos, providing extreme accountability and transparency compared to faceless online agents.
 
----
-🔥 Stop risking your visa approval with insufficient funds or fake documents!
+ Stop risking your visa approval with insufficient funds or fake documents!
 Proof of Fund NG provides 100% verifiable bank statements from top commercial banks.
-📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Message us now](https://wa.me/2348103669924)
----
+ Call: [08103669924](tel:08103669924) |  WhatsApp: [Message us now](https://wa.me/2348103669924)
 
 ## 2. EdFin Microfinance Bank
 
@@ -111,12 +109,11 @@ Choosing the wrong provider could cost you extra fees, weeks of delays, or a dev
 
 ### Ready to proceed?
 Call or WhatsApp us immediately to get your account funded:
-📞 Call us directly: [08103669924](tel:08103669924)  
-💬 Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
+ Call us directly: [08103669924](tel:08103669924)  
+ Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
 
 *Proof of Fund NG is your trusted partner for fast, secure, and hassle-free Proof of Funds in Nigeria.*
 
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

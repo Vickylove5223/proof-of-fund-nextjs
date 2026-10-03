@@ -105,9 +105,6 @@ Our live support experts are on standby to look at your specific country's requi
 
 Send us a DM today, and let’s fund your dreams!
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

@@ -83,9 +83,6 @@ Ultimately, making money in Nigeria requires a blend of strategy, consistency, a
 
 As you build your finances, you open up doors to new possibilities, including international travel and education, which often have specific financial prerequisites. Learning [how to get proof of funds in Nigeria](/how-to-get-proof-of-fund-in-nigeria) can be a crucial next step once your earnings are stable.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

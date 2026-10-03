@@ -95,9 +95,6 @@ supporting documents (sales agreement, receipts, proof of ownership, transfer ev
 
 6 Can ₦5 million take me to Spain for work? No. For a work visa or even a tourist visa, ₦5 million is generally not enough. You need at least ₦15–₦20 million depending on your purpose of travel and exchange rates.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

@@ -13,7 +13,7 @@ However, amidst the success stories, the forum is also filled with heartbreaking
 To save you the stress of reading through hundreds of confusing pages, we have summarized the absolute best advice—and the biggest warnings—directly from top Nairaland travel threads. 
 
 > Need 100% Verifiable Proof of Funds in 24 Hours? Skip the risky forum agents and contact the experts.
-> 📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
+>  Call: [08103669924](tel:08103669924) |  WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
 
 ### 3 Big Warnings from Nairaland Users
 
@@ -39,11 +39,9 @@ This is exactly what Proof of Fund NG does.
 
 When you use Proof of Fund NG, you are not getting a fake PDF. You are getting real money deposited into commercial banks like Globus or Fidelity. Because the money is genuinely sitting in your account, you can walk into the bank yourself and print the statement. It is 100% verifiable by any embassy in the world.
 
----
-🔥 Stop risking your visa approval with forum scammers!
+ Stop risking your visa approval with forum scammers!
 Proof of Fund NG provides 100% verifiable bank statements from top commercial banks.
-📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Message us now](https://wa.me/2348103669924)
----
+ Call: [08103669924](tel:08103669924) |  WhatsApp: [Message us now](https://wa.me/2348103669924)
 
 ### Why Trust Proof of Fund NG?
 
@@ -55,12 +53,11 @@ While Nairaland is great for sharing experiences, you should never hand your mon
 
 ### Ready to proceed?
 Call or WhatsApp us immediately to get your account safely funded:
-📞 Call us directly: [08103669924](tel:08103669924)  
-💬 Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
+ Call us directly: [08103669924](tel:08103669924)  
+ Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
 
 *Proof of Fund NG is your trusted partner for fast, secure, and hassle-free Proof of Funds in Nigeria.*
 
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

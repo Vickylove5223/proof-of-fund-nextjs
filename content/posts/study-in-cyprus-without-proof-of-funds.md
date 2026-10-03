@@ -82,9 +82,6 @@ If you’ve been struggling with the heavy proof of funds requirements of countr
 
 With no POF requirements and ongoing admissions, this could be the simplest way to start your study abroad journey today.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

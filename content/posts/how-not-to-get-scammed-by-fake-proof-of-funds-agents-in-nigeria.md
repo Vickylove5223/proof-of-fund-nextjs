@@ -13,7 +13,7 @@ Unfortunately, the POF industry is heavily targeted by scammers. Using the wrong
 Here is exactly how to identify scammers and how not to get scammed by fake proof of funds agents in Nigeria.
 
 > Looking for a legitimate, physical financial agency? Proof of Fund NG deposits real liquid cash into commercial banks.
-> 📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Chat with us instantly](https://wa.me/2348103669924)
+>  Call: [08103669924](tel:08103669924) |  WhatsApp: [Chat with us instantly](https://wa.me/2348103669924)
 
 ### The "PDF Editor" Scam (The Most Common Trap)
 
@@ -41,20 +41,17 @@ At Proof of Fund NG, we are actively fighting against industry scammers by provi
 *   Real Cash Deposits: We do not edit PDFs. We transfer real, verifiable money (from ₦3 Million to over ₦500 Million) directly into your commercial bank account (Globus, Parallex, Zenith, etc.).
 *   You Print Your Own Statement: Because the money is genuinely sitting in your account, you can walk into your bank yourself and print the statement. 
 
----
-🔥 Stop risking your future with anonymous online scammers!
+ Stop risking your future with anonymous online scammers!
 Trust the only verified, physical POF agency in Nigeria.
-📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Message us now](https://wa.me/2348103669924)
----
+ Call: [08103669924](tel:08103669924) |  WhatsApp: [Message us now](https://wa.me/2348103669924)
 
 ### Ready to proceed?
 Call or WhatsApp us immediately to safely secure your Proof of Funds:
-📞 Call us directly: [08103669924](tel:08103669924)  
-💬 Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
+ Call us directly: [08103669924](tel:08103669924)  
+ Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
 
 *Proof of Fund NG is your trusted partner for fast, secure, and hassle-free Proof of Funds in Nigeria.*
 
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

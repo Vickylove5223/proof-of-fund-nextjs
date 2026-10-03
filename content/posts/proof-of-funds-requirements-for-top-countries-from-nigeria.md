@@ -11,7 +11,7 @@ When planning your relocation or travel from Nigeria, understanding the exact fi
 Whether you are applying for a study permit, a visitor visa, a skilled worker visa, or a family sponsorship route, we have compiled the ultimate **2026 Proof of Funds Requirement Table** for Nigerian applicants.
 
 > **Need a verifiable commercial bank statement to meet these requirements?** We provide secure funding up to ₦500 Million.
-> 📞 **Call:** [08103669924](tel:08103669924) | 💬 **WhatsApp:** [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
+>  **Call:** [08103669924](tel:08103669924) |  **WhatsApp:** [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
 
 ### The 2026 Proof of Funds Requirement Table (Total Required)
 
@@ -74,11 +74,9 @@ No matter which country or visa type you choose from the table above, the rule f
 
 Embassies routinely reject statements from microfinance banks or digital wallets (like OPay or Palmpay) because they struggle to verify the funds internationally. To be safe, always use banks like Zenith, Globus, Parallex, or GTB.
 
----
-🔥 **Stop risking your Visa with insufficient funds!**
+ **Stop risking your Visa with insufficient funds!**
 Proof of Fund NG provides 100% verifiable bank statements from recognized commercial banks.
-📞 **Call:** [08103669924](tel:08103669924) | 💬 **WhatsApp:** [Message us now](https://wa.me/2348103669924)
----
+ **Call:** [08103669924](tel:08103669924) |  **WhatsApp:** [Message us now](https://wa.me/2348103669924)
 
 ### Secure Your Proof of Funds Today
 
@@ -90,12 +88,11 @@ Whether you need a statement held for the UK's 28 days or perfectly structured f
 
 ### Ready to proceed?
 **Call or WhatsApp us immediately to secure your verifiable POF document:**
-📞 **Call us directly:** [08103669924](tel:08103669924)  
-💬 **Chat with us on WhatsApp:** [Click here to chat instantly](https://wa.me/2348103669924)  
+ **Call us directly:** [08103669924](tel:08103669924)  
+ **Chat with us on WhatsApp:** [Click here to chat instantly](https://wa.me/2348103669924)  
 
 *Proof of Fund NG is your trusted partner for fast, secure, and hassle-free Proof of Funds in Nigeria.*
 
----
 **Prefer an in-person meeting?**
 You can also visit us at our office:
-📍 **161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos**.
+ **161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos**.

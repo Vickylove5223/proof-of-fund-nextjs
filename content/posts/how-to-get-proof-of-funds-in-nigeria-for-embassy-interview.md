@@ -111,9 +111,6 @@ With our help, you can present a strong financial profile that meets and exceeds
 
 Contact Proof of Fund NG today to get a free quote and take the first step toward a successful visa application!
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

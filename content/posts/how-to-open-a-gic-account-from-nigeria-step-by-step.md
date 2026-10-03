@@ -60,9 +60,6 @@ The GIC covers living costs — but your file still needs first-year tuition evi
 
 WhatsApp: 08103669924 — or size your full requirement with the [proof of funds calculator](/proof-of-fund-calculator).
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

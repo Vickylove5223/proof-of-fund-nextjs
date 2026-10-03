@@ -51,11 +51,11 @@ Getting one: write a request letter to your branch manager (or fill the bank's f
 
 | Destination | Statement | Bank letter | Notes |
 | --- | --- | --- | --- |
-| UK | ✅ 28-day coverage | ✅ accepted alternative | Strict format rules; see the [28-day rule guide](/common-mistakes-in-28-day-proof-of-funds-for-uk-visas-and-how-to-avoid-them) |
-| Canada | ✅ 6 months | ✅ expected | Letter should list all accounts, balances, averages |
-| USA | ✅ 6 months | ➕ helpful | Presented at interview, not uploaded |
-| Schengen | ✅ 3–6 months | ✅ often required | Attestation letter carries real weight |
-| Australia | ✅ 3+ months | ✅ helpful | Source-of-funds evidence matters |
+| UK |  28-day coverage |  accepted alternative | Strict format rules; see the [28-day rule guide](/common-mistakes-in-28-day-proof-of-funds-for-uk-visas-and-how-to-avoid-them) |
+| Canada |  6 months |  expected | Letter should list all accounts, balances, averages |
+| USA |  6 months |  helpful | Presented at interview, not uploaded |
+| Schengen |  3–6 months |  often required | Attestation letter carries real weight |
+| Australia |  3+ months |  helpful | Source-of-funds evidence matters |
 
 ## The Mistakes That Cost Applications
 
@@ -71,9 +71,6 @@ Every [Proof of Fund NG](/) file ships as a complete package: funding in a top c
 
 Confirm your required amount with the [proof of funds calculator](/proof-of-fund-calculator), check your destination's rules on [see requirements](/see-requirements), or message us on Call/WhatsApp: 08103669924.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

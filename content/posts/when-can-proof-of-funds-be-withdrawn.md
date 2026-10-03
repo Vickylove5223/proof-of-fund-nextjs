@@ -71,9 +71,6 @@ If you need reliable, verifiable, and stress-free Proof of Funds for your visa o
 
 Contact us today to get started on your journey abroad with confidence.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

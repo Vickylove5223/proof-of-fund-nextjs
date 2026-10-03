@@ -11,7 +11,7 @@ For Nigerians looking to migrate to Canada, the Express Entry route has always b
 If you are looking for a more affordable route to Permanent Residency (PR), the Canada Atlantic Immigration Program (AIP) is one of the best alternatives. The biggest advantage of the AIP? The Canada Atlantic Immigration Program POF requirements are significantly lower than standard Express Entry.
 
 > Need to meet your Canada AIP financial requirements today? We fund commercial bank accounts within 24 hours.
-> 📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
+>  Call: [08103669924](tel:08103669924) |  WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
 
 ### What is the Atlantic Immigration Program (AIP)?
 
@@ -41,11 +41,9 @@ Even though the required amount is small, the IRCC rules remain strict:
 2. The funds must belong to you (you cannot use real estate valuation or locked assets).
 3. If the money was deposited as a sudden lump sum, it must be accompanied by a Gift Deed or a logical Letter of Explanation.
 
----
-🔥 Don't let a small financial requirement stop your PR dreams!
+ Don't let a small financial requirement stop your PR dreams!
 Proof of Fund NG provides 100% verifiable bank statements from top commercial banks.
-📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Message us now](https://wa.me/2348103669924)
----
+ Call: [08103669924](tel:08103669924) |  WhatsApp: [Message us now](https://wa.me/2348103669924)
 
 ### The Easiest Way to Secure Your AIP POF
 
@@ -55,12 +53,11 @@ We can deposit the exact Naira equivalent required for your family size directly
 
 ### Ready to proceed?
 Call or WhatsApp us immediately to get your account funded correctly:
-📞 Call us directly: [08103669924](tel:08103669924)  
-💬 Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
+ Call us directly: [08103669924](tel:08103669924)  
+ Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
 
 *Proof of Fund NG is your trusted partner for fast, secure, and hassle-free Proof of Funds in Nigeria.*
 
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

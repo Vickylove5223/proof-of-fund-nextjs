@@ -98,9 +98,6 @@ Do you people give study loan? Fly Matters does not provide loans, but we guide 
 
 Please, I need guidance on how to apply. We offer consultations, visa training, and courses to guide you step by step. You can reach out to Fly Matters to begin your process the right way.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

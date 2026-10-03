@@ -61,9 +61,6 @@ The shift from three to six months doubled the runway Nigerians need. If your ac
 
 [Proof of Fund NG](/) builds compliant files the legal way: funding in top Nigerian banks, genuine history built forward, attestation letters included, sized to your destination's daily rates with the stability buffer consulates expect. Message us on WhatsApp at 08103669924 with your destination and travel date, or start with the [proof of funds calculator](/proof-of-fund-calculator). For the broader picture, see our [Schengen visa proof of funds guide](/schengen-visa-proof-of-funds).
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

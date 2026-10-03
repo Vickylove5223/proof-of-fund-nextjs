@@ -62,9 +62,6 @@ For how these stack against the rest of Europe, see [countries with the lowest p
 
 Message us on WhatsApp at 08103669924 with your country and intake — or size the requirement on the [proof of funds calculator](/proof-of-fund-calculator).
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

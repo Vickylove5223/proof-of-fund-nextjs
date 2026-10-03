@@ -47,12 +47,12 @@ No embassy currently accepts crypto balances as proof of funds — unverifiable 
 
 | Instrument | UK | Canada | USA | Schengen |
 | --- | --- | --- | --- | --- |
-| Savings/current balance | ✅ | ✅ | ✅ | ✅ |
-| Fixed deposit | ✅ (if accessible) | ✅ | ✅ | ✅ |
-| Treasury bills | ⚠️ liquidate first | ✅ with docs | ✅ with docs | ⚠️ varies |
-| Money-market fund | ⚠️ liquidate first | ✅ with docs | ✅ with docs | ⚠️ varies |
-| Stocks | ❌ | ❌ | ⚠️ background only | ❌ |
-| Crypto | ❌ | ❌ | ❌ | ❌ |
+| Savings/current balance |  |  |  |  |
+| Fixed deposit |  (if accessible) |  |  |  |
+| Treasury bills | ️ liquidate first |  with docs |  with docs | ️ varies |
+| Money-market fund | ️ liquidate first |  with docs |  with docs | ️ varies |
+| Stocks |  |  | ️ background only |  |
+| Crypto |  |  |  |  |
 
 ## The Timing Play That Protects Your Interest
 
@@ -62,9 +62,6 @@ And if breaking your investments would cost you real returns, that is precisely 
 
 Talk it through with [Proof of Fund NG](/) on Call/WhatsApp: 08103669924.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

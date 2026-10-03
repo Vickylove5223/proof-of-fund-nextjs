@@ -75,9 +75,6 @@ Our live support team is ready to attend to your specific needs right now. We ca
 
 Remember, anyone can travel abroad—you just need the right information and the right financial partner. Let Proof of Fund NG be that partner for you.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

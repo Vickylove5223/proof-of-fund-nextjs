@@ -113,8 +113,6 @@ The most critical step is often securing your Proof of Funds, and you don’t ha
 
 Ready to take the next step? [Contact Proof of Fund NG](/) to get a free consultation and let us help you secure the authentic Proof of Funds you need for your Brazilian visa.
 
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

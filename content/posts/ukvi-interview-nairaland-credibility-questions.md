@@ -11,7 +11,7 @@ While many UK Student Visas are processed without an interview, the UK Visas and
 The most difficult part of the interview isn't answering questions about your university module; it's defending your Proof of Funds (POF). Here are the top financial questions asked by UKVI officers (as reported by Nigerian applicants on Nairaland) and how you should prepare for them.
 
 > Need 100% genuine Proof of Funds you can confidently defend? We provide secure commercial bank funding for your UK visa.
-> 📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
+>  Call: [08103669924](tel:08103669924) |  WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
 
 ### Top Financial Questions Asked by UKVI
 
@@ -41,11 +41,9 @@ If you cannot recite these numbers, the officer will assume you haven't genuinel
 
 If you used a fraudulent "PDF Editor" agent to create a fake bank statement, the credibility interview will expose you. The officer will ask detailed questions about recent transactions on the statement. Because the document is fake, applicants often stumble, guess, or contradict themselves, leading to a 10-year ban.
 
----
-🔥 Defend your finances with absolute confidence!
+ Defend your finances with absolute confidence!
 Proof of Fund NG provides 100% real, verifiable bank statements from top commercial banks.
-📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Message us now](https://wa.me/2348103669924)
----
+ Call: [08103669924](tel:08103669924) |  WhatsApp: [Message us now](https://wa.me/2348103669924)
 
 ### Proceed with Confidence Using Proof of Fund NG
 
@@ -57,12 +55,11 @@ We also provide expert advisory to ensure you know exactly how to legally and lo
 
 ### Ready to proceed?
 Call or WhatsApp us immediately to secure your verifiable POF:
-📞 Call us directly: [08103669924](tel:08103669924)  
-💬 Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
+ Call us directly: [08103669924](tel:08103669924)  
+ Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
 
 *Proof of Fund NG is your trusted partner for fast, secure, and hassle-free Proof of Funds in Nigeria.*
 
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

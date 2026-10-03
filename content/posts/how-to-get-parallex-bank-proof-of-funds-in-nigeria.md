@@ -110,9 +110,6 @@ Let us handle the financial proof so you can focus on your dreams of studying, w
 ### Parallex Bank Acceptance
 A very common question is: Can I use Parallex Bank for proof of funds? The answer is yes. As a licensed commercial bank in Nigeria, their statements are fully verifiable and widely accepted by embassies worldwide.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

@@ -101,9 +101,6 @@ Let the professionals handle your Proof of Funds safely and affordably. Our live
 
 Send us a DM today, and let’s get your bank statement ready for visa approval!
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

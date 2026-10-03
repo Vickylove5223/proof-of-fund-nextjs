@@ -148,9 +148,6 @@ Proof of Fund NG only works with CBN-regulated institutions, ensuring your docum
 ### Ready to Get Your Proof of Funds for Portugal Student Visa?
 At Proof of Fund NG, we help Nigerian students get fast, fully verifiable proof of funds for Portugal and any other country's student visa — disbursed in 24–48 hours, with no collateral required. [Chat with us on WhatsApp](https://wa.me/2348103669924) to get started.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

@@ -80,9 +80,6 @@ The journey to 'Japa' from Nigeria is achievable through several legitimate path
 
 By understanding your options and preparing all necessary documentation—especially your financial proof—you can significantly increase your chances of a successful relocation. [Contact Proof of Fund NG](/) can provide the support needed to turn your dream of moving abroad into a reality.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

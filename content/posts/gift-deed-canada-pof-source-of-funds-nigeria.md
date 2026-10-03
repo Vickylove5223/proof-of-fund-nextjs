@@ -11,7 +11,7 @@ One of the strictest checks performed by the IRCC (Immigration, Refugees and Cit
 If someone is sponsoring your travel (like a parent, spouse, or wealthy relative), you cannot just transfer the money into your account and print the statement. You must explain it using a legal Gift Deed.
 
 > Need verifiable funds deposited into your account? We provide 100% secure commercial bank funding for your visa.
-> 📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Chat with us instantly](https://wa.me/2348103669924)
+>  Call: [08103669924](tel:08103669924) |  WhatsApp: [Chat with us instantly](https://wa.me/2348103669924)
 
 ### What is a Gift Deed for Canada POF?
 
@@ -35,11 +35,9 @@ A standard letter typed on your laptop and signed by your uncle is not sufficien
 
 Even with a flawless Gift Deed, if the money on your bank statement is sitting in a low-trust microfinance bank or you submitted an edited PDF, the IRCC will reject your application. The funds must be genuinely verifiable.
 
----
-🔥 Stop risking your visa approval with fake bank statements!
+ Stop risking your visa approval with fake bank statements!
 Proof of Fund NG provides 100% verifiable bank statements from top commercial banks.
-📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Message us now](https://wa.me/2348103669924)
----
+ Call: [08103669924](tel:08103669924) |  WhatsApp: [Message us now](https://wa.me/2348103669924)
 
 ### Secure Your Funding with Proof of Fund NG
 
@@ -49,12 +47,11 @@ We process funding from ₦3 Million up to over ₦500 Million into Tier-1 Comme
 
 ### Ready to proceed?
 Call or WhatsApp us immediately to get your account funded:
-📞 Call us directly: [08103669924](tel:08103669924)  
-💬 Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
+ Call us directly: [08103669924](tel:08103669924)  
+ Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
 
 *Proof of Fund NG is your trusted partner for fast, secure, and hassle-free Proof of Funds in Nigeria.*
 
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

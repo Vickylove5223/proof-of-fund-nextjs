@@ -55,7 +55,7 @@ While requirements may vary slightly depending on the embassy, most applicants n
 *   Average monthly balance high enough to cover travel costs
 *   Bank verification letter confirming your account ownership
 
-💡 _Tip: Always maintain a steady balance for at least 3 months before applying._
+ _Tip: Always maintain a steady balance for at least 3 months before applying._
 
 ### Documentation Tips for Proof of Funds
 
@@ -96,9 +96,6 @@ By preparing your proof of funds correctly, you’ll increase your chances of ge
 
 1\. How much bank balance do I need for a Mexico tourist visa? There’s no fixed amount for everyone, but generally, you should have enough to cover flight tickets, hotel accommodation, and daily expenses. On average, keeping the equivalent of $3,000–$5,000 USD in your account for at least 3 months is recommended. 2\. Can I use my salary account for proof of funds? Yes. In fact, a salary account is preferred because it shows regular income and financial stability. 3\. Can I use multiple bank accounts for proof of funds? Yes, but each must be from a recognized commercial bank and you must provide complete, verifiable statements. 4\. Do I need to keep the money in my account after submission? Yes. Some embassies may request an updated statement before issuing the visa, so don’t withdraw your funds immediately. 5\. Will using fintech banks like Kuda or Opay get me rejected? Most likely, yes. These banks are not internationally recognized, and applicants using them have faced visa refusals.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

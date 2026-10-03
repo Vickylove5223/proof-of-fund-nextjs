@@ -63,9 +63,6 @@ Embassies don't refuse applications because applicants are poor — they refuse 
 
 [Proof of Fund NG](/) structures exactly that. Our funding sits in top banks accepted by UKVI and IRCC, stays in place under lien for your entire processing period, and comes with the official letters verification desks expect. See what your destination requires with the [proof of funds calculator](/proof-of-fund-calculator) or talk to us on Call/WhatsApp: 08103669924.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

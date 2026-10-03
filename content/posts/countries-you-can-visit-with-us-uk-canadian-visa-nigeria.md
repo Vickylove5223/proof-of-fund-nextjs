@@ -11,7 +11,7 @@ Holding a green Nigerian passport comes with its travel limitations, but securin
 Many countries believe that if the strict immigration officers of the US, UK, or Canada have vetted and approved you, you are a low-risk traveler. Here is the ultimate list of countries you can visit with a US, UK, or Canadian Visa from Nigeria.
 
 > Want to unlock these countries? You need a strong visa first. And to get a strong visa, you need impeccable Proof of Funds.
-> 📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
+>  Call: [08103669924](tel:08103669924) |  WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
 
 ### Top Countries You Can Visit (Exemptions)
 
@@ -41,11 +41,9 @@ To unlock all these incredible countries, you first need to successfully acquire
 
 If your bank statement looks weak, the embassy will reject you, slamming the door on all these travel opportunities.
 
----
-🔥 Don't let a weak bank statement trap you!
+ Don't let a weak bank statement trap you!
 Proof of Fund NG provides 100% verifiable bank statements from top commercial banks to secure your Tier-1 visas.
-📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Message us now](https://wa.me/2348103669924)
----
+ Call: [08103669924](tel:08103669924) |  WhatsApp: [Message us now](https://wa.me/2348103669924)
 
 ### Supercharge Your Visa Application with Proof of Fund NG
 
@@ -55,12 +53,11 @@ We can deposit verifiable, liquid cash (from ₦3 Million to over ₦500 Million
 
 ### Ready to proceed?
 Call or WhatsApp us immediately to get your account funded:
-📞 Call us directly: [08103669924](tel:08103669924)  
-💬 Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
+ Call us directly: [08103669924](tel:08103669924)  
+ Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
 
 *Proof of Fund NG is your trusted partner for fast, secure, and hassle-free Proof of Funds in Nigeria.*
 
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

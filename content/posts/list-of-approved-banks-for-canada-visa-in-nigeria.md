@@ -11,7 +11,7 @@ When submitting a Study Permit, Visitor Visa, or Express Entry application to Ca
 If you submit a statement from a financial institution that the IRCC deems unreliable or unverifiable, your application will be refused. Here is everything you need to know about which banks the Canadian embassy trusts.
 
 > Need an IRCC-compliant bank statement? We provide secure commercial bank funding tailored for Canadian visas.
-> 📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
+>  Call: [08103669924](tel:08103669924) |  WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
 
 ### The IRCC Approved Bank List in Nigeria
 
@@ -38,11 +38,9 @@ If you use a small microfinance bank, an online loan app, or a cooperative socie
 
 ![Secure Embassy-Ready Bank Statements Fast! Call 08103669924](/wp-content/uploads/2025/02/tourist-carrying-baggage_23-2151747389.jpg)
 
----
-🔥 Stop risking your Canada Visa approval with unrecognized banks!
+ Stop risking your Canada Visa approval with unrecognized banks!
 Proof of Fund NG provides 100% verifiable bank statements from IRCC-approved commercial banks.
-📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Message us now](https://wa.me/2348103669924)
----
+ Call: [08103669924](tel:08103669924) |  WhatsApp: [Message us now](https://wa.me/2348103669924)
 
 ### How to Get IRCC-Approved Proof of Funds
 
@@ -52,12 +50,11 @@ We process funding exclusively into IRCC-approved commercial banks (like Paralle
 
 ### Ready to proceed?
 Call or WhatsApp us immediately to secure your Canada Visa funding:
-📞 Call us directly: [08103669924](tel:08103669924)  
-💬 Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
+ Call us directly: [08103669924](tel:08103669924)  
+ Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
 
 *Proof of Fund NG is your trusted partner for fast, secure, and hassle-free Proof of Funds in Nigeria.*
 
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

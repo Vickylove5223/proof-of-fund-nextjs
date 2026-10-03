@@ -63,9 +63,6 @@ If your account balance doesn't yet reflect what your trip requires, don't gambl
 
 At [Proof of Fund NG](/) we legitimately fund and structure proof of funds in top Nigerian banks, with full documentation that stands up to [UKVI](https://www.gov.uk/browse/visas-immigration) verification. Use our [proof of funds calculator](/proof-of-fund-calculator) to see exactly how much you need, or message us on Call/WhatsApp: 08103669924 for a free consultation.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

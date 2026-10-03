@@ -80,9 +80,6 @@ Sometimes the letter is perfect and the money is the issue — the sponsor's bal
 
 Message [Proof of Fund NG](/) on WhatsApp at 08103669924 with your destination and sponsor situation — we'll tell you which structure your embassy accepts and set it up with full documentation. Check your required amount first with the [proof of funds calculator](/proof-of-fund-calculator).
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

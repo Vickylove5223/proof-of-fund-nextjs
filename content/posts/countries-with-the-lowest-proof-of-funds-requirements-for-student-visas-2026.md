@@ -76,9 +76,6 @@ Whether your destination wants €6,000 or CAD $50,000, the file that gets appro
 
 Run your destination through the [proof of funds calculator](/proof-of-fund-calculator), check the [visa requirements tool](/see-requirements), or message us on Call/WhatsApp: 08103669924 for a free consultation.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

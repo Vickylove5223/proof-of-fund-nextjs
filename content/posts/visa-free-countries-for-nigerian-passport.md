@@ -11,7 +11,7 @@ Let's face it: applying for a visa from Nigeria can be exhausting. The long wait
 If you just want to pack your bags and go, you need to know the visa-free countries for Nigerian passport holders. Here is the ultimate list for 2026.
 
 > Tired of only visiting visa-free countries? Want to move to Canada, the UK, or Europe? You just need strong Proof of Funds.
-> 📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
+>  Call: [08103669924](tel:08103669924) |  WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
 
 ### Top Visa-Free Destinations for Nigerians
 
@@ -39,11 +39,9 @@ While visiting Kenya or the Maldives is amazing for a quick vacation, these dest
 
 If your true dream is to relocate to Canada, the UK, the United States, or the Schengen Area, you cannot escape the visa process. And the number one reason Nigerians are denied entry into those top-tier countries is a lack of verifiable Proof of Funds (POF).
 
----
-🔥 Unlock the rest of the world!
+ Unlock the rest of the world!
 Proof of Fund NG provides the massive, verifiable bank statements you need to get approved for Canada, the UK, and Europe.
-📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Message us now](https://wa.me/2348103669924)
----
+ Call: [08103669924](tel:08103669924) |  WhatsApp: [Message us now](https://wa.me/2348103669924)
 
 ### Upgrade Your Travel with Proof of Fund NG
 
@@ -53,12 +51,11 @@ At Proof of Fund NG, we bridge the financial gap. We can deposit real, liquid ca
 
 ### Ready to proceed?
 Call or WhatsApp us immediately to get your account funded and start your global journey:
-📞 Call us directly: [08103669924](tel:08103669924)  
-💬 Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
+ Call us directly: [08103669924](tel:08103669924)  
+ Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
 
 *Proof of Fund NG is your trusted partner for fast, secure, and hassle-free Proof of Funds in Nigeria.*
 
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

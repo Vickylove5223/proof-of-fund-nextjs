@@ -75,9 +75,6 @@ Contact us today and let’s make your dreams a reality Your travel journey is j
 ### Meeting the Requirements
 Understanding the proof of funds requirements Nigeria is your first step. Keep this guide handy as you prepare your financial documents for your upcoming application.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

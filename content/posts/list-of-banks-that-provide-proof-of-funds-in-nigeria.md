@@ -216,12 +216,9 @@ Ready to take the next step toward your JAPA dreams? Why stress over proof of fu
 
 Contact us today and let’s make your dreams a reality!
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
 
 
 ### Which bank in Nigeria is best for proof of funds?

@@ -118,9 +118,6 @@ Our dedicated live support team is online right now, ready to analyze your speci
 
 Send us a DM, secure your Proof of Funds, and get ready to fly!
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

@@ -11,7 +11,7 @@ If you are planning to study in the UK this September or January intake, you hav
 When it comes to financial requirements, the UK Visas and Immigration (UKVI) is completely unforgiving. Here is a summary of the most critical Proof of Funds (POF) advice shared by successful applicants on Nairaland.
 
 > Need to pass the strict UKVI 28-Day Rule? We provide secure commercial bank funding that sits untouched for your visa.
-> 📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
+>  Call: [08103669924](tel:08103669924) |  WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
 
 ### 1. The 28-Day Rule is Absolute
 
@@ -33,11 +33,9 @@ Nairaland is unfortunately crawling with scammers. Many users report being conta
 
 These scammers use Adobe Photoshop to edit your name onto an old bank statement. When the UK embassy emails the bank to verify the balance, the bank denies it. This results in an automatic refusal and a 10-year ban from the UK for deception.
 
----
-🔥 Stop risking your UK Visa approval with forum scammers!
+ Stop risking your UK Visa approval with forum scammers!
 Proof of Fund NG provides 100% verifiable bank statements from top commercial banks.
-📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Message us now](https://wa.me/2348103669924)
----
+ Call: [08103669924](tel:08103669924) |  WhatsApp: [Message us now](https://wa.me/2348103669924)
 
 ### The Safest Way to Secure Your UK POF
 
@@ -47,12 +45,11 @@ This is exactly what Proof of Fund NG does. We bypass the risks of forum scammer
 
 ### Ready to proceed?
 Call or WhatsApp us immediately to safely secure your 28-day funding:
-📞 Call us directly: [08103669924](tel:08103669924)  
-💬 Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
+ Call us directly: [08103669924](tel:08103669924)  
+ Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
 
 *Proof of Fund NG is your trusted partner for fast, secure, and hassle-free Proof of Funds in Nigeria.*
 
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

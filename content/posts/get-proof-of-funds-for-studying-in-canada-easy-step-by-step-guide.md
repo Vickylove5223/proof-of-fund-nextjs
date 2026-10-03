@@ -84,9 +84,6 @@ Is social service worker gerontology a good one or early childhood education, as
 
 How do I get GIC? You can apply online through a Canadian bank such as Scotiabank, CIBC, RBC, or ICICI Bank. After approval, you deposit the required amount, and the bank provides you with the GIC certificate for your visa application.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

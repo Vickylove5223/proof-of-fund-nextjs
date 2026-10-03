@@ -13,7 +13,7 @@ This is one of the most common reasons for a sudden large deposit proof of funds
 Visa officers are trained to spot "borrowed money." When they see a massive lump sum hit an account just days before a statement is printed, they immediately assume the money will be returned to a lender the moment the visa is granted.
 
 > Need to present your Proof of Funds safely? Get expert guidance and verifiable commercial bank funding in 24 hours.
-> 📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
+>  Call: [08103669924](tel:08103669924) |  WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
 
 ### Why Embassies Hate Sudden Large Deposits
 
@@ -39,11 +39,9 @@ If the money is being provided by a sponsor, the sudden deposit can be justified
 #### 3. Leave the Funds in the Account
 Some visas (like the UK Student Visa) strictly require the funds to sit untouched in your account for a specific period (the 28-day rule). Even for Canada, showing that the funds have "aged" or remained steady over weeks proves that it is not a temporary 24-hour loan. 
 
----
-🔥 Stop risking your visa approval with unexplained lump sums!
+ Stop risking your visa approval with unexplained lump sums!
 Proof of Fund NG provides 100% verifiable bank statements from top commercial banks and guides you on presentation.
-📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Message us now](https://wa.me/2348103669924)
----
+ Call: [08103669924](tel:08103669924) |  WhatsApp: [Message us now](https://wa.me/2348103669924)
 
 ### Secure Your POF the Right Way with Proof of Fund NG
 
@@ -53,15 +51,14 @@ At Proof of Fund NG, we process funding from ₦3 Million up to over ₦500 Mill
 
 ### Ready to proceed?
 Call or WhatsApp us immediately to get your account safely funded:
-📞 Call us directly: [08103669924](tel:08103669924)  
-💬 Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
+ Call us directly: [08103669924](tel:08103669924)  
+ Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
 
 *Proof of Fund NG is your trusted partner for fast, secure, and hassle-free Proof of Funds in Nigeria.*
 
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
 
 
 ### How much money is considered suspicious activity?

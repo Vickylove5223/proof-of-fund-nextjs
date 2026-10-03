@@ -11,7 +11,7 @@ One of the most devastating reasons for a UK visa refusal is submitting your Pro
 The UK Visas and Immigration (UKVI) department is ruthless when it comes to financial verification. Here is what you need to know about banned banks, digital wallets, and the microfinance trap.
 
 > Don't risk your UK Visa with the wrong bank! We provide secure commercial bank funding tailored for UK visas.
-> 📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
+>  Call: [08103669924](tel:08103669924) |  WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
 
 ### Are There Banks Not Accepted by UKVI in Nigeria?
 
@@ -35,11 +35,9 @@ You must absolutely avoid using the following for your Proof of Funds:
 
 ![Secure Embassy-Ready Bank Statements Fast! Call 08103669924](/wp-content/uploads/2025/02/tourist-carrying-baggage_23-2151747389.jpg)
 
----
-🔥 Stop risking your UK Visa approval with unrecognized banks!
+ Stop risking your UK Visa approval with unrecognized banks!
 Proof of Fund NG provides 100% verifiable bank statements from Tier-1 commercial banks.
-📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Message us now](https://wa.me/2348103669924)
----
+ Call: [08103669924](tel:08103669924) |  WhatsApp: [Message us now](https://wa.me/2348103669924)
 
 ### The Safe Route: Use Tier-1 Commercial Banks
 
@@ -49,12 +47,11 @@ If you do not have the funds available to meet the 28-day rule in a commercial b
 
 ### Ready to proceed?
 Call or WhatsApp us immediately to secure your UKVI-approved funding:
-📞 Call us directly: [08103669924](tel:08103669924)  
-💬 Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
+ Call us directly: [08103669924](tel:08103669924)  
+ Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
 
 *Proof of Fund NG is your trusted partner for fast, secure, and hassle-free Proof of Funds in Nigeria.*
 
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

@@ -120,9 +120,6 @@ Don't let financial proof be a barrier to your travel dreams. At Proof of Fund N
 
 Contact us today to learn how we can help you with your Proof of Funds requirements. [Contact Proof of Fund NG](/) to get started.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

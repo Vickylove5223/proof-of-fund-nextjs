@@ -115,9 +115,6 @@ Don't let the Proof of Funds requirement stand in your way. Let our team at Proo
 
 Ready to take the first step? [Contact Proof of Fund NG](/) today to get a free consultation and see how we can help make your japa plans a success.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

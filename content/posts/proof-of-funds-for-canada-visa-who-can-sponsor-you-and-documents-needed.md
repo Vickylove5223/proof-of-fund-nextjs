@@ -85,9 +85,6 @@ Don't let "insufficient funds" be the reason for a rejection.
 
 _Disclaimer: Proof of Fund NG provides financial assistance for documentation purposes. We recommend consulting with a registered immigration expert for legal advice regarding your specific application._
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

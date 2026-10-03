@@ -105,9 +105,6 @@ _Disclaimer: Proof of Fund NG provides financial support for documentation purpo
 
 Always refer to the official embassy website for the most up-to-date requirements._
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

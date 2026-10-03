@@ -111,9 +111,6 @@ Don't let Proof of Funds stand in your way. Proof of Fund NG is your trusted par
 
 Let us handle the financial proof so you can focus on starting your exciting new chapter in Brazil. Contact us today to get started!
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

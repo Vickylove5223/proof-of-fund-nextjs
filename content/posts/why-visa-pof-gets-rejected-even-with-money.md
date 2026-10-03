@@ -13,7 +13,7 @@ If you browse travel forums, you will constantly see people asking: *"Why did my
 The truth is, embassies (like the IRCC, UKVI, and Schengen consulates) do not just look at the final balance on your bank statement. They analyze the entire financial picture. Here are the top reasons your POF might get rejected despite having the required balance, and how to fix it.
 
 > Need 100% Verifiable, Embassy-Compliant Proof of Funds? 
-> 📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
+>  Call: [08103669924](tel:08103669924) |  WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
 
 ### 1. The "Lump Sum" Deposit Without Explanation
 This is the number one reason for rejection. If your bank account normally has a balance of ₦50,000, and suddenly a deposit of ₦40 Million appears two days before you print your statement, the visa officer will immediately flag it. 
@@ -31,11 +31,9 @@ Embassies require the funds to be easily accessible (liquid cash). If you submit
 ### 4. Fake or Edited PDF Statements
 Unfortunately, many desperate applicants use fraudulent agents who simply Photoshop a bank statement. Embassies verify statements directly with the issuing banks. If the bank cannot confirm the exact account number and balance, you will not only be rejected but likely handed a 10-year ban for misrepresentation.
 
----
-🔥 Stop risking your visa approval with bad financial presentation!
+ Stop risking your visa approval with bad financial presentation!
 Proof of Fund NG provides 100% verifiable bank statements from top commercial banks.
-📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Message us now](https://wa.me/2348103669924)
----
+ Call: [08103669924](tel:08103669924) |  WhatsApp: [Message us now](https://wa.me/2348103669924)
 
 ### How Proof of Fund NG Solves This
 
@@ -47,12 +45,11 @@ At Proof of Fund NG, we don't just dump money into your account and wish you luc
 
 ### Ready to proceed?
 Call or WhatsApp us immediately to get your account funded correctly:
-📞 Call us directly: [08103669924](tel:08103669924)  
-💬 Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
+ Call us directly: [08103669924](tel:08103669924)  
+ Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
 
 *Proof of Fund NG is your trusted partner for fast, secure, and hassle-free Proof of Funds in Nigeria.*
 
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

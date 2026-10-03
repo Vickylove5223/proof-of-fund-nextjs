@@ -108,12 +108,9 @@ Proof of Fund NG, we’ve helped hundreds of Nigerian students successfully meet
 
 Build credible Proof of Funds the smart way.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
 
 
 ### IRCC proof of funds study permit

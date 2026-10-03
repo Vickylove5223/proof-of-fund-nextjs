@@ -108,12 +108,9 @@ Let us help you take the next step toward realizing your Canadian travel dreams.
 
 Also, explore our resources on [other blog posts](/guides) about the Canada visitor visa application process.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
 
 
 ### How much bank balance is required for a Canada visitor visa?

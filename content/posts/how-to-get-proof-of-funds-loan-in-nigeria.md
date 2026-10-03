@@ -109,9 +109,6 @@ Securing a Proof of Funds loan in Nigeria is a smart, efficient, and affordable 
 
 [Contact Proof of Fund NG](/), you can navigate this requirement with confidence and focus on what truly matters—preparing for your exciting new chapter abroad. If you're ready to take the next step, contact us today, and let us help make your dreams a reality.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

@@ -179,9 +179,6 @@ Meeting the UK visa proof of funds requirement doesn’t have to be stressful. T
 
 Always calculate carefully using the official tuition balance + living expenses formula, add a small buffer, and avoid withdrawing money until your visa is approved. If you follow these guidelines, your proof of funds will not be an obstacle in your UK visa journey.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

@@ -64,9 +64,6 @@ Our live support team is online right now, ready to listen to your specific need
 ### A Word on Cheap POF
 While finding Cheap proof of funds is great for your budget, always ensure the source is legitimate. Our trusted providers offer competitive rates without compromising on the security and verifiability of your documents.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

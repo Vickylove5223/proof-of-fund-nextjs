@@ -98,9 +98,6 @@ Ready to take the next step? [Contact Proof of Fund NG](/) for a free consultati
 
 Official immigration forums and resources are a good source.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

@@ -61,9 +61,6 @@ Book appointments and confirm requirements through the official [US Travel Docs 
 
 A US interview rewards preparation. If your bank statement doesn't yet tell a convincing story, [Proof of Fund NG](/) can help you structure legitimate, verifiable proof of funds in a top Nigerian bank — with the aged history consular officers expect. Check what you need with our [proof of funds calculator](/proof-of-fund-calculator), then reach us on Call/WhatsApp: 08103669924.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

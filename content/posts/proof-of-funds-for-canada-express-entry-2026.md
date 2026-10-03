@@ -11,7 +11,7 @@ If you are aiming for Canadian Permanent Residency through the Federal Skilled W
 The IRCC updates their minimum fund requirements annually based on the Low Income Cut-Off (LICO) totals. Here is everything you need to know to secure your Express Entry profile in 2026.
 
 > Need verifiable liquid cash for your Express Entry profile? We provide secure commercial bank funding for Canadian PR applicants.
-> 📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
+>  Call: [08103669924](tel:08103669924) |  WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
 
 ### The 2026 Express Entry Fund Requirements
 
@@ -41,12 +41,9 @@ What the IRCC DOES accept:
 
 ![Secure Embassy-Ready Bank Statements Fast! Call 08103669924](/wp-content/uploads/2025/09/visa-application-composition-with-europe-america-flag_23-2149117810.jpg)
 
----
-🔥 Don't let a low bank balance ruin your PR dreams!
+ Don't let a low bank balance ruin your PR dreams!
 Proof of Fund NG provides 100% verifiable bank statements from recognized commercial banks.
-📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Message us now](https://wa.me/2348103669924)
----
-
+ Call: [08103669924](tel:08103669924) |  WhatsApp: [Message us now](https://wa.me/2348103669924)
 
 ### Proof of Funds for Canada PR 2026
 When calculating your proof of funds for canada pr 2026, the exact amount depends on your family size. The IRCC strictly updates these figures every year. How much proof of funds for canada pr do you need? For a single applicant, you must show at least $14,690 CAD. 
@@ -68,12 +65,11 @@ Proof of Fund NG bridges this gap. We deposit real, liquid cash into a recognize
 
 ### Ready to proceed?
 Call or WhatsApp us immediately to secure your Express Entry funding:
-📞 Call us directly: [08103669924](tel:08103669924)  
-💬 Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
+ Call us directly: [08103669924](tel:08103669924)  
+ Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
 
 *Proof of Fund NG is your trusted partner for fast, secure, and hassle-free Proof of Funds in Nigeria.*
 
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

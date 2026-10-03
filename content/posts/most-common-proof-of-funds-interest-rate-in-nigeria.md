@@ -84,8 +84,6 @@ Let's make your journey abroad a success!
 ### Understanding the Percentage
 The standard Proof of funds percentage is influenced by market demand and the duration the funds need to sit in your account. Always clarify the exact percentage rate with your provider before proceeding.
 
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

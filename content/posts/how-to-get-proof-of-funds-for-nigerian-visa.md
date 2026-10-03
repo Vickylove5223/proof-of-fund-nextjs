@@ -99,9 +99,6 @@ Don’t let financial documentation stand in the way of your dreams. We are here
 
 Contact Proof of Fund NG today for a free consultation and let us help you take the next step in your journey. Visit our website at [/](/) or call/WhatsApp us to get started!
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

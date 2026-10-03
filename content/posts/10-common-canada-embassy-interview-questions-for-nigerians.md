@@ -93,8 +93,6 @@ Ensuring your financial documents are in perfect order is one of the most import
 
 Contact us today to make your Canadian dream a reality.
 
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

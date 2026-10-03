@@ -110,9 +110,6 @@ Don't let financial documentation stand in your way — check the embassy's offi
 ### Key Takeaway for Visa Applications
 Remember, your proof of funds for visa application Nigeria is often the deciding factor in your visa approval. Always provide clear, verifiable, and legally obtained documents.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

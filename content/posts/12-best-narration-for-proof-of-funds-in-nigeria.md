@@ -91,9 +91,6 @@ For more information on how to get started,
 ### Perfecting Your Narration
 Using the Best narration for proof of funds is critical to avoid raising red flags during your visa evaluation. Choose the narration that most accurately reflects the genuine nature of your funds.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

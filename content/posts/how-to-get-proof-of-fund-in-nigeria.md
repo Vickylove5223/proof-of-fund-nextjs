@@ -91,9 +91,6 @@ By following these options and tips, you can confidently prepare your financial 
 ### Common Questions from Nairaland and Across Nigeria
 If you have been browsing forums asking How To get proof of funds In Nigeria Nairaland, you are not alone. Getting reliable proof of funds Nigeria is a top priority for thousands of visa applicants every month. Always ensure you work with verified agents to avoid fake documents that could lead to a visa ban.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

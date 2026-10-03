@@ -260,9 +260,6 @@ Whether you're planning self-sponsorship, need proof of funds, or have questions
 
 _This FAQ covers common questions about UK business visa and self-sponsorship routes. Requirements may change, so always verify current rules with official sources or qualified immigration advisers._
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

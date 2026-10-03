@@ -135,9 +135,6 @@ At Proof of Fund NG, we offer the most reliable, transparent, and embassy-friend
 
 Don’t risk visa refusal due to weak financial documentation. Choose the proven, efficient way to secure your Proof of Funds.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

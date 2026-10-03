@@ -89,9 +89,6 @@ Message Proof of Fund NG today on WhatsApp at 08103669924 for a free consultatio
 
 Don’t gamble with your future. Choose credibility and increase your visa approval chances the right way.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

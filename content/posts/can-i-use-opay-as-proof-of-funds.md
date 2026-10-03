@@ -11,7 +11,7 @@ OPay has become one of the most popular and reliable financial platforms in Nige
 If you are about to submit your visa application for the UK, Canada, or the US, you need to know exactly how embassies view mobile money operators. 
 
 > Need a bank statement that embassies actually trust? We provide secure commercial bank funding for your visa.
-> 📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
+>  Call: [08103669924](tel:08103669924) |  WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
 
 ### Does the Embassy Accept an OPay Bank Statement?
 
@@ -38,11 +38,9 @@ If all your savings are currently sitting in your OPay account, do not print tha
 
 *Note: If you transfer a massive lump sum from OPay to a commercial bank right before printing your statement, you must provide a Letter of Explanation to the embassy showing that the money simply moved from your digital wallet to your main account.*
 
----
-🔥 Stop risking your visa approval with digital wallet statements!
+ Stop risking your visa approval with digital wallet statements!
 Proof of Fund NG provides 100% verifiable bank statements from recognized commercial banks.
-📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Message us now](https://wa.me/2348103669924)
----
+ Call: [08103669924](tel:08103669924) |  WhatsApp: [Message us now](https://wa.me/2348103669924)
 
 ### Don't Have the Funds in a Commercial Bank? We Can Help!
 
@@ -52,12 +50,11 @@ We completely bypass the risks associated with microfinance and digital banks. W
 
 ### Ready to proceed?
 Call or WhatsApp us immediately to secure your commercial bank POF:
-📞 Call us directly: [08103669924](tel:08103669924)  
-💬 Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
+ Call us directly: [08103669924](tel:08103669924)  
+ Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
 
 *Proof of Fund NG is your trusted partner for fast, secure, and hassle-free Proof of Funds in Nigeria.*
 
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

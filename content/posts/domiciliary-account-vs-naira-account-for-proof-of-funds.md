@@ -35,9 +35,9 @@ What a dom account does not do: launder credibility onto unexplained money. A su
 
 | Factor | Naira account | Domiciliary account |
 | --- | --- | --- |
-| Accepted by embassies | ✅ | ✅ |
-| Exchange-rate risk | ⚠️ needs 10–15% buffer | ✅ none (if in target currency) |
-| Ease of funding locally | ✅ easy | ⚠️ dollar sourcing needed |
+| Accepted by embassies |  |  |
+| Exchange-rate risk | ️ needs 10–15% buffer |  none (if in target currency) |
+| Ease of funding locally |  easy | ️ dollar sourcing needed |
 | Statement history depth | Usually strong (daily use) | Often thin — dom accounts sit dormant |
 | Verification | Standard | Standard |
 
@@ -56,9 +56,6 @@ Whichever account you use, get it from a bank whose statements verify instantly 
 
 [Proof of Fund NG](/) structures proof of funds in both naira and domiciliary accounts at top Nigerian banks — sized with the right buffer for your destination, seasoned for its rules, and documented for verification. Run your requirement through the [proof of funds calculator](/proof-of-fund-calculator) or message us on Call/WhatsApp: 08103669924.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

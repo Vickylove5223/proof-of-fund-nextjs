@@ -13,7 +13,7 @@ Studying in the US, UK, or Canada can cost tens of millions of Naira in tuition 
 Here is the ultimate guide on how to study abroad with the lowest cost, which countries offer free tuition, and the hidden "Proof of Funds" requirement you must prepare for.
 
 > Found a cheap school but struggling with the visa financial requirements? We provide secure commercial bank funding for student visas globally.
-> 📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
+>  Call: [08103669924](tel:08103669924) |  WhatsApp: [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
 
 ### 1. Germany (The Best "Free" Tuition Option)
 If you are asking, "Which country is free for students?" or "Where is it free to study abroad?", Germany is your best answer. Most public universities in Germany charge absolutely zero tuition fees, even for international students! You only pay a small semester contribution (around €250 - €300).
@@ -39,11 +39,9 @@ Here is the biggest secret in international education: Even if you find a countr
 
 Why? Because the host country wants to guarantee you will not become a homeless burden on their economy. You still need to show a bank statement proving you can afford food, rent, and transportation. Many Nigerians lose their "free tuition" admissions because they cannot present a verified bank statement for their living expenses.
 
----
-🔥 Don't lose your cheap admission to a visa rejection!
+ Don't lose your cheap admission to a visa rejection!
 Proof of Fund NG provides 100% verifiable bank statements from recognized commercial banks to cover your living expense requirements.
-📞 Call: [08103669924](tel:08103669924) | 💬 WhatsApp: [Message us now](https://wa.me/2348103669924)
----
+ Call: [08103669924](tel:08103669924) |  WhatsApp: [Message us now](https://wa.me/2348103669924)
 
 ### How Proof of Fund NG Helps You Relocate
 
@@ -53,12 +51,11 @@ We provide the necessary liquidity by depositing real, verifiable cash into a Ti
 
 ### Ready to proceed?
 Call or WhatsApp us immediately to secure your verifiable POF document:
-📞 Call us directly: [08103669924](tel:08103669924)  
-💬 Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
+ Call us directly: [08103669924](tel:08103669924)  
+ Chat with us on WhatsApp: [Click here to chat instantly](https://wa.me/2348103669924)  
 
 *Proof of Fund NG is your trusted partner for fast, secure, and hassle-free Proof of Funds in Nigeria.*
 
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

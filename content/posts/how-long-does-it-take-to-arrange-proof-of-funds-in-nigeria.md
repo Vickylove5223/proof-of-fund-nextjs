@@ -47,9 +47,6 @@ Start when you decide, not when you're asked. The applicants who message us the 
 
 Message [Proof of Fund NG](/) on WhatsApp at 08103669924 with your destination and deadline — we'll tell you within the hour whether your timeline works and exactly what happens each week if it does.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

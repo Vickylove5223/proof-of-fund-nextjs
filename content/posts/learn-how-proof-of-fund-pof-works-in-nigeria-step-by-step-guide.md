@@ -106,11 +106,11 @@ After your payment is confirmed, the agreed POF amount will be transferred into 
 
 Important: Funds are Earmarked (Blocked) Once the funds are credited, a 
 
-mandate (lien) is placed on the account. This means: ✅ The funds 
+mandate (lien) is placed on the account. This means:  The funds 
 
-will show in your account balance ✅ The funds 
+will show in your account balance  The funds 
 
-will appear on your bank statement ❌ You 
+will appear on your bank statement  You 
 
 cannot withdraw the exact POF amount during the agreed tenor However, if it's your salary or business account, you can still:
 
@@ -163,13 +163,13 @@ The statement will show the full period during which the funds were present in y
 
 Many people make avoidable errors when applying for Proof of Funds, especially for UK visa applications and other international requirements. To help you navigate this process smoothly, we've compiled a detailed guide on the most common mistakes and how to avoid them.
 
-👉 [Read: Common Mistakes in 28-Day Proof of Funds for UK Visas and How to Avoid Them](/common-mistakes-in-28-day-proof-of-funds-for-uk-visas-and-how-to-avoid-them)
+ [Read: Common Mistakes in 28-Day Proof of Funds for UK Visas and How to Avoid Them](/common-mistakes-in-28-day-proof-of-funds-for-uk-visas-and-how-to-avoid-them)
 
 ### Frequently Asked Questions About POF
 
 Still have questions? We've answered 37 of the most commonly asked questions about UK visa proof of funds, covering everything from account types to documentation requirements.
 
-👉 [Read: 37 Commonly Asked Questions About UK Visa Proof of Funds (With Answers)](/37-commonly-asked-questions-about-uk-visa-proof-of-funds-with-answer)
+ [Read: 37 Commonly Asked Questions About UK Visa Proof of Funds (With Answers)](/37-commonly-asked-questions-about-uk-visa-proof-of-funds-with-answer)
 
 ### Final Thoughts
 
@@ -205,11 +205,8 @@ Agents help you process it by facilitating the funding into your account with th
 
 However, this varies depending on the specific requirement of your visa application, business transaction, or financial obligation.
 
-Need Help? We're Just a Message Away. 👉 [Click here to chat with us on WhatsApp](https://wa.me/2348103669924)
+Need Help? We're Just a Message Away.  [Click here to chat with us on WhatsApp](https://wa.me/2348103669924)
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

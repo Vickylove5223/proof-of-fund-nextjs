@@ -60,9 +60,6 @@ The parent rule is unforgiving, but it is completely manageable with planning. [
 
 Check your exact maintenance amount with the [proof of funds calculator](/proof-of-fund-calculator) or message us on Call/WhatsApp: 08103669924.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

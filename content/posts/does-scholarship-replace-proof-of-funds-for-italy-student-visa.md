@@ -36,9 +36,9 @@ This is because your scholarship covers part (or all) of your expenses, reducing
 
 ### Common Misconceptions
 
-1.  “Scholarship completely removes the need for POF.” ❌ Wrong. You still need to show some financial proof, just not the full amount.
-2.  “Any scholarship works the same way.” ❌ Wrong. Different scholarships cover different things. Some cover only tuition, while others include stipends for living expenses.
-3.  “POF is optional for scholarship holders.” ❌ Wrong. Even with a scholarship, embassies still expect proof you can survive until your scholarship funds are accessible.
+1.  “Scholarship completely removes the need for POF.”  Wrong. You still need to show some financial proof, just not the full amount.
+2.  “Any scholarship works the same way.”  Wrong. Different scholarships cover different things. Some cover only tuition, while others include stipends for living expenses.
+3.  “POF is optional for scholarship holders.”  Wrong. Even with a scholarship, embassies still expect proof you can survive until your scholarship funds are accessible.
 
 ### Tips for Students Applying to Study in Italy
 
@@ -60,9 +60,6 @@ Scholarships are a great way to ease the financial burden of studying abroad, bu
 
 Keeping your documents accurate and understanding the real requirements will save you from unnecessary visa rejections.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

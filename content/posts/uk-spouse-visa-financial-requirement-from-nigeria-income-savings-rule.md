@@ -64,9 +64,6 @@ Also verify the evidence format: statements covering the full period, in the rig
 
 Message us on WhatsApp at 08103669924 with your partner's income situation and timeline for a free assessment — or start with the [proof of funds calculator](/proof-of-fund-calculator).
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.

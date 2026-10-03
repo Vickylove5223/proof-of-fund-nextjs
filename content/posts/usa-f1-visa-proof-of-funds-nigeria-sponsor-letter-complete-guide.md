@@ -110,7 +110,7 @@ You can meet this requirement using one or a combination of the following reliab
 *   What it is: If someone else is paying for your education (e.g., parents), they are considered your sponsor.
 *   Requirements: They must provide an Affidavit of Support (such as Form I-134) confirming their commitment to cover your expenses, along with their recent bank statements and proof of income.
 
-📄 Next Steps Checklist
+ Next Steps Checklist
 
 1.  Locate Form I-20: Find the exact estimated annual cost of attendance on your university-issued Form I-20.
 2.  Gather Documents: Organize all your financial proof into a folder to carry with you to the visa interview at the U.S. embassy.
@@ -127,9 +127,6 @@ At Proof of Fund NG, we have helped many Nigerian students build professional, e
 
 Contact us today via WhatsApp or our website for a free consultation. Share your I-20 details, sponsor information, and preferred bank — we will provide tailored options and support for your F1 visa application. Don’t leave your US student visa to chance. Build a strong, well-documented financial case with professional help.
 
-
-
----
 Prefer an in-person meeting?
 You can also visit us at our office:
-📍 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
+ 161C Raufu Taylor Close, Off Idejo Street, Victoria Island, Lagos.
