@@ -105,21 +105,29 @@ export default function Home() {
         <div className="max-w-6xl mx-auto text-center">
           <h2 className="text-4xl md:text-5xl font-serif font-bold text-[#120E00] mb-16">Here is How We Work</h2>
           
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-y-12 gap-x-8 text-left">
-            <div className="bg-white rounded-3xl p-8 border-[3px] border-[#120E00] shadow-[-12px_12px_0px_#120E00] flex flex-col h-full">
-              <span className="text-3xl font-serif italic text-[#2E1499] mb-4 block">1</span>
-              <h3 className="text-[1.75rem] leading-tight font-serif font-bold text-[#2E1499] mb-6">Chat with us</h3>
-              <p className="text-[#120E00] text-[15px] leading-relaxed mb-4 flex-grow">Tell us what you need a Proof of Fund for — business, student visa, or immigration.</p>
+          <div className="flex flex-col gap-12 text-left max-w-4xl mx-auto">
+            <div className="flex flex-col md:flex-row gap-6 md:gap-12 items-start">
+              <span className="text-6xl md:text-8xl font-serif italic text-[#2E1499] opacity-80 leading-none">1</span>
+              <div>
+                <h3 className="text-2xl md:text-3xl leading-tight font-serif font-bold text-[#120E00] mb-4">Chat with us & Get Funded</h3>
+                <p className="text-[#120E00] text-lg leading-relaxed opacity-90">Contact us via WhatsApp on <strong>08103669924</strong> to discuss the exact amount you need, the bank you prefer to use, and the rate for that bank. Once everything is agreed and approved, we proceed to transfer the requested POF amount directly to your Bank Account.</p>
+              </div>
             </div>
-            <div className="bg-white rounded-3xl p-8 border-[3px] border-[#120E00] shadow-[-12px_12px_0px_#120E00] flex flex-col h-full">
-              <span className="text-3xl font-serif italic text-[#2E1499] mb-4 block">2</span>
-              <h3 className="text-[1.75rem] leading-tight font-serif font-bold text-[#2E1499] mb-6">Get Best Option</h3>
-              <p className="text-[#120E00] text-[15px] leading-relaxed mb-4 flex-grow">We'll connect you with the best finance house offering the best rate for your POF need.</p>
+
+            <div className="flex flex-col md:flex-row gap-6 md:gap-12 items-start">
+              <span className="text-6xl md:text-8xl font-serif italic text-[#2E1499] opacity-80 leading-none">2</span>
+              <div>
+                <h3 className="text-2xl md:text-3xl leading-tight font-serif font-bold text-[#120E00] mb-4">Confirm & Secure Your POF</h3>
+                <p className="text-[#120E00] text-lg leading-relaxed opacity-90">After receiving the funds, you can instantly confirm by checking your bank app or bank statement. The funds are "frozen" by a lien during your verification period. You retain full control to use your account for other regular transactions, but you cannot withdraw the POF principal.</p>
+              </div>
             </div>
-            <div className="bg-white rounded-3xl p-8 border-[3px] border-[#120E00] shadow-[-12px_12px_0px_#120E00] flex flex-col h-full">
-              <span className="text-3xl font-serif italic text-[#2E1499] mb-4 block">3</span>
-              <h3 className="text-[1.75rem] leading-tight font-serif font-bold text-[#2E1499] mb-6">Get Funded</h3>
-              <p className="text-[#120E00] text-[15px] leading-relaxed mb-4 flex-grow">Our partner finance house handle the process and ensure you receive a valid, verifiable POF.</p>
+
+            <div className="flex flex-col md:flex-row gap-6 md:gap-12 items-start">
+              <span className="text-6xl md:text-8xl font-serif italic text-[#2E1499] opacity-80 leading-none">3</span>
+              <div>
+                <h3 className="text-2xl md:text-3xl leading-tight font-serif font-bold text-[#120E00] mb-4">Extension or Liquidation</h3>
+                <p className="text-[#120E00] text-lg leading-relaxed opacity-90">Each funding cycle lasts exactly 30 days starting from the date you receive the funds. We will notify you 5 days and 1 day before your due date. You can choose to extend (for 1 or more months) by paying the renewal fee, and your extension will start precisely when the first cycle ends. Otherwise, if you confirm the funds are no longer needed, we initiate the lien release and liquidate the funds back to our account to officially settle the transaction.</p>
+              </div>
             </div>
           </div>
         </div>
@@ -183,8 +191,8 @@ export default function Home() {
       <section className="pt-24 pb-12 px-6 bg-[#F3F0FF] overflow-hidden">
         <div className="max-w-5xl mx-auto text-center">
           <h2 className="text-3xl font-serif font-bold text-[#120E00] mb-12">Learn How Proof of Fund (POF)<br/>Works — Step by step</h2>
-          <div className="relative rounded-3xl overflow-hidden h-[450px]">
-            <img src="/wp-content/uploads/2025/09/Proof-of-Fund-in-Nigeria-1-1.webp" className="w-full h-full object-cover" alt="Proof of Funds Process" />
+          <div className="relative rounded-3xl overflow-hidden border-[3px] border-[#120E00] shadow-[-12px_12px_0px_#120E00]">
+            <img src="/pof-workflow.png" className="w-full h-auto object-cover" alt="Proof of Funds Detailed Process" />
           </div>
         </div>
       </section>
@@ -236,20 +244,40 @@ export default function Home() {
 
       {/* 8. FAQ Section */}
       <section className="pt-24 pb-8 px-6 bg-[#F3F0FF]">
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "FAQPage",
+              "mainEntity": faqs.map((faq) => ({
+                "@type": "Question",
+                "name": faq.q,
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": faq.a
+                }
+              }))
+            })
+          }}
+        />
         <div className="max-w-3xl mx-auto">
           <h2 className="text-3xl font-serif font-bold text-[#120E00] mb-12 text-center">Frequently asked questions</h2>
           <div className="space-y-4">
             {faqs.map((faq, i) => (
-              <div key={i} className="bg-white border border-slate-200 rounded-lg overflow-hidden">
+              <div key={i} className="bg-white border border-slate-200 rounded-lg overflow-hidden" itemScope itemProp="mainEntity" itemType="https://schema.org/Question">
                 <button 
                   onClick={() => setOpenFaq(openFaq === i ? null : i)}
-                  className="w-full px-6 py-4 flex justify-between items-center text-left focus:outline-none"
+                  className="w-full px-6 py-5 flex justify-between items-center text-left focus:outline-none"
                 >
-                  <span className="font-bold text-[#2E1499] text-sm md:text-base">{faq.q}</span>
-                  {openFaq === i ? <Minus size={20} className="text-blue-600 flex-shrink-0" /> : <Plus size={20} className="text-slate-400 flex-shrink-0" />}
+                  <span itemProp="name" className="font-bold text-[#2E1499] text-base md:text-lg pr-4">{faq.q}</span>
+                  {openFaq === i ? <Minus size={24} className="text-blue-600 flex-shrink-0" /> : <Plus size={24} className="text-slate-400 flex-shrink-0" />}
                 </button>
-                <div className={`px-6 overflow-hidden transition-all duration-300 ease-in-out ${openFaq === i ? 'max-h-40 pb-4' : 'max-h-0'}`}>
-                  <p className="text-slate-600 text-sm">{faq.a}</p>
+                <div 
+                  itemScope itemProp="acceptedAnswer" itemType="https://schema.org/Answer"
+                  className={`px-6 overflow-hidden transition-all duration-300 ease-in-out ${openFaq === i ? 'max-h-40 pb-6' : 'max-h-0'}`}
+                >
+                  <div itemProp="text" className="text-slate-600 text-base md:text-lg leading-relaxed">{faq.a}</div>
                 </div>
               </div>
             ))}

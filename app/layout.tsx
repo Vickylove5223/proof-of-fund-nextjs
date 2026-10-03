@@ -103,11 +103,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               <ul className="flex flex-col gap-4 font-medium text-white/80">
                 <li><Link href="/" className="hover:text-white transition-colors">Home</Link></li>
                 <li><Link href="/see-requirements" className="hover:text-white transition-colors">POF Requirements</Link></li>
-                <li><Link href="/step-guides" className="hover:text-white transition-colors">STEP Guides</Link></li>
+                <li><Link href="/step-guides" className="hover:text-white transition-colors">How We Work</Link></li>
                 <li><Link href="/guides" className="hover:text-white transition-colors">Insights & Updates</Link></li>
                 <li><Link href="/proof-of-fund-calculator" className="hover:text-white transition-colors">POF Calculator</Link></li>
                 <li><Link href="/privacy-policy" className="hover:text-white transition-colors">Privacy Policy</Link></li>
                 <li><Link href="/terms-and-conditions" className="hover:text-white transition-colors">Terms & Conditions</Link></li>
+                <li><Link href="/contact" className="hover:text-white transition-colors">Contact Us</Link></li>
               </ul>
             </div>
 
