@@ -2,22 +2,22 @@
 title: 'Complete Proof of Funds Requirements for Every Country & Visa Type from Nigeria'
 slug: proof-of-funds-requirements-for-top-countries-from-nigeria
 type: post
-description: 'Discover the exact Proof of Funds requirements, bank statement duration, and Naira equivalents for studying, visiting, and relocating from Nigeria.'
+description: 'Discover the exact Proof of Funds requirements, bank statement duration, and Naira equivalents for studying, working, visiting, and family visas from Nigeria.'
 seo_title: 'Proof of Funds Requirements by Country & Visa Type (2026)'
 image: /wp-content/uploads/2025/09/application-form-information-employment-concept_53876-128011.jpg
 ---
 When planning your relocation or travel from Nigeria, understanding the exact financial requirement for your specific visa type is the most critical step. Embassies do not guess; they have strict, mathematical formulas for how much money you must show and exactly how long that money must sit in your account.
 
-Whether you are applying for a study permit, a visitor visa, or a permanent residency route, we have compiled the ultimate **2026 Proof of Funds Requirement Table** for Nigerian applicants.
+Whether you are applying for a study permit, a visitor visa, a skilled worker visa, or a family sponsorship route, we have compiled the ultimate **2026 Proof of Funds Requirement Table** for Nigerian applicants.
 
 > **Need a verifiable commercial bank statement to meet these requirements?** We provide secure funding up to ₦500 Million.
 > 📞 **Call:** [08103669924](tel:08103669924) | 💬 **WhatsApp:** [Chat with Proof of Fund NG instantly](https://wa.me/2348103669924)
 
 ### The 2026 Proof of Funds Requirement Table (Total Required)
 
-Below is a comprehensive breakdown of the **TOTAL** estimated funds required for a single applicant. 
+Below is a comprehensive breakdown of the **TOTAL** estimated funds required for a single applicant or family. 
 
-*For student visas, this total includes BOTH the mandatory living expenses AND an average estimated 1-year tuition balance. For visitor and PR visas, it reflects the standard lump sum expected by the embassy.*
+*For student visas, this total includes BOTH the mandatory living expenses AND an average estimated 1-year tuition balance. For visitor, skilled worker, and family visas, it reflects the standard lump sum expected by the embassy for settlement or maintenance.*
 
 **Exchange Rates Used for Estimation:**
 *   **USD:** ₦1,600 / $1
@@ -31,28 +31,33 @@ Below is a comprehensive breakdown of the **TOTAL** estimated funds required for
 | Country | Visa Type | Total Estimated Requirement (Foreign Currency) | Required Bank Statement Duration | Total Estimated Amount in Naira |
 | :--- | :--- | :--- | :--- | :--- |
 | **Canada** | Study Permit | ~$40,635 CAD *(Living + Avg Tuition)* | 4 to 6 months | ~₦48.7 Million |
-| **Canada** | Visitor Visa | ~$10,000 CAD | 4 to 6 months | ~₦12.0 Million |
-| **Canada** | Express Entry (PR) | $14,690 CAD | Up-to-date at ITA | ~₦17.6 Million |
-| **United Kingdom** | Student Visa (London) | ~£27,006 *(Living + Avg Tuition)* | 28 days (strictly maintained) | ~₦56.7 Million |
-| **United Kingdom** | Student Visa (Outside) | ~£24,207 *(Living + Avg Tuition)* | 28 days (strictly maintained) | ~₦50.8 Million |
-| **United Kingdom** | Visit Visa | ~£5,000 | 3 to 6 months | ~₦10.5 Million |
+| **Canada** | Visitor / Tourism Visa | ~$10,000 CAD | 4 to 6 months | ~₦12.0 Million |
+| **Canada** | Skilled Worker / Express Entry | $14,690 CAD *(Single Applicant)* | Up-to-date at ITA | ~₦17.6 Million |
+| **Canada** | Family / Spousal Sponsorship | No strict POF (Unless dependent children) | Up-to-date income proof | N/A |
+| **United Kingdom** | Student Visa (London) | ~£27,006 *(Living + Avg Tuition)* | 28 days strictly | ~₦56.7 Million |
+| **United Kingdom** | Student Visa (Outside) | ~£24,207 *(Living + Avg Tuition)* | 28 days strictly | ~₦50.8 Million |
+| **United Kingdom** | Visit / Tourism Visa | ~£5,000 | 3 to 6 months | ~₦10.5 Million |
+| **United Kingdom** | Skilled Worker Visa | £1,270 *(Unless sponsor certifies maintenance)* | 28 days strictly | ~₦2.6 Million |
+| **United Kingdom** | Spouse / Family Visa | £88,500 *(If relying entirely on cash savings)* | 6 months | ~₦185.8 Million |
 | **United States** | F-1 Student Visa | ~$50,000 USD *(Living + Avg Tuition)* | 3 to 6 months | ~₦80.0 Million |
-| **United States** | B1/B2 Visitor Visa | ~$10,000 USD | 3 to 6 months | ~₦16.0 Million |
+| **United States** | B1/B2 Visitor / Tourism | ~$10,000 USD | 3 to 6 months | ~₦16.0 Million |
 | **Australia** | Student Visa | ~$59,710 AUD *(Living + Avg Tuition)* | 3 months minimum | ~₦65.6 Million |
-| **Australia** | Visitor Visa | ~$10,000 AUD | 3 months minimum | ~₦11.0 Million |
+| **Australia** | Visitor / Tourism Visa | ~$10,000 AUD | 3 months minimum | ~₦11.0 Million |
+| **Australia** | Skilled Migration (189/190)| ~$5,000 - $10,000 AUD *(Settlement)* | 3 to 6 months | ~₦5.5M - ₦11.0M |
 | **Germany** | Student Visa | €11,208 *(Blocked Account, Free Tuition)* | Upfront Deposit | ~₦19.6 Million |
-| **Germany** | Schengen Visitor Visa | ~€5,000 | 3 to 6 months | ~₦8.7 Million |
+| **Germany** | Schengen Visitor / Tourism | ~€5,000 | 3 to 6 months | ~₦8.7 Million |
+| **Germany** | Job Seeker / Skilled Worker | ~€5,000 - €10,000 | 3 to 6 months | ~₦8.7M - ₦17.5M |
 | **Ireland** | Student Visa | ~€25,000 *(Living + Avg Tuition)* | 6 months | ~₦43.7 Million |
 | **Sweden** | Student Visa | ~SEK 253,768 *(Living + Avg Tuition)* | 3 to 6 months | ~₦38.0 Million |
 | **Netherlands**| Student Visa | ~€29,600 *(Living + Avg Tuition)* | 3 months | ~₦51.8 Million |
 | **Finland** | Student Visa | ~€16,720 *(Living + Avg Tuition)* | 3 months | ~₦29.2 Million |
 | **Poland** | Student Visa | ~€12,500 *(Living + Avg Tuition)* | 3 to 6 months | ~₦21.8 Million |
 | **Cyprus** | Student Visa | ~€11,000 *(Living + Avg Tuition)* | 3 to 6 months | ~₦19.2 Million |
-| **South Africa** | Student / Visit Visa | ~ZAR 110,000 *(Living + Avg Tuition)* | 3 months | ~₦9.9 Million |
+| **South Africa** | Student / Visit / Tourism | ~ZAR 110,000 *(Living + Avg Tuition)* | 3 months | ~₦9.9 Million |
 
 ### Why the Duration of Your Statement Matters
 
-As you can see in the table, almost every country requires a **3 to 6-month statement**, except the UK, which enforces a strict 28-day rule for students. 
+As you can see in the table, almost every country requires a **3 to 6-month statement**, except the UK, which enforces a strict 28-day rule for students and skilled workers. 
 
 This duration is how embassies spot "funds dumping." If you are applying to Canada (which requires a 4 to 6-month statement) and your account suddenly inflates by ₦48 Million just one week before your interview, the visa officer will instantly reject your application for financial misrepresentation. 
 
